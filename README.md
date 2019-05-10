@@ -4,7 +4,7 @@ This booklet will contain my notes on pathology and the tools I use for my resea
 
 The notes may be used by medical school students, pathology residents or pathologists who have similar interests with me.
 
-I plan to write many of the notes in English \(but some may be Turkish as well.\)
+I plan to write many of the notes in English \(but some may be Turkish or German as well.\)
 
 If you want to contribute to these notes, please let me know.
 
@@ -18,9 +18,9 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web pa
 
 [http://www.patolojinotlari.com/](http://www.patolojinotlari.com/) for Turkish Lecture Notes & Social Media Based Notes,
 
-[https://sbalci.gitbooks.io/pathology-notes/content/](https://sbalci.gitbooks.io/pathology-notes/content/) for parapathology collection,
+[https://serdarbalci.gitbook.io/parapathology/](https://serdarbalci.gitbook.io/parapathology/) for parapathology collection,
 
 [https://sbalci.github.io/MyRCodesForDataAnalysis/](https://sbalci.github.io/MyRCodesForDataAnalysis/) for `R codes`,
 
-[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for Bibliographic studies.
+[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for `Bibliographic Studies`.
 
