@@ -22,3 +22,27 @@ I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=ha
 
 [https://www.sciencedirect.com/science/article/pii/S0740257008000531](https://www.sciencedirect.com/science/article/pii/S0740257008000531)
 
+
+---
+
+
+# direk link
+
+https://twitter.com/roland_jong/status/1115639058179526656
+
+
+# kısa kodlu hali
+
+{{< tweet 1115639058179526656 >}}
+
+# embed tweet
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">😀 <a href="https://t.co/HAmBS4TBwR">pic.twitter.com/HAmBS4TBwR</a></p>&mdash; Roland Jong MD (@roland_jong) <a href="https://twitter.com/roland_jong/status/1115639058179526656?ref_src=twsrc%5Etfw">April 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+---
+
+
