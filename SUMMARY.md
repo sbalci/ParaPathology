@@ -291,11 +291,16 @@
 * [Mathematics & Geometry General](science-general/mathematics-general.md)
 * [Pathophysiology](science-general/pathophysiology.md)
 * [Neuroscience](science-general/neuroscience.md)
-* [Computers General](science-general/computers-general/README.md)
-  * [Syntax Highlighting](science-general/computers-general/syntax-highlighting.md)
-  * [Excel, Sheets](science-general/computers-general/excel-sheets.md)
-  * [GitBook Plugins](science-general/computers-general/gitbook-plugins.md)
-  * [Lecture Preperation](science-general/computers-general/lecture-preperation.md)
+
+## Computers General
+
+* [Computer Tips](computers-general/computer-tips.md)
+* [Syntax Highlighting](computers-general/syntax-highlighting.md)
+* [Excel, Sheets](computers-general/excel-sheets.md)
+* [GitBook Plugins](computers-general/gitbook-plugins.md)
+* [Git GitHub](computers-general/git-github.md)
+* [Lecture Preperation](computers-general/lecture-preperation.md)
+
 * [Academics General](science-general/academics-general.md)
 * [Cancer Research General](science-general/cancer-research-general.md)
 
