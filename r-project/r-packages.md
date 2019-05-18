@@ -1,0 +1,64 @@
+* `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
+
+[https://davidgohel.github.io/ReporteRs/](https://davidgohel.github.io/ReporteRs/)
+
+* `officer` Manipulation of Microsoft Word and PowerPoint Documents
+
+[https://cran.r-project.org/web/packages/officer/](https://cran.r-project.org/web/packages/officer/)
+
+* `pubh`
+
+[https://cran.rstudio.com/web/packages/pubh/vignettes/introduction.html](https://cran.rstudio.com/web/packages/pubh/vignettes/introduction.html)
+
+* What does visdat do?
+
+Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerprint), `vis_dat` helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with `vis_dat`, and getting a brief look into missing data patterns using `vis_miss`.
+
+[https://www.tidyverse.org/](https://www.tidyverse.org/)
+
+[https://cran.r-project.org/web/packages/shiny/index.html](https://cran.r-project.org/web/packages/shiny/index.html)
+
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
+
+[http://ggplot2.org/](http://ggplot2.org/)
+
+[https://yihui.name/knitr/](https://yihui.name/knitr/)
+
+[http://vita.had.co.nz/papers/tidy-data.html](http://vita.had.co.nz/papers/tidy-data.html)
+
+[https://blog.rstudio.com/2015/04/09/readr-0-1-0/](https://blog.rstudio.com/2015/04/09/readr-0-1-0/)
+
+[http://readxl.tidyverse.org/](http://readxl.tidyverse.org/)
+
+[https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
+
+[https://github.com/r-lib/devtools](https://github.com/r-lib/devtools)
+
+[https://cran.r-project.org/web/packages/magrittr/index.html](https://cran.r-project.org/web/packages/magrittr/index.html)
+
+[http://rstudio.github.io/packrat/](http://rstudio.github.io/packrat/)
+
+[https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
+
+[https://github.com/tidyverse/dplyr](https://github.com/tidyverse/dplyr)
+
+[https://cran.r-project.org/web/packages/broom/vignettes/broom.html](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
+
+[https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)
+
+[http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
+
+https://blog.rstudio.com/2016/03/29/feather/
+
+https://blog.rstudio.com/2016/08/31/forcats-0-1-0/
+
+https://github.com/tidyverse/hms
+
+https://github.com/trestletech/plumber
+
+https://github.com/r-lib/testthat
+
+http://purrr.tidyverse.org/
+
+
+
