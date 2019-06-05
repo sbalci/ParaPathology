@@ -14,29 +14,12 @@ _Serdar Balcı, MD, Pathologist_
 
 ---
 
+<a class="twitter-follow-button" data-show-count="false"
+  href="https://twitter.com/serdarbalci">Follow @serdarbalci</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sbalci/ParaPathology/issues)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sbalci)
+[![HitCount](http://hits.dwyl.io/sbalci/ParaPathology.svg)](http://hits.dwyl.io/sbalci/ParaPathology)
 
-{% if page.comments %}
-<script id="dsq-count-scr" src="//https-sbalci-github-io.disqus.com/count.js" async></script>
-
-<div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-this.page.url = PAGE_URL;  
-this.page.identifier = PAGE_IDENTIFIER;
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://https-sbalci-github-io.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %} 
-
----
 
 
 [https://www.serdarbalci.com/p/cv-ozgecmis.html](https://www.serdarbalci.com/p/cv-ozgecmis.html)
