@@ -24,7 +24,7 @@ Makale yazmak ve "yazar olmak" ve "belli bir sırada yazar olmak" bir amaç. O y
 
 ![](../.gitbook/assets/26904420_10155507255104794_2445390003755435293_n.jpg)
 
-* * * * Assigning authorship for research papers can be tricky. These approaches can help
+* Assigning authorship for research papers can be tricky. These approaches can help
 
 [https://www.sciencemag.org/careers/2018/12/assigning-authorship-research-papers-can-be-tricky-these-approaches-can-help](https://www.sciencemag.org/careers/2018/12/assigning-authorship-research-papers-can-be-tricky-these-approaches-can-help)
 
@@ -32,4 +32,42 @@ Makale yazmak ve "yazar olmak" ve "belli bir sırada yazar olmak" bir amaç. O y
 
 [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)32345-6/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2932345-6/fulltext)
 
-* 
+* Farewell authors, hello contributors
+
+https://www.nature.com/articles/d41586-019-02084-8
+
+* CRediT (Contributor Roles Taxonomy)
+
+is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
+
+https://www.casrai.org/credit.html
+
+
+
+---
+
+
+{% component %}
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAcademiaObscura%2Fposts%2F1400160596756425%3A0&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+{% endcomponent %}
+
+
+--- 
+
+
+{% component %}
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everyone&#39;s favourite co-author. <a href="https://t.co/bM4vvpwwqw">pic.twitter.com/bM4vvpwwqw</a></p>&mdash; Academia ɐɹnɔsqO (@AcademiaObscura) <a href="https://twitter.com/AcademiaObscura/status/992355680177844224?ref_src=twsrc%5Etfw">May 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{% endcomponent %}
+
+
+---
+
+
+
+

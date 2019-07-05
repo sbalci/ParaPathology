@@ -12,6 +12,7 @@
 * [Undergraduate Medical School Pathology Education](medical-school-lectures/undergraduate-medical-school-pathology-education.md)
 * [the-cell-as-a-unit-of-health-and-disease](pathology-residents-and-pathologists/the-cell-as-a-unit-of-health-and-disease.md)
 * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/README.md)
+  * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/introduction-to-pathology.md)
   * [Patoloji'ye Giriş](medical-school-lectures/introduction-to-pathology/patolojiye-giris.md)
   * [Pathology Laboratory How it works](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/README.md)
     * [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/patoloji-laboratuvari-nasil-calisir.md)
@@ -26,7 +27,6 @@
   * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md)
     * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
-  * [Hallmarks of Cancer](medical-school-lectures/general-pathology/hallmarks-of-cancer.md)
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
   * [Lab: Glomerular Diseases](medical-school-lectures/laboratory-lectures/lab-glomerular-diseases.md)
@@ -133,6 +133,8 @@
 
 
 ## Hallmarks of Cancer
+  * [Hallmarks of Cancer](hallmarks-of-cancer/hallmarks-of-cancer.md)
+
 
 
 ## Computational, Digital & Mathematical Pathology
@@ -395,37 +397,3 @@
   * [Websites](appendix/appendix-4-suggested-web-pages/websites.md)
 * [Appendix : Suggested Videos](appendix/appendix-suggested-videos/README.md)
   * [Video Draft](appendix/appendix-suggested-videos/1.md)
-
-
-appendix
-assets
-autopsy
-bibliometrics
-carcinogenesis
-computational-digital-mathematical-pathology
-computers
-cytopathology-cytology
-databases
-ders-dokumanlar
-frozen
-games
-guidelines
-hallmarks-of-cancer
-introduction
-laboratory-management
-macroscopy
-medical-school-lectures
-pathology-and-other-departments
-pathology-meetings
-pathology-residents-and-pathologists
-pathophysiology
-patients-and-pathology
-science
-stains
-statistics-and-bioinformatics
-statistics-bioinformatics-and-pathology
-systemic-pathology
-taxonomy-and-classification-of-diseases
-treatment-and-pathology
-writing-journal-articles
-
