@@ -10,6 +10,7 @@
 
 * [Medical School Lectures](medical-school-lectures/README.md)
 * [Undergraduate Medical School Pathology Education](medical-school-lectures/undergraduate-medical-school-pathology-education.md)
+* [the-cell-as-a-unit-of-health-and-disease](pathology-residents-and-pathologists/the-cell-as-a-unit-of-health-and-disease.md)
 * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/README.md)
   * [Patoloji'ye Giriş](medical-school-lectures/introduction-to-pathology/patolojiye-giris.md)
   * [Pathology Laboratory How it works](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/README.md)
@@ -79,13 +80,20 @@
     * [Malignant colorectal polyps](gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
 
 
+## Autopsy
+
+
+## Cytopathology
+
+
+## Frozen
+
 
 ## Pathology Residents & Pathologists
 
 * [Pathologist](pathology-residents-and-pathologists/pathologist.md)
 * [Social Media](pathology-residents-and-pathologists/social-media.md)
 * [So Called Junk Materials & Pitfalls](pathology-residents-and-pathologists/junk-materials.md)
-* [Microscope](pathology-residents-and-pathologists/microscope.md)
 * [It happens / I have seen that before / Olur öyle](pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oyle.md)
 * [Helpful Web Sites for Diagnostic Practice](pathology-residents-and-pathologists/surgical-pathology-criteria.md)
 * [Virtual Slides](pathology-residents-and-pathologists/virtual-slides.md)
@@ -99,8 +107,6 @@
 * [Web sites of Pathologists](pathology-residents-and-pathologists/web-sites-of-pathologists.md)
 * [Unknowns](pathology-residents-and-pathologists/unknowns.md)
 * [Photography](pathology-residents-and-pathologists/photography.md)
-* [Genetics](pathology-residents-and-pathologists/the-cell-as-a-unit-of-health-and-disease.md)
-* [Prognostic, Predictive and Therapeutic Factors](pathology-residents-and-pathologists/prognostic-predictive-and-therapeutic-factors.md)
 * [Pathology Associations](pathology-residents-and-pathologists/pathology-associations.md)
 * [Pathology Webinars](pathology-residents-and-pathologists/pathology-webinars.md)
 * [Pathology as a Career](pathology-residents-and-pathologists/pathology-as-a-career.md)
@@ -125,6 +131,8 @@
 * [Carcinogenesis](carcinogenesis/carcinogenesis.md)
 * [HPV](carcinogenesis/hpv.md)
 
+
+## Hallmarks of Cancer
 
 
 ## Computational, Digital & Mathematical Pathology
@@ -159,6 +167,7 @@
 * [Treatment](treatment-and-pathology/README.md)
   * [Therapy related changes](treatment-and-pathology/therapy-related-changes.md)
   * [Immunotherapy](treatment-and-pathology/immunotherapy.md)
+* [Prognostic, Predictive and Therapeutic Factors](pathology-residents-and-pathologists/prognostic-predictive-and-therapeutic-factors.md)
 
 
 
@@ -386,3 +395,37 @@
   * [Websites](appendix/appendix-4-suggested-web-pages/websites.md)
 * [Appendix : Suggested Videos](appendix/appendix-suggested-videos/README.md)
   * [Video Draft](appendix/appendix-suggested-videos/1.md)
+
+
+appendix
+assets
+autopsy
+bibliometrics
+carcinogenesis
+computational-digital-mathematical-pathology
+computers
+cytopathology-cytology
+databases
+ders-dokumanlar
+frozen
+games
+guidelines
+hallmarks-of-cancer
+introduction
+laboratory-management
+macroscopy
+medical-school-lectures
+pathology-and-other-departments
+pathology-meetings
+pathology-residents-and-pathologists
+pathophysiology
+patients-and-pathology
+science
+stains
+statistics-and-bioinformatics
+statistics-bioinformatics-and-pathology
+systemic-pathology
+taxonomy-and-classification-of-diseases
+treatment-and-pathology
+writing-journal-articles
+
