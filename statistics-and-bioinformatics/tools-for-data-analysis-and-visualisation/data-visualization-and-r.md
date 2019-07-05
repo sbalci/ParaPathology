@@ -1,3 +1,5 @@
+# Data Visualization and R
+
 * Data Visualization and R, part 1, Outline
 
 [https://www.youtube.com/watch?v=P0xTaOb7OEQ](https://www.youtube.com/watch?v=P0xTaOb7OEQ)
@@ -12,7 +14,5 @@
 
 * Data Visualization and R, part 3, History
 
-https://www.youtube.com/watch?v=PY5plp3J8wA
-
-
+[https://www.youtube.com/watch?v=PY5plp3J8wA](https://www.youtube.com/watch?v=PY5plp3J8wA)
 

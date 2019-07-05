@@ -1,3 +1,5 @@
+# Online R Books
+
 * An Introduction to Statistical and Data Sciences via R
 
 [http://moderndive.com/](http://moderndive.com/)
@@ -12,5 +14,5 @@
 
 * Cookbook for R
 
-http://www.cookbook-r.com/
+[http://www.cookbook-r.com/](http://www.cookbook-r.com/)
 

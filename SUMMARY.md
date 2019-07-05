@@ -4,13 +4,13 @@
 
 ## Introduction
 
-* [Introduction](introduction/README.md)
+* [Introduction](introduction/introduction.md)
 
 ## Medical School Lectures
 
-* [Medical School Lectures](medical-school-lectures/README.md)
+* [Medical School Lectures](medical-school-lectures/medical-school-lectures.md)
 * [Undergraduate Medical School Pathology Education](medical-school-lectures/undergraduate-medical-school-pathology-education.md)
-* [the-cell-as-a-unit-of-health-and-disease](pathology-residents-and-pathologists/the-cell-as-a-unit-of-health-and-disease.md)
+* [the-cell-as-a-unit-of-health-and-disease](medical-school-lectures/the-cell-as-a-unit-of-health-and-disease.md)
 * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/README.md)
   * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/introduction-to-pathology.md)
   * [Patoloji'ye Giriş](medical-school-lectures/introduction-to-pathology/patolojiye-giris.md)
@@ -24,8 +24,8 @@
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
   * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
   * [Hücre içi birikimler ve Hücre yaşlanması](medical-school-lectures/general-pathology/hucre-ici-birikimler-ve-hucre-yaslanmasi.md)
-  * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md)
-    * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
+  * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/README.md)
+    * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
@@ -45,49 +45,37 @@
   * [Lab Cellular Injury](medical-school-lectures/laboratory-lectures/lab-cellular-injury.md)
   * [Lab Hemodynamic Disorders](medical-school-lectures/laboratory-lectures/lab-hemodynamic-disorders.md)
   * [Lab: Pathology of CNS](medical-school-lectures/laboratory-lectures/lab-pathology-of-cns.md)
-
-* [Public Health](medical-school-lectures/public-health/public-health.md)
-
+* [Public Health](medical-school-lectures/public-health.md)
 
 ## Systemic Pathology
 
-* [Systemic Pathology](systemic-pathology/README.md)
-* [Nöropatoloji](systemic-pathology/noropatoloji.md)
-  * [Pathology of CNS](systemic-pathology/pathology-of-cns/README.md)
-    * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/pathology-of-cns/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
-* [Approach to Soft Tissue Tumors](approach-to-soft-tissue-tumors.md)
-* [Approach to Liver Biopsies](approach-to-liver-biopsies.md)
-* [Pancreas](pancreas.md)
-* [Lung](lung.md)
-* [Bone](bone.md)
-* [Medical Kidney](medical-kidney.md)
-* [Neuropathology](neuropathology.md)
-* [Unnecessary Thyroid FNAC](unnecessary-thyroid-fnac.md)
-* [Salivary Gland](salivary-gland.md)
-* [Head and Neck](head-and-neck.md)
-* [Thymus](thymus.md)
-* [Breast Pathology](breast-pathology.md)
-* [Transplantation Pathology](transplantation-pathology.md)
-* [Uropathology](uropathology/README.md)
-  * [Prostate Pathology](uropathology/prostate-pathology.md)
-* [Gynecological Pathology](gynecological-pathology/README.md)
-  * [Approach to Endometrial Biopsies](gynecological-pathology/approach-to-endometrial-biopsies.md)
-  * [Immunohistochemistry in Gynecological Pathology](gynecological-pathology/immunohistochemistry-in-gynecological-pathology.md)
-* [Gastrointestinal Pathology](gastrointestinal-pathology/README.md)
-  * [Stomach biopsy](gastrointestinal-pathology/stomach-biopsy.md)
-  * [Duodenal biopsy](gastrointestinal-pathology/duodenal-biopsy.md)
-  * [Colon and Rectum](gastrointestinal-pathology/colon-and-rectum/README.md)
-    * [Malignant colorectal polyps](gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
-
-
-## Autopsy
-
-
-## Cytopathology
-
-
-## Frozen
-
+* [Systemic Pathology](systemic-pathology/systemic-pathology.md)
+* [Nöropatoloji](systemic-pathology/noropatoloji/README.md)
+  * [Pathology of CNS](systemic-pathology/noropatoloji/pathology-of-cns/README.md)
+    * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/noropatoloji/pathology-of-cns/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
+* [Approach to Soft Tissue Tumors](systemic-pathology/approach-to-soft-tissue-tumors.md)
+* [Approach to Liver Biopsies](systemic-pathology/approach-to-liver-biopsies.md)
+* [Pancreas](systemic-pathology/pancreas.md)
+* [Lung](systemic-pathology/lung.md)
+* [Bone](systemic-pathology/bone.md)
+* [Medical Kidney](systemic-pathology/medical-kidney.md)
+* [Neuropathology](systemic-pathology/neuropathology.md)
+* [Unnecessary Thyroid FNAC](systemic-pathology/unnecessary-thyroid-fnac.md)
+* [Salivary Gland](systemic-pathology/salivary-gland.md)
+* [Head and Neck](systemic-pathology/head-and-neck.md)
+* [Thymus](systemic-pathology/thymus.md)
+* [Breast Pathology](systemic-pathology/breast-pathology.md)
+* [Transplantation Pathology](systemic-pathology/transplantation-pathology.md)
+* [Uropathology](systemic-pathology/uropathology/README.md)
+  * [Prostate Pathology](systemic-pathology/uropathology/prostate-pathology.md)
+* [Gynecological Pathology](systemic-pathology/gynecological-pathology/README.md)
+  * [Approach to Endometrial Biopsies](systemic-pathology/gynecological-pathology/approach-to-endometrial-biopsies.md)
+  * [Immunohistochemistry in Gynecological Pathology](systemic-pathology/gynecological-pathology/immunohistochemistry-in-gynecological-pathology.md)
+* [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
+  * [Stomach biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
+  * [Duodenal biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
+  * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
+    * [Malignant colorectal polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
 
 ## Pathology Residents & Pathologists
 
@@ -113,65 +101,57 @@
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
 
-
-
 ## Taxonomy and Classification of Diseases
 
 * [Tumor Classification](taxonomy-and-classification-of-diseases/tumor-classification.md)
 * [Classification Theory](taxonomy-and-classification-of-diseases/classification-theory.md)
 
-
 ## Pathophysiology
 
 * [Pathophysiology](pathophysiology/pathophysiology.md)
-
 
 ## Carcinogenesis
 
 * [Carcinogenesis](carcinogenesis/carcinogenesis.md)
 * [HPV](carcinogenesis/hpv.md)
 
-
 ## Hallmarks of Cancer
-  * [Hallmarks of Cancer](hallmarks-of-cancer/hallmarks-of-cancer.md)
 
-
+* [Hallmarks of Cancer](hallmarks-of-cancer/hallmarks-of-cancer.md)
 
 ## Computational, Digital & Mathematical Pathology
-* [Computational, Digital & Mathematical Pathology](computational-digital-mathematical-pathology/README.md)
-  * [Digital Pathology](computational-digital-mathematical-pathology/digital-pathology.md)
-  * [About the Usage of Digital Pathology](computational-digital-mathematical-pathology/about-the-usage-of-digital-pathology.md)
-  * [Analysis](computational-digital-mathematical-pathology/analysis.md)
-  * [Telepathology](computational-digital-mathematical-pathology/telepathology.md)
-  * [Cytomine](computational-digital-mathematical-pathology/cytomine.md)
-  * [openmicroscopy](computational-digital-mathematical-pathology/openmicroscopy.md)
-  * [Articles on computational, digital, and mathematical pathology](computational-digital-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
-  * [Mathematical Pathology](computational-digital-mathematical-pathology/mathematical-pathology.md)
-  * [Image Analysis](computational-digital-mathematical-pathology/image-analysis.md)
+
+* [Computational, Digital & Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/README.md)
+  * [Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/digital-pathology.md)
+  * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/about-the-usage-of-digital-pathology.md)
+  * [Analysis](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/analysis.md)
+  * [Telepathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/telepathology.md)
+  * [Cytomine](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/cytomine.md)
+  * [openmicroscopy](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/openmicroscopy.md)
+  * [Articles on computational, digital, and mathematical pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
+  * [Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/mathematical-pathology.md)
+  * [Image Analysis](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/image-analysis.md)
 
 ## Macroscopy
-* [Macroscopy](macroscopy/README.md)
-  * [Whipple Macroscopy](macroscopy/whipple-macroscopy.md)
-  * [Macroscopic Photography](macroscopy/macroscopic-photography.md)
-  * [Macrocopy Videos](macroscopy/macrocopy-videos.md)
 
+* [Macroscopy](macroscopy/macroscopy/README.md)
+  * [Whipple Macroscopy](macroscopy/macroscopy/whipple-macroscopy.md)
+  * [Macroscopic Photography](macroscopy/macroscopy/macroscopic-photography.md)
+  * [Macrocopy Videos](macroscopy/macroscopy/macrocopy-videos.md)
 
 ## Guidelines
 
-* [Guidelines](guidelines/README.md)
-  * [AJCC, UICC, TNM](guidelines/ajcc-uicc-tnm.md)
-  * [CAP](guidelines/cap.md)
-  * [AAPA](guidelines/aapa.md)
-
+* [Guidelines](guidelines/guidelines/README.md)
+  * [AJCC, UICC, TNM](guidelines/guidelines/ajcc-uicc-tnm.md)
+  * [CAP](guidelines/guidelines/cap.md)
+  * [AAPA](guidelines/guidelines/aapa.md)
 
 ## Treatment and Pathology
 
-* [Treatment](treatment-and-pathology/README.md)
-  * [Therapy related changes](treatment-and-pathology/therapy-related-changes.md)
-  * [Immunotherapy](treatment-and-pathology/immunotherapy.md)
-* [Prognostic, Predictive and Therapeutic Factors](pathology-residents-and-pathologists/prognostic-predictive-and-therapeutic-factors.md)
-
-
+* [Treatment](treatment-and-pathology/treatment/README.md)
+  * [Therapy related changes](treatment-and-pathology/treatment/therapy-related-changes.md)
+  * [Immunotherapy](treatment-and-pathology/treatment/immunotherapy.md)
+* [Prognostic, Predictive and Therapeutic Factors](treatment-and-pathology/prognostic-predictive-and-therapeutic-factors.md)
 
 ## Laboratory Management
 
@@ -190,16 +170,14 @@
 * [Resume](laboratory-management/resume.md)
 * [Acreditation](laboratory-management/acreditation.md)
 
-
 ## Stains
 
-* [Stains](stains/README.md)
-  * [Hematoxylin and Eosin](stains/hematoxylin-and-eosin.md)
-  * [Histochemistry](stains/histochemistry.md)
-  * [Immunohistochemistry](stains/immunohistochemistry/README.md)
-    * [Immunohistochemistry Quantification](stains/immunohistochemistry/immunohistochemistry-quantification.md)
-    * [The use of immunohistochemistry for diagnosis](stains/immunohistochemistry/the-use-of-immunohistochemistry-for-diagnosis.md)
-
+* [Stains](stains/stains/README.md)
+  * [Hematoxylin and Eosin](stains/stains/hematoxylin-and-eosin.md)
+  * [Histochemistry](stains/stains/histochemistry.md)
+  * [Immunohistochemistry](stains/stains/immunohistochemistry/README.md)
+    * [Immunohistochemistry Quantification](stains/stains/immunohistochemistry/immunohistochemistry-quantification.md)
+    * [The use of immunohistochemistry for diagnosis](stains/stains/immunohistochemistry/the-use-of-immunohistochemistry-for-diagnosis.md)
 
 ## Databases
 
@@ -227,25 +205,19 @@
 * [Epidemiology and Pathology](pathology-and-other-departments/epidemiology-and-pathology.md)
 * [Comperative Pathology](pathology-and-other-departments/comperative-pathology.md)
 
-
 ## Patients and Pathology
 
 * [Patients and Pathology](patients-and-pathology/patients-and-pathology.md)
 * [Informing Patients About Pathology](patients-and-pathology/informing-patients-about-pathology.md)
 
-
-
 ## Statistics, Bioinformatics, and Pathology
 
-
-* [Statistics and Pathology](statistics-bioinformatics-and-pathology/README.md)
-  * [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/istatistik-icin-nasil-veri-hazirlanir.md)
-  * [Statistical Terms](statistics-bioinformatics-and-pathology/statistical-terms.md)
-  * [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](statistics-bioinformatics-and-pathology/patologlarla-istatistikciler-neden-anlasamiyorlar.md)
-
+* [Statistics and Pathology](statistics-bioinformatics-and-pathology/statistics-and-pathology/README.md)
+  * [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/statistics-and-pathology/istatistik-icin-nasil-veri-hazirlanir.md)
+  * [Statistical Terms](statistics-bioinformatics-and-pathology/statistics-and-pathology/statistical-terms.md)
+  * [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](statistics-bioinformatics-and-pathology/statistics-and-pathology/patologlarla-istatistikciler-neden-anlasamiyorlar.md)
 
 ## Statistics and Bioinformatics
-
 
 * [Orange](statistics-and-bioinformatics/orange.md)
 * [R project](statistics-and-bioinformatics/r-project/README.md)
@@ -253,20 +225,20 @@
   * [R Education Videos](statistics-and-bioinformatics/r-project/r-education-videos.md)
   * [R-project veri yüklemek neden zor?](statistics-and-bioinformatics/r-project/r-project-veri-yuklemek-neden-zor.md)
   * [R packages](statistics-and-bioinformatics/r-project/r-packages.md)
-* [SPSS](statistics-and-bioinformatics/README.md)
+* [SPSS](statistics-and-bioinformatics/spss.md)
 * [PSPP](statistics-and-bioinformatics/pspp.md)
-* [Text Mining General](statistics-and-bioinformatics/text-mining/README.md)
-  * [Text Mining Videos](statistics-and-bioinformatics/text-mining/text-mining-videos.md)
-  * [Text Mining Related Web Sites](statistics-and-bioinformatics/text-mining/text-mining-related-web-sites.md)
-  * [Text Mining Journal Articles](statistics-and-bioinformatics/text-mining/text-mining-journal-articles.md)
-  * [Text Mining Courses](statistics-and-bioinformatics/text-mining/text-mining-courses.md)
-  * [Text Mining Turkish](statistics-and-bioinformatics/text-mining/text-mining-turkish.md)
-  * [Text Mining Blog Posts Examples](statistics-and-bioinformatics/text-mining/text-mining-blog-posts-examples.md)
-  * [Text Mining R](statistics-and-bioinformatics/text-mining/text-mining-r.md)
-  * [Text Mining Orange](statistics-and-bioinformatics/text-mining/text-mining-orange.md)
-  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed.md)
-  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed-1.md)
-  * [Text Mining Twitter](statistics-and-bioinformatics/text-mining/text-mining-twitter.md)
+* [Text Mining General](statistics-and-bioinformatics/text-mining-general/README.md)
+  * [Text Mining Videos](statistics-and-bioinformatics/text-mining-general/text-mining-videos.md)
+  * [Text Mining Related Web Sites](statistics-and-bioinformatics/text-mining-general/text-mining-related-web-sites.md)
+  * [Text Mining Journal Articles](statistics-and-bioinformatics/text-mining-general/text-mining-journal-articles.md)
+  * [Text Mining Courses](statistics-and-bioinformatics/text-mining-general/text-mining-courses.md)
+  * [Text Mining Turkish](statistics-and-bioinformatics/text-mining-general/text-mining-turkish.md)
+  * [Text Mining Blog Posts Examples](statistics-and-bioinformatics/text-mining-general/text-mining-blog-posts-examples.md)
+  * [Text Mining R](statistics-and-bioinformatics/text-mining-general/text-mining-r.md)
+  * [Text Mining Orange](statistics-and-bioinformatics/text-mining-general/text-mining-orange.md)
+  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining-general/text-mining-pubmed.md)
+  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining-general/text-mining-pubmed-1.md)
+  * [Text Mining Twitter](statistics-and-bioinformatics/text-mining-general/text-mining-twitter.md)
 * [Bioinformatics](statistics-and-bioinformatics/bioinformatics.md)
 * [Bioconductor](statistics-and-bioinformatics/bioconductor.md)
 * [Tools for Data Analysis and Visualisation](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation/README.md)
@@ -311,9 +283,7 @@
 * [Python](statistics-and-bioinformatics/python.md)
 * [Reproducible Reports](statistics-and-bioinformatics/reproducible-reports.md)
 
-
 ## Writing Journal Articles
-
 
 * [Finding Relevant Articles](writing-journal-articles/finding-relevant-articles.md)
 * [Selecting A Journal](writing-journal-articles/selecting-a-journal.md)
@@ -332,23 +302,21 @@
 * [Bibliography](writing-journal-articles/bibliography.md)
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Research Quality](writing-journal-articles/research-quality.md)
-* [Visual Abstracts](writing-journal-articles/VisualAbstracts.md)
-
+* [Visual Abstracts](writing-journal-articles/visualabstracts.md)
 
 ## Bibliometrics
 
-
-* [Bibliography, Impact Factor, and Citations](bibliometrics/impact-factor-and-citations/README.md)
-  * [EndNote](bibliometrics/impact-factor-and-citations/endnote.md)
-  * [Research Articles](bibliometrics/impact-factor-and-citations/research-articles.md)
-  * [Data And Tools For Bibliographic Analysis](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/README.md)
-    * [VOSviewer](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/vosviewer.md)
-    * [CitNetExplorer](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/citnetexplorer.md)
-    * [Sci2Tool](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/sci2tool.md)
-    * [CiteSpace](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/citespace.md)
-    * [Reference Parsing](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/freecite.md)
-    * [R for PubMed](bibliometrics/impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/r-for-pubmed.md)
-  * [Citavi](bibliometrics/impact-factor-and-citations/citavi.md)
+* [Bibliography, Impact Factor, and Citations](bibliometrics/bibliography-impact-factor-and-citations/README.md)
+  * [EndNote](bibliometrics/bibliography-impact-factor-and-citations/endnote.md)
+  * [Research Articles](bibliometrics/bibliography-impact-factor-and-citations/research-articles.md)
+  * [Data And Tools For Bibliographic Analysis](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/README.md)
+    * [VOSviewer](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/vosviewer.md)
+    * [CitNetExplorer](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/citnetexplorer.md)
+    * [Sci2Tool](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/sci2tool.md)
+    * [CiteSpace](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/citespace.md)
+    * [Reference Parsing](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/reference-parsing.md)
+    * [R for PubMed](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/r-for-pubmed.md)
+  * [Citavi](bibliometrics/bibliography-impact-factor-and-citations/citavi.md)
 * [Problems in Bibliometric Analysis](bibliometrics/problems-in-bibliometric-analysis.md)
 
 ## Pathology Meetings
@@ -357,25 +325,22 @@
 
 ## Science General
 
-* [Genetics General](science/genetics-general.md)
-* [Physics General](science/physics-general.md)
-* [Mathematics & Geometry General](science/mathematics-general.md)
-* [Neuroscience](science/neuroscience.md)
-* [Academics General](science/academics-general.md)
-* [Cancer Research General](science/cancer-research-general.md)
-
-
+* [Genetics General](science-general/genetics-general.md)
+* [Physics General](science-general/physics-general.md)
+* [Mathematics & Geometry General](science-general/mathematics-general.md)
+* [Neuroscience](science-general/neuroscience.md)
+* [Academics General](science-general/academics-general.md)
+* [Cancer Research General](science-general/cancer-research-general.md)
 
 ## Computers General
 
-* [Computer Tips](computers/computer-tips.md)
-* [Syntax Highlighting](computers/syntax-highlighting.md)
-* [Excel, Sheets](computers/excel-sheets.md)
-* [GitBook Plugins](computers/gitbook-plugins.md)
-* [Git GitHub](computers/git-github.md)
-* [Lecture Preperation](computers/lecture-preperation.md)
-* [Links](computers/links.md)
-
+* [Computer Tips](computers-general/computer-tips.md)
+* [Syntax Highlighting](computers-general/syntax-highlighting.md)
+* [Excel, Sheets](computers-general/excel-sheets.md)
+* [GitBook Plugins](computers-general/gitbook-plugins.md)
+* [Git GitHub](computers-general/git-github.md)
+* [Lecture Preperation](computers-general/lecture-preperation.md)
+* [Links](computers-general/links.md)
 
 ## Games
 
@@ -383,17 +348,16 @@
 * [Chess](games/chess.md)
 * [Eyewire](games/eyewire.md)
 
-
 ## Appendix
 
-
-* [Appendix : Suggested Courses and MOOCs](appendix/appendix-2-suggested-moocs/README.md)
-  * [Courses](appendix/appendix-2-suggested-moocs/courses.md)
-  * [Tutorials](appendix/appendix-2-suggested-moocs/tutorials.md)
+* [Appendix : Suggested Courses and MOOCs](appendix/appendix-suggested-courses-and-moocs/README.md)
+  * [Courses](appendix/appendix-suggested-courses-and-moocs/courses.md)
+  * [Tutorials](appendix/appendix-suggested-courses-and-moocs/tutorials.md)
 * [Appendix : Suggested Programs and Applications](appendix/appendix-3-suggested-applications.md)
-* [Appendix : Suggested Books](appendix/appendix-1-suggested-books/README.md)
-  * [Books](appendix/appendix-1-suggested-books/books.md)
-* [Appendix : Suggested Web Pages](appendix/appendix-4-suggested-web-pages/README.md)
-  * [Websites](appendix/appendix-4-suggested-web-pages/websites.md)
+* [Appendix : Suggested Books](appendix/appendix-suggested-books/README.md)
+  * [Books](appendix/appendix-suggested-books/books.md)
+* [Appendix : Suggested Web Pages](appendix/appendix-suggested-web-pages/README.md)
+  * [Websites](appendix/appendix-suggested-web-pages/websites.md)
 * [Appendix : Suggested Videos](appendix/appendix-suggested-videos/README.md)
-  * [Video Draft](appendix/appendix-suggested-videos/1.md)
+  * [Video Draft](appendix/appendix-suggested-videos/video-draft.md)
+

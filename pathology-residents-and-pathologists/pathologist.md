@@ -1,5 +1,7 @@
 # Pathologist
 
+## Pathologist
+
 * Attributes of a Pathologist
 
 What makes a good pathologist? First of all, I think you have to be good at pattern recognition... You have to be thorough in your thinking, "Well, if I haven't seen this before, what must I do to try and make the diagnosis? Must I do some more special stains? Must I show it to somebody else? Must I read up in the books about it?" And you have to be quite determined to find out. **Paola Domizio** \(UK\)
@@ -22,27 +24,13 @@ I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=ha
 
 [https://www.sciencedirect.com/science/article/pii/S0740257008000531](https://www.sciencedirect.com/science/article/pii/S0740257008000531)
 
+## direk link
 
----
+[https://twitter.com/roland\_jong/status/1115639058179526656](https://twitter.com/roland_jong/status/1115639058179526656)
 
+## kısa kodlu hali
 
-# direk link
+## embed tweet
 
-https://twitter.com/roland_jong/status/1115639058179526656
-
-
-# kısa kodlu hali
-
-{{< tweet 1115639058179526656 >}}
-
-# embed tweet
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">😀 <a href="https://t.co/HAmBS4TBwR">pic.twitter.com/HAmBS4TBwR</a></p>&mdash; Roland Jong MD (@roland_jong) <a href="https://twitter.com/roland_jong/status/1115639058179526656?ref_src=twsrc%5Etfw">April 9, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
----
-
+😀 [pic.twitter.com/HAmBS4TBwR](https://t.co/HAmBS4TBwR)— Roland Jong MD \(@roland\_jong\) [April 9, 2019](https://twitter.com/roland_jong/status/1115639058179526656?ref_src=twsrc%5Etfw)
 

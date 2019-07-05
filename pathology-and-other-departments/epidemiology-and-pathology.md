@@ -1,3 +1,5 @@
+# Epidemiology and Pathology
+
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
@@ -15,19 +17,12 @@
 The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4% per year in women, and 1.6% per year in children between 2010 and 2014. During this time frame, death rates decreased for lung, colorectal, female breast, and prostate cancers, among others, but increased for liver cancer in men and women, pancreas and brain cancers in men, and uterine cancer. [http://jamanetwork.com/journals/jama/article-abstract/2627951](http://jamanetwork.com/journals/jama/article-abstract/2627951)
 
 * **References:**
-
 * [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
-
 * [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571&utm\_medium=spredfast&utm\_source=twitter&utm\_campaign=National+Cancer+Institute&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm_content=sf39202571&utm_medium=spredfast&utm_source=twitter&utm_campaign=National+Cancer+Institute&cid=tw_NCIMain_nci_overdiagnosis_sf39202571)
-
 * [http://seer.cancer.gov/](http://seer.cancer.gov/)
-
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
-
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
-
 * [http://seer.cancer.gov/canques/survival.html](http://seer.cancer.gov/canques/survival.html)
-
 * **WHO IARC Cancer Today**
 
   Data visualization tools that present current national estimates of cancer incidence, mortality, and prevalence
@@ -38,15 +33,15 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [http://globocan.iarc.fr/Default.aspx](http://globocan.iarc.fr/Default.aspx)
 
-* ** The Breast Cancer Risk Assessment Tool**
+*  **The Breast Cancer Risk Assessment Tool**
 
 [https://www.cancer.gov/bcrisktool/Default.aspx](https://www.cancer.gov/bcrisktool/Default.aspx)
 
-* **Cancer System Performance Report **
+* **Cancer System Performance Report** 
 
 [http://www.systemperformance.ca/](http://www.systemperformance.ca/)
 
-* **California Cancer Registry **
+* **California Cancer Registry** 
 
 [http://www.ccrcal.org/](http://www.ccrcal.org/)
 
@@ -58,16 +53,8 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](/assets/980x.png)
-
-
-
-
+![](../.gitbook/assets/980x.png)
 
 * 
-
-
-![](/assets/DQZtsbvUIAENsKM.jpg_large.jpg)
-
-
+![](../.gitbook/assets/dqztsbvuiaenskm.jpg_large%20%281%29.jpg)
 

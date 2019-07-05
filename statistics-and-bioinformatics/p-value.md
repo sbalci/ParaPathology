@@ -57,7 +57,7 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * How sure are you of your result? Put a number on it
 
-  Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman.  
+  Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman.
 
   [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
 

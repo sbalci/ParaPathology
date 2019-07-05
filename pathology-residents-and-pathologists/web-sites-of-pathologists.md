@@ -6,11 +6,11 @@
 
 below copied from this page for my future personal use.
 
-> ### Original pathology- and lab medicine-related resources
+> ## Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> #### HTML documents
+> ### HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -38,11 +38,11 @@ below copied from this page for my future personal use.
 >
 > **The Red Cell and Anemia** is a series of 5 HTML documents. For the downloadable .PDF version see below.
 >
-> 1. 2. [**Blood cells and the CBC**](http://web2.airmail.net/uthman/blood_cells.html) is an illustrated introduction to the types of human blood cells and their assessment with the routine complete blood count \(CBC\). This is part 1 \(of 5\) of "The Red Cell and Anemia" \(see below\) but includes photomicrographs.
-> 3. [**Anemia: Pathophysiologic Consequences, Classification, and Clinical Investigation**](http://web2.airmail.net/uthman/anemia/anemia.html) is the HTML version of part 2 of "The Red Cell and Anemia."
-> 4. [**Nutritional Anemias and Anemia of Chronic Disease**](http://web2.airmail.net/uthman/nutritional_anemia/nutritional_anemia.html) is the HTML version of part 3 of "The Red Cell and Anemia." Included are iron, folate, and B 12 deficiencies.
-> 5. [**Hemolytic Anemias**](http://web2.airmail.net/uthman/hemolytic_anemia/hemolytic_anemia.html) is the HTML version of part 4 of "The Red Cell and Anemia."
-> 6. [**Hemoglobinopathies and Thalassemias**](http://web2.airmail.net/uthman/hemoglobinopathy/hemoglobinopathy.html) is the HTML version of part 5 \(and last\) of "The Red Cell and Anemia." It covers sickle cell disease, hemoglobins C and E, and alpha- and beta-thalassemias.
+> 1. 1. [**Blood cells and the CBC**](http://web2.airmail.net/uthman/blood_cells.html) is an illustrated introduction to the types of human blood cells and their assessment with the routine complete blood count \(CBC\). This is part 1 \(of 5\) of "The Red Cell and Anemia" \(see below\) but includes photomicrographs.
+> 2. [**Anemia: Pathophysiologic Consequences, Classification, and Clinical Investigation**](http://web2.airmail.net/uthman/anemia/anemia.html) is the HTML version of part 2 of "The Red Cell and Anemia."
+> 3. [**Nutritional Anemias and Anemia of Chronic Disease**](http://web2.airmail.net/uthman/nutritional_anemia/nutritional_anemia.html) is the HTML version of part 3 of "The Red Cell and Anemia." Included are iron, folate, and B 12 deficiencies.
+> 4. [**Hemolytic Anemias**](http://web2.airmail.net/uthman/hemolytic_anemia/hemolytic_anemia.html) is the HTML version of part 4 of "The Red Cell and Anemia."
+> 5. [**Hemoglobinopathies and Thalassemias**](http://web2.airmail.net/uthman/hemoglobinopathy/hemoglobinopathy.html) is the HTML version of part 5 \(and last\) of "The Red Cell and Anemia." It covers sickle cell disease, hemoglobins C and E, and alpha- and beta-thalassemias.
 >
 > [**Hematopathologic Phenotypes Made Mockingly Simple: A Remedy For CDphobia**](http://web2.airmail.net/uthman/cdphobia/cdphobia.html), by [Margaret Uthman, MD](http://dpalm.med.uth.tmc.edu/faculty/bios/uthman/uthman.html) \(artwork and layout by me\) consists of two flow charts that attempt to impose some order on the cacophony of cluster designators used in the diagnostic evaluation of lymphomas and leukemias. This is aimed at pathology residents, general pathologists, and flow cytometry lab staffers.
 >
@@ -52,7 +52,7 @@ below copied from this page for my future personal use.
 >
 > [**Elemental Composition of the Body**](http://web2.airmail.net/uthman/elements_of_body.html) is a simple table that lists, in descending order of abundance, all 59 chemical elements present in measurable amounts in the human body. For each element, the table shows 1\) the weight of element present in a 70-kilogram person, 2\) the volume occupied by that much of the purified element, and 3\) how big a cube made up of that quantity of purified element would be.
 >
-> #### .PDF documents
+> ### .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -70,7 +70,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> #### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 > This is a collection of specimen images that I have released into the public domain. The index page is
 >
@@ -80,7 +80,7 @@ below copied from this page for my future personal use.
 >
 > Since my ISP limits my space here severely, I have begun to add specimen images to a [section in my Flickr account](http://www.flickr.com/photos/euthman/sets/72057594114099781/). The images there have much higher resolution than those here.
 >
-> #### Other binary files
+> ### Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >

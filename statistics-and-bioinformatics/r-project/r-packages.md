@@ -1,3 +1,5 @@
+# R packages
+
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
 [https://davidgohel.github.io/ReporteRs/](https://davidgohel.github.io/ReporteRs/)
@@ -48,17 +50,15 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
 
-https://blog.rstudio.com/2016/03/29/feather/
+[https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
-https://blog.rstudio.com/2016/08/31/forcats-0-1-0/
+[https://blog.rstudio.com/2016/08/31/forcats-0-1-0/](https://blog.rstudio.com/2016/08/31/forcats-0-1-0/)
 
-https://github.com/tidyverse/hms
+[https://github.com/tidyverse/hms](https://github.com/tidyverse/hms)
 
-https://github.com/trestletech/plumber
+[https://github.com/trestletech/plumber](https://github.com/trestletech/plumber)
 
-https://github.com/r-lib/testthat
+[https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-http://purrr.tidyverse.org/
-
-
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
 

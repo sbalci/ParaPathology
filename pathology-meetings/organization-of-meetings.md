@@ -18,9 +18,5 @@
 
 ## Room Conditions
 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The organizers at <a href="https://twitter.com/hashtag/MW_Link2019?src=hash&amp;ref_src=twsrc%5Etfw">#MW_Link2019</a> have done a great job since of keeping windows and doors open. Here is an updated, going until noon. Coffee break is obvious at 10:50, and improved ventilation when the session restarted at 11:20. <a href="https://t.co/RIzwAVYrtJ">pic.twitter.com/RIzwAVYrtJ</a></p>&mdash; Cara Battersby (@battersbot) <a href="https://twitter.com/battersbot/status/1135927295473004544?ref_src=twsrc%5Etfw">June 4, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+The organizers at [\#MW\_Link2019](https://twitter.com/hashtag/MW_Link2019?src=hash&ref_src=twsrc%5Etfw) have done a great job since of keeping windows and doors open. Here is an updated, going until noon. Coffee break is obvious at 10:50, and improved ventilation when the session restarted at 11:20. [pic.twitter.com/RIzwAVYrtJ](https://t.co/RIzwAVYrtJ)— Cara Battersby \(@battersbot\) [June 4, 2019](https://twitter.com/battersbot/status/1135927295473004544?ref_src=twsrc%5Etfw)
 

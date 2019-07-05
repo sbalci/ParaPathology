@@ -34,19 +34,19 @@
 * [**“Deriving chemosensitivity from cell lines: Forensic bioinformatics and reproducible research in high-throughput biology”**](https://projecteuclid.org/euclid.aoas/1267453942) by Keith A. Baggerly and Kevin R. Coombes.
 * [**“Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff”**](https://academic.oup.com/cje/article/38/2/257/1714018)
 
-   by Thomas Herndon, Michael Ash, Robert Pollin.
+  by Thomas Herndon, Michael Ash, Robert Pollin.
 
-* An example of an article given the highest designation for a fully reproducible article: 
+* An example of an article given the highest designation for a fully reproducible article:
 
   [**“Air pollution and health in Scotland: a multicity study”**](https://academic.oup.com/biostatistics/article-lookup/doi/10.1093/biostatistics/kxp010)
 
-   published in 2009 by Duncan Lee, Claire Ferguson, and Richard Mitchell. To see the article's marking, download the PDF and look for the marking letter in a bold box at the top right.
+  published in 2009 by Duncan Lee, Claire Ferguson, and Richard Mitchell. To see the article's marking, download the PDF and look for the marking letter in a bold box at the top right.
 
 * [**“Ten Simple Rules for Reproducible Computational Research”**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 
-   by Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, Eivind Hovig.
+  by Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, Eivind Hovig.
 
-* [**“Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104:H4”**](http://www.nejm.org/doi/full/10.1056/NEJMoa1107643) \(multiple authors\). The associated  [**Dataset GigaScience**](http://gigadb.org/dataset/100001) and [**GitHub Wiki**](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) **.**
+* [**“Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104:H4”**](http://www.nejm.org/doi/full/10.1056/NEJMoa1107643) \(multiple authors\). The associated [**Dataset GigaScience**](http://gigadb.org/dataset/100001) and [**GitHub Wiki**](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) **.**
 
 ### Document Conversion
 
@@ -55,11 +55,11 @@
 
 ### Other Resources
 
-* There is an R package called “rrrpkg,” which was created to “facilitate reproducible research.” Their focus is on creating a Research Compendium. Here are some illustrations of 
+* There is an R package called “rrrpkg,” which was created to “facilitate reproducible research.” Their focus is on creating a Research Compendium. Here are some illustrations of
 
   [**directory structure and file organization**](https://github.com/ropensci/rrrpkg)
 
-   they use that may be helpful to you.
+  they use that may be helpful to you.
 
 * [**Center for Open Science**](https://cos.io/)
 * [**Gitbook**](https://www.gitbook.com/)

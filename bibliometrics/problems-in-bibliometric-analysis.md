@@ -1,6 +1,7 @@
-- Chinese reviewers: sign up for unique IDs, please
+# Problems in Bibliometric Analysis
 
-https://www.nature.com/articles/d41586-019-00036-w
+* Chinese reviewers: sign up for unique IDs, please
 
----
-- 
+[https://www.nature.com/articles/d41586-019-00036-w](https://www.nature.com/articles/d41586-019-00036-w)
+
+* 
