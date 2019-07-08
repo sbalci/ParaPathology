@@ -51,7 +51,7 @@
 
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
-  * [GIPath Tweets](systemic-pathology/gastrointestinal-pathology/GIPathTweets.md)
+  * [GIPath Tweets](systemic-pathology/gastrointestinal-pathology/gipathTweets.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
   * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
