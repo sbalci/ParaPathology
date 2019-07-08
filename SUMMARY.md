@@ -6,6 +6,7 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
+* [About Author](introduction/about-author.md)
 
 ## Medical School Lectures
 

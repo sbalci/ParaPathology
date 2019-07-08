@@ -1,2 +1,0 @@
-# Gynecological Pathology
-
