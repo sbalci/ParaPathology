@@ -17,17 +17,9 @@ _Serdar Balcı, MD, Pathologist_
 
 [Follow @serdarbalci](https://twitter.com/serdarbalci)
 
-
-<a class="twitter-follow-button"
-  href="https://twitter.com/serdarbalci">
-Follow @serdarbalci</a>
-
-
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sbalci/ParaPathology/issues) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sbalci) [![HitCount](http://hits.dwyl.io/sbalci/ParaPathology.svg)](http://hits.dwyl.io/sbalci/ParaPathology)
 
 [https://www.serdarbalci.com/p/cv-ozgecmis.html](https://www.serdarbalci.com/p/cv-ozgecmis.html)
-
-I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently,
 
 See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web page,
 
@@ -38,4 +30,8 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web pa
 [https://sbalci.github.io/MyRCodesForDataAnalysis/](https://sbalci.github.io/MyRCodesForDataAnalysis/) for `R codes`,
 
 [https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for `Bibliographic Studies`.
+
+I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently,
+
+{% embed url="https://twitter.com/serdarbalci/status/1065299662175903750" %}
 
