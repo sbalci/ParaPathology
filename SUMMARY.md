@@ -82,7 +82,6 @@
 ## Pathology Residents & Pathologists
 
 * [Pathologist](pathology-residents-and-pathologists/pathologist.md)
-* [Social Media](pathology-residents-and-pathologists/social-media.md)
 * [So Called Junk Materials & Pitfalls](pathology-residents-and-pathologists/junk-materials.md)
 * [It happens / I have seen that before / Olur öyle](pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oyle.md)
 * [Helpful Web Sites for Diagnostic Practice](pathology-residents-and-pathologists/surgical-pathology-criteria.md)
@@ -102,6 +101,15 @@
 * [Pathology as a Career](pathology-residents-and-pathologists/pathology-as-a-career.md)
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
+
+## Pathology and Social Media
+
+* [pathTweets](pathTweets/README.md)
+  * [GIPath Tweets](pathTweets/gipathTweets.md)
+    * [GIPathTweets2019-07-08](pathTweets/GIPathTweets2019-07-08.md)
+
+* [Social Media](pathology-residents-and-pathologists/social-media.md)
+
 
 ## Taxonomy and Classification of Diseases
 
