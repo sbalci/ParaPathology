@@ -2,7 +2,6 @@
 
 ## \(Para\) Pathology Notes
 
-
 This booklet will contain my notes on pathology and the tools I use for my research.
 
 The notes may be used by medical school students, pathology residents or pathologists who have similar interests with me.
@@ -33,23 +32,25 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web pa
 
 I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently,
 
-{% embed url="https://twitter.com/serdarbalci/status/1003334177939427328" %}
-{% embed url="https://twitter.com/serdarbalci/status/1004444876531032064" %}
-{% embed url="https://twitter.com/serdarbalci/status/1064962163821944832" %}
-{% embed url="https://twitter.com/serdarbalci/status/1065299662175903750" %}
-{% embed url="https://twitter.com/serdarbalci/status/1109489581190250498" %}
-{% embed url="https://twitter.com/serdarbalci/status/1112429499432480769" %}
-{% embed url="https://twitter.com/serdarbalci/status/1112434948496154624" %}
-{% embed url="https://twitter.com/serdarbalci/status/1116750169779863552" %}
-{% embed url="https://twitter.com/serdarbalci/status/1127291998833119233" %}
-{% embed url="https://twitter.com/serdarbalci/status/1133097191386550273" %}
-{% embed url="https://twitter.com/serdarbalci/status/1140262183072403456" %}
+{% embed url="https://twitter.com/serdarbalci/status/1003334177939427328" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1004444876531032064" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1064962163821944832" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1065299662175903750" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1109489581190250498" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1112429499432480769" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1112434948496154624" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1116750169779863552" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1127291998833119233" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1133097191386550273" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1140262183072403456" caption="" %}
 

@@ -1,2 +1,2 @@
-# Malignant colorectal polyps
+# Malignant Colorectal Polyps
 

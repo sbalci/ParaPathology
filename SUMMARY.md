@@ -10,7 +10,7 @@
 
 * [Medical School Lectures](medical-school-lectures/medical-school-lectures.md)
 * [Undergraduate Medical School Pathology Education](medical-school-lectures/undergraduate-medical-school-pathology-education.md)
-* [the-cell-as-a-unit-of-health-and-disease](medical-school-lectures/the-cell-as-a-unit-of-health-and-disease.md)
+* [The Cell as a Unit of Health and Disease](medical-school-lectures/the-cell-as-a-unit-of-health-and-disease.md)
 * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/README.md)
   * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/introduction-to-pathology.md)
   * [Patoloji'ye Giriş](medical-school-lectures/introduction-to-pathology/patolojiye-giris.md)
@@ -23,7 +23,7 @@
   * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
   * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
-  * [Hücre içi birikimler ve Hücre yaşlanması](medical-school-lectures/general-pathology/hucre-ici-birikimler-ve-hucre-yaslanmasi.md)
+  * [Hücre içi birikimler ve Hücre Yaşlanması](medical-school-lectures/general-pathology/hucre-ici-birikimler-ve-hucre-yaslanmasi.md)
   * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/README.md)
     * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
@@ -51,7 +51,7 @@
 
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
-  * [GIPath Tweets](systemic-pathology/gastrointestinal-pathology/gipathTweets.md)
+  * [GIPath Tweets](systemic-pathology/gastrointestinal-pathology/gipathtweets.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
   * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
@@ -78,7 +78,6 @@
   * [Approach to Endometrial Biopsies](systemic-pathology/gynecological-pathology/approach-to-endometrial-biopsies.md)
   * [Immunohistochemistry in Gynecological Pathology](systemic-pathology/gynecological-pathology/immunohistochemistry-in-gynecological-pathology.md)
 
-
 ## Pathology Residents & Pathologists
 
 * [Pathologist](pathology-residents-and-pathologists/pathologist.md)
@@ -104,12 +103,10 @@
 
 ## Pathology and Social Media
 
-* [pathTweets](pathTweets/README.md)
-  * [GIPath Tweets](pathTweets/gipathTweets.md)
-    * [GIPathTweets2019-07-08](pathTweets/GIPathTweets2019-07-08.md)
-
-* [Social Media](pathology-residents-and-pathologists/social-media.md)
-
+* [pathTweets](pathology-and-social-media/pathtweets/README.md)
+  * [GIPath Tweets](pathology-and-social-media/pathtweets/gipath-tweets/README.md)
+    * [GIPathTweets2019-07-08](pathology-and-social-media/pathtweets/gipath-tweets/gipathtweets2019-07-08.md)
+* [Social Media](pathology-and-social-media/social-media.md)
 
 ## Taxonomy and Classification of Diseases
 
