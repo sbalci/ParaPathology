@@ -50,17 +50,12 @@
 ## Systemic Pathology
 
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
-
   * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
-    * [GIPath Tweets](systemic-pathology/gipath/GIPathTweets.md)
-    * [Stomach biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
-    * [Duodenal biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
+    * [GIPath Tweets](systemic-pathology/gastrointestinal-pathology/GIPathTweets.md)
+    * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
+    * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
     * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
-      * [Malignant colorectal polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
-
-
-
-
+      * [Malignant Colorectal Polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
   * [Nöropatoloji](systemic-pathology/noropatoloji/README.md)
     * [Pathology of CNS](systemic-pathology/noropatoloji/pathology-of-cns/README.md)
       * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/noropatoloji/pathology-of-cns/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
