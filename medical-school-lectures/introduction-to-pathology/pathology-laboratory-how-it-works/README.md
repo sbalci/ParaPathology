@@ -17,16 +17,16 @@ Students will have a basic knowledge about pathologists’ function in hospitals
 Lecture Outlines:
 
 * Specimen Types - Biopsy
-* * Core biopsy, tru-cut biopsy
+  * Core biopsy, tru-cut biopsy
   * Incisional biopsy
   * Excisional Biopsy
   * Radical excision
 * Specimen Types - Cytology
-* * Exfoliative Cytology
+  * Exfoliative Cytology
   * Aspiration Cytology
 * Registry in pathology laboratory and workflow
 * Macroscopy
-* * Specimen photography
+  * Specimen photography
   * Specimen archive
   * Taking appropriate samples according to guidelines
 * Tissue processing
@@ -37,14 +37,14 @@ Lecture Outlines:
 * Autopsy
 * Frozen section
 * Special techniques
-* * Histochemistry
+  * Histochemistry
   * Enzyme Histochemistry
   * Immunohistochemistry
   * Immunofluorescence
   * In-situ hybridization
-* Molecular Techniques
+  * Molecular Techniques
 * Pathology Archive
-* * Paraffin blocks
+  * Paraffin blocks
   * Slides
   * Printed and Electronic Reports
 * Product of a pathologist is the report

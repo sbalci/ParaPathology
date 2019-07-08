@@ -7,11 +7,11 @@ Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden
 * Epidemiyoloji
 * Patogenez
 * Morfoloji
-* * Genetik
+* Genetik
 * Tedavi
-* * Morfoloji ve patogenezin klinik ile korelasyonu
+* Morfoloji ve patogenezin klinik ile korelasyonu
 * Hastalığın süreci
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
+* Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
 
 Kaynaklar:
 

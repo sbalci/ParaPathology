@@ -1,4 +1,4 @@
-# Hücre içi birikimler ve Hücre yaşlanması
+# Hücre içi birikimler ve Hücre Yaşlanması
 
 Son güncelleme:01.05.2015
 
