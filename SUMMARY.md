@@ -50,6 +50,11 @@
 ## Systemic Pathology
 
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
+
+* [Gastrointestinal Pathology](systemic-pathology/gipath/README.md)
+  * [GIPath Tweets](systemic-pathology/gipath/GIPathTweets.md)
+
+* [Systemic Pathology](systemic-pathology/systemic-pathology.md)
 * [Nöropatoloji](systemic-pathology/noropatoloji/README.md)
   * [Pathology of CNS](systemic-pathology/noropatoloji/pathology-of-cns/README.md)
     * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/noropatoloji/pathology-of-cns/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
