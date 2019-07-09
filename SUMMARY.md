@@ -51,7 +51,7 @@
 
 ## Systemic Pathology
 
-* [Systemic Pathology](systemic-pathology/systemic-pathology.md)
+* [Systemic Pathology](systemic-pathology/README.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
   * [GIPath Tweets](pathology-and-social-media/pathtweets/gipath-tweets/README.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
