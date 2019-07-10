@@ -1,3 +1,3 @@
-# Appendix
+# Writing Journal Articles
 
 

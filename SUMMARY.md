@@ -5,30 +5,38 @@
 
 ## Introduction
 
-* [Introduction](introduction/introduction.md)
-* [About Author](introduction/about-author.md)
+* [Introduction](introduction/README.md)
+  * [Introduction](introduction/introduction.md)
+  * [About Author](introduction/about-author.md)
 
 ## Medical School Lectures
 
-* [Medical School Lectures](medical-school-lectures/medical-school-lectures.md)
-* [Undergraduate Medical School Pathology Education](medical-school-lectures/undergraduate-medical-school-pathology-education.md)
-* [The Cell as a Unit of Health and Disease](medical-school-lectures/the-cell-as-a-unit-of-health-and-disease.md)
-* [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/README.md)
-  * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/introduction-to-pathology.md)
-  * [Patoloji'ye Giriş](medical-school-lectures/introduction-to-pathology/patolojiye-giris.md)
-  * [Pathology Laboratory How it works](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/README.md)
-    * [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/patoloji-laboratuvari-nasil-calisir.md)
-* [About Pathology Lectures](medical-school-lectures/about-pathology-lectures/README.md)
-  * [Laboratuvar dersleri ile ilgili genel bilgiler](medical-school-lectures/about-pathology-lectures/laboratuvar-dersleri-ile-ilgili-genel-bilgiler.md)
-  * [List Of Lectures](medical-school-lectures/about-pathology-lectures/chapter1.md)
-* [General Pathology](medical-school-lectures/general-pathology/README.md)
-  * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
-  * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
-  * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
-  * [Hücre içi birikimler ve Hücre Yaşlanması](medical-school-lectures/general-pathology/hucre-ici-birikimler-ve-hucre-yaslanmasi.md)
-  * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/README.md)
-    * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
-  * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
+* [Medical School Lectures](medical-school-lectures/README.md)
+  * [Medical School Lectures](medical-school-lectures/medical-school-lectures.md)
+  * [Undergraduate Medical School Pathology Education](medical-school-lectures/undergraduate-medical-school-pathology-education.md)
+  * [The Cell as a Unit of Health and Disease](medical-school-lectures/the-cell-as-a-unit-of-health-and-disease.md)
+  * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/README.md)
+    * [Introduction to Pathology](medical-school-lectures/introduction-to-pathology/introduction-to-pathology.md)
+    * [Patoloji'ye Giriş](medical-school-lectures/introduction-to-pathology/patolojiye-giris.md)
+    * [Pathology Laboratory How it works](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/README.md)
+      * [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/introduction-to-pathology/pathology-laboratory-how-it-works/patoloji-laboratuvari-nasil-calisir.md)
+  * [About Pathology Lectures](medical-school-lectures/about-pathology-lectures/README.md)
+    * [Laboratuvar dersleri ile ilgili genel bilgiler](medical-school-lectures/about-pathology-lectures/laboratuvar-dersleri-ile-ilgili-genel-bilgiler.md)
+    * [List Of Lectures](medical-school-lectures/about-pathology-lectures/chapter1.md)
+
+### General Pathology
+
+  * [General Pathology](medical-school-lectures/general-pathology/README.md)
+    * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
+    * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
+    * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
+      * [Hücre içi birikimler ve Hücre Yaşlanması](medical-school-lectures/general-pathology/hucre-ici-birikimler-ve-hucre-yaslanmasi.md)
+    * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/README.md)
+      * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
+    * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
+
+### Laboratory Lectures
+
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
   * [Lab: Glomerular Diseases](medical-school-lectures/laboratory-lectures/lab-glomerular-diseases.md)
@@ -82,6 +90,7 @@
 
 ## Pathology Residents & Pathologists
 
+* [Pathologist](pathology-residents-and-pathologists/README.md)
 * [Pathologist](pathology-residents-and-pathologists/pathologist.md)
 * [So Called Junk Materials & Pitfalls](pathology-residents-and-pathologists/junk-materials.md)
 * [It happens / I have seen that before / Olur öyle](pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oyle.md)
@@ -105,6 +114,7 @@
 
 ## Pathology and Social Media
 
+* [Pathology and Social Media](pathology-and-social-media/README.md)
 * [pathTweets](pathology-and-social-media/pathtweets/README.md)
   * [GIPath Tweets](pathology-and-social-media/pathtweets/gipath-tweets/README.md)
     * [GIPathTweets2019-07-08](pathology-and-social-media/pathtweets/gipath-tweets/gipathtweets2019-07-08.md)
@@ -112,41 +122,41 @@
 
 ## Taxonomy and Classification of Diseases
 
+* [Taxonomy and Classification of Diseases](taxonomy-and-classification-of-diseases/README.md)
 * [Tumor Classification](taxonomy-and-classification-of-diseases/tumor-classification.md)
 * [Classification Theory](taxonomy-and-classification-of-diseases/classification-theory.md)
 
 ## Pathophysiology
 
+* [Pathophysiology](pathophysiology/README.md)
 * [Pathophysiology](pathophysiology/pathophysiology.md)
 
-## Carcinogenesis
+## Carcinogenesis, Hallmarks of Cancer
 
-* [Carcinogenesis](carcinogenesis/carcinogenesis.md)
-* [HPV](carcinogenesis/hpv.md)
-
-## Hallmarks of Cancer
-
-* [Hallmarks of Cancer](hallmarks-of-cancer/hallmarks-of-cancer.md)
+* [Carcinogenesis, Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/README.md)
+* [Carcinogenesis](carcinogenesis-hallmarks-of-cancer/carcinogenesis.md)
+* [HPV](carcinogenesis-hallmarks-of-cancer/hpv.md)
+* [Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/hallmarks-of-cancer.md)
 
 ## Computational, Digital & Mathematical Pathology
 
-* [Computational, Digital & Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/README.md)
-  * [Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/digital-pathology.md)
-  * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/about-the-usage-of-digital-pathology.md)
-  * [Analysis](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/analysis.md)
-  * [Telepathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/telepathology.md)
-  * [Cytomine](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/cytomine.md)
-  * [openmicroscopy](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/openmicroscopy.md)
-  * [Articles on computational, digital, and mathematical pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
-  * [Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/mathematical-pathology.md)
-  * [Image Analysis](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/image-analysis.md)
+* [Computational, Digital & Mathematical Pathology](computational-digital-mathematical-pathology/README.md)
+  * [Digital Pathology](computational-digital-mathematical-pathology/digital-pathology.md)
+  * [About the Usage of Digital Pathology](computational-digital-mathematical-pathology/about-the-usage-of-digital-pathology.md)
+  * [Analysis](computational-digital-mathematical-pathology/analysis.md)
+  * [Telepathology](computational-digital-mathematical-pathology/telepathology.md)
+  * [Cytomine](computational-digital-mathematical-pathology/cytomine.md)
+  * [openmicroscopy](computational-digital-mathematical-pathology/openmicroscopy.md)
+  * [Articles on computational, digital, and mathematical pathology](computational-digital-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
+  * [Mathematical Pathology](computational-digital-mathematical-pathology/mathematical-pathology.md)
+  * [Image Analysis](computational-digital-mathematical-pathology/image-analysis.md)
 
 ## Macroscopy
 
-* [Macroscopy](macroscopy/macroscopy/README.md)
-  * [Whipple Macroscopy](macroscopy/macroscopy/whipple-macroscopy.md)
-  * [Macroscopic Photography](macroscopy/macroscopy/macroscopic-photography.md)
-  * [Macrocopy Videos](macroscopy/macroscopy/macrocopy-videos.md)
+* [Macroscopy](macroscopy/README.md)
+  * [Whipple Macroscopy](macroscopy/whipple-macroscopy.md)
+  * [Macroscopic Photography](macroscopy/macroscopic-photography.md)
+  * [Macrocopy Videos](macroscopy/macrocopy-videos.md)
 
 ## Autopsy
 
@@ -170,6 +180,7 @@
 
 ## Laboratory Management
 
+* [Laboratory Management](laboratory-management/README.md)
 * [Laboratory Management](laboratory-management/laboratory-management.md)
 * [Lean](laboratory-management/lean.md)
 * [Laboratory Information Systems](laboratory-management/laboratory-information-systems.md)
@@ -194,8 +205,9 @@
     * [Immunohistochemistry Quantification](stains/stains/immunohistochemistry/immunohistochemistry-quantification.md)
     * [The use of immunohistochemistry for diagnosis](stains/stains/immunohistochemistry/the-use-of-immunohistochemistry-for-diagnosis.md)
 
-## Databases
+## Databases and Pathology
 
+* [Databases and Pathology](databases/README.md)
 * [Databases and Pathology](databases/databases-and-pathology.md)
 * [SEER](databases/seer.md)
 * [TCGA](databases/tcga.md)
@@ -208,6 +220,7 @@
 
 ## Pathology and Other Departments
 
+* [Pathology and Other Departments](pathology-and-other-departments/README.md)
 * [Rotations of Residents to Pathology from Other Departments](pathology-and-other-departments/rotations-of-residents-from-other-departments.md)
 * [Surgery and Pathology](pathology-and-other-departments/surgery-and-pathology.md)
 * [Radiology and Pathology](pathology-and-other-departments/radiology-and-pathology.md)
@@ -222,11 +235,13 @@
 
 ## Patients and Pathology
 
+* [Patients and Pathology](patients-and-pathology/README.md)
 * [Patients and Pathology](patients-and-pathology/patients-and-pathology.md)
 * [Informing Patients About Pathology](patients-and-pathology/informing-patients-about-pathology.md)
 
 ## Statistics, Bioinformatics, and Pathology
 
+* [Statistics, Bioinformatics, and Pathology](statistics-bioinformatics-and-pathology/README.md)
 * [Statistics and Pathology](statistics-bioinformatics-and-pathology/statistics-and-pathology/README.md)
   * [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/statistics-and-pathology/istatistik-icin-nasil-veri-hazirlanir.md)
   * [Statistical Terms](statistics-bioinformatics-and-pathology/statistics-and-pathology/statistical-terms.md)
@@ -234,6 +249,7 @@
 
 ## Statistics and Bioinformatics
 
+* [Statistics and Bioinformatics](statistics-and-bioinformatics/README.md)
 * [Orange](statistics-and-bioinformatics/orange.md)
 * [R project](statistics-and-bioinformatics/r-project/README.md)
   * [Online R Books](statistics-and-bioinformatics/r-project/online-r-books.md)
@@ -300,6 +316,7 @@
 
 ## Writing Journal Articles
 
+* [Writing Journal Articles](writing-journal-articles/README.md)
 * [Finding Relevant Articles](writing-journal-articles/finding-relevant-articles.md)
 * [Selecting A Journal](writing-journal-articles/selecting-a-journal.md)
 * [Rephrasing & Synonyms](writing-journal-articles/rephrasing-and-synonyms.md)
@@ -321,6 +338,7 @@
 
 ## Bibliometrics
 
+* [Bibliometrics](bibliometrics/README.md)
 * [Bibliography, Impact Factor, and Citations](bibliometrics/bibliography-impact-factor-and-citations/README.md)
   * [EndNote](bibliometrics/bibliography-impact-factor-and-citations/endnote.md)
   * [Research Articles](bibliometrics/bibliography-impact-factor-and-citations/research-articles.md)
@@ -336,10 +354,12 @@
 
 ## Pathology Meetings
 
+* [Pathology Meetings](pathology-meetings/README.md)
 * [Organization Of Meetings](pathology-meetings/organization-of-meetings.md)
 
-## Science General
+## Science
 
+* [Science](science-general/README.md)
 * [Genetics General](science-general/genetics-general.md)
 * [Physics General](science-general/physics-general.md)
 * [Mathematics & Geometry General](science-general/mathematics-general.md)
@@ -347,32 +367,35 @@
 * [Academics General](science-general/academics-general.md)
 * [Cancer Research General](science-general/cancer-research-general.md)
 
-## Computers General
+## Computers
 
-* [Computer Tips](computers-general/computer-tips.md)
-* [Syntax Highlighting](computers-general/syntax-highlighting.md)
-* [Excel, Sheets](computers-general/excel-sheets.md)
-* [GitBook Plugins](computers-general/gitbook-plugins.md)
-* [Git GitHub](computers-general/git-github.md)
-* [Lecture Preperation](computers-general/lecture-preperation.md)
-* [Links](computers-general/links.md)
+* [Computers](computers/README.md)
+* [Computer Tips](computers/computer-tips.md)
+* [Syntax Highlighting](computers/syntax-highlighting.md)
+* [Excel, Sheets](computers/excel-sheets.md)
+* [GitBook Plugins](computers/gitbook-plugins.md)
+* [Git GitHub](computers/git-github.md)
+* [Lecture Preperation](computers/lecture-preperation.md)
+* [Links](computers/links.md)
 
 ## Games
 
-* [Go](games/go.md)
-* [Chess](games/chess.md)
-* [Eyewire](games/eyewire.md)
+* [Games](games/README.md)
+  * [Go](games/go.md)
+  * [Chess](games/chess.md)
+  * [Eyewire](games/eyewire.md)
 
 ## Appendix
 
-* [Appendix : Suggested Courses and MOOCs](appendix/appendix-suggested-courses-and-moocs/README.md)
-  * [Courses](appendix/appendix-suggested-courses-and-moocs/courses.md)
-  * [Tutorials](appendix/appendix-suggested-courses-and-moocs/tutorials.md)
-* [Appendix : Suggested Programs and Applications](appendix/appendix-3-suggested-applications.md)
-* [Appendix : Suggested Books](appendix/appendix-suggested-books/README.md)
-  * [Books](appendix/appendix-suggested-books/books.md)
-* [Appendix : Suggested Web Pages](appendix/appendix-suggested-web-pages/README.md)
-  * [Websites](appendix/appendix-suggested-web-pages/websites.md)
-* [Appendix : Suggested Videos](appendix/appendix-suggested-videos/README.md)
-  * [Video Draft](appendix/appendix-suggested-videos/video-draft.md)
+* [Appendix](appendix/README.md)
+  * [Appendix : Suggested Courses and MOOCs](appendix/appendix-suggested-courses-and-moocs/README.md)
+    * [Courses](appendix/appendix-suggested-courses-and-moocs/courses.md)
+    * [Tutorials](appendix/appendix-suggested-courses-and-moocs/tutorials.md)
+  * [Appendix : Suggested Programs and Applications](appendix/appendix-3-suggested-applications.md)
+  * [Appendix : Suggested Books](appendix/appendix-suggested-books/README.md)
+    * [Books](appendix/appendix-suggested-books/books.md)
+  * [Appendix : Suggested Web Pages](appendix/appendix-suggested-web-pages/README.md)
+    * [Websites](appendix/appendix-suggested-web-pages/websites.md)
+  * [Appendix : Suggested Videos](appendix/appendix-suggested-videos/README.md)
+    * [Video Draft](appendix/appendix-suggested-videos/video-draft.md)
 

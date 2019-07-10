@@ -1,3 +1,3 @@
-# Appendix
+# Statistics, Bioinformatics and Pathology
 
 
