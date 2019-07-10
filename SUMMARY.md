@@ -24,7 +24,6 @@
     * [Laboratuvar dersleri ile ilgili genel bilgiler](medical-school-lectures/about-pathology-lectures/laboratuvar-dersleri-ile-ilgili-genel-bilgiler.md)
     * [List Of Lectures](medical-school-lectures/about-pathology-lectures/chapter1.md)
 
-### General Pathology
 
   * [General Pathology](medical-school-lectures/general-pathology/README.md)
     * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
@@ -35,7 +34,6 @@
       * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
     * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
 
-### Laboratory Lectures
 
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
