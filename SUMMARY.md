@@ -148,6 +148,12 @@
   * [Macroscopic Photography](macroscopy/macroscopy/macroscopic-photography.md)
   * [Macrocopy Videos](macroscopy/macroscopy/macrocopy-videos.md)
 
+## Autopsy
+
+* [Autopsy](autopsy/README.md)
+  * [Autopsy Articles](autopsy/autopsy-articles.md)
+
+
 ## Guidelines
 
 * [Guidelines](guidelines/guidelines/README.md)
