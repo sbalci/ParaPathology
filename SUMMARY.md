@@ -156,16 +156,16 @@
 
 ## Guidelines
 
-* [Guidelines](guidelines/guidelines/README.md)
-  * [AJCC, UICC, TNM](guidelines/guidelines/ajcc-uicc-tnm.md)
-  * [CAP](guidelines/guidelines/cap.md)
-  * [AAPA](guidelines/guidelines/aapa.md)
+* [Guidelines](guidelines/README.md)
+  * [AJCC, UICC, TNM](guidelines/ajcc-uicc-tnm.md)
+  * [CAP](guidelines/cap.md)
+  * [AAPA](guidelines/aapa.md)
 
 ## Treatment and Pathology
 
-* [Treatment](treatment-and-pathology/treatment/README.md)
-  * [Therapy related changes](treatment-and-pathology/treatment/therapy-related-changes.md)
-  * [Immunotherapy](treatment-and-pathology/treatment/immunotherapy.md)
+* [Treatment](treatment-and-pathology/README.md)
+  * [Therapy related changes](treatment-and-pathology/therapy-related-changes.md)
+  * [Immunotherapy](treatment-and-pathology/immunotherapy.md)
 * [Prognostic, Predictive and Therapeutic Factors](treatment-and-pathology/prognostic-predictive-and-therapeutic-factors.md)
 
 ## Laboratory Management
