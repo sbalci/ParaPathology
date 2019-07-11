@@ -20,3 +20,7 @@
 
 The organizers at [\#MW\_Link2019](https://twitter.com/hashtag/MW_Link2019?src=hash&ref_src=twsrc%5Etfw) have done a great job since of keeping windows and doors open. Here is an updated, going until noon. Coffee break is obvious at 10:50, and improved ventilation when the session restarted at 11:20. [pic.twitter.com/RIzwAVYrtJ](https://t.co/RIzwAVYrtJ)— Cara Battersby \(@battersbot\) [June 4, 2019](https://twitter.com/battersbot/status/1135927295473004544?ref_src=twsrc%5Etfw)
 
+
+
+https://twitter.com/serdarbalci/status/1039147734220111873
+

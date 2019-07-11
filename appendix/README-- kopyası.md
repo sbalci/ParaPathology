@@ -1,2 +1,0 @@
-# Colon and Rectum
-
