@@ -59,8 +59,6 @@
 
 * [Systemic Pathology](systemic-pathology/README.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
-  * [GIPath Tweets](pathology-and-social-media/pathtweets/gipath-tweets/README.md)
-  * [GIPath Tweets July](pathology-and-social-media/pathtweets/gipath-tweets/GIPathTweets-2019-07-08.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
   * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
@@ -116,7 +114,7 @@
 * [Pathology and Social Media](pathology-and-social-media/README.md)
   * [Social Media](pathology-and-social-media/social-media.md)
 
-### Pathology Tweets
+## Pathology Tweets
 
 * [Pathology Tweets](pathtweets/README.md)
 
