@@ -1,3 +1,0 @@
-# Treatment and Pathology
-
-
