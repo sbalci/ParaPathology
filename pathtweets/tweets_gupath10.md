@@ -1,3 +1,9 @@
-#tweets_gupath10
+# tweets_gupath10
 
-{% embed url="https://twitter.com/ycharzy/status/1148037139218784256"  caption="" % }
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/ycharzy/status/1148037139218784256</div></figure>
+<br>
+<br>
+<hr>

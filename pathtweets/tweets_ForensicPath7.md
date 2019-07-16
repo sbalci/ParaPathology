@@ -1,3 +1,9 @@
-#tweets_ForensicPath7
+# tweets_ForensicPath7
 
-{% embed url="https://twitter.com/Forensic187/status/1148640713820819456"  caption="" % }
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/Forensic187/status/1148640713820819456</div></figure>
+<br>
+<br>
+<hr>

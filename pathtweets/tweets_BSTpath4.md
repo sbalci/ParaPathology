@@ -1,4 +1,16 @@
-#tweets_BSTpath4
+# tweets_BSTpath4
 
-{% embed url="https://twitter.com/path4ever/status/1149608516363018240"  caption="" % }
-{% embed url="https://twitter.com/DrMarkOng/status/1144699093257789441"  caption="" % }
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/path4ever/status/1149608516363018240</div></figure>
+<br>
+<br>
+<hr>
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/DrMarkOng/status/1144699093257789441</div></figure>
+<br>
+<br>
+<hr>

@@ -1,3 +1,9 @@
-#tweets_PulmPath1
+# tweets_PulmPath1
 
-{% embed url="https://twitter.com/smlungpathguy/status/1147296318357942272"  caption="" % }
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/smlungpathguy/status/1147296318357942272</div></figure>
+<br>
+<br>
+<hr>

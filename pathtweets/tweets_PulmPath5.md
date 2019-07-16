@@ -1,3 +1,9 @@
-#tweets_PulmPath5
+# tweets_PulmPath5
 
-{% embed url="https://twitter.com/sbakhsh2/status/1149022401637883906"  caption="" % }
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/sbakhsh2/status/1149022401637883906</div></figure>
+<br>
+<br>
+<hr>

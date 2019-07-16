@@ -1,4 +1,16 @@
-#tweets_ENTPath10
+# tweets_ENTPath10
 
-{% embed url="https://twitter.com/padmapathology1/status/1144580981367529472"  caption="" % }
-{% embed url="https://twitter.com/padmapathology1/status/1145705093775294464"  caption="" % }
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/padmapathology1/status/1144580981367529472</div></figure>
+<br>
+<br>
+<hr>
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
+<div class="wp-block-embed__wrapper">
+https://twitter.com/padmapathology1/status/1145705093775294464</div></figure>
+<br>
+<br>
+<hr>
