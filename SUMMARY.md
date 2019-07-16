@@ -114,10 +114,10 @@
 ## Pathology and Social Media
 
 * [Pathology and Social Media](pathology-and-social-media/README.md)
-* [pathTweets](pathology-and-social-media/pathtweets/README.md)
-  * [GIPath Tweets](pathology-and-social-media/pathtweets/gipath-tweets/README.md)
-    * [GIPathTweets2019-07-08](pathology-and-social-media/pathtweets/gipath-tweets/gipathtweets2019-07-08.md)
 * [Social Media](pathology-and-social-media/social-media.md)
+
+* [pathTweets](pathology-and-social-media/pathtweets/README.md)
+
 
 ## Taxonomy and Classification of Diseases
 
