@@ -1,3 +1,3 @@
-tweets_BreastPath818093
+#tweets_BreastPath8
 
-{% embed url='https://twitter.com/zeynepbyrmgl/status/1148473809479053312' %}
+{% embed url="https://twitter.com/zeynepbyrmgl/status/1148473809479053312"  caption="" % }
