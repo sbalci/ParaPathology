@@ -115,7 +115,10 @@
 
 * [Pathology and Social Media](pathology-and-social-media/README.md)
   * [Social Media](pathology-and-social-media/social-media.md)
-  * [pathTweets](pathology-and-social-media/pathtweets/README.md)
+
+### Pathology Tweets
+
+* [Pathology Tweets](pathtweets/README.md)
 
 
 ## Taxonomy and Classification of Diseases
