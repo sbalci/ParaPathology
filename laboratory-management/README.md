@@ -1,3 +1,0 @@
-# Laboratory Management
-
-

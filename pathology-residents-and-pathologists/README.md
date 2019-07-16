@@ -1,3 +1,0 @@
-# Pathology Residents and Pathologists
-
-

@@ -8,8 +8,7 @@
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing_    
-
+_Online, wrapping text is missing_
 
 * **highlight-package {highlight}**
 
