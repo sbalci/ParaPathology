@@ -1,16 +1,10 @@
 # tweetsForGynpath1
 
-{% embed url="https://twitter.com/kis_lorand/status/1147465439980720128% }
+{% embed url="https://twitter.com/ridin_bk_MD/status/1149323916961341441% }
 
-{% embed url="https://twitter.com/kis_lorand/status/1146126521565896705% }
+{% embed url="https://twitter.com/kriyer68/status/1149174696950161408% }
 
-{% embed url="https://twitter.com/kis_lorand/status/1147458152771784704% }
+{% embed url="https://twitter.com/alcampbellmd/status/1147234146747592704% }
 
-{% embed url="https://twitter.com/kis_lorand/status/1146137208841277442% }
-
-{% embed url="https://twitter.com/docninoy/status/1146792273843068928% }
-
-{% embed url="https://twitter.com/AyshaMubeen86/status/1145624172388855808% }
-
-{% embed url="https://twitter.com/DrRolaAli/status/1146472906161106945% }
+{% embed url="https://twitter.com/alcampbellmd/status/1147198434035798017% }
 

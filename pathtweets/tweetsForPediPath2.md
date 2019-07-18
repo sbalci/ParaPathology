@@ -1,6 +1,8 @@
 # tweetsForPediPath2
 
-{% embed url="https://twitter.com/Rus13Co/status/1147594774121086976% }
+{% embed url="https://twitter.com/smallbluecells/status/1149098830111170560% }
 
-{% embed url="https://twitter.com/martiponi/status/1144492788441944064% }
+{% embed url="https://twitter.com/amy_treece13/status/1149032274194812929% }
+
+{% embed url="https://twitter.com/KBadizad/status/1149015106182950920% }
 

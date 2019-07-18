@@ -1,8 +1,4 @@
 # tweetsForPulmPath10
 
-{% embed url="https://twitter.com/angelpanizo1/status/1147934711358132230% }
-
-{% embed url="https://twitter.com/Rus13Co/status/1147932456542199808% }
-
-{% embed url="https://twitter.com/Rus13Co/status/1147932268230565889% }
+{% embed url="https://twitter.com/natasharekhtman/status/1149545653636194304% }
 

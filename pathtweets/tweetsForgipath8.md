@@ -1,32 +1,30 @@
 # tweetsForgipath8
 
-{% embed url="https://twitter.com/ClaireMurphyMD/status/1148610630057730048% }
+{% embed url="https://twitter.com/ALBoothMD/status/1150112005325565952% }
 
-{% embed url="https://twitter.com/schaumberg_a/status/1148275741961981954% }
+{% embed url="https://twitter.com/Purvago/status/1150100423388385280% }
 
-{% embed url="https://twitter.com/RaulSGonzalezMD/status/1148281427860938752% }
+{% embed url="https://twitter.com/nicolecipriani/status/1149875556852359170% }
 
-{% embed url="https://twitter.com/USGIPS/status/1148589647536115713% }
+{% embed url="https://twitter.com/nicolecipriani/status/1149817101806448640% }
 
-{% embed url="https://twitter.com/PrashantBavi/status/1148558605823676417% }
+{% embed url="https://twitter.com/Sara_Jiang/status/1149755751797264385% }
 
-{% embed url="https://twitter.com/drsankeertimala/status/1148526791218409472% }
+{% embed url="https://twitter.com/Sara_Jiang/status/1149875222734147584% }
 
-{% embed url="https://twitter.com/kis_lorand/status/1147945501280669698% }
+{% embed url="https://twitter.com/ariella8/status/1146671864854515712% }
 
-{% embed url="https://twitter.com/docvscb/status/1148494848514596866% }
+{% embed url="https://twitter.com/ariella8/status/1145754941979541504% }
 
-{% embed url="https://twitter.com/PathologyWeek19/status/1144910412111990784% }
+{% embed url="https://twitter.com/ariella8/status/1145754922631204874% }
 
-{% embed url="https://twitter.com/PathologyWeek19/status/1145718560192208897% }
+{% embed url="https://twitter.com/vi_monappa/status/1146415997378686976% }
 
-{% embed url="https://twitter.com/PrashantBavi/status/1145834850928267264% }
+{% embed url="https://twitter.com/gibbspath/status/1145705561419161600% }
 
-{% embed url="https://twitter.com/JClinPath_BMJ/status/1146207061526700032% }
+{% embed url="https://twitter.com/gibbspath/status/1147132318416379909% }
 
-{% embed url="https://twitter.com/GIPathologyURMC/status/1144717608647892992% }
+{% embed url="https://twitter.com/JHansonPathMD/status/1144694169824186369% }
 
-{% embed url="https://twitter.com/RaulSGonzalezMD/status/1145733922686287875% }
-
-{% embed url="https://twitter.com/MFeelyDO/status/1146125167585660929% }
+{% embed url="https://twitter.com/emma_furth/status/1144659932215533569% }
 

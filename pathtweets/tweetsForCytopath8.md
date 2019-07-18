@@ -1,12 +1,12 @@
 # tweetsForCytopath8
 
-{% embed url="https://twitter.com/deeplens_ai/status/1148548348951109633% }
+{% embed url="https://twitter.com/SaeedAsiry/status/1150088749591748609% }
 
-{% embed url="https://twitter.com/deeplens_ai/status/1148187971310559235% }
+{% embed url="https://twitter.com/SamKhader/status/1150020146326622208% }
 
-{% embed url="https://twitter.com/pembeoltulu/status/1147954017353551875% }
+{% embed url="https://twitter.com/kriyer68/status/1149891025860612096% }
 
-{% embed url="https://twitter.com/PathologyWeek19/status/1144651383552929792% }
+{% embed url="https://twitter.com/deeplens_ai/status/1149999912051990528% }
 
-{% embed url="https://twitter.com/PathologyWeek19/status/1145743550887235592% }
+{% embed url="https://twitter.com/sbakhsh2/status/1146086731910975494% }
 

@@ -1,10 +1,10 @@
 # tweetsForENTPath6
 
-{% embed url="https://twitter.com/remimazorts/status/1148977555665539072% }
+{% embed url="https://twitter.com/HeadNeckPathol/status/1150818548538720259% }
 
-{% embed url="https://twitter.com/nicolecipriani/status/1148806613156999168% }
+{% embed url="https://twitter.com/HeadandNeckPath/status/1150818503915524096% }
 
-{% embed url="https://twitter.com/HeadandNeckPath/status/1145420216068792320% }
+{% embed url="https://twitter.com/padmapathology1/status/1144580981367529472% }
 
-{% embed url="https://twitter.com/HeadandNeckPath/status/1146078101111074816% }
+{% embed url="https://twitter.com/padmapathology1/status/1145705093775294464% }
 

@@ -1,4 +1,4 @@
 # tweetsForgrosspath6
 
-{% embed url="https://twitter.com/Pathmath1/status/1146372839232233480% }
+{% embed url="https://twitter.com/kis_lorand/status/1147935266088337409% }
 

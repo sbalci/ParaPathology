@@ -1,8 +1,12 @@
 # tweetsForCytopath9
 
-{% embed url="https://twitter.com/ariella8/status/1147936565819269121% }
+{% embed url="https://twitter.com/CU_pathology/status/1149809843328319490% }
 
-{% embed url="https://twitter.com/PathologyAlerts/status/1148037441166741504% }
+{% embed url="https://twitter.com/SamKhader/status/1149053595813367813% }
 
-{% embed url="https://twitter.com/mizzy_tikky/status/1148221211144413184% }
+{% embed url="https://twitter.com/SamKhader/status/1149292016280449025% }
+
+{% embed url="https://twitter.com/SamKhader/status/1149700842968297472% }
+
+{% embed url="https://twitter.com/VandaTorousMD/status/1146917516998000641% }
 

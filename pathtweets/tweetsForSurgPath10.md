@@ -1,6 +1,6 @@
 # tweetsForSurgPath10
 
-{% embed url="https://twitter.com/CellMarque/status/1145723879005937664% }
+{% embed url="https://twitter.com/alcampbellmd/status/1149444191270899712% }
 
-{% embed url="https://twitter.com/ApekshaNas/status/1145434872611295234% }
+{% embed url="https://twitter.com/PathologyAlerts/status/1144987512408084485% }
 

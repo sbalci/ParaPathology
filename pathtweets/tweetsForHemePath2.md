@@ -1,8 +1,8 @@
 # tweetsForHemePath2
 
-{% embed url="https://twitter.com/deeplens_ai/status/1149999912051990528% }
+{% embed url="https://twitter.com/PathologyAlerts/status/1151233322485465089% }
 
-{% embed url="https://twitter.com/gibbspath/status/1147645593528885248% }
+{% embed url="https://twitter.com/SamKhader/status/1151311704065748992% }
 
-{% embed url="https://twitter.com/LinskeyKaty/status/1144413877863628801% }
+{% embed url="https://twitter.com/mjcascio/status/1149102065660002304% }
 

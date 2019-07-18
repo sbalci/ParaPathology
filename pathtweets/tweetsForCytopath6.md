@@ -1,14 +1,10 @@
 # tweetsForCytopath6
 
-{% embed url="https://twitter.com/MBDFlanaganMD/status/1148996848029511681% }
+{% embed url="https://twitter.com/Human_Pathology/status/1150821705117523968% }
 
-{% embed url="https://twitter.com/remimazorts/status/1148977555665539072% }
+{% embed url="https://twitter.com/jackie_parchem/status/1150801087810691072% }
 
-{% embed url="https://twitter.com/digitalpath2018/status/1144935043376173056% }
+{% embed url="https://twitter.com/PathologyAlerts/status/1148037441166741504% }
 
-{% embed url="https://twitter.com/digitalpath2018/status/1146665537075732480% }
-
-{% embed url="https://twitter.com/digitalpath2018/status/1144543104180994048% }
-
-{% embed url="https://twitter.com/digitalpath2018/status/1146665641975283713% }
+{% embed url="https://twitter.com/mizzy_tikky/status/1148221211144413184% }
 

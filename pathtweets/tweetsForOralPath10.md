@@ -1,6 +1,4 @@
 # tweetsForOralPath10
 
-{% embed url="https://twitter.com/padmapathology1/status/1145705093775294464% }
-
-{% embed url="https://twitter.com/pembeoltulu/status/1147471446643564544% }
+{% embed url="https://twitter.com/Heeda41491444/status/1149569689489592320% }
 

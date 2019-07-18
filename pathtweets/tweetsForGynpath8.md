@@ -1,8 +1,8 @@
 # tweetsForGynpath8
 
-{% embed url="https://twitter.com/kis_lorand/status/1147955281403568134% }
+{% embed url="https://twitter.com/SamKhader/status/1150020146326622208% }
 
-{% embed url="https://twitter.com/DrOrhanSemerci/status/1148374266435571713% }
+{% embed url="https://twitter.com/DrRolaAli/status/1146472906161106945% }
 
-{% embed url="https://twitter.com/DrOrhanSemerci/status/1148465493394767872% }
+{% embed url="https://twitter.com/sbakhsh2/status/1146486623435182081% }
 

@@ -1,14 +1,6 @@
 # tweetsForPulmPath8
 
-{% embed url="https://twitter.com/angelpanizo1/status/1148293905722630145% }
+{% embed url="https://twitter.com/sbakhsh2/status/1146473691812945920% }
 
-{% embed url="https://twitter.com/angelpanizo1/status/1148293467866566657% }
-
-{% embed url="https://twitter.com/angelpanizo1/status/1148560377879367680% }
-
-{% embed url="https://twitter.com/angelpanizo1/status/1148559029616238592% }
-
-{% embed url="https://twitter.com/angelpanizo1/status/1148222261448630272% }
-
-{% embed url="https://twitter.com/angelpanizo1/status/1148221577911296000% }
+{% embed url="https://twitter.com/sbakhsh2/status/1146241377811886085% }
 

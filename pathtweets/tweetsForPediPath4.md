@@ -1,10 +1,6 @@
 # tweetsForPediPath4
 
-{% embed url="https://twitter.com/feldstej/status/1149614858909827073% }
+{% embed url="https://twitter.com/hematogones/status/1151156164165623810% }
 
-{% embed url="https://twitter.com/luishcruzc/status/1146552120943898624% }
-
-{% embed url="https://twitter.com/luishcruzc/status/1146392241293778945% }
-
-{% embed url="https://twitter.com/mreyesm/status/1146460280773402625% }
+{% embed url="https://twitter.com/ariella8/status/1151047501719461889% }
 

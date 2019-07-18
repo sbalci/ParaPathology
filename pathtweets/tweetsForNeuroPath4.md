@@ -1,14 +1,10 @@
 # tweetsForNeuroPath4
 
-{% embed url="https://twitter.com/doc_kartik/status/1149311581190180864% }
+{% embed url="https://twitter.com/CraigHorbinski/status/1148568672115548160% }
 
-{% embed url="https://twitter.com/PathologyWeek19/status/1149362969303588865% }
+{% embed url="https://twitter.com/CraigHorbinski/status/1148564195463651328% }
 
-{% embed url="https://twitter.com/JanMarcusson/status/1147385323099435008% }
+{% embed url="https://twitter.com/pembeoltulu/status/1147955143209566210% }
 
-{% embed url="https://twitter.com/PathologyAlerts/status/1144986789406527488% }
-
-{% embed url="https://twitter.com/pathologyCast/status/1145854388306681862% }
-
-{% embed url="https://twitter.com/FRodriguezNP/status/1145815814303436800% }
+{% embed url="https://twitter.com/CraigHorbinski/status/1146462692309209095% }
 

@@ -1,8 +1,4 @@
 # tweetsForgupath5
 
-{% embed url="https://twitter.com/ycharzy/status/1149307228274511872% }
-
-{% embed url="https://twitter.com/AkgulMd/status/1147119009126653952% }
-
-{% embed url="https://twitter.com/AkgulMd/status/1146207549265469440% }
+{% embed url="https://twitter.com/ESadimin/status/1150868746707394562% }
 

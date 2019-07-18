@@ -1,8 +1,12 @@
 # tweetsForNeuroPath9
 
-{% embed url="https://twitter.com/NeuropathyDoc/status/1148359363674947590% }
+{% embed url="https://twitter.com/FrontNeurosci/status/1149849948994695174% }
 
-{% embed url="https://twitter.com/hammerRH/status/1148249236129091584% }
+{% embed url="https://twitter.com/alzheimers_bio/status/1147168406052823040% }
 
-{% embed url="https://twitter.com/Sty_md/status/1145835303757705216% }
+{% embed url="https://twitter.com/KonstantinosLin/status/1147578472199610369% }
+
+{% embed url="https://twitter.com/SPAPatologia/status/1144557806361751552% }
+
+{% embed url="https://twitter.com/BrainInjuryAust/status/1144399536753790976% }
 

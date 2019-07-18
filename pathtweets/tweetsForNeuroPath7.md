@@ -1,8 +1,10 @@
 # tweetsForNeuroPath7
 
-{% embed url="https://twitter.com/CERNfoundation/status/1148742764777168898% }
+{% embed url="https://twitter.com/pathologiste08/status/1147290753250582528% }
 
-{% embed url="https://twitter.com/SJ_MCN/status/1148656665010606080% }
+{% embed url="https://twitter.com/pdiamandisii/status/1147860986407333889% }
 
-{% embed url="https://twitter.com/CraigHorbinski/status/1146462692309209095% }
+{% embed url="https://twitter.com/Hlashuel/status/1147855504187809793% }
+
+{% embed url="https://twitter.com/realToddLab/status/1145028320251305984% }
 

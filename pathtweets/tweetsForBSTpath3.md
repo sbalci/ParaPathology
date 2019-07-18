@@ -1,8 +1,8 @@
 # tweetsForBSTpath3
 
-{% embed url="https://twitter.com/KonstantinosLin/status/1149733386094858245% }
+{% embed url="https://twitter.com/RocheDiaUSA/status/1148699099870486528% }
 
-{% embed url="https://twitter.com/DrNishatAfroz2/status/1149347938033917953% }
+{% embed url="https://twitter.com/KonstantinosLin/status/1148659530038951937% }
 
-{% embed url="https://twitter.com/JMGardnerMD/status/1146385854937669632% }
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1148674820483235840% }
 
