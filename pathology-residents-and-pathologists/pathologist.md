@@ -1,3 +1,7 @@
+---
+description: Who is a pathologist?
+---
+
 # Pathologist
 
 ## Pathologist
@@ -24,13 +28,13 @@ I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=ha
 
 [https://www.sciencedirect.com/science/article/pii/S0740257008000531](https://www.sciencedirect.com/science/article/pii/S0740257008000531)
 
-## direk link
+## 
 
-[https://twitter.com/roland\_jong/status/1115639058179526656](https://twitter.com/roland_jong/status/1115639058179526656)
 
-## kısa kodlu hali
 
-## embed tweet
+{% embed url="https://twitter.com/roland\_jong/status/1115639058179526656" %}
 
-😀 [pic.twitter.com/HAmBS4TBwR](https://t.co/HAmBS4TBwR)— Roland Jong MD \(@roland\_jong\) [April 9, 2019](https://twitter.com/roland_jong/status/1115639058179526656?ref_src=twsrc%5Etfw)
+
+
+
 
