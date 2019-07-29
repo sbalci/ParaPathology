@@ -14,9 +14,9 @@
   * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
   * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging/README.md)
-    * [Hücre içi birikimler ve Hücre Yaşlanması](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging/hucre-ici-birikimler-ve-hucre-yaslanmasi.md)
+    * [Hücre içi birikimler ve Hücre Yaşlanması](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging/huecre-ici-birikimler-ve-huecre-yaslanmasi.md)
   * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/README.md)
-    * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/hucre-olumunun-mekanizmalari-apoptoz-ve-otofaji.md)
+    * [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy/huecre-oeluemuenuen-mekanizmalari-apoptoz-ve-otofaji.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
@@ -28,7 +28,7 @@
   * [Lab: Basic Tumor Pathology-1](medical-school-lectures/laboratory-lectures/lab-basic-tumor-pathology-1.md)
   * [Lab: Basic Tumor Pathology-2](medical-school-lectures/laboratory-lectures/lab-basic-tumor-pathology-2.md)
   * [Lab: Diseases and Tumors of Respiratory System-1](medical-school-lectures/laboratory-lectures/lab-diseases-and-tumors-of-respiratory-system-1.md)
-  * [Lab: Gynecologic pathologies](medical-school-lectures/laboratory-lectures/lab-gynecologic-pathologies-1.md)
+  * [Lab: Gynecologic pathologies](medical-school-lectures/laboratory-lectures/lab-gynecologic-pathologies.md)
   * [Lab: Diseases and Tumors of Respiratory System-2](medical-school-lectures/laboratory-lectures/lab-diseases-and-tumors-of-respiratory-system-2.md)
   * [Lab: Infectious agents in tissues](medical-school-lectures/laboratory-lectures/lab-infectious-agents-in-tissues.md)
   * [Lab: Pathology of Gastrointestinal Tract-1](medical-school-lectures/laboratory-lectures/lab-pathology-of-gastrointestinal-tract-1.md)
@@ -70,11 +70,11 @@
 
 ## Pathology Residents & Pathologists
 
-* [Pathologist](pathology-residents-and-pathologists/pathology-residents-and-pathologists.md)
 * [Pathologist](pathology-residents-and-pathologists/pathologist.md)
-* [So Called Junk Materials & Pitfalls](pathology-residents-and-pathologists/junk-materials.md)
-* [It happens / I have seen that before / Olur öyle](pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oyle.md)
-* [Helpful Web Sites for Diagnostic Practice](pathology-residents-and-pathologists/surgical-pathology-criteria.md)
+* [Pathologist](pathology-residents-and-pathologists/pathologist-1.md)
+* [So Called Junk Materials & Pitfalls](pathology-residents-and-pathologists/so-called-junk-materials-and-pitfalls.md)
+* [It happens / I have seen that before / Olur öyle](pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oeyle.md)
+* [Helpful Web Sites for Diagnostic Practice](pathology-residents-and-pathologists/helpful-web-sites-for-diagnostic-practice.md)
 * [Virtual Slides](pathology-residents-and-pathologists/virtual-slides.md)
 * [General Resources For Residents](pathology-residents-and-pathologists/general-resources-for-residents.md)
 * [History of Pathology](pathology-residents-and-pathologists/history-of-pathology.md)
@@ -97,7 +97,6 @@
 * [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media/README.md)
   * [Social Media](pathology-and-social-media/pathology-and-social-media/social-media.md)
 
-
 ## Taxonomy and Classification of Diseases
 
 * [Taxonomy and Classification of Diseases](taxonomy-and-classification-of-diseases/taxonomy-and-classification-of-diseases.md)
@@ -118,16 +117,16 @@
 
 ## Computational, Digital & Mathematical Pathology
 
-* [Computational, Digital & Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/README.md)
-  * [Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/digital-pathology.md)
-  * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/about-the-usage-of-digital-pathology.md)
-  * [Analysis](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/analysis.md)
-  * [Telepathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/telepathology.md)
-  * [Cytomine](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/cytomine.md)
-  * [openmicroscopy](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/openmicroscopy.md)
-  * [Articles on computational, digital, and mathematical pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
-  * [Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/mathematical-pathology.md)
-  * [Image Analysis](computational-digital-and-mathematical-pathology/computational-digital-mathematical-pathology/image-analysis.md)
+* [Computational, Digital & Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/README.md)
+  * [Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/digital-pathology.md)
+  * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
+  * [Analysis](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/analysis.md)
+  * [Telepathology](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/telepathology.md)
+  * [Cytomine](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/cytomine.md)
+  * [openmicroscopy](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/openmicroscopy.md)
+  * [Articles on computational, digital, and mathematical pathology](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
+  * [Mathematical Pathology](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/mathematical-pathology.md)
+  * [Image Analysis](computational-digital-and-mathematical-pathology/computational-digital-and-mathematical-pathology/image-analysis.md)
 
 ## Macroscopy
 
@@ -150,9 +149,9 @@
 
 ## Treatment and Pathology
 
-* [Treatment](treatment-and-pathology/treatment-and-pathology/README.md)
-  * [Therapy related changes](treatment-and-pathology/treatment-and-pathology/therapy-related-changes.md)
-  * [Immunotherapy](treatment-and-pathology/treatment-and-pathology/immunotherapy.md)
+* [Treatment](treatment-and-pathology/treatment/README.md)
+  * [Therapy related changes](treatment-and-pathology/treatment/therapy-related-changes.md)
+  * [Immunotherapy](treatment-and-pathology/treatment/immunotherapy.md)
 * [Prognostic, Predictive and Therapeutic Factors](treatment-and-pathology/prognostic-predictive-and-therapeutic-factors.md)
 
 ## Laboratory Management
@@ -161,7 +160,7 @@
 * [Laboratory Management](laboratory-management/laboratory-management-1.md)
 * [Lean](laboratory-management/lean.md)
 * [Laboratory Information Systems](laboratory-management/laboratory-information-systems.md)
-* [Routine Histology Laboratory](laboratory-management/histology-laboratory.md)
+* [Routine Histology Laboratory](laboratory-management/routine-histology-laboratory.md)
 * [Liquid Based Cytology Preperations](laboratory-management/liquid-based-cytology-preperations.md)
 * [Research Lab](laboratory-management/research-lab.md)
 * [Errors in Pathology](laboratory-management/errors-in-pathology.md)
@@ -184,8 +183,8 @@
 
 ## Databases and Pathology
 
-* [Databases and Pathology](databases-and-pathology/databases.md)
 * [Databases and Pathology](databases-and-pathology/databases-and-pathology.md)
+* [Databases and Pathology](databases-and-pathology/databases-and-pathology-1.md)
 * [SEER](databases-and-pathology/seer.md)
 * [TCGA](databases-and-pathology/tcga.md)
 * [Filemaker](databases-and-pathology/filemaker.md)
@@ -198,13 +197,13 @@
 ## Pathology and Other Departments
 
 * [Pathology and Other Departments](pathology-and-other-departments/pathology-and-other-departments.md)
-* [Rotations of Residents to Pathology from Other Departments](pathology-and-other-departments/rotations-of-residents-from-other-departments.md)
+* [Rotations of Residents to Pathology from Other Departments](pathology-and-other-departments/rotations-of-residents-to-pathology-from-other-departments.md)
 * [Surgery and Pathology](pathology-and-other-departments/surgery-and-pathology.md)
 * [Radiology and Pathology](pathology-and-other-departments/radiology-and-pathology.md)
 * [Genetics and Pathology](pathology-and-other-departments/genetics-and-pathology.md)
 * [Oncology and Pathology](pathology-and-other-departments/oncology-and-pathology.md)
 * [Endoscopy and Pathology](pathology-and-other-departments/endoscopy-and-pathology.md)
-* [Inadequate specimen? OR pathologist? OR laboratory?](pathology-and-other-departments/insufficient-specimen-or-pathologist-or-laboratory.md)
+* [Inadequate specimen? OR pathologist? OR laboratory?](pathology-and-other-departments/inadequate-specimen-or-pathologist-or-laboratory.md)
 * [Turnaround Time](pathology-and-other-departments/turnaround-time.md)
 * [Research Collaboration](pathology-and-other-departments/research-collaboration.md)
 * [Epidemiology and Pathology](pathology-and-other-departments/epidemiology-and-pathology.md)
@@ -220,9 +219,9 @@
 
 * [Statistics, Bioinformatics, and Pathology](statistics-bioinformatics-and-pathology/statistics-bioinformatics-and-pathology.md)
 * [Statistics and Pathology](statistics-bioinformatics-and-pathology/statistics-and-pathology/README.md)
-  * [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/statistics-and-pathology/istatistik-icin-nasil-veri-hazirlanir.md)
+  * [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/statistics-and-pathology/histopatoloji-calismalarinda-istatistik-icin-nasil-veri-hazirlanir.md)
   * [Statistical Terms](statistics-bioinformatics-and-pathology/statistics-and-pathology/statistical-terms.md)
-  * [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](statistics-bioinformatics-and-pathology/statistics-and-pathology/patologlarla-istatistikciler-neden-anlasamiyorlar.md)
+  * [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](statistics-bioinformatics-and-pathology/statistics-and-pathology/patologlarla-istatistikcilerin-potansiyel-ortak-calisma-alanlari.md)
 
 ## Statistics and Bioinformatics
 
@@ -231,7 +230,7 @@
 * [R project](statistics-and-bioinformatics/r-project/README.md)
   * [Online R Books](statistics-and-bioinformatics/r-project/online-r-books.md)
   * [R Education Videos](statistics-and-bioinformatics/r-project/r-education-videos.md)
-  * [R-project veri yüklemek neden zor?](statistics-and-bioinformatics/r-project/r-project-veri-yuklemek-neden-zor.md)
+  * [R-project veri yüklemek neden zor?](statistics-and-bioinformatics/r-project/r-project-veri-yueklemek-neden-zor.md)
   * [R packages](statistics-and-bioinformatics/r-project/r-packages.md)
 * [SPSS](statistics-and-bioinformatics/spss.md)
 * [PSPP](statistics-and-bioinformatics/pspp.md)
@@ -297,7 +296,7 @@
 * [Finding Relevant Articles](writing-journal-articles/finding-relevant-articles.md)
 * [Selecting A Journal](writing-journal-articles/selecting-a-journal.md)
 * [Rephrasing & Synonyms](writing-journal-articles/rephrasing-and-synonyms.md)
-* [Figures and Images](writing-journal-articles/figures.md)
+* [Figures and Images](writing-journal-articles/figures-and-images.md)
 * [Plagiarism](writing-journal-articles/plagiarism.md)
 * [Writing Journal Articles](writing-journal-articles/writing-journal-articles-1.md)
 * [IRB](writing-journal-articles/irb.md)
@@ -306,12 +305,12 @@
 * [Reproducibility](writing-journal-articles/reproducibility.md)
 * [Open Access](writing-journal-articles/open-access.md)
 * [Platform / Oral Presentation](writing-journal-articles/platform-oral-presentation.md)
-* [Authorship](writing-journal-articles/autorship.md)
+* [Authorship](writing-journal-articles/authorship.md)
 * [Publishing General](writing-journal-articles/publishing-general.md)
 * [Bibliography](writing-journal-articles/bibliography.md)
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Research Quality](writing-journal-articles/research-quality.md)
-* [Visual Abstracts](writing-journal-articles/visualabstracts.md)
+* [Visual Abstracts](writing-journal-articles/visual-abstracts.md)
 
 ## Bibliometrics
 
