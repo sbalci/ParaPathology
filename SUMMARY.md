@@ -5,9 +5,9 @@
 
 ## Games
 
-* [Games](games/games/README.md)
-  * [Go](games/games/go.md)
-  * [Chess](games/games/chess/README.md)
-    * [Satranç](games/games/chess/satranc.md)
-    * [Videos](games/games/chess/videos.md)
+* [Games](games/games.md)
+* [Go](games/go.md)
+* [Chess](games/chess/README.md)
+  * [Satranç](games/chess/satranc.md)
+  * [Videos](games/chess/videos.md)
 
