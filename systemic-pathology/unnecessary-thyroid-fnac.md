@@ -1,2 +1,0 @@
-# Unnecessary Thyroid FNAC
-

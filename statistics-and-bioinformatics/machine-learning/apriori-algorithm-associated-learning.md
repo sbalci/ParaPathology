@@ -1,2 +1,0 @@
-# Apriori Algorithm \(Associated Learning\)
-

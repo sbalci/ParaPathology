@@ -1,2 +1,0 @@
-# Epidemiology and Pathology
-

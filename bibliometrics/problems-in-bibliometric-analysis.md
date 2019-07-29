@@ -1,2 +1,0 @@
-# Problems in Bibliometric Analysis
-

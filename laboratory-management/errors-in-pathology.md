@@ -1,2 +1,0 @@
-# Errors in Pathology
-

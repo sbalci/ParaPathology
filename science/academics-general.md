@@ -1,2 +1,0 @@
-# Academics General
-

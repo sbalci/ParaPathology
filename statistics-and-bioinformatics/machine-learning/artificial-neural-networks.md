@@ -1,2 +1,0 @@
-# Artificial Neural Networks
-

@@ -1,6 +1,0 @@
----
-description: Go game
----
-
-# Go
-

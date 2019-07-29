@@ -1,2 +1,0 @@
-# Finding Relevant Articles
-

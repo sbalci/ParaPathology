@@ -1,2 +1,0 @@
-# Informing Patients About Pathology
-

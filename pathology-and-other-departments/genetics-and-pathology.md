@@ -1,2 +1,0 @@
-# Genetics and Pathology
-

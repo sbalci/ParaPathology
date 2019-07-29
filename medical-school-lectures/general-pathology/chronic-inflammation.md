@@ -1,2 +1,0 @@
-# Chronic Inflammation
-

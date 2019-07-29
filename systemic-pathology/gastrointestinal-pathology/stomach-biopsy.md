@@ -1,2 +1,0 @@
-# Stomach Biopsy
-

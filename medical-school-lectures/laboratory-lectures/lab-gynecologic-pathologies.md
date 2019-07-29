@@ -1,2 +1,0 @@
-# Lab: Gynecologic pathologies
-

@@ -1,2 +1,0 @@
-# Naïve Bayes Classifier
-

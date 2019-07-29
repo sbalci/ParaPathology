@@ -1,2 +1,0 @@
-# Tumor Classification
-

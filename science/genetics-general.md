@@ -1,2 +1,0 @@
-# Genetics General
-

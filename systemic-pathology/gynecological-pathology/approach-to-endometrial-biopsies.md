@@ -1,2 +1,0 @@
-# Approach to Endometrial Biopsies
-

@@ -1,2 +1,0 @@
-# General Resources For Residents
-

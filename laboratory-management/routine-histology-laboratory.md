@@ -1,2 +1,0 @@
-# Routine Histology Laboratory
-

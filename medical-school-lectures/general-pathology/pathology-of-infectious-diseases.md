@@ -1,2 +1,0 @@
-# Pathology of Infectious Diseases
-

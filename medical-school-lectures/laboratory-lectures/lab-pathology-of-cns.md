@@ -1,2 +1,0 @@
-# Lab: Pathology of CNS
-

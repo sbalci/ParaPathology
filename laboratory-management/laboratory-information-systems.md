@@ -1,2 +1,0 @@
-# Laboratory Information Systems
-

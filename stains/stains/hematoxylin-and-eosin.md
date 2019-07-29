@@ -1,2 +1,0 @@
-# Hematoxylin and Eosin
-

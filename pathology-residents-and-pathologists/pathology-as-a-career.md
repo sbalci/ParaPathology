@@ -1,2 +1,0 @@
-# Pathology as a Career
-
