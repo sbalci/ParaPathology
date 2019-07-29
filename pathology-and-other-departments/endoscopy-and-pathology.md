@@ -1,2 +1,0 @@
-# Endoscopy and Pathology
-

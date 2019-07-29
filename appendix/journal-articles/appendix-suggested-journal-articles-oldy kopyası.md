@@ -1,4 +1,0 @@
-* Suggested Journal Articles
-
-
-

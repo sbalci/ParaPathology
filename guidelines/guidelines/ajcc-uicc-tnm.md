@@ -1,2 +1,0 @@
-# AJCC, UICC, TNM
-

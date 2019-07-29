@@ -1,2 +1,0 @@
-# Duodenal Biopsy
-

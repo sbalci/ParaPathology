@@ -1,2 +1,0 @@
-# Statistics, Bioinformatics, and Pathology
-

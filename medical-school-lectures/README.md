@@ -1,3 +1,0 @@
-# Medical School Lectures
-
-

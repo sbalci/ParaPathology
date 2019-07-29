@@ -1,9 +1,0 @@
-# tweets_BSTpath6
-
-
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich">
-<div class="wp-block-embed__wrapper">
-https://twitter.com/Human_Pathology/status/1148966989781774336</div></figure>
-<br>
-<br>
-<hr>

@@ -1,2 +1,0 @@
-# Computational, Digital & Mathematical Pathology
-

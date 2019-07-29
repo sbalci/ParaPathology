@@ -1,4 +1,0 @@
-### Guidelines for Pathology
-
-
-

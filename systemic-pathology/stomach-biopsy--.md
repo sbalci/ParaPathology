@@ -1,4 +1,0 @@
-# Stomach biopsy
-
-Sydney system
-

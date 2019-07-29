@@ -1,4 +1,0 @@
-# Duodenal biopsy
-
-Marsh
-

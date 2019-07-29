@@ -1,2 +1,0 @@
-# Whipple Macroscopy
-

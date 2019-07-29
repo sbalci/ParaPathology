@@ -1,2 +1,0 @@
-# Rotations of Pathology Residents
-

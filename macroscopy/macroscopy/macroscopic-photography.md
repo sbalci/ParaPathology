@@ -1,2 +1,0 @@
-# Macroscopic Photography
-

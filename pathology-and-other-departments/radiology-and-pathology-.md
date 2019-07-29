@@ -1,2 +1,0 @@
-# Radiology and Pathology
-
