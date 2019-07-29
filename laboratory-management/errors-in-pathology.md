@@ -20,3 +20,11 @@
 
 [https://nypost.com/2017/06/19/woman-given-mastectomy-after-doctors-falsely-diagnose-her-with-cancer/](https://nypost.com/2017/06/19/woman-given-mastectomy-after-doctors-falsely-diagnose-her-with-cancer/)
 
+* Survey of medical malpractice cases and settlements with pathology or laboratory standard of care issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31351825
+
+Semin Diagn Pathol doi: 10.1053/j.semdp.2019.06.006
+
+PubMed - NCBI https://www.ncbi.nlm.nih.gov/pubmed/31351825
+
