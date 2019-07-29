@@ -99,10 +99,9 @@
 
 ## pathtweets
 
-* [pathtweets](pathtweets/README.md)
-* [tweetsForAutopsy1](pathtweets/tweetsForautopsy1.md)
-* [tweetsForAutopsy2](pathtweets/tweetsForautopsy2.md)
-
+* [pathtweets](pathtweets/pathtweets.md)
+* [tweetsForAutopsy1](pathtweets/tweetsforautopsy1.md)
+* [tweetsForAutopsy2](pathtweets/tweetsforautopsy2.md)
 
 ## Taxonomy and Classification of Diseases
 
@@ -381,5 +380,4 @@
     * [Websites](appendix/appendix/appendix-suggested-web-pages/websites.md)
   * [Appendix : Suggested Videos](appendix/appendix/appendix-suggested-videos/README.md)
     * [Video Draft](appendix/appendix/appendix-suggested-videos/video-draft.md)
-
 
