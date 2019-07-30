@@ -347,12 +347,6 @@
 * [Lecture Preperation](computers/lecture-preperation.md)
 * [Links](computers/links.md)
 
-## Games <a id="games-1"></a>
-
-* [Go](games-1/go.md)
-* [Chess](games-1/chess.md)
-* [Eyewire](games-1/eyewire.md)
-
 ## Appendix
 
 * [Courses and MOOCs](appendix/courses-and-moocs.md)
