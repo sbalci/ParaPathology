@@ -11,11 +11,9 @@
   * [Satranç](games/chess/satranc.md)
   * [Videos](games/chess/videos.md)
 
-
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
-
 
 ## Medical School Lectures
 
@@ -52,8 +50,8 @@
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
   * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
     * [Malignant Colorectal Polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
-    * [Neuropathology](systemic-pathology/neuropathology.md)
-* [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/noeropatoloji/pathology-of-cns/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
+    * [Neuropathology](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/neuropathology.md)
+* [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
 * [Approach to Soft Tissue Tumors](systemic-pathology/approach-to-soft-tissue-tumors.md)
 * [Approach to Liver Biopsies](systemic-pathology/approach-to-liver-biopsies.md)
 * [Pancreas](systemic-pathology/pancreas.md)
@@ -108,7 +106,6 @@
 ## Pathophysiology
 
 * [Pathophysiology](pathophysiology/pathophysiology.md)
-
 
 ## Carcinogenesis, Hallmarks of Cancer
 
@@ -177,9 +174,9 @@
 * [Stains](stains/stains.md)
 * [Hematoxylin and Eosin](stains/hematoxylin-and-eosin.md)
 * [Histochemistry](stains/histochemistry.md)
-* [Immunohistochemistry](stains/immunohistochemistry/README.md)
-* [Immunohistochemistry Quantification](stains/immunohistochemistry/immunohistochemistry-quantification.md)
-* [The use of immunohistochemistry for diagnosis](stains/immunohistochemistry/the-use-of-immunohistochemistry-for-diagnosis.md)
+* [Immunohistochemistry](stains/immunohistochemistry.md)
+* [Immunohistochemistry Quantification](stains/immunohistochemistry-quantification.md)
+* [The use of immunohistochemistry for diagnosis](stains/the-use-of-immunohistochemistry-for-diagnosis.md)
 
 ## Databases and Pathology
 
@@ -216,9 +213,9 @@
 ## Statistics, Bioinformatics, and Pathology
 
 * [Statistics, Bioinformatics, and Pathology](statistics-bioinformatics-and-pathology/statistics-bioinformatics-and-pathology.md)
-* [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/statistics-and-pathology/histopatoloji-calismalarinda-istatistik-icin-nasil-veri-hazirlanir.md)
-* [Statistical Terms](statistics-bioinformatics-and-pathology/statistics-and-pathology/statistical-terms.md)
-* [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](statistics-bioinformatics-and-pathology/statistics-and-pathology/patologlarla-istatistikcilerin-potansiyel-ortak-calisma-alanlari.md)
+* [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](statistics-bioinformatics-and-pathology/histopatoloji-calismalarinda-istatistik-icin-nasil-veri-hazirlanir.md)
+* [Statistical Terms](statistics-bioinformatics-and-pathology/statistical-terms.md)
+* [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](statistics-bioinformatics-and-pathology/patologlarla-istatistikcilerin-potansiyel-ortak-calisma-alanlari.md)
 
 ## Statistics and Bioinformatics
 
@@ -245,15 +242,15 @@
   * [Text Mining Twitter](statistics-and-bioinformatics/text-mining/text-mining-twitter.md)
 * [Bioinformatics](statistics-and-bioinformatics/bioinformatics.md)
 * [Bioconductor](statistics-and-bioinformatics/bioconductor.md)
-* [Tools for Data Analysis and Visualisation](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation/README.md)
-* [googleVis](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation/googlevis.md)
-* [Data Visualization and R](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation/data-visualization-and-r.md)
+* [Tools for Data Analysis and Visualisation](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation.md)
+* [googleVis](statistics-and-bioinformatics/googlevis.md)
+* [Data Visualization and R](statistics-and-bioinformatics/data-visualization-and-r.md)
 * [P Value](statistics-and-bioinformatics/p-value.md)
 * [MedCalc](statistics-and-bioinformatics/medcalc.md)
 * [Power Analysis](statistics-and-bioinformatics/power-analysis.md)
 * [ROC analysis](statistics-and-bioinformatics/roc-analysis.md)
-* [Survival Analysis](statistics-and-bioinformatics/survival-analysis/README.md)
-* [Kaplan Meier](statistics-and-bioinformatics/survival-analysis/kaplan-meier.md)
+* [Survival Analysis](statistics-and-bioinformatics/survival-analysis.md)
+* [Kaplan Meier](statistics-and-bioinformatics/kaplan-meier.md)
 * [JASP](statistics-and-bioinformatics/jasp.md)
 * [Jamovi](statistics-and-bioinformatics/jamovi.md)
 * [SAS](statistics-and-bioinformatics/sas.md)
@@ -303,7 +300,7 @@
 * [Platform / Oral Presentation](writing-journal-articles/platform-oral-presentation.md)
 * [Authorship](writing-journal-articles/authorship.md)
 * [Publishing General](writing-journal-articles/publishing-general.md)
-* [Bibliography](writing-journal-articles/bibliography/bibliography.md)
+* [Bibliography](writing-journal-articles/bibliography/README.md)
   * [EndNote](writing-journal-articles/bibliography/endnote.md)
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Citavi](writing-journal-articles/citavi.md)
@@ -313,15 +310,15 @@
 ## Bibliometrics
 
 * [Bibliometrics](bibliometrics/bibliometrics.md)
-* [Bibliography, Impact Factor, and Citations](bibliometrics/bibliography-impact-factor-and-citations/README.md)
-* [Research Articles](bibliometrics/bibliography-impact-factor-and-citations/research-articles.md)
-* [Data And Tools For Bibliographic Analysis](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/README.md)
-  * [VOSviewer](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/vosviewer.md)
-  * [CitNetExplorer](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/citnetexplorer.md)
-  * [Sci2Tool](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/sci2tool.md)
-  * [CiteSpace](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/citespace.md)
-  * [Reference Parsing](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/reference-parsing.md)
-  * [R for PubMed](bibliometrics/bibliography-impact-factor-and-citations/data-and-tools-for-bibliographic-analysis/r-for-pubmed.md)
+* [Bibliography, Impact Factor, and Citations](bibliometrics/bibliography-impact-factor-and-citations.md)
+* [Research Articles](bibliometrics/research-articles.md)
+* [Data And Tools For Bibliographic Analysis](bibliometrics/data-and-tools-for-bibliographic-analysis/README.md)
+  * [VOSviewer](bibliometrics/data-and-tools-for-bibliographic-analysis/vosviewer.md)
+  * [CitNetExplorer](bibliometrics/data-and-tools-for-bibliographic-analysis/citnetexplorer.md)
+  * [Sci2Tool](bibliometrics/data-and-tools-for-bibliographic-analysis/sci2tool.md)
+  * [CiteSpace](bibliometrics/data-and-tools-for-bibliographic-analysis/citespace.md)
+  * [Reference Parsing](bibliometrics/data-and-tools-for-bibliographic-analysis/reference-parsing.md)
+  * [R for PubMed](bibliometrics/data-and-tools-for-bibliographic-analysis/r-for-pubmed.md)
 * [Problems in Bibliometric Analysis](bibliometrics/problems-in-bibliometric-analysis.md)
 
 ## Pathology Meetings
@@ -350,11 +347,11 @@
 * [Lecture Preperation](computers/lecture-preperation.md)
 * [Links](computers/links.md)
 
-## Games
+## Games <a id="games-1"></a>
 
-* [Go](games/go.md)
-* [Chess](games/chess.md)
-* [Eyewire](games/eyewire.md)
+* [Go](games-1/go.md)
+* [Chess](games-1/chess.md)
+* [Eyewire](games-1/eyewire.md)
 
 ## Appendix
 
@@ -363,7 +360,4 @@
 * [Books](appendix/books.md)
 * [Web Pages](appendix/web-pages.md)
 * [Videos](appendix/videos.md)
-
-
-
 
