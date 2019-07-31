@@ -16,8 +16,6 @@ _Serdar Balcı, MD, Pathologist_
 
 [Follow @serdarbalci](https://twitter.com/serdarbalci)
 
-
-
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sbalci/ParaPathology/issues) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sbalci) [![HitCount](http://hits.dwyl.io/sbalci/ParaPathology.svg)](http://hits.dwyl.io/sbalci/ParaPathology)
 
 [https://www.serdarbalci.com/p/cv-ozgecmis.html](https://www.serdarbalci.com/p/cv-ozgecmis.html)
@@ -59,3 +57,4 @@ I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequen
 {% embed url="https://twitter.com/serdarbalci/status/1156651692949196800" caption="" %}
 
 {% embed url="https://twitter.com/serdarbalci/status/1156678529888727041" caption="" %}
+
