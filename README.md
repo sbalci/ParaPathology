@@ -56,3 +56,6 @@ I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequen
 
 {% embed url="https://twitter.com/serdarbalci/status/1140262183072403456" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1156651692949196800" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1156678529888727041" caption="" %}
