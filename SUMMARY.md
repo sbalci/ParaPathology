@@ -102,9 +102,7 @@
 ## Carcinogenesis, Hallmarks of Cancer
 
 * [Carcinogenesis, Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/carcinogenesis-hallmarks-of-cancer.md)
-* [Carcinogenesis](carcinogenesis-hallmarks-of-cancer/carcinogenesis.md)
 * [HPV](carcinogenesis-hallmarks-of-cancer/hpv.md)
-* [Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/hallmarks-of-cancer.md)
 
 ## Computational, Digital & Mathematical Pathology
 
