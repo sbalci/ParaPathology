@@ -5,14 +5,9 @@
 ### Pathology Hashtags
 
 * [https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash)
-
 * [https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash)
-
 * [https://twitter.com/search?f=tweets&q=%23rstats&src=typd](https://twitter.com/search?f=tweets&q=%23rstats&src=typd)
-
 * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
-
-
 * Gross pathology
 
 \#Grosspath
@@ -232,7 +227,6 @@ A cognitive study is necessary
 Laptops Are Great. But Not During a Lecture or a Meeting
 
 [https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)
-
 
 ## Guidelines
 

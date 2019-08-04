@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="awZVPgHuD42TSWyio7myo6rXE-10o59g5sfTPWxWiqM" />
-
 # Preface
 
 ## \(Para\) Pathology Notes
@@ -62,4 +60,3 @@ I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequen
 
 {% embed url="https://twitter.com/serdarbalci/status/1156961597333671936" caption="" %}
 
-{% embed url="" caption="" %}

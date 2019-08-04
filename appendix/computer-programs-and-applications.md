@@ -1,7 +1,5 @@
 # Computer Programs and Applications
 
-
-
 * **ReadCube**
 
 [https://www.readcube.com/home?r\_c=zReb8](https://www.readcube.com/home?r_c=zReb8)
