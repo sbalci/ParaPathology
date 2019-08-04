@@ -337,7 +337,6 @@
 * [Lecture Preperation](computers/lecture-preperation.md)
 * [Links](computers/links.md)
 
-
 ## Games
 
 * [Games](games/games.md)
@@ -345,8 +344,6 @@
 * [Chess](games/chess/README.md)
   * [Satranç](games/chess/satranc.md)
   * [Videos](games/chess/videos.md)
-
-
 
 ## Appendix
 

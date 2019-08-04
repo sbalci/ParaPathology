@@ -4,12 +4,23 @@
 
 ### Tıbbi Otopsi
 
-https://sites.google.com/view/patolojinotlari/tibbi-otopsi-adli-otopsi
+{% embed url="https://sites.google.com/view/patolojinotlari/tibbi-otopsi-adli-otopsi" %}
+
+
 
 ### Adli Otopsi
 
-https://sites.google.com/view/patolojinotlari/tibbi-otopsi-adli-otopsi
+{% embed url="https://sites.google.com/view/patolojinotlari/tibbi-otopsi-adli-otopsi" %}
+
+
 
 ### Pediatrik Otopsi
 
-https://sites.google.com/view/patolojinotlari/tibbi-otopsi-adli-otopsi/pediatrik-otopsi
+{% embed url="https://sites.google.com/view/patolojinotlari/tibbi-otopsi-adli-otopsi/pediatrik-otopsi" %}
+
+## Autopsy: The Opening Of The Pericardium
+
+{% embed url="https://www.youtube.com/watch?v=OBwjEOkge4k" %}
+
+
+
