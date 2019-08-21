@@ -340,6 +340,7 @@
 ## Games
 
 * [Games](games/games.md)
+* [Eyewire](games/eyewire.md)
 * [Go](games/go.md)
 * [Chess](games/chess/README.md)
   * [Satranç](games/chess/satranc.md)
