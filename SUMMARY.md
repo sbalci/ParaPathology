@@ -303,6 +303,7 @@
 * [Bibliography, Impact Factor, and Citations](bibliometrics/bibliography-impact-factor-and-citations.md)
 * [Research Articles](bibliometrics/research-articles.md)
 * [Data And Tools For Bibliographic Analysis](bibliometrics/data-and-tools-for-bibliographic-analysis/README.md)
+  * [Data and Tools](bibliometrics/data-and-tools-for-bibliographic-analysis/data-and-tools.md)
   * [VOSviewer](bibliometrics/data-and-tools-for-bibliographic-analysis/vosviewer.md)
   * [CitNetExplorer](bibliometrics/data-and-tools-for-bibliographic-analysis/citnetexplorer.md)
   * [Sci2Tool](bibliometrics/data-and-tools-for-bibliographic-analysis/sci2tool.md)
@@ -310,6 +311,7 @@
   * [Reference Parsing](bibliometrics/data-and-tools-for-bibliographic-analysis/reference-parsing.md)
   * [R for PubMed](bibliometrics/data-and-tools-for-bibliographic-analysis/r-for-pubmed.md)
 * [Problems in Bibliometric Analysis](bibliometrics/problems-in-bibliometric-analysis.md)
+* [Freecite](bibliometrics/freecite.md)
 
 ## Pathology Meetings
 
