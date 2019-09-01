@@ -1,6 +1,8 @@
 # Web Pages
 
-# Appendix : Suggested Web Pages
+## Web Pages
+
+## Appendix : Suggested Web Pages
 
 [http://www.uscap.org/](http://www.uscap.org/)
 
@@ -60,7 +62,5 @@
 
 [http://www.essentialpathology.info/](http://www.essentialpathology.info/)
 
-https://figshare.com/
-
-
+[https://figshare.com/](https://figshare.com/)
 
