@@ -353,4 +353,5 @@
 * [Books](appendix/books.md)
 * [Web Pages](appendix/web-pages.md)
 * [Videos](appendix/videos.md)
+* [Merged](appendix/merged.md)
 
