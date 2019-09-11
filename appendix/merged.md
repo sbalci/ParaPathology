@@ -19896,95 +19896,13 @@ https://sci2.cns.iu.edu/user/index.php
 
 # SEER
 
-* Understanding and using sensitivity, specificity and predictive values
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/)
-
-* Combining 2 Tests
-
-[http://www.epidemiolog.net/studymat/SensSpecPV.xls](http://www.epidemiolog.net/studymat/SensSpecPV.xls)
-
-* Sensitivity and specificity of multiple tests
-
-[https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests](https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests)
-
-* Final Sensitivity and Specificity of Different Test Combinations in Screening
-
-http://ibimapublishing.com/articles/JMED/2014/558523/558523.pdf
 
 
 
-* Understanding and using sensitivity, specificity and predictive values
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/)
-
-* Combining 2 Tests
-
-[http://www.epidemiolog.net/studymat/SensSpecPV.xls](http://www.epidemiolog.net/studymat/SensSpecPV.xls)
-
-* Sensitivity and specificity of multiple tests
-
-[https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests](https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests)
-
-* Final Sensitivity and Specificity of Different Test Combinations in Screening
-
-http://ibimapublishing.com/articles/JMED/2014/558523/558523.pdf
+---
 
 
-
-* Understanding and using sensitivity, specificity and predictive values
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/)
-
-* Combining 2 Tests
-
-[http://www.epidemiolog.net/studymat/SensSpecPV.xls](http://www.epidemiolog.net/studymat/SensSpecPV.xls)
-
-* Sensitivity and specificity of multiple tests
-
-[https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests](https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests)
-
-* Final Sensitivity and Specificity of Different Test Combinations in Screening
-
-http://ibimapublishing.com/articles/JMED/2014/558523/558523.pdf
-
-
-
-* Understanding and using sensitivity, specificity and predictive values
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/)
-
-* Combining 2 Tests
-
-[http://www.epidemiolog.net/studymat/SensSpecPV.xls](http://www.epidemiolog.net/studymat/SensSpecPV.xls)
-
-* Sensitivity and specificity of multiple tests
-
-[https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests](https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests)
-
-* Final Sensitivity and Specificity of Different Test Combinations in Screening
-
-http://ibimapublishing.com/articles/JMED/2014/558523/558523.pdf
-
-
-
-# Sensitivity, Specificity, Predictive Values & Decision Making
-
-* Understanding and using sensitivity, specificity and predictive values
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636062/)
-
-* Combining 2 Tests
-
-[http://www.epidemiolog.net/studymat/SensSpecPV.xls](http://www.epidemiolog.net/studymat/SensSpecPV.xls)
-
-* Sensitivity and specificity of multiple tests
-
-[https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests](https://radiopaedia.org/articles/sensitivity-and-specificity-of-multiple-tests)
-
-* Final Sensitivity and Specificity of Different Test Combinations in Screening
-
-[http://ibimapublishing.com/articles/JMED/2014/558523/558523.pdf](http://ibimapublishing.com/articles/JMED/2014/558523/558523.pdf)
 
 * https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash
 
@@ -25664,8 +25582,4 @@ https://link.springer.com/article/10.1007/s00428-018-2321-5
 * Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
 
 https://link.springer.com/article/10.1007/s00428-018-2321-5
-
-* 
-
-# Whipple Macroscopy
 
