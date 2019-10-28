@@ -9,10 +9,13 @@
 
 ## Medical School Lectures
 
-* [Medical School Lectures](medical-school-lectures/medical-school-lectures.md)
+* [Medical School Lectures](medical-school-lectures/medical-school-lectures/README.md)
+  * [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
 * [General Pathology](medical-school-lectures/general-pathology/README.md)
   * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
+  * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md)
+  * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
@@ -42,8 +45,8 @@
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
   * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
     * [Malignant Colorectal Polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
-    * [Neuropathology](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/neuropathology.md)
-* [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
+* [Neuropathology](systemic-pathology/neuropathology/README.md)
+  * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/neuropathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
 * [Approach to Soft Tissue Tumors](systemic-pathology/approach-to-soft-tissue-tumors.md)
 * [Approach to Liver Biopsies](systemic-pathology/approach-to-liver-biopsies.md)
 * [Pancreas](systemic-pathology/pancreas.md)
@@ -355,5 +358,4 @@
 * [Books](appendix/books.md)
 * [Web Pages](appendix/web-pages.md)
 * [Videos](appendix/videos.md)
-* [Merged](appendix/merged.md)
 
