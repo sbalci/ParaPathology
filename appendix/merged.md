@@ -1,75 +1,3 @@
-
-# R project
-
-* R Package Documentation
-
-[https://rdrr.io/](https://rdrr.io/)
-
-* Snippets Run any R code you like
-
-[https://rdrr.io/snippets/](https://rdrr.io/snippets/)
-
-* Getting R and Java 1.8 to work together on OSX
-
-[http://conjugateprior.org/2014/12/r-java8-osx/](http://conjugateprior.org/2014/12/r-java8-osx/)
-
-* [**rJava load error in RStudio/R after “upgrading” to OSX Yosemite**](http://stackoverflow.com/questions/30738974/rjava-load-error-in-rstudio-r-after-upgrading-to-osx-yosemite)
-
-[http://stackoverflow.com/questions/30738974/rjava-load-error-in-rstudio-r-after-upgrading-to-osx-yosemite/31039105](http://stackoverflow.com/questions/30738974/rjava-load-error-in-rstudio-r-after-upgrading-to-osx-yosemite/31039105)
-
-* Jamovi is an open source R based statistics program with "clickable" interface.
-
-[https://www.jamovi.org/](https://t.co/cOmH9PucqI)
-
-* R commander \(Rcmdr\)
-
-[http://www.rcommander.com/](http://www.rcommander.com/)
-
-[https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
-
-* JASP is another R based statistical open source software, also has Bayesian features
-
-[https://jasp-stats.org/](https://jasp-stats.org/)
-
-* RKWard
-
-[https://rkward.kde.org/](https://rkward.kde.org/)
-
-* The MacPorts Project Official Homepage
-
-[https://www.macports.org](https://www.macports.org)
-
-* How to install and use MacPorts
-
-[http://blog.kicaj.com/installing-macports/](http://blog.kicaj.com/installing-macports/)
-
-* Rattle: A Graphical User Interface for Data Mining using R
-
-[https://rattle.togaware.com](https://rattle.togaware.com)
-
-[http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)
-
-# Stains
-
-
-# Public Health
-
-# Guidelines
-
-# Computational, Digital & Mathematical Pathology
-
-# Stains
-
-# Immunohistochemistry
-
-# Text Mining General
-
-# Nöropatoloji
-
-# Treatment
-
-# Pathology of CNS
-
 # The Mechanisms of Cell Death, Apoptosis, and Autophagy
 
 Last updated:01.05.2015
@@ -164,42 +92,6 @@ References:
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 
-# General Pathology
-
-# Laboratory Lectures
-
-# The Mechanisms of Cell Death, Apoptosis, and Autophagy
-
-# Bibliography, Impact Factor, and Citations
-
-# Data And Tools For Bibliographic Analysis
-
-# Histochemistry
-
-# Immunohistochemistry
-
-# R project
-
-# Macroscopy
-
-# Macroscopy
-
-* 
-# Machine Learning
-
-# Hematoxylin & Eosin
-
-# Gynecological Pathology
-
-# Colon and Rectum
-
-# Gastrointestinal Pathology
-
-# Survival Analysis
-
-# Tools for Data Analysis and Visualisation
-
-# Statistics and Pathology
 
 # About Pathology Lectures
 
@@ -240,22 +132,14 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
 17. The Biology of Cancer Robert A. Weinberg
 
-# Uropathology
 
-# Treatment
-
-# Science
-
-
-# Introduction to Pathology
-# Medical School Lectures
 
 
 # Nöropatoloji
 
 [https://www.youtube.com/watch?v=2gNjnwlwQ20](https://www.youtube.com/watch?v=2gNjnwlwQ20)
 
-# Pathology Laboratory How it works
+
 
 # The Mechanisms of Cell Death, Apoptosis, and Autophagy
 
@@ -443,11 +327,11 @@ EXECUTE.
 
 Laerd Statistics \(2016\). Chi-square test for association using SPSS Statistics. _Statistical tutorials and software guides_. Retrieved from [https://statistics.laerd.com/](https://statistics.laerd.com/)
 
-## Spaghetti Plot in SPSS - The Easy Way
+# Spaghetti Plot in SPSS - The Easy Way
 
 [https://www.youtube.com/watch?v=TGCU0SIZMhU](https://www.youtube.com/watch?v=TGCU0SIZMhU)
 
-## SPSS Repeated Measures ANOVA <a id="main-title"></a>
+# SPSS Repeated Measures ANOVA <a id="main-title"></a>
 
 [https://www.spss-tutorials.com/repeated-measures-anova/](https://www.spss-tutorials.com/repeated-measures-anova/)
 
@@ -836,20 +720,8 @@ Arch Pathol Lab Med. 2017 May 30.  PMID: 28557614 DOI: [10.5858/arpa.2016-0386-R
 
 Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA)
 
-# Academics General
-
-* Access 2013 videos and tutorials
-
-https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10EA-D5F4-40C5-8B37-D254561F8BCE
-
-* 
 
 
-* Access 2013 videos and tutorials
-
-https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10EA-D5F4-40C5-8B37-D254561F8BCE
-
-* 
 
 
 # Access
@@ -858,7 +730,7 @@ https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10
 
 [https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10EA-D5F4-40C5-8B37-D254561F8BCE](https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10EA-D5F4-40C5-8B37-D254561F8BCE)
 
-* 
+
 * Patoloji'de akreditasyona gazetecilerin katkısı
 
 Patoloji'de akreditasyona gazetecilerin katkısı üzerine de düşünmek lazım.
@@ -952,11 +824,11 @@ Belki de son zamanlarda çıkan haberlere reaksiyon göstermek yerine gerginliğ
 
 [https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
 
-## Alluvial Diagrams with ggforce
+# Alluvial Diagrams with ggforce
 
 [http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
 
-## Alluvial Diagrams in ggplot2
+# Alluvial Diagrams in ggplot2
 
 [http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html](http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html)
 
@@ -1022,11 +894,11 @@ http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html
 
 [https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
 
-## Alluvial Diagrams with ggforce
+# Alluvial Diagrams with ggforce
 
 [http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
 
-## Alluvial Diagrams in ggplot2
+# Alluvial Diagrams in ggplot2
 
 [http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html](http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html)
 
@@ -1634,41 +1506,41 @@ http://bioconductor.org/
 
 # Bone
 
-* ## The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
+* # The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
 
 [https://www.youtube.com/watch?v=d8MaqvjKmqY](https://www.youtube.com/watch?v=d8MaqvjKmqY)
 
-* ## Recurrent problems in Breast Pathology
+* # Recurrent problems in Breast Pathology
 
 [https://www.facebook.com/TheUSCAP/videos/1637583032933514/](https://www.facebook.com/TheUSCAP/videos/1637583032933514/)
 
 
 
-* ## The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
+* # The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
 
 [https://www.youtube.com/watch?v=d8MaqvjKmqY](https://www.youtube.com/watch?v=d8MaqvjKmqY)
 
-* ## Recurrent problems in Breast Pathology
+* # Recurrent problems in Breast Pathology
 
 [https://www.facebook.com/TheUSCAP/videos/1637583032933514/](https://www.facebook.com/TheUSCAP/videos/1637583032933514/)
 
 
 
-* ## The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
+* # The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
 
 [https://www.youtube.com/watch?v=d8MaqvjKmqY](https://www.youtube.com/watch?v=d8MaqvjKmqY)
 
-* ## Recurrent problems in Breast Pathology
+* # Recurrent problems in Breast Pathology
 
 [https://www.facebook.com/TheUSCAP/videos/1637583032933514/](https://www.facebook.com/TheUSCAP/videos/1637583032933514/)
 
 
 
-* ## The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
+* # The Maude Abbott Lecture 2016 - Presented by Dr. Stuart Schnitt
 
 [https://www.youtube.com/watch?v=d8MaqvjKmqY](https://www.youtube.com/watch?v=d8MaqvjKmqY)
 
-* ## Recurrent problems in Breast Pathology
+* # Recurrent problems in Breast Pathology
 
 [https://www.facebook.com/TheUSCAP/videos/1637583032933514/](https://www.facebook.com/TheUSCAP/videos/1637583032933514/)
 
@@ -1680,23 +1552,23 @@ http://bioconductor.org/
 
 # CAP
 
-### CAP Cancer Protocols
+# CAP Cancer Protocols
 
 [http://www.cap.org/cancerprotocols](http://www.cap.org/cancerprotocols)
 
-### Current CAP Guidelines
+# Current CAP Guidelines
 
 [http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines](http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines)
 
-## International Collaboration on Cancer Reporting <a id="title"></a>
+# International Collaboration on Cancer Reporting <a id="title"></a>
 
 [http://www.iccr-cancer.org/datasets](http://www.iccr-cancer.org/datasets)
 
-### CAP Cancer Protocols
+# CAP Cancer Protocols
 
 [http://www.cap.org/cancerprotocols](http://www.cap.org/cancerprotocols)
 
-### Current CAP Guidelines
+# Current CAP Guidelines
 
 [http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines](http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines)
 
@@ -1706,11 +1578,11 @@ http://www.iccr-cancer.org/datasets
 
 
 
-### CAP Cancer Protocols
+# CAP Cancer Protocols
 
 [http://www.cap.org/cancerprotocols](http://www.cap.org/cancerprotocols)
 
-### Current CAP Guidelines
+# Current CAP Guidelines
 
 [http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines](http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines)
 
@@ -1720,11 +1592,11 @@ http://www.iccr-cancer.org/datasets
 
 
 
-### CAP Cancer Protocols
+# CAP Cancer Protocols
 
 [http://www.cap.org/cancerprotocols](http://www.cap.org/cancerprotocols)
 
-### Current CAP Guidelines
+# Current CAP Guidelines
 
 [http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines](http://www.cap.org/web/home/resources/cap-guidelines/current-cap-guidelines)
 
@@ -3227,7 +3099,7 @@ Slides:
 
 # Cluster Analysis
 
-## Hierarchical Clustering
+# Hierarchical Clustering
 
 [https://www.youtube.com/watch?v=EUQY3hL38cw&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=9](https://www.youtube.com/watch?v=EUQY3hL38cw&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=9)
 
@@ -3235,15 +3107,15 @@ Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but 
 
 [https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
 
-### Clustering with categorical variables
+# Clustering with categorical variables
 
 [https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/](https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/)
 
-## Hierarchical Cluster Analysis SPSS
+# Hierarchical Cluster Analysis SPSS
 
 [https://www.youtube.com/watch?v=bMH-aHNlhBA](https://www.youtube.com/watch?v=bMH-aHNlhBA)
 
-## Cluster analysis of immunohistochemical markers in leiomyosarcoma delineates specific anatomic and gender subgroups
+# Cluster analysis of immunohistochemical markers in leiomyosarcoma delineates specific anatomic and gender subgroups
 
 [http://onlinelibrary.wiley.com/doi/10.1002/cncr.24486/full](http://onlinelibrary.wiley.com/doi/10.1002/cncr.24486/full)
 
@@ -3259,7 +3131,7 @@ Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but 
 
 [https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
 
-## Clustering with categorical variables
+# Clustering with categorical variables
 
 [https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/](https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/)
 
@@ -3283,7 +3155,7 @@ Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but 
 
 [https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
 
-## Clustering with categorical variables
+# Clustering with categorical variables
 
 [https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/](https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/)
 
@@ -3307,7 +3179,7 @@ Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but 
 
 [https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
 
-## Clustering with categorical variables
+# Clustering with categorical variables
 
 [https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/](https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/)
 
@@ -3325,7 +3197,7 @@ http://mev.tm4.org/\#/welcome
 
 # Cluster Analysis
 
-## Hierarchical Clustering
+# Hierarchical Clustering
 
 [https://www.youtube.com/watch?v=EUQY3hL38cw&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=9](https://www.youtube.com/watch?v=EUQY3hL38cw&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=9)
 
@@ -3333,15 +3205,15 @@ Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but 
 
 [https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
 
-### Clustering with categorical variables
+# Clustering with categorical variables
 
 [https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/](https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/)
 
-## Hierarchical Cluster Analysis SPSS
+# Hierarchical Cluster Analysis SPSS
 
 [https://www.youtube.com/watch?v=bMH-aHNlhBA](https://www.youtube.com/watch?v=bMH-aHNlhBA)
 
-## Cluster analysis of immunohistochemical markers in leiomyosarcoma delineates specific anatomic and gender subgroups
+# Cluster analysis of immunohistochemical markers in leiomyosarcoma delineates specific anatomic and gender subgroups
 
 [http://onlinelibrary.wiley.com/doi/10.1002/cncr.24486/full](http://onlinelibrary.wiley.com/doi/10.1002/cncr.24486/full)
 
@@ -3604,7 +3476,7 @@ CompPath Dr. Shikhar Uttam, Ph.D. Lecture \(April 14th 2017\)
 
 [https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html](https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html)
 
-> ## **Part 3. Batch Convert Word to PDF with Google Drive**
+> # **Part 3. Batch Convert Word to PDF with Google Drive**
 >
 > * **Step 1:**
 >
@@ -3714,7 +3586,7 @@ Screen recording gif
 
 [https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html](https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html)
 
-> ## **Part 3. Batch Convert Word to PDF with Google Drive**
+> # **Part 3. Batch Convert Word to PDF with Google Drive**
 >
 > * **Step 1:**
 >    Set your Google Drive settings to convert uploads to Google Docs format.
@@ -3801,7 +3673,7 @@ https://www.simoahava.com/gtm-tips/add-google-tag-manager-to-your-blogger-blog/
 
 [https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html](https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html)
 
-> ## **Part 3. Batch Convert Word to PDF with Google Drive**
+> # **Part 3. Batch Convert Word to PDF with Google Drive**
 >
 > * **Step 1:**
 >    Set your Google Drive settings to convert uploads to Google Docs format.
@@ -3926,7 +3798,7 @@ https://support.apple.com/en-us/HT202945
 
 [https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html](https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html)
 
-> ## **Part 3. Batch Convert Word to PDF with Google Drive**
+> # **Part 3. Batch Convert Word to PDF with Google Drive**
 >
 > * **Step 1:**
 >    Set your Google Drive settings to convert uploads to Google Docs format.
@@ -4013,7 +3885,7 @@ https://www.simoahava.com/gtm-tips/add-google-tag-manager-to-your-blogger-blog/
 
 [https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html](https://pdf.iskysoft.com/create-pdf/how-to-batch-convert-word-to-pdf.html)
 
-> ## **Part 3. Batch Convert Word to PDF with Google Drive**
+> # **Part 3. Batch Convert Word to PDF with Google Drive**
 >
 > * **Step 1:**
 >    Set your Google Drive settings to convert uploads to Google Docs format.
@@ -4142,7 +4014,7 @@ Association of Directors of Anatomic and Surgical Pathology. Critical diagnoses 
 
 [http://www.eurocytology.eu/en/course/3](http://www.eurocytology.eu/en/course/3)
 
-## Bethesda System for Reporting Gynecologic Cytology Online Atlas
+# Bethesda System for Reporting Gynecologic Cytology Online Atlas
 
 https://bethesda.soc.wisc.edu/
 
@@ -4928,7 +4800,7 @@ PubMed - NCBI https://www.ncbi.nlm.nih.gov/pubmed/31351825
 >
 > [`SUMPRODUCT(array1, [array2, ...])`](https://support.google.com/docs/answer/3094294)
 
-* ## Ten Simple Rules for Better Figures
+* # Ten Simple Rules for Better Figures
 
 [**Ten Simple Rules for Better Figures**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)  
 Rougier NP, Droettboom M, Bourne PE \(2014\) Ten Simple Rules for Better Figures. PLOS Computational Biology 10\(9\): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
@@ -4949,7 +4821,7 @@ https://biorender.io/
 
 
 
-* ## Ten Simple Rules for Better Figures
+* # Ten Simple Rules for Better Figures
 
 [**Ten Simple Rules for Better Figures**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)  
 Rougier NP, Droettboom M, Bourne PE \(2014\) Ten Simple Rules for Better Figures. PLOS Computational Biology 10\(9\): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
@@ -5358,7 +5230,7 @@ The Practice of Surgical Pathology A Beginner’s Guide to the Diagnostic Proces
 
 
 
-### Patoloji Dernekleri Federasyonu Dokümanlar
+# Patoloji Dernekleri Federasyonu Dokümanlar
 
 [http://www.turkpath.org.tr/content.php?id=73](http://www.turkpath.org.tr/content.php?id=73)
 
@@ -5500,7 +5372,7 @@ The Practice of Surgical Pathology A Beginner’s Guide to the Diagnostic Proces
 
 
 
-### Patoloji Dernekleri Federasyonu Dokümanlar
+# Patoloji Dernekleri Federasyonu Dokümanlar
 
 [http://www.turkpath.org.tr/content.php?id=73](http://www.turkpath.org.tr/content.php?id=73)
 
@@ -5642,7 +5514,7 @@ The Practice of Surgical Pathology A Beginner’s Guide to the Diagnostic Proces
 
 
 
-### Patoloji Dernekleri Federasyonu Dokümanlar
+# Patoloji Dernekleri Federasyonu Dokümanlar
 
 [http://www.turkpath.org.tr/content.php?id=73](http://www.turkpath.org.tr/content.php?id=73)
 
@@ -5784,7 +5656,7 @@ The Practice of Surgical Pathology A Beginner’s Guide to the Diagnostic Proces
 
 
 
-### Patoloji Dernekleri Federasyonu Dokümanlar
+# Patoloji Dernekleri Federasyonu Dokümanlar
 
 [http://www.turkpath.org.tr/content.php?id=73](http://www.turkpath.org.tr/content.php?id=73)
 
@@ -5925,7 +5797,7 @@ filemaker-otomatik-vaka-bulma-isaretleme
 
 The Practice of Surgical Pathology A Beginner’s Guide to the Diagnostic Process
 
-## Patoloji Dernekleri Federasyonu Dokümanlar
+# Patoloji Dernekleri Federasyonu Dokümanlar
 
 [http://www.turkpath.org.tr/content.php?id=73](http://www.turkpath.org.tr/content.php?id=73)
 
@@ -6242,11 +6114,11 @@ https://cran.r-project.org/web/packages/googleVis/vignettes/Using\_Roles\_via\_g
 
 [https://cran.r-project.org/web/packages/googleVis/vignettes/Using\_Roles\_via\_googleVis.html](https://cran.r-project.org/web/packages/googleVis/vignettes/Using_Roles_via_googleVis.html)
 
-### Guidelines for Pathology
+# Guidelines for Pathology
 
 
 
-### Guidelines for Pathology
+# Guidelines for Pathology
 
 
 
@@ -6401,7 +6273,7 @@ http://www.independent.co.uk/news/business/the-27-jobs-most-damaging-to-your-hea
 
 # Hematoxylin and Eosin
 
-## Hematoxylin: Mesoamerica's Gift to Histopathology. Palo de Campeche \(Logwood Tree\), Pirates' Most Desired Treasure, and Irreplaceable Tissue Stain.
+# Hematoxylin: Mesoamerica's Gift to Histopathology. Palo de Campeche \(Logwood Tree\), Pirates' Most Desired Treasure, and Irreplaceable Tissue Stain.
 
 
 [https://www.ncbi.nlm.nih.gov/pubmed/30001639](https://www.ncbi.nlm.nih.gov/pubmed/30001639)
@@ -6417,7 +6289,7 @@ http://www.independent.co.uk/news/business/the-27-jobs-most-damaging-to-your-hea
 # Histochemistry
 
 
-## Aberrant staining with Grocott's methenamine silver: utility beyond fungal organisms
+# Aberrant staining with Grocott's methenamine silver: utility beyond fungal organisms
 
 
 [https://www.sciencedirect.com/science/article/pii/S221329451730039X](https://www.sciencedirect.com/science/article/pii/S221329451730039X)
@@ -6527,7 +6399,7 @@ Distile su 900 ml
 Monobazik sodyum fosfat 4 gr  
 Dibazik sodyum fosfat 6.5 gr
 
-## An Introduction to the Centrifuge
+# An Introduction to the Centrifuge
 
 [https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge](https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge)
 
@@ -6959,20 +6831,20 @@ Statistical Problems to Document and to Avoid Manuscript Checklist for Authors
 
 Aslında bir "eski tümöre yeni boya" olarak adlandırılan ve sık yapılan bir çalışma türünü inceleyeceğiz. Bunun için yapılacak ilk iş çalışılacak tümörle ilgili CAP protokolünü dikkatlice okumaktır. CAP protokollerinin özellikle not ve açıklama kısımlarındaki detaylar çok faydalı olacaktır. Bundan sonra bir boş kağıt alıp CAP protokolünde raporda belirtilmesi gereken konular maddeler halinde sıralanmalıdır. Bu maddeler çalışmanın tasarlamasından, analizine, yorumuna ve tartışmasına çok yardımcı olacaktır.
 
-* ## Temiz veri için dikkat edilmesi gereken kurallar:
+* # Temiz veri için dikkat edilmesi gereken kurallar:
 * Her satır tek hasta
 
 * Her sütun tek bilgi
 
 * Her bilgi tek bir şekilde ifade edilecek
 
-* ## Verinin girileceği bilgisayar programı
+* # Verinin girileceği bilgisayar programı
 
 Aynı değerin farklı şekilde yazılması
 
 Veri hazırlamak için excel ya da filemaker kullanılmasını öneririm.
 
-* ## Vaka numarası
+* # Vaka numarası
 
 Çalışmaya kaç vaka alınacak?
 
@@ -6980,7 +6852,7 @@ Her değişken için 10 vaka?
 
 Vakaların seçilme şekli: Gelişigüzel? Randomize? Birbirini takip eden \(consequative\)
 
-* ## Yıl
+* # Yıl
 
 Hangi yıl aralığı tercih edilmeli?
 
@@ -6990,32 +6862,32 @@ Bir klinikten çıkan vaka sayısı da o klinikte bu işin ne kadar ciddi yapıl
 
 İmmünohistokimya için eski vakalar mı tercih edilecek yeni vakalar mı?
 
-* ## Biyopsi No
-* ## TC Kimlik, Hasta No, Ad Soyad
+* # Biyopsi No
+* # TC Kimlik, Hasta No, Ad Soyad
 
   * hasta bazlı çalışma vs örnek bazlı çalışma
   * HIPAA kuralları
   * 
-* ## Yaş
+* # Yaş
 
 Yıl, ay
 
 Eğer tümör belli bir yaş aralığında görülüyor, ya da bimodal dağılım gösteriyorsa \(osteosarkom gibi\) bu durumu
 
-* ## Doğum Tarihi
-* ## Cinsiyet
+* # Doğum Tarihi
+* # Cinsiyet
 * 
-* ## Tümör çapı
-* ## T evresi
-* ## N evresi
+* # Tümör çapı
+* # T evresi
+* # N evresi
 
   * **Lenf nodu**
     Direk invazyon
-* ## M evresi
-* ## TNM/AJCC evresi
-* ## Histopatolojik tip
+* # M evresi
+* # TNM/AJCC evresi
+* # Histopatolojik tip
 * 
-* ## **Lenfovasküler İnvazyon \(LVI\)**
+* # **Lenfovasküler İnvazyon \(LVI\)**
 
 Lenfovasküler invazyon çoğu tümör raporlarında belirtilmesi gereken bir özelliktir.
 
@@ -7033,16 +6905,16 @@ Patologların ise yaptıkları çalışmalarda mutlaka tüm vakalara yeniden bak
 
 Lenf nodunda metastaz olan olgularda lenfovasküler invazyonu pozitif olarak kabul etmek uygun değildir. Lenf noduna metastaz yapmanın ayrı peritümöral lenfovasküler invazyon tespit edilmesinin ayrı tümör gelişim basamakları olduğu düşünülmelidir.
 
-* ## **Perinöral \(perinöryal\) invazyon**
-* ## Cerrahi sınır
-* ## Ek hastalık
-* ## İkinci primer
+* # **Perinöral \(perinöryal\) invazyon**
+* # Cerrahi sınır
+* # Ek hastalık
+* # İkinci primer
 
 Birden fazla tümörü olan olgularda klinik gidişi ve sağkalımı diğer tümör etkiliyor olabilir. Sistoprostatektomilerde ürotelyal karsinom sağkalıma, prostat tümörlerinden daha fazla etki edecektir.
 
 Bu vakaların çıkartılması da insidansı etkileyebilir. Bu nedenle çalışmanın tasarımına göre bu vakaları eklemek ya da çıakrtmak gerekecektir.
 
-* ## **İmmünohistokimya**
+* # **İmmünohistokimya**
 
   * Pozitif, negatif
 
@@ -7063,8 +6935,8 @@ Bu vakaların çıkartılması da insidansı etkileyebilir. Bu nedenle çalışm
   * Sonuçları gruplama
 
   * Uygun antikor klonunu seçmek ayrı bir yazı konusu olmalı.
-* ## **Ameliyat şekli**
-* ## Sağkalım
+* # **Ameliyat şekli**
+* # Sağkalım
 
 Sağkalım verisi de hassas bilgilerdendir.
 
@@ -7078,10 +6950,10 @@ Son tarih
 
 Tarih girerken neye dikkat edelim \(İngilizce ve Türkçe farklı tarih formatları\)
 
-* ### Overall survival
-* ### Disease Free Survival
-* ## Vertikal tarama
-* ## Bilinmeyen veriler, Eksik veriler, Missing values
+* # Overall survival
+* # Disease Free Survival
+* # Vertikal tarama
+* # Bilinmeyen veriler, Eksik veriler, Missing values
 
 Her eksik hücre, çok değişkenli analizden o vakanın düşmesine neden olacaktır.
 
@@ -7089,17 +6961,17 @@ Eksik camlar
 
 Eksik verileri excelde kontrol etme
 
-* ## Tek merkez, çok merkezli çalışma
+* # Tek merkez, çok merkezli çalışma
 * # İstatistikçiye sorulması gereken sorular
 
 Çalışmaya başlamadan önce, hangi soruları soracağınızı zaten planlamış olmanız ve buna göre verilerinizi düzenlemiş olmanız gerekir. Yine de çalışma sürerken ve çalışmanın sonunda yeni sorular ve düşünceler ortaya çıkabilir. Sorulacak sorular ve yapılacak analizler için bir ön hazırlık yapmak ve bunları düzgün cümleler halinde kaydetmek önemlidir. Mesela "tümör tipleri ile X protein ekspresyonunu karşılaştırmak istiyorum" bir soru olabilir. Ama daha iyisi "X proteininin ekspresyonunun A tümöründe B tümörüne göre daha fazla olduğunu düşünüyorum, bunun öyle olup olmadığını analiz etmenizi istiyorum" daha da anlaşılır bir soru olacaktır.
 
-* ## Bana p değeri ver
-* ## Hangi istatistik yöntemlerini bilmem lazım
+* # Bana p değeri ver
+* # Hangi istatistik yöntemlerini bilmem lazım
 
 Tıp fakültesinin ilk yıllarında öğrenilen istatistikle ilgili kavramlar yıllar içinde unutuluyor. Elbette herkesin detaylı olarak istatistik metodlarını bilmesine gerek yok. Ancak yine de bir istatistik okuryazarlığının \(statistical literacy\) olmasında fayda var.
 
-* ## 
+* # 
 
 ---
 
@@ -7141,20 +7013,20 @@ Statistical Problems to Document and to Avoid Manuscript Checklist for Authors
 
 Aslında bir "eski tümöre yeni boya" olarak adlandırılan ve sık yapılan bir çalışma türünü inceleyeceğiz. Bunun için yapılacak ilk iş çalışılacak tümörle ilgili CAP protokolünü dikkatlice okumaktır. CAP protokollerinin özellikle not ve açıklama kısımlarındaki detaylar çok faydalı olacaktır. Bundan sonra bir boş kağıt alıp CAP protokolünde raporda belirtilmesi gereken konular maddeler halinde sıralanmalıdır. Bu maddeler çalışmanın tasarlamasından, analizine, yorumuna ve tartışmasına çok yardımcı olacaktır.
 
-* ## Temiz veri için dikkat edilmesi gereken kurallar:
+* # Temiz veri için dikkat edilmesi gereken kurallar:
 * Her satır tek hasta
 
 * Her sütun tek bilgi
 
 * Her bilgi tek bir şekilde ifade edilecek
 
-* ## Verinin girileceği bilgisayar programı
+* # Verinin girileceği bilgisayar programı
 
 Aynı değerin farklı şekilde yazılması
 
 Veri hazırlamak için excel ya da filemaker kullanılmasını öneririm.
 
-* ## Vaka numarası
+* # Vaka numarası
 
 Çalışmaya kaç vaka alınacak?
 
@@ -7162,7 +7034,7 @@ Her değişken için 10 vaka?
 
 Vakaların seçilme şekli: Gelişigüzel? Randomize? Birbirini takip eden \(consequative\)
 
-* ## Yıl
+* # Yıl
 
 Hangi yıl aralığı tercih edilmeli?
 
@@ -7172,32 +7044,32 @@ Bir klinikten çıkan vaka sayısı da o klinikte bu işin ne kadar ciddi yapıl
 
 İmmünohistokimya için eski vakalar mı tercih edilecek yeni vakalar mı?
 
-* ## Biyopsi No
-* ## TC Kimlik, Hasta No, Ad Soyad
+* # Biyopsi No
+* # TC Kimlik, Hasta No, Ad Soyad
 
   * hasta bazlı çalışma vs örnek bazlı çalışma
   * HIPAA kuralları
   * 
-* ## Yaş
+* # Yaş
 
 Yıl, ay
 
 Eğer tümör belli bir yaş aralığında görülüyor, ya da bimodal dağılım gösteriyorsa \(osteosarkom gibi\) bu durumu
 
-* ## Doğum Tarihi
-* ## Cinsiyet
+* # Doğum Tarihi
+* # Cinsiyet
 * 
-* ## Tümör çapı
-* ## T evresi
-* ## N evresi
+* # Tümör çapı
+* # T evresi
+* # N evresi
 
   * **Lenf nodu**
     Direk invazyon
-* ## M evresi
-* ## TNM/AJCC evresi
-* ## Histopatolojik tip
+* # M evresi
+* # TNM/AJCC evresi
+* # Histopatolojik tip
 * 
-* ## **Lenfovasküler İnvazyon \(LVI\)**
+* # **Lenfovasküler İnvazyon \(LVI\)**
 
 Lenfovasküler invazyon çoğu tümör raporlarında belirtilmesi gereken bir özelliktir.
 
@@ -7215,16 +7087,16 @@ Patologların ise yaptıkları çalışmalarda mutlaka tüm vakalara yeniden bak
 
 Lenf nodunda metastaz olan olgularda lenfovasküler invazyonu pozitif olarak kabul etmek uygun değildir. Lenf noduna metastaz yapmanın ayrı peritümöral lenfovasküler invazyon tespit edilmesinin ayrı tümör gelişim basamakları olduğu düşünülmelidir.
 
-* ## **Perinöral \(perinöryal\) invazyon**
-* ## Cerrahi sınır
-* ## Ek hastalık
-* ## İkinci primer
+* # **Perinöral \(perinöryal\) invazyon**
+* # Cerrahi sınır
+* # Ek hastalık
+* # İkinci primer
 
 Birden fazla tümörü olan olgularda klinik gidişi ve sağkalımı diğer tümör etkiliyor olabilir. Sistoprostatektomilerde ürotelyal karsinom sağkalıma, prostat tümörlerinden daha fazla etki edecektir.
 
 Bu vakaların çıkartılması da insidansı etkileyebilir. Bu nedenle çalışmanın tasarımına göre bu vakaları eklemek ya da çıakrtmak gerekecektir.
 
-* ## **İmmünohistokimya**
+* # **İmmünohistokimya**
 
   * Pozitif, negatif
 
@@ -7245,8 +7117,8 @@ Bu vakaların çıkartılması da insidansı etkileyebilir. Bu nedenle çalışm
   * Sonuçları gruplama
 
   * Uygun antikor klonunu seçmek ayrı bir yazı konusu olmalı.
-* ## **Ameliyat şekli**
-* ## Sağkalım
+* # **Ameliyat şekli**
+* # Sağkalım
 
 Sağkalım verisi de hassas bilgilerdendir.
 
@@ -7260,10 +7132,10 @@ Son tarih
 
 Tarih girerken neye dikkat edelim \(İngilizce ve Türkçe farklı tarih formatları\)
 
-* ### Overall survival
-* ### Disease Free Survival
-* ## Vertikal tarama
-* ## Bilinmeyen veriler, Eksik veriler, Missing values
+* # Overall survival
+* # Disease Free Survival
+* # Vertikal tarama
+* # Bilinmeyen veriler, Eksik veriler, Missing values
 
 Her eksik hücre, çok değişkenli analizden o vakanın düşmesine neden olacaktır.
 
@@ -7271,17 +7143,17 @@ Eksik camlar
 
 Eksik verileri excelde kontrol etme
 
-* ## Tek merkez, çok merkezli çalışma
+* # Tek merkez, çok merkezli çalışma
 * # İstatistikçiye sorulması gereken sorular
 
 Çalışmaya başlamadan önce, hangi soruları soracağınızı zaten planlamış olmanız ve buna göre verilerinizi düzenlemiş olmanız gerekir. Yine de çalışma sürerken ve çalışmanın sonunda yeni sorular ve düşünceler ortaya çıkabilir. Sorulacak sorular ve yapılacak analizler için bir ön hazırlık yapmak ve bunları düzgün cümleler halinde kaydetmek önemlidir. Mesela "tümör tipleri ile X protein ekspresyonunu karşılaştırmak istiyorum" bir soru olabilir. Ama daha iyisi "X proteininin ekspresyonunun A tümöründe B tümörüne göre daha fazla olduğunu düşünüyorum, bunun öyle olup olmadığını analiz etmenizi istiyorum" daha da anlaşılır bir soru olacaktır.
 
-* ## Bana p değeri ver
-* ## Hangi istatistik yöntemlerini bilmem lazım
+* # Bana p değeri ver
+* # Hangi istatistik yöntemlerini bilmem lazım
 
 Tıp fakültesinin ilk yıllarında öğrenilen istatistikle ilgili kavramlar yıllar içinde unutuluyor. Elbette herkesin detaylı olarak istatistik metodlarını bilmesine gerek yok. Ancak yine de bir istatistik okuryazarlığının \(statistical literacy\) olmasında fayda var.
 
-* ## 
+* # 
 
 ---
 
@@ -7309,7 +7181,7 @@ https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9
 
 # Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+# Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -7461,7 +7333,7 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+# Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
@@ -7485,7 +7357,7 @@ https://fiji.sc/
 
 # Immunohistochemistry in Gynecological Pathology
 
-## Immunohistochemistry in Gynecologic Pathology: An Example-Based Practical Update
+# Immunohistochemistry in Gynecologic Pathology: An Example-Based Practical Update
 
 Natalia Buza and Pei Hui \(2017\) Immunohistochemistry in Gynecologic Pathology: An Example-Based Practical Update. Archives of Pathology & Laboratory Medicine: August 2017, Vol. 141, No. 8, pp. 1052-1071.
 
@@ -7498,11 +7370,11 @@ Natalia Buza and Pei Hui \(2017\) Immunohistochemistry in Gynecologic Pathology:
 
 # Immunohistochemistry Quantification
 
-## Immunohistochemistry quantification by a digital computer-assisted method compared to semiquantitative analysis.
+# Immunohistochemistry quantification by a digital computer-assisted method compared to semiquantitative analysis.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/17072439](https://www.ncbi.nlm.nih.gov/pubmed/17072439)
 
-## From the protein to the graph: how to quantify immunohistochemistry staining of the skin using digital imaging.
+# From the protein to the graph: how to quantify immunohistochemistry staining of the skin using digital imaging.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/18234207](https://www.ncbi.nlm.nih.gov/pubmed/18234207)
 
@@ -7510,15 +7382,15 @@ Quantification of protein expression in cells and cellular subcompartments on im
 
 [http://www.hh.um.es/pdf\_list/Vol\_28/28\_5/Braun-28-605-610-2013.pdf](http://www.hh.um.es/pdf_list/Vol_28/28_5/Braun-28-605-610-2013.pdf)
 
-## Does anyone have a protocol for quantifying IHC images in ImageJ? <a id="yui_3_14_1_1_1513876285181_621"></a>
+# Does anyone have a protocol for quantifying IHC images in ImageJ? <a id="yui_3_14_1_1_1513876285181_621"></a>
 
 [https://www.researchgate.net/post/Does\_anyone\_have\_a\_protocol\_for\_quantifying\_IHC\_images\_in\_ImageJ](https://www.researchgate.net/post/Does_anyone_have_a_protocol_for_quantifying_IHC_images_in_ImageJ)
 
-## Quantification of immunohistochemistry—issues concerning methods, utility and semiquantitative assessment II
+# Quantification of immunohistochemistry—issues concerning methods, utility and semiquantitative assessment II
 
 [http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2559.2006.02513.x/](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2559.2006.02513.x/)
 
-## Quantitative Analysis of Histological Staining and Fluorescence Using ImageJ
+# Quantitative Analysis of Histological Staining and Fluorescence Using ImageJ
 
 [http://onlinelibrary.wiley.com/doi/10.1002/ar.22641/full](http://onlinelibrary.wiley.com/doi/10.1002/ar.22641/full)
 
@@ -7997,7 +7869,7 @@ https://www.medpagetoday.com/blogs/revolutionandrevelation/79274
 
 # Informing Patients About Pathology
 
-## New pathology patient consult program takes off
+# New pathology patient consult program takes off
 
 [http://www.captodayonline.com/new-pathology-patient-consult-program-takes/](http://www.captodayonline.com/new-pathology-patient-consult-program-takes/)
 
@@ -8707,20 +8579,20 @@ Statistical Problems to Document and to Avoid Manuscript Checklist for Authors
 
 Aslında bir "eski tümöre yeni boya" olarak adlandırılan ve sık yapılan bir çalışma türünü inceleyeceğiz. Bunun için yapılacak ilk iş çalışılacak tümörle ilgili CAP protokolünü dikkatlice okumaktır. CAP protokollerinin özellikle not ve açıklama kısımlarındaki detaylar çok faydalı olacaktır. Bundan sonra bir boş kağıt alıp CAP protokolünde raporda belirtilmesi gereken konular maddeler halinde sıralanmalıdır. Bu maddeler çalışmanın tasarlamasından, analizine, yorumuna ve tartışmasına çok yardımcı olacaktır.
 
-* ## Temiz veri için dikkat edilmesi gereken kurallar:
+* # Temiz veri için dikkat edilmesi gereken kurallar:
 * Her satır tek hasta
 
 * Her sütun tek bilgi
 
 * Her bilgi tek bir şekilde ifade edilecek
 
-* ## Verinin girileceği bilgisayar programı
+* # Verinin girileceği bilgisayar programı
 
 Aynı değerin farklı şekilde yazılması
 
 Veri hazırlamak için excel ya da filemaker kullanılmasını öneririm.
 
-* ## Vaka numarası
+* # Vaka numarası
 
 Çalışmaya kaç vaka alınacak?
 
@@ -8728,7 +8600,7 @@ Her değişken için 10 vaka?
 
 Vakaların seçilme şekli: Gelişigüzel? Randomize? Birbirini takip eden \(consequative\)
 
-* ## Yıl
+* # Yıl
 
 Hangi yıl aralığı tercih edilmeli?
 
@@ -8738,32 +8610,32 @@ Bir klinikten çıkan vaka sayısı da o klinikte bu işin ne kadar ciddi yapıl
 
 İmmünohistokimya için eski vakalar mı tercih edilecek yeni vakalar mı?
 
-* ## Biyopsi No
-* ## TC Kimlik, Hasta No, Ad Soyad
+* # Biyopsi No
+* # TC Kimlik, Hasta No, Ad Soyad
 
   * hasta bazlı çalışma vs örnek bazlı çalışma
   * HIPAA kuralları
   * 
-* ## Yaş
+* # Yaş
 
 Yıl, ay
 
 Eğer tümör belli bir yaş aralığında görülüyor, ya da bimodal dağılım gösteriyorsa \(osteosarkom gibi\) bu durumu
 
-* ## Doğum Tarihi
-* ## Cinsiyet
+* # Doğum Tarihi
+* # Cinsiyet
 * 
-* ## Tümör çapı
-* ## T evresi
-* ## N evresi
+* # Tümör çapı
+* # T evresi
+* # N evresi
 
   * **Lenf nodu**
     Direk invazyon
-* ## M evresi
-* ## TNM/AJCC evresi
-* ## Histopatolojik tip
+* # M evresi
+* # TNM/AJCC evresi
+* # Histopatolojik tip
 * 
-* ## **Lenfovasküler İnvazyon \(LVI\)**
+* # **Lenfovasküler İnvazyon \(LVI\)**
 
 Lenfovasküler invazyon çoğu tümör raporlarında belirtilmesi gereken bir özelliktir.
 
@@ -8781,16 +8653,16 @@ Patologların ise yaptıkları çalışmalarda mutlaka tüm vakalara yeniden bak
 
 Lenf nodunda metastaz olan olgularda lenfovasküler invazyonu pozitif olarak kabul etmek uygun değildir. Lenf noduna metastaz yapmanın ayrı peritümöral lenfovasküler invazyon tespit edilmesinin ayrı tümör gelişim basamakları olduğu düşünülmelidir.
 
-* ## **Perinöral \(perinöryal\) invazyon**
-* ## Cerrahi sınır
-* ## Ek hastalık
-* ## İkinci primer
+* # **Perinöral \(perinöryal\) invazyon**
+* # Cerrahi sınır
+* # Ek hastalık
+* # İkinci primer
 
 Birden fazla tümörü olan olgularda klinik gidişi ve sağkalımı diğer tümör etkiliyor olabilir. Sistoprostatektomilerde ürotelyal karsinom sağkalıma, prostat tümörlerinden daha fazla etki edecektir.
 
 Bu vakaların çıkartılması da insidansı etkileyebilir. Bu nedenle çalışmanın tasarımına göre bu vakaları eklemek ya da çıakrtmak gerekecektir.
 
-* ## **İmmünohistokimya**
+* # **İmmünohistokimya**
 
   * Pozitif, negatif
 
@@ -8811,8 +8683,8 @@ Bu vakaların çıkartılması da insidansı etkileyebilir. Bu nedenle çalışm
   * Sonuçları gruplama
 
   * Uygun antikor klonunu seçmek ayrı bir yazı konusu olmalı.
-* ## **Ameliyat şekli**
-* ## Sağkalım
+* # **Ameliyat şekli**
+* # Sağkalım
 
 Sağkalım verisi de hassas bilgilerdendir.
 
@@ -8826,10 +8698,10 @@ Son tarih
 
 Tarih girerken neye dikkat edelim \(İngilizce ve Türkçe farklı tarih formatları\)
 
-* ### Overall survival
-* ### Disease Free Survival
-* ## Vertikal tarama
-* ## Bilinmeyen veriler, Eksik veriler, Missing values
+* # Overall survival
+* # Disease Free Survival
+* # Vertikal tarama
+* # Bilinmeyen veriler, Eksik veriler, Missing values
 
 Her eksik hücre, çok değişkenli analizden o vakanın düşmesine neden olacaktır.
 
@@ -8837,17 +8709,17 @@ Eksik camlar
 
 Eksik verileri excelde kontrol etme
 
-* ## Tek merkez, çok merkezli çalışma
+* # Tek merkez, çok merkezli çalışma
 * # İstatistikçiye sorulması gereken sorular
 
 Çalışmaya başlamadan önce, hangi soruları soracağınızı zaten planlamış olmanız ve buna göre verilerinizi düzenlemiş olmanız gerekir. Yine de çalışma sürerken ve çalışmanın sonunda yeni sorular ve düşünceler ortaya çıkabilir. Sorulacak sorular ve yapılacak analizler için bir ön hazırlık yapmak ve bunları düzgün cümleler halinde kaydetmek önemlidir. Mesela "tümör tipleri ile X protein ekspresyonunu karşılaştırmak istiyorum" bir soru olabilir. Ama daha iyisi "X proteininin ekspresyonunun A tümöründe B tümörüne göre daha fazla olduğunu düşünüyorum, bunun öyle olup olmadığını analiz etmenizi istiyorum" daha da anlaşılır bir soru olacaktır.
 
-* ## Bana p değeri ver
-* ## Hangi istatistik yöntemlerini bilmem lazım
+* # Bana p değeri ver
+* # Hangi istatistik yöntemlerini bilmem lazım
 
 Tıp fakültesinin ilk yıllarında öğrenilen istatistikle ilgili kavramlar yıllar içinde unutuluyor. Elbette herkesin detaylı olarak istatistik metodlarını bilmesine gerek yok. Ancak yine de bir istatistik okuryazarlığının \(statistical literacy\) olmasında fayda var.
 
-* ## 
+* # 
 
 ---
 
@@ -8875,7 +8747,7 @@ https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9
 
 # Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+# Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -9027,7 +8899,7 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+# Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
@@ -9208,11 +9080,11 @@ https://www.youtube.com/watch?v=M5bEkKD8KYM
 
 [https://www.youtube.com/watch?v=AoujrZBPmL0](https://www.youtube.com/watch?v=AoujrZBPmL0)
 
-## JASP Tutorial: Data Editing
+# JASP Tutorial: Data Editing
 
 [https://www.youtube.com/watch?v=1dT-iAU9Zuc](https://www.youtube.com/watch?v=1dT-iAU9Zuc)
 
-## JASP Tutorial: OSF Support
+# JASP Tutorial: OSF Support
 
 [https://www.youtube.com/watch?v=M5bEkKD8KYM](https://www.youtube.com/watch?v=M5bEkKD8KYM)
 
@@ -12737,15 +12609,15 @@ https://www.facebook.com/media/set/?set=oa.10152030348316603&type=1
 
 # Malignant colorectal polyps
 
-## Malignant colorectal polyps
+# Malignant colorectal polyps
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/)
 
-## Management of malignant colon polyps: Current status and controversies
+# Management of malignant colon polyps: Current status and controversies
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/)
 
-## Haggitt classification <a id="firstHeading"></a>
+# Haggitt classification <a id="firstHeading"></a>
 
 [http://www.ganfyd.org/index.php?title=Haggitt\_classification](http://www.ganfyd.org/index.php?title=Haggitt_classification)
 
@@ -12827,11 +12699,11 @@ https://www.wolframalpha.com
 
 # Mathematic Tools
 
-## Integral Calculator
+# Integral Calculator
 
 [https://www.integral-calculator.com](https://www.integral-calculator.com)
 
-## Derivative Calculator
+# Derivative Calculator
 
 [https://www.derivative-calculator.net](https://www.derivative-calculator.net)
 
@@ -13010,7 +12882,7 @@ https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_l
 
 [https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2](https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2)
 
-## A 50-cent microscope that folds like origami
+# A 50-cent microscope that folds like origami
 
 [https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
 
@@ -13278,13 +13150,13 @@ https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/
 
 [https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/](https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/)
 
-* ## Are we counting mitoses correctly?
+* # Are we counting mitoses correctly?
 
 [Ann Diagn Pathol. 2013 Dec;17\(6\):536-9. doi: 10.1016/j.anndiagpath.2013.05.005. Epub 2013 Jun 24. Yigit N, Gunal A, Kucukodaci Z, Karslioglu Y, Onguru O, Ozcan A.](https://www.ncbi.nlm.nih.gov/pubmed/23806202)
 
 
 
-* ## Are we counting mitoses correctly?
+* # Are we counting mitoses correctly?
 
 [Ann Diagn Pathol. 2013 Dec;17\(6\):536-9. doi: 10.1016/j.anndiagpath.2013.05.005. Epub 2013 Jun 24. Yigit N, Gunal A, Kucukodaci Z, Karslioglu Y, Onguru O, Ozcan A.](https://www.ncbi.nlm.nih.gov/pubmed/23806202)
 
@@ -14390,23 +14262,23 @@ Orange3 Text PubMed
 
 # Organization Of Meetings
 
-## Conferences: The secrets of a standout seminar
+# Conferences: The secrets of a standout seminar
 
 [http://www.nature.com/nature/journal/v550/n7674/full/nj7674-145a.html?WT.mc\_id=FBK\_NatureNews&sf119187534=1](http://www.nature.com/nature/journal/v550/n7674/full/nj7674-145a.html?WT.mc_id=FBK_NatureNews&sf119187534=1)
 
-## Expensive academic conferences give us old ideas and no new faces
+# Expensive academic conferences give us old ideas and no new faces
 
 [https://www.theguardian.com/higher-education-network/2017/aug/30/expensive-academic-conferences-give-us-old-ideas-and-no-new-faces?CMP=share\_btn\_fb](https://www.theguardian.com/higher-education-network/2017/aug/30/expensive-academic-conferences-give-us-old-ideas-and-no-new-faces?CMP=share_btn_fb)
 
-## Why organizing a scientific conference can produce huge benefits
+# Why organizing a scientific conference can produce huge benefits
 
 [https://www.nature.com/articles/d41586-018-05714-9](https://www.nature.com/articles/d41586-018-05714-9)
 
-## The future of the scientific conference Researchers are redefining twenty-first-century conferences at which delegates set the agenda.
+# The future of the scientific conference Researchers are redefining twenty-first-century conferences at which delegates set the agenda.
 
 [https://www.nature.com/articles/d41586-018-07779-y](https://www.nature.com/articles/d41586-018-07779-y)
 
-## Room Conditions
+# Room Conditions
 
 The organizers at [\#MW\_Link2019](https://twitter.com/hashtag/MW_Link2019?src=hash&ref_src=twsrc%5Etfw) have done a great job since of keeping windows and doors open. Here is an updated, going until noon. Coffee break is obvious at 10:50, and improved ventilation when the session restarted at 11:20. [pic.twitter.com/RIzwAVYrtJ](https://t.co/RIzwAVYrtJ)— Cara Battersby \(@battersbot\) [June 4, 2019](https://twitter.com/battersbot/status/1135927295473004544?ref_src=twsrc%5Etfw)
 
@@ -14858,7 +14730,7 @@ description: Who is a pathologist?
 
 # Pathologist
 
-## Pathologist
+# Pathologist
 
 * Attributes of a Pathologist
 
@@ -14882,7 +14754,7 @@ I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=ha
 
 [https://www.sciencedirect.com/science/article/pii/S0740257008000531](https://www.sciencedirect.com/science/article/pii/S0740257008000531)
 
-## 
+# 
 
 
 
@@ -15395,11 +15267,11 @@ http://www.nejm.org/doi/full/10.1056/NEJMe1714609?query=TOC
 
 
 
-## Pathology reports are the most important medical documents:
+# Pathology reports are the most important medical documents:
 
 * Generally only complete information in a patient file is a pathology report.
 
-## Types of pathology reports
+# Types of pathology reports
 
 * Free Text
 
@@ -15407,11 +15279,11 @@ http://www.nejm.org/doi/full/10.1056/NEJMe1714609?query=TOC
 
 * Synoptic
 
-## CAP what is not synoptic report
+# CAP what is not synoptic report
 
-## CAP video
+# CAP video
 
-## Pathology reports suffer from the outside forces:
+# Pathology reports suffer from the outside forces:
 
 * Clinicians who do not want \(!\) "inadequate specimen" reports.
 
@@ -15455,7 +15327,7 @@ The FAQ initiative explaining pathology reports to patients
 
 # Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
-#### ‘Please let me see the dragon that I’m slaying!’
+# ‘Please let me see the dragon that I’m slaying!’
 
 [http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up\#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
 
@@ -15490,11 +15362,11 @@ https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-te
 
 ---
 
-## Pathology reports are the most important medical documents:
+# Pathology reports are the most important medical documents:
 
 * Generally only complete information in a patient file is a pathology report.
 
-## Types of pathology reports
+# Types of pathology reports
 
 * Free Text
 
@@ -15502,11 +15374,11 @@ https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-te
 
 * Synoptic
 
-## CAP what is not synoptic report
+# CAP what is not synoptic report
 
-## CAP video
+# CAP video
 
-## Pathology reports suffer from the outside forces:
+# Pathology reports suffer from the outside forces:
 
 * Clinicians who do not want \(!\) "inadequate specimen" reports.
 
@@ -15550,7 +15422,7 @@ The FAQ initiative explaining pathology reports to patients
 
 # Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
-#### ‘Please let me see the dragon that I’m slaying!’
+# ‘Please let me see the dragon that I’m slaying!’
 
 [http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up\#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
 
@@ -15587,21 +15459,21 @@ https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-te
 
 # Pathology Reports
 
-### Pathology reports are the most important medical documents:
+# Pathology reports are the most important medical documents:
 
 * Generally only complete information in a patient file is a pathology report.
 
-### Types of pathology reports
+# Types of pathology reports
 
 * Free Text
 * Structured
 * Synoptic
 
-### CAP what is not synoptic report
+# CAP what is not synoptic report
 
-### CAP video
+# CAP video
 
-### Pathology reports suffer from the outside forces:
+# Pathology reports suffer from the outside forces:
 
 * Clinicians who do not want \(!\) "inadequate specimen" reports.
 * We change our diagnosis so that clinicians do not misunderstand
@@ -15630,37 +15502,37 @@ The FAQ initiative explaining pathology reports to patients
 
 [http://www.nature.com/modpathol/journal/v23/n9/full/modpathol2010108a.html](http://www.nature.com/modpathol/journal/v23/n9/full/modpathol2010108a.html)
 
-## Addenda in Pathology Reports: Trends and Their Implications
+# Addenda in Pathology Reports: Trends and Their Implications
 
 [https://academic.oup.com/ajcp/article/137/4/606/1760925/Addenda-in-Pathology-ReportsTrends-and-Their](https://academic.oup.com/ajcp/article/137/4/606/1760925/Addenda-in-Pathology-ReportsTrends-and-Their)
 
-## The Complete Surgical Pathology Report
+# The Complete Surgical Pathology Report
 
 [https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
 
-## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
+# Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
-#### ‘Please let me see the dragon that I’m slaying!’
+# ‘Please let me see the dragon that I’m slaying!’
 
 [http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up\#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
 
-## An online readability analysis of pathology-related patient education articles: an opportunity for pathologists to educate patients
+# An online readability analysis of pathology-related patient education articles: an opportunity for pathologists to educate patients
 
 [http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177%2817%2930148-X/fulltext)
 
-## Pathologists' Perspectives on Disclosing Harmful Pathology Error
+# Pathologists' Perspectives on Disclosing Harmful Pathology Error
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28362155](https://www.ncbi.nlm.nih.gov/pubmed/28362155)
 
-## CommunicatingUncertainty in Surgical PathologyReports: A Survey of Staff Physicians and Residents at an Academic Medical Center.
+# CommunicatingUncertainty in Surgical PathologyReports: A Survey of Staff Physicians and Residents at an Academic Medical Center.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28725774](https://www.ncbi.nlm.nih.gov/pubmed/28725774)
 
-## Communicating diagnostic uncertainty in surgical pathologyreports: disparities between sender and receiver.
+# Communicating diagnostic uncertainty in surgical pathologyreports: disparities between sender and receiver.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/24939143](https://www.ncbi.nlm.nih.gov/pubmed/24939143)
 
-## Patients Want Web Access To Test Results But Don't Want To Have To Be A Doctor To Understand Them
+# Patients Want Web Access To Test Results But Don't Want To Have To Be A Doctor To Understand Them
 
 [https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/\#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
 
@@ -15718,11 +15590,11 @@ https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos
 
 # Pathophysiology
 
-## GI Motility online
+# GI Motility online
 
 [http://www.nature.com/gimo/index.html](http://www.nature.com/gimo/index.html)
 
-## The Moving Gut by Hans Jörg Ehrlein and Michael Schemann
+# The Moving Gut by Hans Jörg Ehrlein and Michael Schemann
 
 [http://humanbiology.wzw.tum.de/index.php?id=22&L=1](http://humanbiology.wzw.tum.de/index.php?id=22&L=1)
 
@@ -15798,7 +15670,7 @@ Keşke hipotez oluşturma çalışmalarına fon ve yayın aşamasında daha çok
 
 Bu durum patoloji özelinde daha belirgin o ayrı bir düşünme konusu.
 
-## Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
+# Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
 
 1\) Kanıta dayalı tıp
 
@@ -15880,7 +15752,7 @@ Keşke hipotez oluşturma çalışmalarına fon ve yayın aşamasında daha çok
 
 Bu durum patoloji özelinde daha belirgin o ayrı bir düşünme konusu.
 
-## Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
+# Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
 
 1\) Kanıta dayalı tıp
 
@@ -15962,7 +15834,7 @@ Keşke hipotez oluşturma çalışmalarına fon ve yayın aşamasında daha çok
 
 Bu durum patoloji özelinde daha belirgin o ayrı bir düşünme konusu.
 
-## Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
+# Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
 
 1\) Kanıta dayalı tıp
 
@@ -17190,7 +17062,7 @@ https://www.youtube.com/watch?v=w3fQ\_F4ATmU&index=10&list=PL\_Nji0JOuXg2udXfS6n
 
 # Problems in Bibliometric Analysis
 
-## 
+# 
 
 * * * **Chinese reviewers: sign up for unique IDs, please**
 
@@ -17318,7 +17190,7 @@ https://www.nature.com/articles/d41586-018-01876-8
 
 # Publishing General
 
-## Publishing General
+# Publishing General
 
 * From proposals to snarks: the messages that scientists sneak into their papers
 
@@ -17326,7 +17198,7 @@ Researchers have hidden secret notes in their manuscripts for decades, but there
 
 [https://www.nature.com/articles/d41586-018-01876-8](https://www.nature.com/articles/d41586-018-01876-8)
 
-## Selecting a Heading
+# Selecting a Heading
 
 {% embed url="https://twitter.com/lisafstinson/status/1148487441495388160" caption="" %}
 
@@ -17543,19 +17415,19 @@ The`fulltext`package makes it easy to do text-mining by supporting the following
 * Issues/Bug reports: [https://github.com/ropensci/fulltext/issues](https://github.com/ropensci/fulltext/issues)
 * CRAN: [https://cran.rstudio.com/web/packages/fulltext/](https://cran.rstudio.com/web/packages/fulltext/)
 
-## [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
+# [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
 
 A set of tools to extract bibliographic content from the National Center for Biotechnology Information \(NCBI\) databases, including PubMed. The name RISmed is a portmanteau of RIS \(for Research Information Systems, a common tag format for bibliographic data\) and PubMed.
 
-## [pubmed.mineR: Text Mining of PubMed Abstracts](https://cran.r-project.org/web/packages/pubmed.mineR/index.html)
+# [pubmed.mineR: Text Mining of PubMed Abstracts](https://cran.r-project.org/web/packages/pubmed.mineR/index.html)
 
 Text mining of PubMed Abstracts \(text and XML\)
 
-## [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
+# [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
 
 Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' &lt;[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)&gt; and 'PubMed' &lt;[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)&gt;, process the results of those searches and pull data into their R sessions.
 
-## [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
+# [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
 
 An interface to NCBI databases such as PubMed, GenBank, or GEO powered by the Entrez Programming Utilities \(EUtils\). The nine EUtils provide programmatic access to the NCBI Entrez query and database system for searching and retrieving biological data.
 
@@ -17593,25 +17465,25 @@ The`fulltext`package makes it easy to do text-mining by supporting the following
 
 ---
 
-## [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
+# [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
 
 A set of tools to extract bibliographic content from the National Center for Biotechnology Information \(NCBI\) databases, including PubMed. The name RISmed is a portmanteau of RIS \(for Research Information Systems, a common tag format for bibliographic data\) and PubMed.
 
 ---
 
-## [pubmed.mineR: Text Mining of PubMed Abstracts](https://cran.r-project.org/web/packages/pubmed.mineR/index.html)
+# [pubmed.mineR: Text Mining of PubMed Abstracts](https://cran.r-project.org/web/packages/pubmed.mineR/index.html)
 
 Text mining of PubMed Abstracts \(text and XML\)
 
 ---
 
-## [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
+# [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
 
 Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' &lt;[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)&gt; and 'PubMed' &lt;[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)&gt;, process the results of those searches and pull data into their R sessions.
 
 ---
 
-## [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
+# [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
 
 An interface to NCBI databases such as PubMed, GenBank, or GEO powered by the Entrez Programming Utilities \(EUtils\). The nine EUtils provide programmatic access to the NCBI Entrez query and database system for searching and retrieving biological data.
 
@@ -17649,25 +17521,25 @@ The`fulltext`package makes it easy to do text-mining by supporting the following
 
 ---
 
-## [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
+# [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
 
 A set of tools to extract bibliographic content from the National Center for Biotechnology Information \(NCBI\) databases, including PubMed. The name RISmed is a portmanteau of RIS \(for Research Information Systems, a common tag format for bibliographic data\) and PubMed.
 
 ---
 
-## [pubmed.mineR: Text Mining of PubMed Abstracts](https://cran.r-project.org/web/packages/pubmed.mineR/index.html)
+# [pubmed.mineR: Text Mining of PubMed Abstracts](https://cran.r-project.org/web/packages/pubmed.mineR/index.html)
 
 Text mining of PubMed Abstracts \(text and XML\)
 
 ---
 
-## [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
+# [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
 
 Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' &lt;[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)&gt; and 'PubMed' &lt;[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)&gt;, process the results of those searches and pull data into their R sessions.
 
 ---
 
-## [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
+# [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
 
 An interface to NCBI databases such as PubMed, GenBank, or GEO powered by the Entrez Programming Utilities \(EUtils\). The nine EUtils provide programmatic access to the NCBI Entrez query and database system for searching and retrieving biological data.
 
@@ -18474,13 +18346,13 @@ English Synonym Dictionary
 
 [https://www.powerthesaurus.org](https://www.powerthesaurus.org)
 
-## Reproducible Research
+# Reproducible Research
 
 * A push for reproducibility in biomedical research
 
 [http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm\_source=feedburner&utm\_medium=twitter&utm\_campaign=Feed%3A+EmoryHealthNowBlog+\(Lab+Land\)](http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EmoryHealthNowBlog+%28Lab+Land%29)
 
-## Statcheck
+# Statcheck
 
 * Controversial software is proving surprisingly accurate at spotting errors in psychology papers
 
@@ -18498,11 +18370,11 @@ English Synonym Dictionary
 
 ---
 
-## Coursera: Reproducible Templates for Analysis and Dissemination
+# Coursera: Reproducible Templates for Analysis and Dissemination
 
 [https://www.coursera.org/learn/reproducible-templates-analysis/supplement/Pw4r9/articles-resources-and-file-organization-examples](https://www.coursera.org/learn/reproducible-templates-analysis/supplement/Pw4r9/articles-resources-and-file-organization-examples)
 
-#### Reproducibility Articles
+# Reproducibility Articles
 
 * [**“Why Most Published Research Findings Are False”**](https://doi.org/10.1371/journal.pmed.0020124) by John P. A. Ioannidis
 
@@ -18523,12 +18395,12 @@ English Synonym Dictionary
    by Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, Eivind Hovig.
 * [**“Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104:H4”**](http://www.nejm.org/doi/full/10.1056/NEJMoa1107643) \(multiple authors\). The associated  [**Dataset GigaScience**](http://gigadb.org/dataset/100001) and [**GitHub Wiki**](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) **.**
 
-#### Document Conversion
+# Document Conversion
 
 * [**Pandoc**](https://pandoc.org/)
   * A universal document converter
 
-#### Other Resources
+# Other Resources
 
 * There is an R package called “rrrpkg,” which was created to “facilitate reproducible research.” Their focus is on creating a Research Compendium. Here are some illustrations of 
   [**directory structure and file organization**](https://github.com/ropensci/rrrpkg)
@@ -18541,13 +18413,13 @@ English Synonym Dictionary
 
 
 
-## Reproducible Research
+# Reproducible Research
 
 * A push for reproducibility in biomedical research
 
 [http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm\_source=feedburner&utm\_medium=twitter&utm\_campaign=Feed%3A+EmoryHealthNowBlog+\(Lab+Land\)](http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EmoryHealthNowBlog+%28Lab+Land%29)
 
-## Statcheck
+# Statcheck
 
 * Controversial software is proving surprisingly accurate at spotting errors in psychology papers
 
@@ -18565,11 +18437,11 @@ English Synonym Dictionary
 
 ---
 
-## Coursera: Reproducible Templates for Analysis and Dissemination
+# Coursera: Reproducible Templates for Analysis and Dissemination
 
 [https://www.coursera.org/learn/reproducible-templates-analysis/supplement/Pw4r9/articles-resources-and-file-organization-examples](https://www.coursera.org/learn/reproducible-templates-analysis/supplement/Pw4r9/articles-resources-and-file-organization-examples)
 
-#### Reproducibility Articles
+# Reproducibility Articles
 
 * [**“Why Most Published Research Findings Are False”**](https://doi.org/10.1371/journal.pmed.0020124) by John P. A. Ioannidis
 
@@ -18590,12 +18462,12 @@ English Synonym Dictionary
    by Geir Kjetil Sandve, Anton Nekrutenko, James Taylor, Eivind Hovig.
 * [**“Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104:H4”**](http://www.nejm.org/doi/full/10.1056/NEJMoa1107643) \(multiple authors\). The associated  [**Dataset GigaScience**](http://gigadb.org/dataset/100001) and [**GitHub Wiki**](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) **.**
 
-#### Document Conversion
+# Document Conversion
 
 * [**Pandoc**](https://pandoc.org/)
   * A universal document converter
 
-#### Other Resources
+# Other Resources
 
 * There is an R package called “rrrpkg,” which was created to “facilitate reproducible research.” Their focus is on creating a Research Compendium. Here are some illustrations of 
   [**directory structure and file organization**](https://github.com/ropensci/rrrpkg)
@@ -18610,13 +18482,13 @@ English Synonym Dictionary
 
 # Reproducibility
 
-## Reproducible Research
+# Reproducible Research
 
 * A push for reproducibility in biomedical research
 
 [http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm\_source=feedburner&utm\_medium=twitter&utm\_campaign=Feed%3A+EmoryHealthNowBlog+\(Lab+Land\)](http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EmoryHealthNowBlog+%28Lab+Land%29)
 
-## Statcheck
+# Statcheck
 
 * Controversial software is proving surprisingly accurate at spotting errors in psychology papers
 
@@ -18632,11 +18504,11 @@ English Synonym Dictionary
 
 [http://www.nature.com/news/stat-checking-software-stirs-up-psychology-1.21049](http://www.nature.com/news/stat-checking-software-stirs-up-psychology-1.21049)
 
-## Coursera: Reproducible Templates for Analysis and Dissemination
+# Coursera: Reproducible Templates for Analysis and Dissemination
 
 [https://www.coursera.org/learn/reproducible-templates-analysis/supplement/Pw4r9/articles-resources-and-file-organization-examples](https://www.coursera.org/learn/reproducible-templates-analysis/supplement/Pw4r9/articles-resources-and-file-organization-examples)
 
-### Reproducibility Articles
+# Reproducibility Articles
 
 * [**“Why Most Published Research Findings Are False”**](https://doi.org/10.1371/journal.pmed.0020124) by John P. A. Ioannidis
 * [**“Public Availability of Published Research Data in High-Impact Journals”**](https://doi.org/10.1371/journal.pone.0024357) by Alawi A. Alsheikh-Ali , Waqas Qureshi, Mouaz H. Al-Mallah, John P. A. Ioannidis.
@@ -18658,12 +18530,12 @@ English Synonym Dictionary
 
 * [**“Open-Source Genomic Analysis of Shiga-Toxin–Producing E. coli O104:H4”**](http://www.nejm.org/doi/full/10.1056/NEJMoa1107643) \(multiple authors\). The associated [**Dataset GigaScience**](http://gigadb.org/dataset/100001) and [**GitHub Wiki**](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) **.**
 
-### Document Conversion
+# Document Conversion
 
 * [**Pandoc**](https://pandoc.org/)
   * A universal document converter
 
-### Other Resources
+# Other Resources
 
 * There is an R package called “rrrpkg,” which was created to “facilitate reproducible research.” Their focus is on creating a Research Compendium. Here are some illustrations of
 
@@ -19100,7 +18972,7 @@ https://www.nature.com/news/the-automated-lab-1.16429
 
 [https://www.nature.com/news/the-automated-lab-1.16429](https://www.nature.com/news/the-automated-lab-1.16429)
 
-## Randomization
+# Randomization
 
 * Design and analysis of experiments with randomizr
 
@@ -19124,7 +18996,7 @@ https://www.randomizer.org/
 
 
 
-## Randomization
+# Randomization
 
 * Design and analysis of experiments with randomizr
 
@@ -19288,7 +19160,7 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 
 [https://www.nature.com/collections/lhgrjpzydm/?TW.mc\_id=EMI\_NA\_1712\_MENTORINGCOLLECTION\_PORTFOLIO](https://www.nature.com/collections/lhgrjpzydm/?TW.mc_id=EMI_NA_1712_MENTORINGCOLLECTION_PORTFOLIO)
 
-## PathPresenter: Quiz Module
+# PathPresenter: Quiz Module
 
 [https://www.youtube.com/watch?v=haVMuxJ9y4M&feature=youtu.be](https://www.youtube.com/watch?v=haVMuxJ9y4M&feature=youtu.be)
 
@@ -21354,15 +21226,15 @@ https://www.youtube.com/watch?v=Y6RRHw9uN9o&index=7&list=PL\_Nji0JOuXg2udXfS6nhK
 
 # Surgery and Pathology
 
-* ## Stanford Surgical Pathology Criteria
+* # Stanford Surgical Pathology Criteria
 
 [http://surgpathcriteria.stanford.edu/](http://surgpathcriteria.stanford.edu/)
 
-* ## Pathology Outlines
+* # Pathology Outlines
 
 [http://www.pathologyoutlines.com/](http://www.pathologyoutlines.com/)
 
-* ## USCAP Virtual Slides
+* # USCAP Virtual Slides
 
 [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
 
@@ -21374,15 +21246,15 @@ http://onlinelibrary.wiley.com/doi/10.1111/his.13313/abstract
 
 
 
-* ## Stanford Surgical Pathology Criteria
+* # Stanford Surgical Pathology Criteria
 
 [http://surgpathcriteria.stanford.edu/](http://surgpathcriteria.stanford.edu/)
 
-* ## Pathology Outlines
+* # Pathology Outlines
 
 [http://www.pathologyoutlines.com/](http://www.pathologyoutlines.com/)
 
-* ## USCAP Virtual Slides
+* # USCAP Virtual Slides
 
 [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
 
@@ -21394,15 +21266,15 @@ http://onlinelibrary.wiley.com/doi/10.1111/his.13313/abstract
 
 
 
-* ## Stanford Surgical Pathology Criteria
+* # Stanford Surgical Pathology Criteria
 
 [http://surgpathcriteria.stanford.edu/](http://surgpathcriteria.stanford.edu/)
 
-* ## Pathology Outlines
+* # Pathology Outlines
 
 [http://www.pathologyoutlines.com/](http://www.pathologyoutlines.com/)
 
-* ## USCAP Virtual Slides
+* # USCAP Virtual Slides
 
 [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
 
@@ -21414,15 +21286,15 @@ http://onlinelibrary.wiley.com/doi/10.1111/his.13313/abstract
 
 
 
-* ## Stanford Surgical Pathology Criteria
+* # Stanford Surgical Pathology Criteria
 
 [http://surgpathcriteria.stanford.edu/](http://surgpathcriteria.stanford.edu/)
 
-* ## Pathology Outlines
+* # Pathology Outlines
 
 [http://www.pathologyoutlines.com/](http://www.pathologyoutlines.com/)
 
-* ## USCAP Virtual Slides
+* # USCAP Virtual Slides
 
 [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
 
@@ -21448,7 +21320,7 @@ http://onlinelibrary.wiley.com/doi/10.1111/his.13313/abstract
 
 [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
 
-## Pathology Imagebase—a reference image database for standardization of pathology
+# Pathology Imagebase—a reference image database for standardization of pathology
 
 [http://onlinelibrary.wiley.com/doi/10.1111/his.13313/abstract](http://onlinelibrary.wiley.com/doi/10.1111/his.13313/abstract)
 
@@ -21805,7 +21677,7 @@ https://www.frontiersin.org/articles/10.3389/fgene.2018.00002/full
 
 [http://ptrckprry.com/course/ssd/](http://ptrckprry.com/course/ssd/)
 
-## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 [https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
@@ -21813,7 +21685,7 @@ https://www.frontiersin.org/articles/10.3389/fgene.2018.00002/full
 
 http://ptrckprry.com/course/ssd/
 
-## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
@@ -21823,7 +21695,7 @@ https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 http://ptrckprry.com/course/ssd/
 
-## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
@@ -21833,7 +21705,7 @@ https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 http://ptrckprry.com/course/ssd/
 
-## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
@@ -21843,7 +21715,7 @@ https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 [http://ptrckprry.com/course/ssd/](http://ptrckprry.com/course/ssd/)
 
-## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 [https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
@@ -21971,11 +21843,11 @@ https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjou
 
 # Text Mining PubMed
 
-## Data sets for author name disambiguation: an empirical analysis and a new resource
+# Data sets for author name disambiguation: an empirical analysis and a new resource
 
 [https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
 
-## A theoretical model of the relationship between the _h_-index and other simple citation indicators
+# A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
 [https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
 
@@ -21993,11 +21865,11 @@ https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjou
 
 # Text Mining PubMed
 
-## Data sets for author name disambiguation: an empirical analysis and a new resource
+# Data sets for author name disambiguation: an empirical analysis and a new resource
 
 [https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
 
-## A theoretical model of the relationship between the _h_-index and other simple citation indicators
+# A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
 [https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
 
@@ -22181,9 +22053,9 @@ https://regexr.com/
 
 [https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
 
-## [**trstop**](https://github.com/ahmetax/trstop)
+# [**trstop**](https://github.com/ahmetax/trstop)
 
-## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
+# [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
 
 * The Lucene _stopwords.txt_ source code
 
@@ -22285,9 +22157,9 @@ https://regexr.com/
 
 [https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
 
-## [**trstop**](https://github.com/ahmetax/trstop)
+# [**trstop**](https://github.com/ahmetax/trstop)
 
-## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
+# [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
 
 # Text Mining Twitter
 
@@ -23058,12 +22930,12 @@ References:
 
 # The use of immunohistochemistry for diagnosis
 
-## Immunohistochemistry, carcinomas of unknown primary, and incidence rates
+# Immunohistochemistry, carcinomas of unknown primary, and incidence rates
 
 [https://www.sciencedirect.com/science/article/pii/S0740257017301399](https://www.sciencedirect.com/science/article/pii/S0740257017301399)
 
 
-## Comparison of thyroid transcription factor-1 expression by 2 monoclonal antibodies in pulmonary and nonpulmonary primary tumors.
+# Comparison of thyroid transcription factor-1 expression by 2 monoclonal antibodies in pulmonary and nonpulmonary primary tumors.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/19887917](https://www.ncbi.nlm.nih.gov/pubmed/19887917)
 
@@ -23195,7 +23067,7 @@ Lesion and Factors Affecting the Diagnosis
 
 [http://www.turkjpath.org/pdf/pdf\_TPD\_1837.pdf](http://www.turkjpath.org/pdf/pdf_TPD_1837.pdf)
 
-## Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference \(ITBCC\) 2016 {#atl}
+# Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference \(ITBCC\) 2016 {#atl}
 
 [http://www.nature.com/modpathol/journal/vaop/ncurrent/abs/modpathol201746a.html](http://www.nature.com/modpathol/journal/vaop/ncurrent/abs/modpathol201746a.html)
 
@@ -23203,11 +23075,11 @@ Lesion and Factors Affecting the Diagnosis
 
 [https://phys.org/news/2017-05-ovarian-teratoma-teeth-15th-century.html](https://phys.org/news/2017-05-ovarian-teratoma-teeth-15th-century.html)
 
-## Tumor size, tumor location, and antitumor inflammatory response are associated with lymph node size in colorectal cancer patients {#atl}
+# Tumor size, tumor location, and antitumor inflammatory response are associated with lymph node size in colorectal cancer patients {#atl}
 
 [http://www.nature.com/modpathol/journal/v30/n6/abs/modpathol2016227a.html](http://www.nature.com/modpathol/journal/v30/n6/abs/modpathol2016227a.html)
 
-## STAT3 activation in endothelial cells is important for tumor metastasis via increased cell adhesion molecule expression {#atl}
+# STAT3 activation in endothelial cells is important for tumor metastasis via increased cell adhesion molecule expression {#atl}
 
 [https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017148a.html](https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017148a.html)
 
@@ -23215,7 +23087,7 @@ Lesion and Factors Affecting the Diagnosis
 
 [https://www.nature.com/nature/journal/v545/n7655/full/nature22396.html](https://www.nature.com/nature/journal/v545/n7655/full/nature22396.html)
 
-## Pancreatic cancer heterogeneity and response to Mek inhibition {#atl}
+# Pancreatic cancer heterogeneity and response to Mek inhibition {#atl}
 
 [https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017174a.html](https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017174a.html)
 
@@ -23287,7 +23159,7 @@ Lesion and Factors Affecting the Diagnosis
 
 [http://www.turkjpath.org/pdf/pdf\_TPD\_1837.pdf](http://www.turkjpath.org/pdf/pdf_TPD_1837.pdf)
 
-## Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference \(ITBCC\) 2016 {#atl}
+# Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference \(ITBCC\) 2016 {#atl}
 
 [http://www.nature.com/modpathol/journal/vaop/ncurrent/abs/modpathol201746a.html](http://www.nature.com/modpathol/journal/vaop/ncurrent/abs/modpathol201746a.html)
 
@@ -23295,11 +23167,11 @@ Lesion and Factors Affecting the Diagnosis
 
 [https://phys.org/news/2017-05-ovarian-teratoma-teeth-15th-century.html](https://phys.org/news/2017-05-ovarian-teratoma-teeth-15th-century.html)
 
-## Tumor size, tumor location, and antitumor inflammatory response are associated with lymph node size in colorectal cancer patients {#atl}
+# Tumor size, tumor location, and antitumor inflammatory response are associated with lymph node size in colorectal cancer patients {#atl}
 
 [http://www.nature.com/modpathol/journal/v30/n6/abs/modpathol2016227a.html](http://www.nature.com/modpathol/journal/v30/n6/abs/modpathol2016227a.html)
 
-## STAT3 activation in endothelial cells is important for tumor metastasis via increased cell adhesion molecule expression {#atl}
+# STAT3 activation in endothelial cells is important for tumor metastasis via increased cell adhesion molecule expression {#atl}
 
 [https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017148a.html](https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017148a.html)
 
@@ -23307,7 +23179,7 @@ Lesion and Factors Affecting the Diagnosis
 
 [https://www.nature.com/nature/journal/v545/n7655/full/nature22396.html](https://www.nature.com/nature/journal/v545/n7655/full/nature22396.html)
 
-## Pancreatic cancer heterogeneity and response to Mek inhibition {#atl}
+# Pancreatic cancer heterogeneity and response to Mek inhibition {#atl}
 
 [https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017174a.html](https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017174a.html)
 
@@ -23369,7 +23241,7 @@ A Grossly Visible Preinvasive Neoplasm of the Bile Duct
 
 [https://link.springer.com/chapter/10.1007/978-981-10-3500-5\_13](https://link.springer.com/chapter/10.1007/978-981-10-3500-5_13)
 
-## Intraductal Papillary Cystic Neoplasm of the Gallbladder and the Ampulla of Vater
+# Intraductal Papillary Cystic Neoplasm of the Gallbladder and the Ampulla of Vater
 
 [https://link.springer.com/chapter/10.1007/978-981-10-3500-5\_16](https://link.springer.com/chapter/10.1007/978-981-10-3500-5_16)
 
@@ -23381,55 +23253,55 @@ Lesion and Factors Affecting the Diagnosis
 
 [http://www.turkjpath.org/pdf/pdf\_TPD\_1837.pdf](http://www.turkjpath.org/pdf/pdf_TPD_1837.pdf)
 
-### Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference \(ITBCC\) 2016 <a id="atl"></a>
+# Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference \(ITBCC\) 2016 <a id="atl"></a>
 
 [http://www.nature.com/modpathol/journal/vaop/ncurrent/abs/modpathol201746a.html](http://www.nature.com/modpathol/journal/vaop/ncurrent/abs/modpathol201746a.html)
 
-## Ovarian teratoma with teeth discovered in remains of 15th century woman
+# Ovarian teratoma with teeth discovered in remains of 15th century woman
 
 [https://phys.org/news/2017-05-ovarian-teratoma-teeth-15th-century.html](https://phys.org/news/2017-05-ovarian-teratoma-teeth-15th-century.html)
 
-### Tumor size, tumor location, and antitumor inflammatory response are associated with lymph node size in colorectal cancer patients <a id="atl"></a>
+# Tumor size, tumor location, and antitumor inflammatory response are associated with lymph node size in colorectal cancer patients <a id="atl"></a>
 
 [http://www.nature.com/modpathol/journal/v30/n6/abs/modpathol2016227a.html](http://www.nature.com/modpathol/journal/v30/n6/abs/modpathol2016227a.html)
 
-### STAT3 activation in endothelial cells is important for tumor metastasis via increased cell adhesion molecule expression <a id="atl"></a>
+# STAT3 activation in endothelial cells is important for tumor metastasis via increased cell adhesion molecule expression <a id="atl"></a>
 
 [https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017148a.html](https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017148a.html)
 
-## PD-1 expression by tumour-associated macrophages inhibits phagocytosis and tumour immunity
+# PD-1 expression by tumour-associated macrophages inhibits phagocytosis and tumour immunity
 
 [https://www.nature.com/nature/journal/v545/n7655/full/nature22396.html](https://www.nature.com/nature/journal/v545/n7655/full/nature22396.html)
 
-### Pancreatic cancer heterogeneity and response to Mek inhibition <a id="atl"></a>
+# Pancreatic cancer heterogeneity and response to Mek inhibition <a id="atl"></a>
 
 [https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017174a.html](https://www.nature.com/onc/journal/vaop/ncurrent/full/onc2017174a.html)
 
-## Is hyaluronan deposition in the stroma of pancreatic ductal adenocarcinoma of prognostic significance? <a id="artTitle"></a>
+# Is hyaluronan deposition in the stroma of pancreatic ductal adenocarcinoma of prognostic significance? <a id="artTitle"></a>
 
 [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178703](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178703)
 
-## Pathology and Molecular Pathology of Pancreatic Cancer <a id="yui_3_14_1_1_1496987648323_1203"></a>
+# Pathology and Molecular Pathology of Pancreatic Cancer <a id="yui_3_14_1_1_1496987648323_1203"></a>
 
 [https://www.researchgate.net/publication/307587034\_Pathology\_and\_Molecular\_Pathology\_of\_Pancreatic\_Cancer](https://www.researchgate.net/publication/307587034_Pathology_and_Molecular_Pathology_of_Pancreatic_Cancer)
 
-## Comparison of Breast Cancer Molecular Features and Survival by African and European Ancestry in The Cancer Genome Atlas.
+# Comparison of Breast Cancer Molecular Features and Survival by African and European Ancestry in The Cancer Genome Atlas.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28472234](https://www.ncbi.nlm.nih.gov/pubmed/28472234)
 
-## Unraveling molecular pathways of poorly differentiated neuroendocrine carcinomas of the gastroenteropancreatic system: A systematic review.
+# Unraveling molecular pathways of poorly differentiated neuroendocrine carcinomas of the gastroenteropancreatic system: A systematic review.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28456055](https://www.ncbi.nlm.nih.gov/pubmed/28456055)
 
-## A decade of discovery: CRISPR functions and applications
+# A decade of discovery: CRISPR functions and applications
 
 [https://www.nature.com/articles/nmicrobiol201792?WT.mc\_id=FBK\_NMB\_1706\_CRISPRDECADE\_Portfolio](https://www.nature.com/articles/nmicrobiol201792?WT.mc_id=FBK_NMB_1706_CRISPRDECADE_Portfolio)
 
-## “Simple Mucinous Cyst” of the Pancreas: A Clinicopathologic Analysis of 39 Examples of a Diagnostically Challenging Entity Distinct From Intraductal Papillary Mucinous Neoplasms and Mucinous Cystic Neoplasms <a id="yui_3_14_1_1_1496825158172_698"></a>
+# “Simple Mucinous Cyst” of the Pancreas: A Clinicopathologic Analysis of 39 Examples of a Diagnostically Challenging Entity Distinct From Intraductal Papillary Mucinous Neoplasms and Mucinous Cystic Neoplasms <a id="yui_3_14_1_1_1496825158172_698"></a>
 
 [https://www.researchgate.net/publication/309137639\_Simple\_Mucinous\_Cyst\_of\_the\_Pancreas\_A\_Clinicopathologic\_Analysis\_of\_39\_Examples\_of\_a\_Diagnostically\_Challenging\_Entity\_Distinct\_From\_Intraductal\_Papillary\_Mucinous\_Neoplasms\_and\_Mucinous\_Cystic\_Neopl](https://www.researchgate.net/publication/309137639_Simple_Mucinous_Cyst_of_the_Pancreas_A_Clinicopathologic_Analysis_of_39_Examples_of_a_Diagnostically_Challenging_Entity_Distinct_From_Intraductal_Papillary_Mucinous_Neoplasms_and_Mucinous_Cystic_Neopl)
 
-## Pathologic Classification and Biological Behavior of Pancreatic Neoplasia <a id="yui_3_14_1_1_1496825148420_1162"></a>
+# Pathologic Classification and Biological Behavior of Pancreatic Neoplasia <a id="yui_3_14_1_1_1496825148420_1162"></a>
 
 [https://www.researchgate.net/publication/315350979\_Pathologic\_Classification\_and\_Biological\_Behavior\_of\_Pancreatic\_Neoplasia](https://www.researchgate.net/publication/315350979_Pathologic_Classification_and_Biological_Behavior_of_Pancreatic_Neoplasia)
 
@@ -24427,7 +24299,7 @@ http://apps.pathology.jhu.edu/sp/about-this-site/
 * Pseudoneoplastic mimics of prostate and bladder carcinomas. [Omar Hameed and Peter A. Humphrey \(2010\) Pseudoneoplastic Mimics of Prostate and Bladder Carcinomas. Archives of Pathology & Laboratory Medicine: March 2010, Vol. 134, No. 3, pp. 427-443.](http://www.archivesofpathology.org/doi/full/10.1043/1543-2165-134.3.427)
 * Benign mimickers of prostatic adenocarcinoma [Modern Pathology \(2004\) 17, 328–348, advance online publication, 13 February 2004; doi:10.1038/modpathol.3800055](http://www.nature.com/modpathol/journal/v17/n3/full/3800055a.html)
 
-* ## \#GUpath - Benign mimics in the urinary bladder & prostate - Dr. Williamson \(Henry Ford\)
+* # \#GUpath - Benign mimics in the urinary bladder & prostate - Dr. Williamson \(Henry Ford\)
 
 [https://www.youtube.com/watch?v=9V4YAAW1XRg](https://www.youtube.com/watch?v=9V4YAAW1XRg)
 
@@ -24441,7 +24313,7 @@ http://apps.pathology.jhu.edu/sp/about-this-site/
 
 * Benign mimickers of prostatic adenocarcinoma
 [Modern Pathology (2004) 17, 328–348, advance online publication, 13 February 2004; doi:10.1038/modpathol.3800055](http://www.nature.com/modpathol/journal/v17/n3/full/3800055a.html)
-* ## \#GUpath - Benign mimics in the urinary bladder & prostate - Dr. Williamson \(Henry Ford\)
+* # \#GUpath - Benign mimics in the urinary bladder & prostate - Dr. Williamson \(Henry Ford\)
 
 [https://www.youtube.com/watch?v=9V4YAAW1XRg](https://www.youtube.com/watch?v=9V4YAAW1XRg)
 
@@ -24819,11 +24691,11 @@ http://web2.airmail.net/uthman/
 
 below copied from this page for my future personal use.
 
-> ## Original pathology- and lab medicine-related resources
+> # Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> ### HTML documents
+> # HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -24879,7 +24751,7 @@ below copied from this page for my future personal use.
 >
 >
 >
-> ### .PDF documents
+> # .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -24897,7 +24769,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> # [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 >  This is a collection of specimen images that I have released into the public domain. The index page is 
 >
@@ -24909,7 +24781,7 @@ below copied from this page for my future personal use.
 >
 >
 >
-> ### Other binary files
+> # Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >
@@ -24925,11 +24797,11 @@ http://web2.airmail.net/uthman/
 
 below copied from this page for my future personal use.
 
-> ## Original pathology- and lab medicine-related resources
+> # Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> ### HTML documents
+> # HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -24985,7 +24857,7 @@ below copied from this page for my future personal use.
 >
 >
 >
-> ### .PDF documents
+> # .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -25003,7 +24875,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> # [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 >  This is a collection of specimen images that I have released into the public domain. The index page is 
 >
@@ -25015,7 +24887,7 @@ below copied from this page for my future personal use.
 >
 >
 >
-> ### Other binary files
+> # Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >
@@ -25033,11 +24905,11 @@ below copied from this page for my future personal use.
 
 below copied from this page for my future personal use.
 
-> ## Original pathology- and lab medicine-related resources
+> # Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> ### HTML documents
+> # HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -25079,7 +24951,7 @@ below copied from this page for my future personal use.
 >
 > [**Elemental Composition of the Body**](http://web2.airmail.net/uthman/elements_of_body.html) is a simple table that lists, in descending order of abundance, all 59 chemical elements present in measurable amounts in the human body. For each element, the table shows 1\) the weight of element present in a 70-kilogram person, 2\) the volume occupied by that much of the purified element, and 3\) how big a cube made up of that quantity of purified element would be.
 >
-> ### .PDF documents
+> # .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -25097,7 +24969,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> # [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 > This is a collection of specimen images that I have released into the public domain. The index page is
 >
@@ -25107,7 +24979,7 @@ below copied from this page for my future personal use.
 >
 > Since my ISP limits my space here severely, I have begun to add specimen images to a [section in my Flickr account](http://www.flickr.com/photos/euthman/sets/72057594114099781/). The images there have much higher resolution than those here.
 >
-> ### Other binary files
+> # Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >
@@ -25513,33 +25385,33 @@ www.rstudio.com/resources/webinars/
 
 # Whipple Macroscopy
 
-## JHU Educational Web site
+# JHU Educational Web site
 
 [http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
 
-## JHU video
+# JHU video
 
 [http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
 
-## Articles
+# Articles
 
 * Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
 
 [https://link.springer.com/article/10.1007/s00428-018-2321-5](https://link.springer.com/article/10.1007/s00428-018-2321-5)
 
 * 
-### JHU Educational Web site
+# JHU Educational Web site
 
 [http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
 
-### JHU video
+# JHU video
 
 {% youtube %}CR-7blJkNaI{% endyoutube %}
 
 
 [http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
 
-### Articles
+# Articles
 
 * Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
 
@@ -25547,18 +25419,18 @@ https://link.springer.com/article/10.1007/s00428-018-2321-5
 
 * 
 
-### JHU Educational Web site
+# JHU Educational Web site
 
 [http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
 
-### JHU video
+# JHU video
 
 {% youtube %}CR-7blJkNaI{% endyoutube %}
 
 
 [http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
 
-### Articles
+# Articles
 
 * Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
 
@@ -25566,18 +25438,18 @@ https://link.springer.com/article/10.1007/s00428-018-2321-5
 
 * 
 
-### JHU Educational Web site
+# JHU Educational Web site
 
 [http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
 
-### JHU video
+# JHU video
 
 {% youtube %}CR-7blJkNaI{% endyoutube %}
 
 
 [http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
 
-### Articles
+# Articles
 
 * Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
 
