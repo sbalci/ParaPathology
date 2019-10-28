@@ -1,1153 +1,3 @@
-# The Mechanisms of Cell Death, Apoptosis, and Autophagy
-
-Last updated:01.05.2015
-
-Name of the Lecture:The Mechanisms of Cell Death, Apoptosis, and Autophagy
-
-Required Prior Knowledge:
-
-Aim of the Lecture:
-
-Goals of the lecture:
-
-Lecture Outlines:
-
-* Analogy for necrosis and apoptosis
-* Differences between necrosis and apoptosis
-* * Morphologic features of necrosis and steps of necrosis development
-  * Morphologic features of apoptosis and steps of apoptosis development
-* Necrosis
-* * Nuclear changes in necrosis
-  * * Pyknosis
-    * Karyolysis
-    * Karyorrhexis
-  * Necrosis, morphology, its effect to regional tissue and its removal
-* Apoptosis
-* * Factors controlling apoptosis
-  * Physiologic Causes of Apoptosis
-  * Pathologic Causes of Apoptosis
-  * Mechanisms of apoptosis
-  * * The Mitochondrial \(Intrinsic\) Pathway of Apoptosis
-    * The Death Receptor \(Extrinsic\) Pathway of Apoptosis
-    * Caspases
-    * Clearance of Apoptotic Cells
-  * Examples of Apoptosis
-* Necroptosis
-* Pyroptosis
-* Autophagy
-
-References:
-
-1. Robbins Basic Pathology, 9th edition
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-3. Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera.org/course/pcd)
-
-# Intracellular Accumulations and Cellular Aging
-
-Last updated:01.05.2015
-
-Name of the Lecture:Intracellular Accumulations and Cellular Aging
-
-Required Prior Knowledge:
-
-Basic knowledge of intracellular transport
-
-Basic knowledge about enzyme functions and metabolic pathways
-
-Aim of the Lecture:
-
-Goals of the lecture:
-
-Lecture Outlines:
-
-* Intracellular accumulations
-* Intracellular accumulation mechanisms
-* * Abnormal removal, inadequate transport
-  * Abnormal folding, or depot
-  * Abnormal anabolism, enzyme deficiency, byproducts
-  * Exogenous materials that cannot be ingested
-* Fat accumulation
-* Protein accumulation
-* Glycogen accumulation
-* Pigments
-* * Carbon
-  * Lipofuscin
-  * Melanin
-  * Hemosiderin
-  * Amyloid
-  * Hyaline change
-* Pathologic Calcification
-* * Dystrophic calcification
-  * Metastatic calcification
-  * Causes of hypercalcemia
-* Cellular aging
-* Why do we age?
-* DNA damage
-* Decreased cellular replication
-* Telomeres
-* Werner syndrome
-
-References:
-
-1. Robbins Basic Pathology, 9th edition
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
-
-# About Pathology Lectures
-
-Dersler ile ilgili genel bilgiler
-
-Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden beklenen bu değişik yönleri klinik derslerle de birleştirmenizdir.
-
-* Epidemiyoloji
-* Patogenez
-* Morfoloji
-* * Genetik
-* Tedavi
-* * Morfoloji ve patogenezin klinik ile korelasyonu
-* Hastalığın süreci
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
-
-Kaynaklar:
-
-Patoloji derslerini hazırlarken temel olarak Robbins’ten faydalanıyoruz.
-
-Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tümü kütüphanemizde mevcuttur:
-
-1. Robbins Basic Pathology, 9th edition
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
-5. Pathology Secrets
-6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
-7. Elsevier's Integrated Pathology
-8. Histology and Cell Biology: An Introduction to Pathology
-9. Netter's Illustrated Human Pathology
-10. Rapid Review Pathology
-11. Robbins and Cotran Atlas of Pathology
-12. Robbins and Cotran Review of Pathology
-13. Wheater's Basic Pathology
-14. Wheater's Basic Pathology: A Text, Atlas and Review of Histopathology
-15. Wheater's Review of Histology & Basic Pathology
-16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
-17. The Biology of Cancer Robert A. Weinberg
-
-
-
-
-# Nöropatoloji
-
-[https://www.youtube.com/watch?v=2gNjnwlwQ20](https://www.youtube.com/watch?v=2gNjnwlwQ20)
-
-
-
-# The Mechanisms of Cell Death, Apoptosis, and Autophagy
-
-Last updated:01.05.2015
-
-Name of the Lecture:The Mechanisms of Cell Death, Apoptosis, and Autophagy
-
-Required Prior Knowledge:
-
-Aim of the Lecture:
-
-Goals of the lecture:
-
-Lecture Outlines:
-
-* Analogy for necrosis and apoptosis
-* Differences between necrosis and apoptosis
-* * Morphologic features of necrosis and steps of necrosis development
-  * Morphologic features of apoptosis and steps of apoptosis development
-* Necrosis
-* * Nuclear changes in necrosis
-  * * Pyknosis
-    * Karyolysis
-    * Karyorrhexis
-  * Necrosis, morphology, its effect to regional tissue and its removal
-* Apoptosis
-* * Factors controlling apoptosis
-  * Physiologic Causes of Apoptosis
-  * Pathologic Causes of Apoptosis
-  * Mechanisms of apoptosis
-  * * The Mitochondrial \(Intrinsic\) Pathway of Apoptosis
-    * The Death Receptor \(Extrinsic\) Pathway of Apoptosis
-    * Caspases
-    * Clearance of Apoptotic Cells
-  * Examples of Apoptosis
-* Necroptosis
-* Pyroptosis
-* Autophagy
-
-References:
-
-1. Robbins Basic Pathology, 9th edition
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-3. Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera.org/course/pcd)
-
-# About Pathology Lectures
-
-Dersler ile ilgili genel bilgiler
-
-Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden beklenen bu değişik yönleri klinik derslerle de birleştirmenizdir.
-
-* Epidemiyoloji
-* Patogenez
-* Morfoloji
-* * Genetik
-* Tedavi
-* * Morfoloji ve patogenezin klinik ile korelasyonu
-* Hastalığın süreci
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
-
-Kaynaklar:
-
-Patoloji derslerini hazırlarken temel olarak Robbins’ten faydalanıyoruz.
-
-Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tümü kütüphanemizde mevcuttur:
-
-1. Robbins Basic Pathology, 9th edition
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
-5. Pathology Secrets
-6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
-7. Elsevier's Integrated Pathology
-8. Histology and Cell Biology: An Introduction to Pathology
-9. Netter's Illustrated Human Pathology
-10. Rapid Review Pathology
-11. Robbins and Cotran Atlas of Pathology
-12. Robbins and Cotran Review of Pathology
-13. Wheater's Basic Pathology
-14. Wheater's Basic Pathology: A Text, Atlas and Review of Histopathology
-15. Wheater's Review of Histology & Basic Pathology
-16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
-17. The Biology of Cancer Robert A. Weinberg
-
-# Nöropatoloji
-
-[https://www.youtube.com/watch?v=2gNjnwlwQ20](https://www.youtube.com/watch?v=2gNjnwlwQ20)
-
-# SPSS
-
-* **Paired Samples t-test - SPSS**
-
-[https://www.youtube.com/watch?v=MJGk2sg4EZU](https://www.youtube.com/watch?v=MJGk2sg4EZU)
-
-* **Oneway ANOVA - SPSS**
-
-[https://www.youtube.com/watch?v=\_btBuD3LIsM](https://www.youtube.com/watch?v=_btBuD3LIsM)
-
-[https://www.youtube.com/watch?v=ZxLfDYCTlhE](https://www.youtube.com/watch?v=ZxLfDYCTlhE)
-
-[https://www.youtube.com/watch?v=5SThhCVDecc](https://www.youtube.com/watch?v=5SThhCVDecc)
-
-* **Tutorials**
-
-[https://www.spss-tutorials.com](https://www.spss-tutorials.com)
-
-* **Raynald's SPSS Tools**
-
-[http://spsstools.net/en/](http://spsstools.net/en/)
-
-* **Survival Analysis**
-
-  * **Life Tables:**
-
-  [http://www.ucdenver.edu/academics/colleges/nursing/Documents/PDF/SurvivalHowTo.pdf](http://www.ucdenver.edu/academics/colleges/nursing/Documents/PDF/SurvivalHowTo.pdf)
-
-* **Syntax:**
-  * **Rename variables**
-
-[https://www.youtube.com/watch?v=oNQJ3qXBQBk](https://www.youtube.com/watch?v=oNQJ3qXBQBk)
-
-türkçe karakterleri olan değişkenler syntax'ta çalışmıyor \(Öğrenci\_No\).
-
-bunun için variable isimlerini notepad'e kopyalayıp, ı, ğ, ü, ş, ö, ç harflerini replace ediyoruz.
-
-excelde a1, a2, a3 şeklinde isimler oluşturup, variable view da isimlerin üstüne yapıştırıyoruz.
-
-sonra a1, a2, a3'leri notepad teki isimlerle değiştiriyoruz.
-
-Lablel'lar da varsa kontrolü daha kolay.
-
-aşağıdaki komutu excelde oluşturmak mümkün =CONCATENATE\("\( ";A1;" = ";B1;" \)"\)
-
-RENAME VARIABLES
-
-\( a1 = ogrenci\_no \).
-
-EXECUTE.
-
-**Multifactorial GLM/ANOVA \(SPSS\)**
-
-[https://www.youtube.com/watch?v=arA-gh0yJoA](https://www.youtube.com/watch?v=arA-gh0yJoA)
-
-**MANOVA \(Multivariate Analysis of Variance\)**
-
-[https://www.youtube.com/watch?v=m0zV\_wFGA1I](https://www.youtube.com/watch?v=m0zV_wFGA1I)
-
-**MANOVA - SPSS \(part 1\)**
-
-[https://www.youtube.com/watch?v=3pzCa4Whv74](https://www.youtube.com/watch?v=3pzCa4Whv74)
-
-**SPSS output Legacy Wiever.**
-
-[ftp://ftp.software.ibm.com/software/analytics/spss/support/Stats/Docs/Statistics/LegacyViewer/readme.html](ftp://ftp.software.ibm.com/software/analytics/spss/support/Stats/Docs/Statistics/LegacyViewer/readme.html)
-
-**Lesson \#7: Custom Tables in SPSS**
-
-[https://www.youtube.com/watch?v=D-tEqPFSYCY](https://www.youtube.com/watch?v=D-tEqPFSYCY)
-
-**Fit Output Table to One Page - SPSS**
-
-[https://www.youtube.com/watch?v=RDJUqx-WFQ4](https://www.youtube.com/watch?v=RDJUqx-WFQ4)
-
-**SPSS - Kruskal Wallis H test with post-hoc**
-
-[https://www.youtube.com/watch?v=a\_Wr4-a2k3s](https://www.youtube.com/watch?v=a_Wr4-a2k3s)
-
-**Pearson's Correlation Coefficient in SPSS**
-
-[https://www.youtube.com/watch?time\_continue=9&v=VqISD8DlXeE](https://www.youtube.com/watch?time_continue=9&v=VqISD8DlXeE)
-
-[http://www.statisticshowto.com/correlation-coefficient-spss/](http://www.statisticshowto.com/correlation-coefficient-spss/)
-
-**Two-step Cluster Analysis in SPSS**
-
-[https://www.youtube.com/watch?v=DpucueFsigA](https://www.youtube.com/watch?v=DpucueFsigA)
-
-**Cramér’s V – What and Why?**
-
-[https://www.spss-tutorials.com/cramers-v-what-and-why/](https://www.spss-tutorials.com/cramers-v-what-and-why/)
-
-[https://www.ibm.com/support/knowledgecenter/en/SSLVMB\_24.0.0/spss/base/idh\_xtab\_statistics.html](https://www.ibm.com/support/knowledgecenter/en/SSLVMB_24.0.0/spss/base/idh_xtab_statistics.html)
-
-[http://uregina.ca/~gingrich/ch11a.pdf](http://uregina.ca/~gingrich/ch11a.pdf)
-
-Laerd Statistics \(2016\). Chi-square test for association using SPSS Statistics. _Statistical tutorials and software guides_. Retrieved from [https://statistics.laerd.com/](https://statistics.laerd.com/)
-
-# Spaghetti Plot in SPSS - The Easy Way
-
-[https://www.youtube.com/watch?v=TGCU0SIZMhU](https://www.youtube.com/watch?v=TGCU0SIZMhU)
-
-# SPSS Repeated Measures ANOVA <a id="main-title"></a>
-
-[https://www.spss-tutorials.com/repeated-measures-anova/](https://www.spss-tutorials.com/repeated-measures-anova/)
-
-[https://www.spss-tutorials.com/spss-repeated-measures-anova/](https://www.spss-tutorials.com/spss-repeated-measures-anova/)
-
-[https://www.spss-tutorials.com/spss-repeated-measures-anova-example-2/](https://www.spss-tutorials.com/spss-repeated-measures-anova-example-2/)
-
-# Tools for Data Analysis and Visualisation
-
-* Sankey diagram
-
-[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah_Meeks/2018-data-visualization-survey-results-26a90856476b)
-
-![](https://cdn-images-1.medium.com/max/1600/1*oYH7MXOPL3ylWG7Ku_tAQw.png)
-
-* THE WORK OF EDWARD TUFTE AND GRAPHICS PRESS
-
-[https://www.edwardtufte.com/tufte/](https://www.edwardtufte.com/tufte/)
-
-* R Graph Gallery
-
-[https://www.r-graph-gallery.com/](https://www.r-graph-gallery.com/)
-
-* rollApp
-
-[https://www.rollapp.com/apps/statistics](https://www.rollapp.com/apps/statistics)
-
-* Bluesky Statistics
-
-[http://www.blueskystatistics.com/](http://www.blueskystatistics.com/)
-
-* Knime
-
-[https://www.knime.com/](https://www.knime.com/)
-
-* **R commander**
-
-[http://www.rcommander.com/](http://www.rcommander.com/)
-
-* Free statistics software for Macintosh computers \(Macs\)
-
-  [https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
-
-* ggplot2 extensions
-
-[http://www.ggplot2-exts.org/gallery/](http://www.ggplot2-exts.org/gallery/)
-
-* Web Pages that Perform Statistical Calculations
-
-[http://statpages.info/](http://statpages.info/)
-
-* EpiTools epidemiological calculators
-
-[http://epitools.ausvet.com.au/content.php?page=home](http://epitools.ausvet.com.au/content.php?page=home)
-
-* QuickCalcs Online Statistical Calculator
-
-[https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
-
-* VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net/)
-* Cutoff Finder
-
-  [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
-
-* Plotly
-
-[https://plot.ly/](https://plot.ly/)
-
-[https://plot.ly/r/](https://plot.ly/r/)
-
-* A website trying to present all relevant data visualizations, so you can find the right visualization and get inspiration on how to do it.
-
-[http://datavizproject.com/](http://datavizproject.com/)
-
-* Open Source Epidemiologic Statistics for Public Health
-
-[http://www.openepi.com/](http://www.openepi.com/)
-
-* [https://www.datawrapper.de](https://www.datawrapper.de)
-* [https://public.tableau.com/](https://public.tableau.com/)
-* **Open Refine, Google Refine**
-
-[http://openrefine.org/](http://openrefine.org/)
-
-* Google Refine 2.0 - Introduction \(1 of 3\) \(video version 2\)
-
-[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J_H_zAWM)
-
-* Google Refine 2.0 - Data Augmentation \(3 of 3\) \(video version 2\)
-
-[https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL)
-
-* [https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)
-
-**Online Data Visualization Websites**
-
-* [DataHero](http://datahero.com/)
-* [Plotly](http://plot.ly/)
-* [Number Picture](http://site.numberpicture.com/)
-* [Polychart](https://github.com/Polychart)
-* [Juice Analytics](http://www.juiceanalytics.com/)
-* [Weave](http://www.iweave.org/)
-* [Datavisual](http://datavisu.al/)
-* [Silk](https://www.silk.co/)
-* [Zoomdata](http://www.zoomdata.com/)
-
-  \(via the cloud platforms\)
-
-* [RAW](http://app.raw.densitydesign.org/)
-* [Datawrapper](https://datawrapper.de/)
-
-**Software**
-
-* [Tableau](http://www.tableau.com/)
-* [SAP Lumira](http://www.sapstore.com/getlumira)
-
-  \(including a free Personal Edition version\)
-
-* [Microsoft Excel](https://products.office.com/excel)
-
-  \(or any other spreadsheet that includes charts\)
-
-* [ClearStory](http://www.clearstorydata.com/)
-* [BeyondCore](http://beyondcore.com/)
-* [Mathematica](http://www.wolfram.com/mathematica/)
-* [MATLAB](http://www.mathworks.com/products/matlab/)
-* [MatPlotLib](http://matplotlib.org/)
-
-  \(if you are comfortable programming Python\)
-
-* [R Programming Language](https://www.r-project.org/)
-* [ggplot2](http://ggplot2.org/)
-
-**Some Data Sources**
-
-* [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-* [Data from the World Bank](http://data.worldbank.org/)
-
-**Plotting your data**
-
-[https://sites.google.com/site/obintlab/wiki/plotting-data](https://sites.google.com/site/obintlab/wiki/plotting-data)
-
-* RevMan 5
-
-[http://community.cochrane.org/tools/review-production-tools/revman-5](http://community.cochrane.org/tools/review-production-tools/revman-5)
-
-* Trifacta
-
-[https://www.trifacta.com/](https://www.trifacta.com/)
-
-* UW Interactive Data Lab
-
-[http://idl.cs.washington.edu/](http://idl.cs.washington.edu/)
-
-[https://vega.github.io/](https://vega.github.io/)
-
-* Design better data tables The ingredients of a successful data table UI
-
-[https://uxdesign.cc/design-better-data-tables-4ecc99d23356](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
-
-* gapminder
-
-[https://www.gapminder.org/](https://www.gapminder.org/)
-
-* DOLLAR STREET
-
-[https://www.gapminder.org/dollar-street/matrix](https://www.gapminder.org/dollar-street/matrix)
-
-* Show your own data
-
-[https://vizabi.org/tutorials/2017/04/03/show-your-data/](https://vizabi.org/tutorials/2017/04/03/show-your-data/)
-
-* Join your data with Gapminder's data
-
-[https://vizabi.org/tutorials/2017/04/04/join-your-data-with-g/](https://vizabi.org/tutorials/2017/04/04/join-your-data-with-g/)
-
-# AAPA
-
-Dersler ile ilgili genel bilgiler
-
-  
-
-
-Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden beklenen bu değişik yönleri klinik derslerle de birleştirmenizdir.
-
-  
-
-
-* Epidemiyoloji
-
-* Patogenez
-
-* Morfoloji
-
-* 
-* Genetik
-
-* Tedavi
-
-* 
-* Morfoloji ve patogenezin klinik ile korelasyonu
-
-* Hastalığın süreci
-
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
-
-  
-
-
-  
-
-
-Kaynaklar:
-
-Patoloji derslerini hazırlarken temel olarak Robbins’ten faydalanıyoruz.
-
-Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tümü kütüphanemizde mevcuttur:
-
-  
-
-
-1. Robbins Basic Pathology, 9th edition
-
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
-3. Robbins Temel Patoloji
-
-4. BRS Pathology \(Board Review Series\)
-
-5. Pathology Secrets
-
-6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
-
-7. Elsevier's Integrated Pathology
-
-8. Histology and Cell Biology: An Introduction to Pathology
-
-9. Netter's Illustrated Human Pathology
-
-10. Rapid Review Pathology
-
-11. Robbins and Cotran Atlas of Pathology
-
-12. Robbins and Cotran Review of Pathology
-
-13. Wheater's Basic Pathology
-
-14. Wheater's Basic Pathology: A Text, Atlas and Review of Histopathology
-
-15. Wheater's Review of Histology & Basic Pathology
-
-16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
-
-17. The Biology of Cancer Robert A. Weinberg
-
-  
-
-
-  
-
-
-Dersler ile ilgili genel bilgiler
-
-  
-
-
-Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden beklenen bu değişik yönleri klinik derslerle de birleştirmenizdir.
-
-  
-
-
-* Epidemiyoloji
-
-* Patogenez
-
-* Morfoloji
-
-* 
-* Genetik
-
-* Tedavi
-
-* 
-* Morfoloji ve patogenezin klinik ile korelasyonu
-
-* Hastalığın süreci
-
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
-
-  
-
-
-  
-
-
-Kaynaklar:
-
-Patoloji derslerini hazırlarken temel olarak Robbins’ten faydalanıyoruz.
-
-Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tümü kütüphanemizde mevcuttur:
-
-  
-
-
-1. Robbins Basic Pathology, 9th edition
-
-2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
-3. Robbins Temel Patoloji
-
-4. BRS Pathology \(Board Review Series\)
-
-5. Pathology Secrets
-
-6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
-
-7. Elsevier's Integrated Pathology
-
-8. Histology and Cell Biology: An Introduction to Pathology
-
-9. Netter's Illustrated Human Pathology
-
-10. Rapid Review Pathology
-
-11. Robbins and Cotran Atlas of Pathology
-
-12. Robbins and Cotran Review of Pathology
-
-13. Wheater's Basic Pathology
-
-14. Wheater's Basic Pathology: A Text, Atlas and Review of Histopathology
-
-15. Wheater's Review of Histology & Basic Pathology
-
-16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
-
-17. The Biology of Cancer Robert A. Weinberg
-
-  
-
-
-  
-
-
-* Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases \(Pivotal Study\).
-
-http://journals.lww.com/ajsp/Abstract/publishahead/Whole\_Slide\_Imaging\_Versus\_Microscopy\_for\_Primary.97978.aspx
-
-* The Gold Standard Paradox in Digital Image Analysis Manual Versus Automated Scoring as Ground Truth
-
-Arch Pathol Lab Med. 2017 May 30.  PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA)
-
-# About the Usage of Digital Pathology
-
-* Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases \(Pivotal Study\).
-
-[http://journals.lww.com/ajsp/Abstract/publishahead/Whole\_Slide\_Imaging\_Versus\_Microscopy\_for\_Primary.97978.aspx](http://journals.lww.com/ajsp/Abstract/publishahead/Whole_Slide_Imaging_Versus_Microscopy_for_Primary.97978.aspx)
-
-* The Gold Standard Paradox in Digital Image Analysis Manual Versus Automated Scoring as Ground Truth
-
-Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA)
-
-* Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases \(Pivotal Study\).
-
-http://journals.lww.com/ajsp/Abstract/publishahead/Whole\_Slide\_Imaging\_Versus\_Microscopy\_for\_Primary.97978.aspx
-
-* The Gold Standard Paradox in Digital Image Analysis Manual Versus Automated Scoring as Ground Truth
-
-Arch Pathol Lab Med. 2017 May 30.  PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA)
-
-* Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases \(Pivotal Study\).
-
-http://journals.lww.com/ajsp/Abstract/publishahead/Whole\_Slide\_Imaging\_Versus\_Microscopy\_for\_Primary.97978.aspx
-
-* The Gold Standard Paradox in Digital Image Analysis Manual Versus Automated Scoring as Ground Truth
-
-Arch Pathol Lab Med. 2017 May 30.  PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA)
-
-# About the Usage of Digital Pathology
-
-* Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases \(Pivotal Study\).
-
-[http://journals.lww.com/ajsp/Abstract/publishahead/Whole\_Slide\_Imaging\_Versus\_Microscopy\_for\_Primary.97978.aspx](http://journals.lww.com/ajsp/Abstract/publishahead/Whole_Slide_Imaging_Versus_Microscopy_for_Primary.97978.aspx)
-
-* The Gold Standard Paradox in Digital Image Analysis Manual Versus Automated Scoring as Ground Truth
-
-Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA)
-
-
-
-
-
-# Access
-
-* Access 2013 videos and tutorials
-
-[https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10EA-D5F4-40C5-8B37-D254561F8BCE](https://support.office.com/en-us/article/Access-2013-videos-and-tutorials-A4BD10EA-D5F4-40C5-8B37-D254561F8BCE)
-
-
-* Patoloji'de akreditasyona gazetecilerin katkısı
-
-Patoloji'de akreditasyona gazetecilerin katkısı üzerine de düşünmek lazım.
-
-https://wwwn.cdc.gov/cliac/pdf/Addenda/cliac0208/Addendum%20G.pdf
-
-http://faculty.poly.edu/~jbain/scitechsoc/readings/98CC.pdf
-
-Belki de son zamanlarda çıkan haberlere reaksiyon göstermek yerine gerginliği dozunda kontrol edip, bu durumu fırsata çevirmek mümkün olabilir.
-
-* Patoloji'de akreditasyona gazetecilerin katkısı
-
-Patoloji'de akreditasyona gazetecilerin katkısı üzerine de düşünmek lazım.
-
-https://wwwn.cdc.gov/cliac/pdf/Addenda/cliac0208/Addendum%20G.pdf
-
-http://faculty.poly.edu/~jbain/scitechsoc/readings/98CC.pdf
-
-Belki de son zamanlarda çıkan haberlere reaksiyon göstermek yerine gerginliği dozunda kontrol edip, bu durumu fırsata çevirmek mümkün olabilir.
-
-* Patoloji'de akreditasyona gazetecilerin katkısı
-
-Patoloji'de akreditasyona gazetecilerin katkısı üzerine de düşünmek lazım.
-
-https://wwwn.cdc.gov/cliac/pdf/Addenda/cliac0208/Addendum%20G.pdf
-
-http://faculty.poly.edu/~jbain/scitechsoc/readings/98CC.pdf
-
-Belki de son zamanlarda çıkan haberlere reaksiyon göstermek yerine gerginliği dozunda kontrol edip, bu durumu fırsata çevirmek mümkün olabilir.
-
-* Patoloji'de akreditasyona gazetecilerin katkısı
-
-Patoloji'de akreditasyona gazetecilerin katkısı üzerine de düşünmek lazım.
-
-https://wwwn.cdc.gov/cliac/pdf/Addenda/cliac0208/Addendum%20G.pdf
-
-http://faculty.poly.edu/~jbain/scitechsoc/readings/98CC.pdf
-
-Belki de son zamanlarda çıkan haberlere reaksiyon göstermek yerine gerginliği dozunda kontrol edip, bu durumu fırsata çevirmek mümkün olabilir.
-
-# Acreditation
-
-* Patoloji'de akreditasyona gazetecilerin katkısı
-
-Patoloji'de akreditasyona gazetecilerin katkısı üzerine de düşünmek lazım.
-
-[https://wwwn.cdc.gov/cliac/pdf/Addenda/cliac0208/Addendum G.pdf](https://wwwn.cdc.gov/cliac/pdf/Addenda/cliac0208/Addendum%20G.pdf)
-
-[http://faculty.poly.edu/~jbain/scitechsoc/readings/98CC.pdf](http://faculty.poly.edu/~jbain/scitechsoc/readings/98CC.pdf)
-
-Belki de son zamanlarda çıkan haberlere reaksiyon göstermek yerine gerginliği dozunda kontrol edip, bu durumu fırsata çevirmek mümkün olabilir.
-
-# AJCC, UICC, TNM
-
-* 
-[http://www.uicc.org/sites/main/files/atoms/files/TNM\_Classification\_of\_Malignant\_ Tumours\_8th\_edition\_NEW\_updated\_0.pptx](http://www.uicc.org/sites/main/files/atoms/files/TNM_Classification_of_Malignant_%20Tumours_8th_edition_NEW_updated_0.pptx)
-
-* Eighth Edition of the UICC Classification of Malignant Tumours: an overview of the changes in the pathological TNM classification criteria—What has changed and why?
-
-[https://link.springer.com/article/10.1007/s00428-017-2276-y](https://link.springer.com/article/10.1007/s00428-017-2276-y)
-
-*  
-
-[http://www.uicc.org/sites/main/files/atoms/files/TNM\_Classification\_of\_Malignant\_ Tumours\_8th\_edition\_NEW\_updated\_0.pptx](http://www.uicc.org/sites/main/files/atoms/files/TNM_Classification_of_Malignant_ Tumours_8th_edition_NEW_updated_0.pptx)
-
-* Eighth Edition of the UICC Classification of Malignant Tumours: an overview of the changes in the pathological TNM classification criteria—What has changed and why?
-
-[https://link.springer.com/article/10.1007/s00428-017-2276-y](https://link.springer.com/article/10.1007/s00428-017-2276-y)
-
-*  
-
-[http://www.uicc.org/sites/main/files/atoms/files/TNM\_Classification\_of\_Malignant\_ Tumours\_8th\_edition\_NEW\_updated\_0.pptx](http://www.uicc.org/sites/main/files/atoms/files/TNM_Classification_of_Malignant_ Tumours_8th_edition_NEW_updated_0.pptx)
-
-* Eighth Edition of the UICC Classification of Malignant Tumours: an overview of the changes in the pathological TNM classification criteria—What has changed and why?
-
-[https://link.springer.com/article/10.1007/s00428-017-2276-y](https://link.springer.com/article/10.1007/s00428-017-2276-y)
-
-*  
-
-[http://www.uicc.org/sites/main/files/atoms/files/TNM\_Classification\_of\_Malignant\_ Tumours\_8th\_edition\_NEW\_updated\_0.pptx](http://www.uicc.org/sites/main/files/atoms/files/TNM_Classification_of_Malignant_ Tumours_8th_edition_NEW_updated_0.pptx)
-
-* Eighth Edition of the UICC Classification of Malignant Tumours: an overview of the changes in the pathological TNM classification criteria—What has changed and why?
-
-[https://link.springer.com/article/10.1007/s00428-017-2276-y](https://link.springer.com/article/10.1007/s00428-017-2276-y)
-
-# AJCC, UICC, TNM
-
-# Alluvial Diagrams
-
-[http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)
-
-[https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-
-# Alluvial Diagrams with ggforce
-
-[http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
-
-# Alluvial Diagrams in ggplot2
-
-[http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html](http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html)
-
-[http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)
-
-[https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-
-# Alluvial Diagrams with ggforce
-
-[http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
-
-# Alluvial Diagrams in ggplot2
-
-http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html
-
-
-
-[http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)
-
-[https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-
-# Alluvial Diagrams with ggforce
-
-[http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
-
-# Alluvial Diagrams in ggplot2
-
-http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html
-
-
-
-[http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)
-
-[https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-
-# Alluvial Diagrams with ggforce
-
-[http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
-
-# Alluvial Diagrams in ggplot2
-
-http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html
-
-
-
-[http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)
-
-[https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-
-# Alluvial Diagrams with ggforce
-
-[http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
-
-# Alluvial Diagrams in ggplot2
-
-http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html
-
-
-
-# Alluvial Diagrams
-
-[http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)
-
-[https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-
-# Alluvial Diagrams with ggforce
-
-[http://www.dandersondata.com/post/alluvial-plots-with-ggforce/](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
-
-# Alluvial Diagrams in ggplot2
-
-[http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html](http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html)
-
-**ImmunoRatio**
-
-[http://153.1.200.58:8080/immunoratio/](http://153.1.200.58:8080/immunoratio/)
-
-[http://imtmicroscope.uta.fi/immunoratio/](http://imtmicroscope.uta.fi/immunoratio/)
-
-ImmunoRatio: a publicly available web application for quantitative image analysis of estrogen receptor \(ER\), progesterone receptor \(PR\), and Ki-67. [PMID: 20663194](https://www.ncbi.nlm.nih.gov/pubmed/20663194)
-
-**ImmunoMembrane**
-
-[http://153.1.200.58:8080/immunomembrane/](http://153.1.200.58:8080/immunomembrane/)
-
-ImmunoMembrane: a publicly available web application for digital image analysis of HER2 immunohistochemistry. [PMID: 22296215](https://www.ncbi.nlm.nih.gov/pubmed/22296215)
-
-Quantifying Stained Liver Tissue
-
-[https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html](https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html)
-
-[https://www.researchgate.net/post/Can\_ImageJ\_software\_be\_used\_to\_calculate\_collagen\_volume\_fraction\_from\_Massons-Trichrome\_stained\_slide\_images](https://www.researchgate.net/post/Can_ImageJ_software_be_used_to_calculate_collagen_volume_fraction_from_Massons-Trichrome_stained_slide_images)
-
-[https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition](https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition)
-
-Quantification of myocardial fibrosis by digital image analysis and interactive stereology
-
-[https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114](https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114)
-
-**Quantifications of Western Blots with ImageJ**
-
-Comparison of collagen content in skin wounds evaluated by biochemical assay and by computeraided histomorphometric analysis
-
-Virtual Double Staining for Automated Quantification in Immunohistochemistry
-
-[https://www.youtube.com/watch?v=\_BLOizOLiMo](https://www.youtube.com/watch?v=_BLOizOLiMo)
-
-# Analysis
-
-**ImmunoRatio**
-
-[http://153.1.200.58:8080/immunoratio/](http://153.1.200.58:8080/immunoratio/)
-
-[http://imtmicroscope.uta.fi/immunoratio/](http://imtmicroscope.uta.fi/immunoratio/)
-
-ImmunoRatio: a publicly available web application for quantitative image analysis of estrogen receptor \(ER\), progesterone receptor \(PR\), and Ki-67. [PMID: 20663194](https://www.ncbi.nlm.nih.gov/pubmed/20663194)
-
-**ImmunoMembrane**
-
-[http://153.1.200.58:8080/immunomembrane/](http://153.1.200.58:8080/immunomembrane/)
-
-ImmunoMembrane: a publicly available web application for digital image analysis of HER2 immunohistochemistry. [PMID: 22296215](https://www.ncbi.nlm.nih.gov/pubmed/22296215)
-
-Quantifying Stained Liver Tissue
-
-[https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html](https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html)
-
-[https://www.researchgate.net/post/Can\_ImageJ\_software\_be\_used\_to\_calculate\_collagen\_volume\_fraction\_from\_Massons-Trichrome\_stained\_slide\_images](https://www.researchgate.net/post/Can_ImageJ_software_be_used_to_calculate_collagen_volume_fraction_from_Massons-Trichrome_stained_slide_images)
-
-[https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition](https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition)
-
-Quantification of myocardial fibrosis by digital image analysis and interactive stereology
-
-[https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114](https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114)
-
-**Quantifications of Western Blots with ImageJ**
-
-Comparison of collagen content in skin wounds evaluated by biochemical assay and by computeraided histomorphometric analysis
-
-Virtual Double Staining for Automated Quantification in Immunohistochemistry
-
-[https://www.youtube.com/watch?v=\_BLOizOLiMo](https://www.youtube.com/watch?v=_BLOizOLiMo)
-
-**ImmunoRatio**
-
-[http://153.1.200.58:8080/immunoratio/](http://153.1.200.58:8080/immunoratio/)
-
-[http://imtmicroscope.uta.fi/immunoratio/](http://imtmicroscope.uta.fi/immunoratio/)
-
-ImmunoRatio: a publicly available web application for quantitative image analysis of estrogen receptor \(ER\), progesterone receptor \(PR\), and Ki-67. [PMID: 20663194](https://www.ncbi.nlm.nih.gov/pubmed/20663194)
-
-**ImmunoMembrane**
-
-[http://153.1.200.58:8080/immunomembrane/](http://153.1.200.58:8080/immunomembrane/)
-
-ImmunoMembrane: a publicly available web application for digital image analysis of HER2 immunohistochemistry. [PMID: 22296215](https://www.ncbi.nlm.nih.gov/pubmed/22296215)
-
-Quantifying Stained Liver Tissue
-
-[https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html](https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html)
-
-[https://www.researchgate.net/post/Can\_ImageJ\_software\_be\_used\_to\_calculate\_collagen\_volume\_fraction\_from\_Massons-Trichrome\_stained\_slide\_images](https://www.researchgate.net/post/Can_ImageJ_software_be_used_to_calculate_collagen_volume_fraction_from_Massons-Trichrome_stained_slide_images)
-
-[https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition](https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition)
-
-Quantification of myocardial fibrosis by digital image analysis and interactive stereology
-
-[https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114](https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114)
-
-**Quantifications of Western Blots with ImageJ**
-
-Comparison of collagen content in skin wounds evaluated by biochemical assay and by computeraided histomorphometric analysis
-
-Virtual Double Staining for Automated Quantification in Immunohistochemistry
-
-[https://www.youtube.com/watch?v=\_BLOizOLiMo](https://www.youtube.com/watch?v=_BLOizOLiMo)
-
-**ImmunoRatio**
-
-[http://153.1.200.58:8080/immunoratio/](http://153.1.200.58:8080/immunoratio/)
-
-[http://imtmicroscope.uta.fi/immunoratio/](http://imtmicroscope.uta.fi/immunoratio/)
-
-ImmunoRatio: a publicly available web application for quantitative image analysis of estrogen receptor \(ER\), progesterone receptor \(PR\), and Ki-67. [PMID: 20663194](https://www.ncbi.nlm.nih.gov/pubmed/20663194)
-
-**ImmunoMembrane**
-
-[http://153.1.200.58:8080/immunomembrane/](http://153.1.200.58:8080/immunomembrane/)
-
-ImmunoMembrane: a publicly available web application for digital image analysis of HER2 immunohistochemistry. [PMID: 22296215](https://www.ncbi.nlm.nih.gov/pubmed/22296215)
-
-Quantifying Stained Liver Tissue
-
-[https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html](https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html)
-
-[https://www.researchgate.net/post/Can\_ImageJ\_software\_be\_used\_to\_calculate\_collagen\_volume\_fraction\_from\_Massons-Trichrome\_stained\_slide\_images](https://www.researchgate.net/post/Can_ImageJ_software_be_used_to_calculate_collagen_volume_fraction_from_Massons-Trichrome_stained_slide_images)
-
-[https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition](https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition)
-
-Quantification of myocardial fibrosis by digital image analysis and interactive stereology
-
-[https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114](https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114)
-
-**Quantifications of Western Blots with ImageJ**
-
-Comparison of collagen content in skin wounds evaluated by biochemical assay and by computeraided histomorphometric analysis
-
-Virtual Double Staining for Automated Quantification in Immunohistochemistry
-
-[https://www.youtube.com/watch?v=\_BLOizOLiMo](https://www.youtube.com/watch?v=_BLOizOLiMo)
-
-# Analysis
-
-**ImmunoRatio**
-
-[http://153.1.200.58:8080/immunoratio/](http://153.1.200.58:8080/immunoratio/)
-
-[http://imtmicroscope.uta.fi/immunoratio/](http://imtmicroscope.uta.fi/immunoratio/)
-
-ImmunoRatio: a publicly available web application for quantitative image analysis of estrogen receptor \(ER\), progesterone receptor \(PR\), and Ki-67. [PMID: 20663194](https://www.ncbi.nlm.nih.gov/pubmed/20663194)
-
-**ImmunoMembrane**
-
-[http://153.1.200.58:8080/immunomembrane/](http://153.1.200.58:8080/immunomembrane/)
-
-ImmunoMembrane: a publicly available web application for digital image analysis of HER2 immunohistochemistry. [PMID: 22296215](https://www.ncbi.nlm.nih.gov/pubmed/22296215)
-
-Quantifying Stained Liver Tissue
-
-[https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html](https://imagej.nih.gov/ij/docs/examples/stained-sections/index.html)
-
-[https://www.researchgate.net/post/Can\_ImageJ\_software\_be\_used\_to\_calculate\_collagen\_volume\_fraction\_from\_Massons-Trichrome\_stained\_slide\_images](https://www.researchgate.net/post/Can_ImageJ_software_be_used_to_calculate_collagen_volume_fraction_from_Massons-Trichrome_stained_slide_images)
-
-[https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition](https://www.scientistsolutions.com/forum/cytology-histology-and-ihc-digital-atlas/how-can-use-imagej-software-collagen-deposition)
-
-Quantification of myocardial fibrosis by digital image analysis and interactive stereology
-
-[https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114](https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114)
-
-**Quantifications of Western Blots with ImageJ**
-
-Comparison of collagen content in skin wounds evaluated by biochemical assay and by computeraided histomorphometric analysis
-
-Virtual Double Staining for Automated Quantification in Immunohistochemistry
-
-[https://www.youtube.com/watch?v=\_BLOizOLiMo](https://www.youtube.com/watch?v=_BLOizOLiMo)
-
-# Approach to Endometrial Biopsies
-
-# Approach to Endometrial Biopsies
-
-[http://endometrium.org/](http://endometrium.org/)
-
-http://endometrium.org/
-
-http://endometrium.org/
-
-http://endometrium.org/
-
-http://endometrium.org/
-
-* USCAP: Wendy Frankel's Gastrointestinal and Liver Pathology
-
-[https://www.youtube.com/watch?v=rGC1RcAEqiY](https://www.youtube.com/watch?v=rGC1RcAEqiY)
-
-* The Almost-Normal Liver Biopsy: Presentation, Clinical Associations, and Outcome
-
-Am J Surg Pathol. 2017 Sep;41\(9\):1247-1253. doi: 10.1097/PAS.0000000000000881.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28614198
-
-
-
-
-
-* USCAP: Wendy Frankel's Gastrointestinal and Liver Pathology
-
-[https://www.youtube.com/watch?v=rGC1RcAEqiY](https://www.youtube.com/watch?v=rGC1RcAEqiY)
-
-* The Almost-Normal Liver Biopsy: Presentation, Clinical Associations, and Outcome
-
-Am J Surg Pathol. 2017 Sep;41\(9\):1247-1253. doi: 10.1097/PAS.0000000000000881.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28614198
-
-
-
-
-
-* USCAP: Wendy Frankel's Gastrointestinal and Liver Pathology
-
-[https://www.youtube.com/watch?v=rGC1RcAEqiY](https://www.youtube.com/watch?v=rGC1RcAEqiY)
-
-* The Almost-Normal Liver Biopsy: Presentation, Clinical Associations, and Outcome
-
-Am J Surg Pathol. 2017 Sep;41\(9\):1247-1253. doi: 10.1097/PAS.0000000000000881.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28614198
-
-
-
-
-
-* USCAP: Wendy Frankel's Gastrointestinal and Liver Pathology
-
-[https://www.youtube.com/watch?v=rGC1RcAEqiY](https://www.youtube.com/watch?v=rGC1RcAEqiY)
-
-* The Almost-Normal Liver Biopsy: Presentation, Clinical Associations, and Outcome
-
-Am J Surg Pathol. 2017 Sep;41\(9\):1247-1253. doi: 10.1097/PAS.0000000000000881.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28614198
-
-
-
-
-
-# Approach to Liver Biopsies
-
 # USCAP: Jason Hornick's Deep Soft Tissue Tumors, Spindle Cell Tumors
 
 [https://www.youtube.com/watch?v=z0987zsl60Y](https://www.youtube.com/watch?v=z0987zsl60Y)
@@ -1253,28 +103,6 @@ https://link.springer.com/article/10.1245/s10434-017-6323-3
 https://www.youtube.com/watch?v=GQVLl0RqpSs&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=11
 
 
-
-
-
-# Artificial Neural Networks
-
-https://www.youtube.com/watch?v=GQVLl0RqpSs&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=11
-
-
-
-
-
-# Artificial Neural Networks
-
-https://www.youtube.com/watch?v=GQVLl0RqpSs&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=11
-
-
-
-
-
-# Artificial Neural Networks
-
-[https://www.youtube.com/watch?v=GQVLl0RqpSs&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=11](https://www.youtube.com/watch?v=GQVLl0RqpSs&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=11)
 
 # Association Rules
 
@@ -24677,8 +23505,6 @@ http://apps.pathology.jhu.edu/sp/about-this-site/
 
 ---
 
-*    
-
 
 
 http://www.pathologystudent.com/
@@ -24987,6 +23813,15 @@ below copied from this page for my future personal use.
 >
 > ["A Taxonomic Guide to the Pathology Kingdom"](http://web2.airmail.net/uthman/pthcreer.ppt) is a PowerPoint presentation on pathology as a career, comparing the world of academic pathology with that of private practice. This will be pretty obscure for anyone who is not fascinated by scientific names of biological species. You have been warned. 44K.
 
+
+
+
+
+
+
+
+---
+
 # Websites
 
 * Work On
@@ -25003,6 +23838,111 @@ below copied from this page for my future personal use.
 
 [http://www.serdarbalci.com/](http://www.serdarbalci.com/)
 
+
+
+* Blogs
+
+[https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
+
+[https://drserdarbalci.blogspot.com.tr/](https://drserdarbalci.blogspot.com.tr/)
+
+
+
+
+* Articles
+
+[https://www.ncbi.nlm.nih.gov/labs/journals/](https://www.ncbi.nlm.nih.gov/labs/journals/)
+
+[http://researchgate.net/](http://researchgate.net/)
+
+[https://scholar.google.com.tr/](https://scholar.google.com.tr/)
+
+[https://publons.com/community/academy/](https://publons.com/community/academy/)
+
+[http://semanticscholar.org/](http://semanticscholar.org/)
+
+[http://academic.microsoft.com/](http://academic.microsoft.com/)
+
+* Videos
+
+[https://www.youtube.com/](https://www.youtube.com/)
+
+[http://ihavenotv.com/series/planet-earth-ii](http://ihavenotv.com/series/planet-earth-ii)
+
+* Courses
+
+[http://www.ascp.org/](http://www.ascp.org/)
+
+[http://datacamp.com/](http://datacamp.com/)
+
+[https://www.edx.org/](https://www.edx.org/)
+
+[https://www.coursera.org/](https://www.coursera.org/)
+
+[https://www.sololearn.com/](https://www.sololearn.com/)
+
+[https://www.duolingo.com/](https://www.duolingo.com/)
+
+[https://www.khanacademy.org/](https://www.khanacademy.org/)
+
+[https://lagunita.stanford.edu/](https://lagunita.stanford.edu/)
+
+[https://www.udacity.com](https://www.udacity.com)
+
+* Pathology
+
+USCAP Archived Online Courses [https://www.pathologyportal.org/elibraryf.asp](https://www.pathologyportal.org/elibraryf.asp)
+
+USCAP Virtual Slide Box [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
+
+[https://cancerstaging.org/CSE/Physician/Pages/8th-Edition-Webinars.aspx](https://cancerstaging.org/CSE/Physician/Pages/8th-Edition-Webinars.aspx)
+
+[http://apps.pathology.jhu.edu/sp/week-670-case-2/](http://apps.pathology.jhu.edu/sp/week-670-case-2/)
+
+www.cap.org/web/submenu/calendar/webinars
+
+[https://www.youtube.com/watch?v=2\_fQlTRaxKw](https://www.youtube.com/watch?v=2_fQlTRaxKw)
+
+[https://www.youtube.com/watch?v=PY5plp3J8wA&list=PLxRBOaoEoP4I9CRh4834qo6oGPZIniJrY&index=49](https://www.youtube.com/watch?v=PY5plp3J8wA&list=PLxRBOaoEoP4I9CRh4834qo6oGPZIniJrY&index=49)
+
+www.rstudio.com/resources/webinars/
+
+[https://www.youtube.com/watch?v=6NFyB19D\_fU&feature=youtu.be&t=7m37s](https://www.youtube.com/watch?v=6NFyB19D_fU&feature=youtu.be&t=7m37s)
+
+* Books
+
+[http://genomicsclass.github.io/book/](http://genomicsclass.github.io/book/)
+
+[http://r4ds.had.co.nz/](http://r4ds.had.co.nz/)
+
+[http://bioinformaticsalgorithms.com/](http://bioinformaticsalgorithms.com/)
+
+* [https://tinyletter.com/data-is-plural/archive](https://tinyletter.com/data-is-plural/archive)
+
+[https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV](https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV)
+
+[http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html](http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html)
+
+[https://github.com/rOpenHealth/rpubmed](https://github.com/rOpenHealth/rpubmed)
+
+[https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
+
+* Work On
+
+[https://publons.com/community/academy/](https://publons.com/community/academy/)
+
+https://sites.google.com/view/drserdarbalci/
+
+[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html)
+
+[https://translate-coursera.org/](https://translate-coursera.org/)
+
+[https://sbalci.gitbooks.io/pathology-notes/content/](https://sbalci.gitbooks.io/pathology-notes/content/)
+
+[http://www.serdarbalci.com/](http://www.serdarbalci.com/)
+
+---
+
 * Read
 
 [https://translate-coursera.org/](https://translate-coursera.org/)
@@ -25057,15 +23997,12 @@ below copied from this page for my future personal use.
 
 * Videos
 
-[https://www.youtube.com/](https://www.youtube.com/)
 
 [http://ihavenotv.com/series/planet-earth-ii](http://ihavenotv.com/series/planet-earth-ii)
 
 * Courses
 
 [http://www.ascp.org/](http://www.ascp.org/)
-
-[http://datacamp.com/](http://datacamp.com/)
 
 [https://www.edx.org/](https://www.edx.org/)
 
@@ -25250,208 +24187,4 @@ www.rstudio.com/resources/webinars/
 [https://github.com/rOpenHealth/rpubmed](https://github.com/rOpenHealth/rpubmed)
 
 [https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
-
-* Work On
-
-[https://publons.com/community/academy/](https://publons.com/community/academy/)
-
-https://sites.google.com/view/drserdarbalci/
-
-[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html)
-
-[https://translate-coursera.org/](https://translate-coursera.org/)
-
-[https://sbalci.gitbooks.io/pathology-notes/content/](https://sbalci.gitbooks.io/pathology-notes/content/)
-
-[http://www.serdarbalci.com/](http://www.serdarbalci.com/)
-
----
-
-* Read
-
-[https://translate-coursera.org/](https://translate-coursera.org/)
-
-[https://www.datacamp.com/community](https://www.datacamp.com/community)
-
-* Blogs
-
-[https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
-
-[https://drserdarbalci.blogspot.com.tr/](https://drserdarbalci.blogspot.com.tr/)
-
-* Social
-
-[https://twitter.com/](https://twitter.com/)
-
-[https://www.facebook.com/saved/](https://www.facebook.com/saved/)
-
-[https://www.linkedin.com/](https://www.linkedin.com/)
-
-[http://instagram.com/](http://instagram.com/)
-
-* Mail
-
-[http://mail.yahoo.com/](http://mail.yahoo.com/)
-
-[https://mail.google.com/mail/u/0/\#all](https://mail.google.com/mail/u/0/#all)
-
-[https://outlook.live.com/mail/\#/inbox](https://outlook.live.com/mail/#/inbox)
-
-[https://inbox.google.com/](https://inbox.google.com/)
-
-* Notes
-
-[https://keep.google.com/](https://keep.google.com/)
-
-[https://feedly.com/](https://feedly.com/)
-
-* Articles
-
-[https://www.ncbi.nlm.nih.gov/labs/journals/](https://www.ncbi.nlm.nih.gov/labs/journals/)
-
-[http://researchgate.net/](http://researchgate.net/)
-
-[https://scholar.google.com.tr/](https://scholar.google.com.tr/)
-
-[https://publons.com/community/academy/](https://publons.com/community/academy/)
-
-[http://semanticscholar.org/](http://semanticscholar.org/)
-
-[http://academic.microsoft.com/](http://academic.microsoft.com/)
-
-* Videos
-
-[https://www.youtube.com/](https://www.youtube.com/)
-
-[http://ihavenotv.com/series/planet-earth-ii](http://ihavenotv.com/series/planet-earth-ii)
-
-* Courses
-
-[http://www.ascp.org/](http://www.ascp.org/)
-
-[http://datacamp.com/](http://datacamp.com/)
-
-[https://www.edx.org/](https://www.edx.org/)
-
-[https://www.coursera.org/](https://www.coursera.org/)
-
-[https://www.sololearn.com/](https://www.sololearn.com/)
-
-[https://www.duolingo.com/](https://www.duolingo.com/)
-
-[https://www.khanacademy.org/](https://www.khanacademy.org/)
-
-[https://lagunita.stanford.edu/](https://lagunita.stanford.edu/)
-
-[https://www.udacity.com](https://www.udacity.com)
-
-* Pathology
-
-USCAP Archived Online Courses [https://www.pathologyportal.org/elibraryf.asp](https://www.pathologyportal.org/elibraryf.asp)
-
-USCAP Virtual Slide Box [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
-
-[https://cancerstaging.org/CSE/Physician/Pages/8th-Edition-Webinars.aspx](https://cancerstaging.org/CSE/Physician/Pages/8th-Edition-Webinars.aspx)
-
-[http://apps.pathology.jhu.edu/sp/week-670-case-2/](http://apps.pathology.jhu.edu/sp/week-670-case-2/)
-
-www.cap.org/web/submenu/calendar/webinars
-
-[https://www.youtube.com/watch?v=2\_fQlTRaxKw](https://www.youtube.com/watch?v=2_fQlTRaxKw)
-
-[https://www.youtube.com/watch?v=PY5plp3J8wA&list=PLxRBOaoEoP4I9CRh4834qo6oGPZIniJrY&index=49](https://www.youtube.com/watch?v=PY5plp3J8wA&list=PLxRBOaoEoP4I9CRh4834qo6oGPZIniJrY&index=49)
-
-www.rstudio.com/resources/webinars/
-
-[https://www.youtube.com/watch?v=6NFyB19D\_fU&feature=youtu.be&t=7m37s](https://www.youtube.com/watch?v=6NFyB19D_fU&feature=youtu.be&t=7m37s)
-
-* Books
-
-[http://genomicsclass.github.io/book/](http://genomicsclass.github.io/book/)
-
-[http://r4ds.had.co.nz/](http://r4ds.had.co.nz/)
-
-[http://bioinformaticsalgorithms.com/](http://bioinformaticsalgorithms.com/)
-
-* [https://tinyletter.com/data-is-plural/archive](https://tinyletter.com/data-is-plural/archive)
-
-[https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV](https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV)
-
-[http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html](http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html)
-
-[https://github.com/rOpenHealth/rpubmed](https://github.com/rOpenHealth/rpubmed)
-
-[https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
-
-# Whipple Macroscopy
-
-# JHU Educational Web site
-
-[http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
-
-# JHU video
-
-[http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
-
-# Articles
-
-* Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
-
-[https://link.springer.com/article/10.1007/s00428-018-2321-5](https://link.springer.com/article/10.1007/s00428-018-2321-5)
-
-* 
-# JHU Educational Web site
-
-[http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
-
-# JHU video
-
-{% youtube %}CR-7blJkNaI{% endyoutube %}
-
-
-[http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
-
-# Articles
-
-* Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
-
-https://link.springer.com/article/10.1007/s00428-018-2321-5
-
-* 
-
-# JHU Educational Web site
-
-[http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
-
-# JHU video
-
-{% youtube %}CR-7blJkNaI{% endyoutube %}
-
-
-[http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
-
-# Articles
-
-* Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
-
-https://link.springer.com/article/10.1007/s00428-018-2321-5
-
-* 
-
-# JHU Educational Web site
-
-[http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
-
-# JHU video
-
-{% youtube %}CR-7blJkNaI{% endyoutube %}
-
-
-[http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
-
-# Articles
-
-* Dilemmas for the pathologist in the oncologic assessment of pancreatoduodenectomy specimens
-
-https://link.springer.com/article/10.1007/s00428-018-2321-5
 
