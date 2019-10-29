@@ -48,6 +48,7 @@
     * [Malignant Colorectal Polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
 * [Neuropathology](systemic-pathology/neuropathology/README.md)
   * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/neuropathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
+  * [Gliomlar](systemic-pathology/neuropathology/gliomlar.md)
 * [Approach to Soft Tissue Tumors](systemic-pathology/approach-to-soft-tissue-tumors.md)
 * [Approach to Liver Biopsies](systemic-pathology/approach-to-liver-biopsies.md)
 * [Pancreas](systemic-pathology/pancreas.md)
