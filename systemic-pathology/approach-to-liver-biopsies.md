@@ -8,6 +8,5 @@
 
 Am J Surg Pathol. 2017 Sep;41\(9\):1247-1253. doi: 10.1097/PAS.0000000000000881.
 
-https://www.ncbi.nlm.nih.gov/pubmed/28614198
-
+[https://www.ncbi.nlm.nih.gov/pubmed/28614198](https://www.ncbi.nlm.nih.gov/pubmed/28614198)
 

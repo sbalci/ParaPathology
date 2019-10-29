@@ -1,9 +1,10 @@
 # Bioconductor
 
+## Bioconductor
 
 * Bioconductor
 
-http://bioconductor.org/
+[http://bioconductor.org/](http://bioconductor.org/)
 
 * A test drive of a DNA-analysis toolkit in the cloud
 
@@ -27,7 +28,7 @@ http://bioconductor.org/
 
 * Bioconductor
 
-http://bioconductor.org/
+[http://bioconductor.org/](http://bioconductor.org/)
 
 * A test drive of a DNA-analysis toolkit in the cloud
 
@@ -51,7 +52,7 @@ http://bioconductor.org/
 
 * Bioconductor
 
-http://bioconductor.org/
+[http://bioconductor.org/](http://bioconductor.org/)
 
 * A test drive of a DNA-analysis toolkit in the cloud
 
@@ -75,7 +76,7 @@ http://bioconductor.org/
 
 * Bioconductor
 
-http://bioconductor.org/
+[http://bioconductor.org/](http://bioconductor.org/)
 
 * A test drive of a DNA-analysis toolkit in the cloud
 
@@ -97,7 +98,7 @@ http://bioconductor.org/
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670015/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670015/)
 
-# Bioconductor
+## Bioconductor
 
 * Bioconductor
 
@@ -138,5 +139,4 @@ http://bioconductor.org/
 **Are there regions in the genome that are not covered by DNA sequencing?**
 
 [http://ecseq.com/support/ngs/are-there-regions-in-the-genome-that-are-not-coverered-by-dna-sequencing](http://ecseq.com/support/ngs/are-there-regions-in-the-genome-that-are-not-coverered-by-dna-sequencing)
-
 

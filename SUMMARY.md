@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Preface](README.md)
-* [GitBook Manual](https://docs.gitbook.com/)
 
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
+* [GitBook Manual](https://docs.gitbook.com/)
 
 ## Medical School Lectures
 
@@ -97,6 +97,7 @@
 * [Taxonomy and Classification of Diseases](taxonomy-and-classification-of-diseases/taxonomy-and-classification-of-diseases.md)
 * [Tumor Classification](taxonomy-and-classification-of-diseases/tumor-classification.md)
 * [Classification Theory](taxonomy-and-classification-of-diseases/classification-theory.md)
+* [Chaos Theory and Uncertainity](taxonomy-and-classification-of-diseases/chaos-theory-and-uncertainity.md)
 
 ## Pathophysiology
 
@@ -231,8 +232,8 @@
   * [Text Mining R](statistics-and-bioinformatics/text-mining/text-mining-r.md)
   * [Text Mining Orange](statistics-and-bioinformatics/text-mining/text-mining-orange.md)
   * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed.md)
-  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed-1.md)
   * [Text Mining Twitter](statistics-and-bioinformatics/text-mining/text-mining-twitter.md)
+  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed-1.md)
 * [Bioinformatics](statistics-and-bioinformatics/bioinformatics.md)
 * [Bioconductor](statistics-and-bioinformatics/bioconductor.md)
 * [Tools for Data Analysis and Visualisation](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation.md)
