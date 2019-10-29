@@ -1,6 +1,6 @@
 # About Pathology Lectures
 
-
+## About Pathology Lectures
 
 Dersler ile ilgili genel bilgiler
 
@@ -37,10 +37,6 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz.
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
 17. The Biology of Cancer Robert A. Weinberg
 
-
-
-
-
 Dersler ile ilgili genel bilgiler
 
 Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden beklenen bu değişik yönleri klinik derslerle de birleştirmenizdir.
@@ -115,8 +111,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
 17. The Biology of Cancer Robert A. Weinberg
 
-
-# List Of Lectures
+## List Of Lectures
 
 [Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1_NOnKrDbGcY4wXpidE2OBXzi4s_uqUTm6GZ3bbZCr0M/pub)
 
@@ -769,37 +764,21 @@ Dersler için faydalanılabilecek kaynaklar:
 **Kitaplar:**
 
 1. Robbins Basic Pathology, 9th edition
-
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
 3. Robbins Temel Patoloji
-
 4. BRS Pathology \(Board Review Series\)
-
 5. Pathology Secrets
-
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
-
 7. Elsevier's Integrated Pathology
-
 8. Histology and Cell Biology: An Introduction to Pathology
-
 9. Netter's Illustrated Human Pathology
-
 10. Rapid Review Pathology
-
 11. Robbins and Cotran Atlas of Pathology
-
 12. Robbins and Cotran Review of Pathology
-
 13. Wheater's Basic Pathology
-
 14. Wheater's Basic Pathology: A Text, Atlas and Review of Histopathology
-
 15. Wheater's Review of Histology & Basic Pathology
-
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
-
 17. The Biology of Cancer Robert A. Weinberg
 
 Web:
@@ -1129,37 +1108,21 @@ Dersler için faydalanılabilecek kaynaklar:
 **Kitaplar:**
 
 1. Robbins Basic Pathology, 9th edition
-
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
 3. Robbins Temel Patoloji
-
 4. BRS Pathology \(Board Review Series\)
-
 5. Pathology Secrets
-
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
-
 7. Elsevier's Integrated Pathology
-
 8. Histology and Cell Biology: An Introduction to Pathology
-
 9. Netter's Illustrated Human Pathology
-
 10. Rapid Review Pathology
-
 11. Robbins and Cotran Atlas of Pathology
-
 12. Robbins and Cotran Review of Pathology
-
 13. Wheater's Basic Pathology
-
 14. Wheater's Basic Pathology: A Text, Atlas and Review of Histopathology
-
 15. Wheater's Review of Histology & Basic Pathology
-
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
-
 17. The Biology of Cancer Robert A. Weinberg
 
 Web:
@@ -1181,5 +1144,4 @@ Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera
 [https://www.edx.org/courses?subject=Medicine](https://www.edx.org/courses?subject=Medicine)
 
 [https://lagunita.stanford.edu/courses](https://lagunita.stanford.edu/courses)
-
 
