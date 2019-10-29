@@ -78,5 +78,9 @@ Robert Weinberg: 2014 Breakthrough Prize in Life Sciences Symposium
 
 History of Metastasis
 
-[https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory](https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory)
+{% embed url="https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory" %}
+
+{% embed url="https://twitter.com/PrasadCsbr/status/1188478784489394176" %}
+
+
 
