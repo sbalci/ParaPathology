@@ -6,6 +6,7 @@
 
 * [Introduction](introduction/introduction.md)
 * [GitBook Manual](https://docs.gitbook.com/)
+* [Patoloji Notlari](http://www.patolojinotlari.com/)
 
 ## Medical School Lectures
 
