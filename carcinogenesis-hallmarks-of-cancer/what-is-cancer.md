@@ -4,8 +4,6 @@ author: "[Serdar Balcı, MD, Pathologist](https://sbalci.github.io/)"
 institute: "[serdarbalci.com](https://www.serdarbalci.com) [patolojinotlari.com](https://www.patolojinotlari.com)"
 date: "2019-11-01"
 output:
-  rmdshower::shower_presentation:
-    keep_md: true
   revealjs::revealjs_presentation:
     keep_md: true
     incremental: true
@@ -21,14 +19,12 @@ output:
     reveal_options:
       slideNumber: true
       previewLinks: true
-  xaringan::moon_reader:
-    lib_dir: libs
-    nature:
-      beforeInit: ["macros.js", "https://platform.twitter.com/widgets.js"]
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
-    self_contained: true
+  prettydoc::html_pretty:
+    keep_md: true
+    theme: leonids
+    highlight: github
+  rmdshower::shower_presentation:
+    keep_md: true
   html_notebook:
     fig_caption: yes
     highlight: kate
@@ -37,10 +33,17 @@ output:
     toc: yes
     toc_depth: 5
     toc_float: yes
-  prettydoc::html_pretty:
-    theme: leonids
-    highlight: github
+  xaringan::moon_reader:
+    keep_md: true
+    lib_dir: libs
+    nature:
+      beforeInit: ["macros.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
   pdf_document:
+    keep_md: true
     toc: yes
     toc_depth: '5'
   html_document:
