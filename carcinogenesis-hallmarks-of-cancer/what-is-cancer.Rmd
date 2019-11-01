@@ -4,6 +4,7 @@ author: "[Serdar Balcı, MD, Pathologist](https://sbalci.github.io/)"
 institute: "[serdarbalci.com](https://www.serdarbalci.com) [patolojinotlari.com](https://www.patolojinotlari.com)"
 date: "`r format(Sys.Date())`"
 output:
+  rmdshower::shower_presentation:
   revealjs::revealjs_presentation:
     keep_md: true
     incremental: true
@@ -19,7 +20,6 @@ output:
     reveal_options:
       slideNumber: true
       previewLinks: true
-  rmdshower::shower_presentation:
   xaringan::moon_reader:
     lib_dir: libs
     nature:
