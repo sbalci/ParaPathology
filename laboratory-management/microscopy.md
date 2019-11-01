@@ -1,23 +1,8 @@
 # Microscopy
 
+## Microscopy
 
-# MeSH
-
-[http://www.olympusmicro.com](http://www.olympusmicro.com)
-
-[http://www.microscopy-uk.org.uk/index.html](http://www.microscopy-uk.org.uk/index.html)
-
-[https://www.microscopyu.com/](https://www.microscopyu.com/)
-
-* 10 Tips for Microscope Care....Remember to PM your Scopes.
-
-[https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2](https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2)
-
-# A 50-cent microscope that folds like origami
-
-https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami
-
-
+## MeSH
 
 [http://www.olympusmicro.com](http://www.olympusmicro.com)
 
@@ -29,27 +14,37 @@ https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_l
 
 [https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2](https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2)
 
-# A 50-cent microscope that folds like origami
-
-https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami
-
-
-
-# Microscope
-
-[http://www.olympusmicro.com](http://www.olympusmicro.com)
-
-[http://www.microscopy-uk.org.uk/index.html](http://www.microscopy-uk.org.uk/index.html)
-
-[https://www.microscopyu.com/](https://www.microscopyu.com/)
-
-* 10 Tips for Microscope Care....Remember to PM your Scopes.
-
-[https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2](https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2)
-
-# A 50-cent microscope that folds like origami
+## A 50-cent microscope that folds like origami
 
 [https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
 
+[http://www.olympusmicro.com](http://www.olympusmicro.com)
 
+[http://www.microscopy-uk.org.uk/index.html](http://www.microscopy-uk.org.uk/index.html)
+
+[https://www.microscopyu.com/](https://www.microscopyu.com/)
+
+* 10 Tips for Microscope Care....Remember to PM your Scopes.
+
+[https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2](https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2)
+
+## A 50-cent microscope that folds like origami
+
+[https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
+
+## Microscope
+
+[http://www.olympusmicro.com](http://www.olympusmicro.com)
+
+[http://www.microscopy-uk.org.uk/index.html](http://www.microscopy-uk.org.uk/index.html)
+
+[https://www.microscopyu.com/](https://www.microscopyu.com/)
+
+* 10 Tips for Microscope Care....Remember to PM your Scopes.
+
+[https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2](https://www.linkedin.com/pulse/10-tips-microscope-careremember-pm-your-scopes-joseph-colao-2)
+
+## A 50-cent microscope that folds like origami
+
+[https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
 

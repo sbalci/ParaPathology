@@ -55,11 +55,6 @@
 
 [https://www.amazon.com/dp/1979731772/ref=cm\_sw\_r\_cp\_api\_Tn-sAbM17Q6KS](https://www.amazon.com/dp/1979731772/ref=cm_sw_r_cp_api_Tn-sAbM17Q6KS)
 
-
-
-
-
-
 * Books
 
 [http://genomicsclass.github.io/book/](http://genomicsclass.github.io/book/)
@@ -77,7 +72,4 @@
 [https://github.com/rOpenHealth/rpubmed](https://github.com/rOpenHealth/rpubmed)
 
 [https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
-
-
-
 

@@ -2,7 +2,9 @@
 
 ## Articles on computational, digital, and mathematical pathology
 
-## Articles on computational, digital, and mathematical pathology
+### Articles on computational, digital, and mathematical pathology
+
+### Articles on computational, digital, and mathematical pathology
 
 * Survival Prediction in Pancreatic Ductal Adenocarcinoma by Quantitative Computed Tomography Image Analysis
 
@@ -12,7 +14,7 @@
 
 [https://link.springer.com/article/10.1245/s10434-017-6323-3](https://link.springer.com/article/10.1245/s10434-017-6323-3)
 
-## Articles on computational, digital, and mathematical pathology
+### Articles on computational, digital, and mathematical pathology
 
 * Survival Prediction in Pancreatic Ductal Adenocarcinoma by Quantitative Computed Tomography Image Analysis
 
@@ -114,10 +116,7 @@ CompPath Dr. Shikhar Uttam, Ph.D. Lecture \(April 14th 2017\)
 
 [https://www.youtube.com/results?search\_query=Philips+healthcare+pathology](https://www.youtube.com/results?search_query=Philips+healthcare+pathology)
 
-
-
-
-# Computational, Digital & Mathematical Pathology
+## Computational, Digital & Mathematical Pathology
 
 * [CompPath Lecture Series 2016-2017 Semester](https://www.youtube.com/playlist?list=PLwdWByS9hJ3IpNyN1Ge4dbfSV43296jLn)
 
@@ -146,5 +145,4 @@ CompPath Dr. Shikhar Uttam, Ph.D. Lecture \(April 14th 2017\)
 * Using the principles of evolution to treat and prevent cancer
 
 [https://www.statnews.com/2018/06/27/cancer-treatment-prevention-evolution/](https://www.statnews.com/2018/06/27/cancer-treatment-prevention-evolution/)
-
 

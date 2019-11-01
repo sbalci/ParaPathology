@@ -1,10 +1,10 @@
 # Statistics and Bioinformatics
 
+## Statistics and Bioinformatics
 
+## Statistics and Bioinformatics
 
-# Statistics and Bioinformatics
-
-# Statistics and Pathology
+## Statistics and Pathology
 
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
 * * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
@@ -47,15 +47,10 @@
 
 [https://www.rstudio.com/resources/webinars/reproducible-reporting/](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
 
-* 
-* [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
-* 
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
-
+* * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
+* * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
-
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
-
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
 
 [http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA](http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA)
@@ -65,7 +60,6 @@
 [https://www.researchgate.net/publication/283338459\_The\_Use\_of\_Statistical\_Methods\_in\_Studies\_Published\_in\_Cytopathology\_Journals](https://www.researchgate.net/publication/283338459_The_Use_of_Statistical_Methods_in_Studies_Published_in_Cytopathology_Journals)
 
 * We have a pretest probability before ordering immunostains. Then some regarded as abberant. Are we subconsciously Bayesian? [http://www.springer.com/us/book/9781441910295](http://www.springer.com/us/book/9781441910295)
-
 * Very nice course on introductory statistics. Practical examples are with R-project and Rcmdr
 
 [https://www.youtube.com/watch?v=VoVWhgl7iDY](https://www.youtube.com/watch?v=VoVWhgl7iDY)
@@ -94,17 +88,10 @@
 
 [https://www.rstudio.com/resources/webinars/reproducible-reporting/](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
 
-* 
-
-
-* [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
-* 
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
-
+* * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
+* * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
-
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
-
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
 
 [http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA](http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA)
@@ -114,7 +101,6 @@
 [https://www.researchgate.net/publication/283338459\_The\_Use\_of\_Statistical\_Methods\_in\_Studies\_Published\_in\_Cytopathology\_Journals](https://www.researchgate.net/publication/283338459_The_Use_of_Statistical_Methods_in_Studies_Published_in_Cytopathology_Journals)
 
 * We have a pretest probability before ordering immunostains. Then some regarded as abberant. Are we subconsciously Bayesian? [http://www.springer.com/us/book/9781441910295](http://www.springer.com/us/book/9781441910295)
-
 * Very nice course on introductory statistics. Practical examples are with R-project and Rcmdr
 
 [https://www.youtube.com/watch?v=VoVWhgl7iDY](https://www.youtube.com/watch?v=VoVWhgl7iDY)
@@ -143,17 +129,10 @@
 
 [https://www.rstudio.com/resources/webinars/reproducible-reporting/](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
 
-* 
-
-
-* [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
-* 
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
-
+* * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
+* * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
-
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
-
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
 
 [http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA](http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA)
@@ -163,7 +142,6 @@
 [https://www.researchgate.net/publication/283338459\_The\_Use\_of\_Statistical\_Methods\_in\_Studies\_Published\_in\_Cytopathology\_Journals](https://www.researchgate.net/publication/283338459_The_Use_of_Statistical_Methods_in_Studies_Published_in_Cytopathology_Journals)
 
 * We have a pretest probability before ordering immunostains. Then some regarded as abberant. Are we subconsciously Bayesian? [http://www.springer.com/us/book/9781441910295](http://www.springer.com/us/book/9781441910295)
-
 * Very nice course on introductory statistics. Practical examples are with R-project and Rcmdr
 
 [https://www.youtube.com/watch?v=VoVWhgl7iDY](https://www.youtube.com/watch?v=VoVWhgl7iDY)
@@ -192,17 +170,10 @@
 
 [https://www.rstudio.com/resources/webinars/reproducible-reporting/](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
 
-* 
-
-
-* [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
-* 
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
-
+* * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
+* * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
-
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
-
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
 
 [http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA](http://www.archivesofpathology.org/doi/10.5858/arpa.2016-0200-OA)
@@ -212,7 +183,6 @@
 [https://www.researchgate.net/publication/283338459\_The\_Use\_of\_Statistical\_Methods\_in\_Studies\_Published\_in\_Cytopathology\_Journals](https://www.researchgate.net/publication/283338459_The_Use_of_Statistical_Methods_in_Studies_Published_in_Cytopathology_Journals)
 
 * We have a pretest probability before ordering immunostains. Then some regarded as abberant. Are we subconsciously Bayesian? [http://www.springer.com/us/book/9781441910295](http://www.springer.com/us/book/9781441910295)
-
 * Very nice course on introductory statistics. Practical examples are with R-project and Rcmdr
 
 [https://www.youtube.com/watch?v=VoVWhgl7iDY](https://www.youtube.com/watch?v=VoVWhgl7iDY)

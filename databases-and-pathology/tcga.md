@@ -1,8 +1,8 @@
 # TCGA
 
+## TCGA
 
-
-# TCGA
+## TCGA
 
 * TCGA: A Different Kind of Data
 
@@ -16,6 +16,5 @@
 
 [https://www.frontiersin.org/articles/10.3389/fgene.2018.00002/full](https://www.frontiersin.org/articles/10.3389/fgene.2018.00002/full)
 
-*  http://www.slidepeek.com/
-
+* [http://www.slidepeek.com/](http://www.slidepeek.com/)
 

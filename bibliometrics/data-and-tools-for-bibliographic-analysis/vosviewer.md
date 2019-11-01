@@ -1,9 +1,10 @@
 # VOSviewer
 
+## VOSviewer
 
-# VOSviewer
+## VOSviewer
 
-# VOSviewer
+## VOSviewer
 
 * Centre for Science and Technology Studies
 
@@ -55,8 +56,7 @@
 >
 > Choose a destination folder and enter a filename. Check that the file type is set to Text File \(\*.txt\), the output style is set to RefMan \(RIS\) Export, then press Save.
 
-* 
-* Centre for Science and Technology Studies
+* * Centre for Science and Technology Studies
 
 [https://www.cwts.nl/](https://www.cwts.nl/)
 
@@ -88,8 +88,6 @@
 
 [https://www.cwts.nl/blog?article=n-r2r294](https://www.cwts.nl/blog?article=n-r2r294)
 
----
-
 * MEDLINE to ris
 
 [https://www.reading.ac.uk/library/finding-info/endnote/lib-endnote-faq-packages.aspx](https://www.reading.ac.uk/library/finding-info/endnote/lib-endnote-faq-packages.aspx)
@@ -108,13 +106,7 @@
 >
 > Choose a destination folder and enter a filename. Check that the file type is set to Text File \(\*.txt\), the output style is set to RefMan \(RIS\) Export, then press Save.
 
----
-
-*    
-
-
-
-* Centre for Science and Technology Studies
+* * Centre for Science and Technology Studies
 
 [https://www.cwts.nl/](https://www.cwts.nl/)
 
@@ -146,8 +138,6 @@
 
 [https://www.cwts.nl/blog?article=n-r2r294](https://www.cwts.nl/blog?article=n-r2r294)
 
----
-
 * MEDLINE to ris
 
 [https://www.reading.ac.uk/library/finding-info/endnote/lib-endnote-faq-packages.aspx](https://www.reading.ac.uk/library/finding-info/endnote/lib-endnote-faq-packages.aspx)
@@ -165,7 +155,4 @@
 > Go to the File menu and then select Export.
 >
 > Choose a destination folder and enter a filename. Check that the file type is set to Text File \(\*.txt\), the output style is set to RefMan \(RIS\) Export, then press Save.
-
----
-
 

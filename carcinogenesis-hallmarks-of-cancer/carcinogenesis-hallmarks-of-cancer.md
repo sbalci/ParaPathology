@@ -1,5 +1,6 @@
 # Carcinogenesis, Hallmarks of Cancer
 
+## Carcinogenesis, Hallmarks of Cancer
 
 * The Cancer Dependency Map
 
@@ -33,7 +34,7 @@ Whether Fusobacterium nucleatum causes colon tumors is unknown. But a new study 
 
 [https://www.nature.com/articles/s41588-018-0165-1](https://www.nature.com/articles/s41588-018-0165-1)
 
-## Carcinogenesis
+### Carcinogenesis
 
 * The Cancer Dependency Map
 
@@ -63,6 +64,23 @@ Robert Weinberg: 2014 Breakthrough Prize in Life Sciences Symposium
 History of Metastasis
 
 [https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory](https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory)
+
+### Hallmarks of Cancer
+
+References:
+
+1. [https://www.youtube.com/watch?v=2WmekiwhRmU](https://www.youtube.com/watch?v=2WmekiwhRmU)
+2. [https://www.youtube.com/watch?v=RP4js-yYK2U](https://www.youtube.com/watch?v=RP4js-yYK2U)
+
+Robert Weinberg: 2014 Breakthrough Prize in Life Sciences Symposium
+
+[https://www.youtube.com/watch?v=LNYgdC9aD9o](https://www.youtube.com/watch?v=LNYgdC9aD9o)
+
+History of Metastasis
+
+{% embed url="https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory" caption="" %}
+
+{% embed url="https://twitter.com/PrasadCsbr/status/1188478784489394176" caption="" %}
 
 ## Hallmarks of Cancer
 
@@ -77,27 +95,5 @@ Robert Weinberg: 2014 Breakthrough Prize in Life Sciences Symposium
 
 History of Metastasis
 
-{% embed url="https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory" %}
-
-{% embed url="https://twitter.com/PrasadCsbr/status/1188478784489394176" %}
-
-
-
-
-
-# Hallmarks of Cancer
-
-References:
-
-1. [https://www.youtube.com/watch?v=2WmekiwhRmU](https://www.youtube.com/watch?v=2WmekiwhRmU)
-2. [https://www.youtube.com/watch?v=RP4js-yYK2U](https://www.youtube.com/watch?v=RP4js-yYK2U)
-
-Robert Weinberg: 2014 Breakthrough Prize in Life Sciences Symposium
-
-[https://www.youtube.com/watch?v=LNYgdC9aD9o](https://www.youtube.com/watch?v=LNYgdC9aD9o)
-
-History of Metastasis
-
 [https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory](https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory)
-
 

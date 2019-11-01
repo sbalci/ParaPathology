@@ -30,17 +30,13 @@
 
 Semin Diagn Pathol doi: 10.1053/j.semdp.2019.06.006
 
-<<<<<<< HEAD
-PubMed - NCBI https://www.ncbi.nlm.nih.gov/pubmed/31351825
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD PubMed - NCBI [https://www.ncbi.nlm.nih.gov/pubmed/31351825](https://www.ncbi.nlm.nih.gov/pubmed/31351825)
 
+* Strengthening the Medical Error "Meme Pool"
 
+[https://link.springer.com/epdf/10.1007/s11606-019-05156-7?author\_access\_token=JDSjULvfAts70zUo03n8Mfe4RwlQNchNByi7wbcMAY5MxRyVLtxqzixLCnZR4KqJh-cJBgEHgUANnlXqkpQh0gcQy2Jy1zowkfbFnimslgcxd7m570hwLSSC2as\_QSHH1bIZ1B6MzQJSO0gGDs6ukA%3D%3D](https://link.springer.com/epdf/10.1007/s11606-019-05156-7?author_access_token=JDSjULvfAts70zUo03n8Mfe4RwlQNchNByi7wbcMAY5MxRyVLtxqzixLCnZR4KqJh-cJBgEHgUANnlXqkpQh0gcQy2Jy1zowkfbFnimslgcxd7m570hwLSSC2as_QSHH1bIZ1B6MzQJSO0gGDs6ukA%3D%3D)
 
-- Strengthening the Medical Error "Meme Pool"
+======= PubMed - NCBI [https://www.ncbi.nlm.nih.gov/pubmed/31351825](https://www.ncbi.nlm.nih.gov/pubmed/31351825)
 
-https://link.springer.com/epdf/10.1007/s11606-019-05156-7?author_access_token=JDSjULvfAts70zUo03n8Mfe4RwlQNchNByi7wbcMAY5MxRyVLtxqzixLCnZR4KqJh-cJBgEHgUANnlXqkpQh0gcQy2Jy1zowkfbFnimslgcxd7m570hwLSSC2as_QSHH1bIZ1B6MzQJSO0gGDs6ukA%3D%3D
-
-
-=======
-PubMed - NCBI [https://www.ncbi.nlm.nih.gov/pubmed/31351825](https://www.ncbi.nlm.nih.gov/pubmed/31351825)
->>>>>>> 8d5983ae6cbec804f306dabc6af12d91c85cbde1
+> > > > > > > 8d5983ae6cbec804f306dabc6af12d91c85cbde1
 

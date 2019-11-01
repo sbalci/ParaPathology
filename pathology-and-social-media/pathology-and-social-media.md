@@ -266,26 +266,10 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 [https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343%2819%2930329-8/fulltext)
 
-
-
-
----
-
-
-
-* https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash
-
-* 
-https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
-
-* https://twitter.com/search?f=tweets&q=%23rstats&src=typd
-
-
-
----
-* 
-* [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
-
+* [https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash)
+* [https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash)
+* [https://twitter.com/search?f=tweets&q=%23rstats&src=typd](https://twitter.com/search?f=tweets&q=%23rstats&src=typd)
+* * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
 * Gross pathology
 
 \#Grosspath
@@ -434,7 +418,7 @@ https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
 
 * Renal and medical kidney pathology
 
-\#RenalPath  \#nephropath
+\#RenalPath \#nephropath
 
 [https://twitter.com/i/moments/927503682777878530](https://twitter.com/i/moments/927503682777878530)
 
@@ -480,8 +464,6 @@ https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
 
 [https://twitter.com/i/moments/977912082996826112](https://twitter.com/i/moments/977912082996826112)
 
----
-
 * [\#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
 
 [https://twitter.com/catchthebaby/status/935202907229536256](https://twitter.com/catchthebaby/status/935202907229536256)
@@ -489,8 +471,6 @@ https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
 * There is a "poison pawn" in [\#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245368955679) for physicians.
 
 It aggravates ones desire to be famous. One starts to comment on things which they are not expert on; retweets diagnosis/ research/ comments that they are not expert on/ knowledgeable enough. Beware again.
-
----
 
 * I wonder how live tweeting during meetings affect learning.
 
@@ -510,84 +490,46 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 [https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)
 
----
-
 HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
 [http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
 
----
-
 Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
-https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext
+[https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569%2816%2930008-6/fulltext)
 
- 
+Tweets, and Our Obsession with Alt Metrics
 
- Tweets, and Our Obsession with Alt Metrics
+[https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/](https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/)
 
-https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/
+* How to use Twitter to further your research career
 
----
+  The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
 
-- How to use Twitter to further your research career
-The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
+[https://www.nature.com/articles/d41586-019-00535-w](https://www.nature.com/articles/d41586-019-00535-w)
 
-https://www.nature.com/articles/d41586-019-00535-w
+* Social media as a scientist: a very quick guide
 
----
+[http://blogs.nature.com/naturejobs/2017/08/23/social-media-as-a-scientist-a-very-quick-guide/](http://blogs.nature.com/naturejobs/2017/08/23/social-media-as-a-scientist-a-very-quick-guide/)
 
-- Social media as a scientist: a very quick guide
+* What all those scientists on Twitter are really doing
 
-http://blogs.nature.com/naturejobs/2017/08/23/social-media-as-a-scientist-a-very-quick-guide/
+[https://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873](https://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873)
 
----
+* Social media for scientists
 
-- What all those scientists on Twitter are really doing
+[https://www.nature.com/articles/s41556-018-0253-6](https://www.nature.com/articles/s41556-018-0253-6)
 
-https://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873
+* Case Reports in the Age of Twitter
 
----
+[https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343%2819%2930329-8/fulltext)
 
-- Social media for scientists
+Wise words at [\#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=twsrc%5Etfw) - when you have more twitter followers than you have cumulative citations in the peer reviewed literature, it’s time to get off of social media and write more papers! [\#KardashianIndex](https://twitter.com/hashtag/KardashianIndex?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LJAsY2dMcc](https://t.co/LJAsY2dMcc)— Philip Payne \(@prpayne5\) [May 16, 2019](https://twitter.com/prpayne5/status/1129095738003283969?ref_src=twsrc%5Etfw)
 
-https://www.nature.com/articles/s41556-018-0253-6
-
----
-
-- Case Reports in the Age of Twitter
-
-https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext
-
----
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wise words at <a href="https://twitter.com/hashtag/AUA2019?src=hash&amp;ref_src=twsrc%5Etfw">#AUA2019</a> - when you have more twitter followers than you have cumulative citations in the peer reviewed literature, it’s time to get off of social media and write more papers! <a href="https://twitter.com/hashtag/KardashianIndex?src=hash&amp;ref_src=twsrc%5Etfw">#KardashianIndex</a> <a href="https://t.co/LJAsY2dMcc">pic.twitter.com/LJAsY2dMcc</a></p>&mdash; Philip Payne (@prpayne5) <a href="https://twitter.com/prpayne5/status/1129095738003283969?ref_src=twsrc%5Etfw">May 16, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
----
-
-
-
-
-
-
-
-
-* https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash
-
-* 
-https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
-
-* https://twitter.com/search?f=tweets&q=%23rstats&src=typd
-
-
-
----
-* 
-* [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
-
+* [https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash)
+* [https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash)
+* [https://twitter.com/search?f=tweets&q=%23rstats&src=typd](https://twitter.com/search?f=tweets&q=%23rstats&src=typd)
+* * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
 * Gross pathology
 
 \#Grosspath
@@ -736,7 +678,7 @@ https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
 
 * Renal and medical kidney pathology
 
-\#RenalPath  \#nephropath
+\#RenalPath \#nephropath
 
 [https://twitter.com/i/moments/927503682777878530](https://twitter.com/i/moments/927503682777878530)
 
@@ -782,8 +724,6 @@ https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
 
 [https://twitter.com/i/moments/977912082996826112](https://twitter.com/i/moments/977912082996826112)
 
----
-
 * [\#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
 
 [https://twitter.com/catchthebaby/status/935202907229536256](https://twitter.com/catchthebaby/status/935202907229536256)
@@ -791,8 +731,6 @@ https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash
 * There is a "poison pawn" in [\#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245368955679) for physicians.
 
 It aggravates ones desire to be famous. One starts to comment on things which they are not expert on; retweets diagnosis/ research/ comments that they are not expert on/ knowledgeable enough. Beware again.
-
----
 
 * I wonder how live tweeting during meetings affect learning.
 
@@ -812,54 +750,37 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 [https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)
 
----
-
 HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
 [http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
 
----
-
 Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
-https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext
+[https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569%2816%2930008-6/fulltext)
 
- 
+Tweets, and Our Obsession with Alt Metrics
 
- Tweets, and Our Obsession with Alt Metrics
+[https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/](https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/)
 
-https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/
+* How to use Twitter to further your research career
 
----
+  The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
 
-- How to use Twitter to further your research career
-The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
+[https://www.nature.com/articles/d41586-019-00535-w](https://www.nature.com/articles/d41586-019-00535-w)
 
-https://www.nature.com/articles/d41586-019-00535-w
+* Social media as a scientist: a very quick guide
 
----
+[http://blogs.nature.com/naturejobs/2017/08/23/social-media-as-a-scientist-a-very-quick-guide/](http://blogs.nature.com/naturejobs/2017/08/23/social-media-as-a-scientist-a-very-quick-guide/)
 
-- Social media as a scientist: a very quick guide
+* What all those scientists on Twitter are really doing
 
-http://blogs.nature.com/naturejobs/2017/08/23/social-media-as-a-scientist-a-very-quick-guide/
+[https://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873](https://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873)
 
----
+* Social media for scientists
 
-- What all those scientists on Twitter are really doing
+[https://www.nature.com/articles/s41556-018-0253-6](https://www.nature.com/articles/s41556-018-0253-6)
 
-https://www.nature.com/news/what-all-those-scientists-on-twitter-are-really-doing-1.21873
+* Case Reports in the Age of Twitter
 
----
-
-- Social media for scientists
-
-https://www.nature.com/articles/s41556-018-0253-6
-
----
-
-- Case Reports in the Age of Twitter
-
-https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext
-
----
+[https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343%2819%2930329-8/fulltext)
 

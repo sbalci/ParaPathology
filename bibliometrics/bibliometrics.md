@@ -1,7 +1,6 @@
 # Bibliometrics
 
-
-    * **Citation Performance Indicators — A Very Short Introduction**
+* **Citation Performance Indicators — A Very Short Introduction**
 
 [https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)
 
@@ -18,11 +17,8 @@
 [https://www.semanticscholar.org/](https://www.semanticscholar.org/)
 
 * **Google Scholar**
-
 * **Research Gate**
-
 * **EndNote**
-
 * **colwiz**
 
 [https://www.colwiz.com/](https://www.colwiz.com/)
@@ -137,7 +133,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * **The SCImago Journal & Country Rank**
 
-https://www.scimagojr.com/journalrank.php?category=2734&area=2700
+[https://www.scimagojr.com/journalrank.php?category=2734&area=2700](https://www.scimagojr.com/journalrank.php?category=2734&area=2700)
 
 * **Citation Performance Indicators — A Very Short Introduction**
 
@@ -156,11 +152,8 @@ https://www.scimagojr.com/journalrank.php?category=2734&area=2700
 [https://www.semanticscholar.org/](https://www.semanticscholar.org/)
 
 * **Google Scholar**
-
 * **Research Gate**
-
 * **EndNote**
-
 * **colwiz**
 
 [https://www.colwiz.com/](https://www.colwiz.com/)
@@ -273,25 +266,17 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 [https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?utm_source=FBK_NatureNews&sf176431210=1)
 
----
-
 * Scholar Profili eksik olanlara öneriler
 
 [http://www.webometrics.info/en/node/179](http://www.webometrics.info/en/node/179)
 
-![](/assets/Ekran Resmi 2018-05-22 12.54.15.png)
-
----
+![](../.gitbook/assets/ekran-resmi-2018-05-22-12.54.15.png)
 
 * Webometric Analyst 2.0
 
 [http://lexiurl.wlv.ac.uk/](http://lexiurl.wlv.ac.uk/)
 
----
+* Medical Journals: A Sluggish Form of Twitter?
 
-- Medical Journals: A Sluggish Form of Twitter?
-
-https://www.medpagetoday.com/blogs/revolutionandrevelation/79274
-
-
+[https://www.medpagetoday.com/blogs/revolutionandrevelation/79274](https://www.medpagetoday.com/blogs/revolutionandrevelation/79274)
 

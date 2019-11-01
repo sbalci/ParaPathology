@@ -2,7 +2,9 @@
 
 ## Web Pages
 
-## Appendix : Suggested Web Pages
+### Web Pages
+
+### Appendix : Suggested Web Pages
 
 [http://www.uscap.org/](http://www.uscap.org/)
 
@@ -64,16 +66,7 @@
 
 [https://figshare.com/](https://figshare.com/)
 
-
-
-
-
-
-
-
----
-
-# Websites
+## Websites
 
 * Work On
 
@@ -89,16 +82,11 @@
 
 [http://www.serdarbalci.com/](http://www.serdarbalci.com/)
 
-
-
 * Blogs
 
 [https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
 
 [https://drserdarbalci.blogspot.com.tr/](https://drserdarbalci.blogspot.com.tr/)
-
-
-
 
 * Articles
 
@@ -182,7 +170,7 @@ www.rstudio.com/resources/webinars/
 
 [https://publons.com/community/academy/](https://publons.com/community/academy/)
 
-https://sites.google.com/view/drserdarbalci/
+[https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
 
 [https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html)
 
@@ -191,8 +179,6 @@ https://sites.google.com/view/drserdarbalci/
 [https://sbalci.gitbooks.io/pathology-notes/content/](https://sbalci.gitbooks.io/pathology-notes/content/)
 
 [http://www.serdarbalci.com/](http://www.serdarbalci.com/)
-
----
 
 * Read
 
@@ -247,7 +233,6 @@ https://sites.google.com/view/drserdarbalci/
 [http://academic.microsoft.com/](http://academic.microsoft.com/)
 
 * Videos
-
 
 [http://ihavenotv.com/series/planet-earth-ii](http://ihavenotv.com/series/planet-earth-ii)
 
@@ -311,7 +296,7 @@ www.rstudio.com/resources/webinars/
 
 [https://publons.com/community/academy/](https://publons.com/community/academy/)
 
-https://sites.google.com/view/drserdarbalci/
+[https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
 
 [https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html)
 
@@ -320,8 +305,6 @@ https://sites.google.com/view/drserdarbalci/
 [https://sbalci.gitbooks.io/pathology-notes/content/](https://sbalci.gitbooks.io/pathology-notes/content/)
 
 [http://www.serdarbalci.com/](http://www.serdarbalci.com/)
-
----
 
 * Read
 
@@ -420,7 +403,4 @@ www.cap.org/web/submenu/calendar/webinars
 www.rstudio.com/resources/webinars/
 
 [https://www.youtube.com/watch?v=6NFyB19D\_fU&feature=youtu.be&t=7m37s](https://www.youtube.com/watch?v=6NFyB19D_fU&feature=youtu.be&t=7m37s)
-
-
-
 

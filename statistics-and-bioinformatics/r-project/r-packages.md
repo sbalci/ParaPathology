@@ -1,7 +1,8 @@
 # R packages
 
+## R packages
 
-# R packages
+## R packages
 
 * R Package Documentation
 
@@ -75,7 +76,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 * R Package Documentation
 
-https://rdrr.io/
+[https://rdrr.io/](https://rdrr.io/)
 
 * R Packages Search and Statistics
 
@@ -193,23 +194,21 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
 
-https://blog.rstudio.com/2016/03/29/feather/
+[https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
-https://blog.rstudio.com/2016/08/31/forcats-0-1-0/
+[https://blog.rstudio.com/2016/08/31/forcats-0-1-0/](https://blog.rstudio.com/2016/08/31/forcats-0-1-0/)
 
-https://github.com/tidyverse/hms
+[https://github.com/tidyverse/hms](https://github.com/tidyverse/hms)
 
-https://github.com/trestletech/plumber
+[https://github.com/trestletech/plumber](https://github.com/trestletech/plumber)
 
-https://github.com/r-lib/testthat
+[https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-http://purrr.tidyverse.org/
-
-
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
 
 * R Package Documentation
 
-https://rdrr.io/
+[https://rdrr.io/](https://rdrr.io/)
 
 * R Packages Search and Statistics
 
@@ -277,7 +276,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
 
-# R packages
+## R packages
 
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
@@ -343,11 +342,11 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 * R Package Documentation
 
-https://rdrr.io/
+[https://rdrr.io/](https://rdrr.io/)
 
 * Snippets Run any R code you like
 
-https://rdrr.io/snippets/
+[https://rdrr.io/snippets/](https://rdrr.io/snippets/)
 
 * Getting R and Java 1.8 to work together on OSX
 
@@ -388,18 +387,14 @@ https://rdrr.io/snippets/
 [https://rattle.togaware.com](https://rattle.togaware.com)
 
 [http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)
-
-# 
-
-
 
 * R Package Documentation
 
-https://rdrr.io/
+[https://rdrr.io/](https://rdrr.io/)
 
 * Snippets Run any R code you like
 
-https://rdrr.io/snippets/
+[https://rdrr.io/snippets/](https://rdrr.io/snippets/)
 
 * Getting R and Java 1.8 to work together on OSX
 
@@ -440,18 +435,14 @@ https://rdrr.io/snippets/
 [https://rattle.togaware.com](https://rattle.togaware.com)
 
 [http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)
-
-# 
-
-
 
 * R Package Documentation
 
-https://rdrr.io/
+[https://rdrr.io/](https://rdrr.io/)
 
 * Snippets Run any R code you like
 
-https://rdrr.io/snippets/
+[https://rdrr.io/snippets/](https://rdrr.io/snippets/)
 
 * Getting R and Java 1.8 to work together on OSX
 
@@ -492,3 +483,4 @@ https://rdrr.io/snippets/
 [https://rattle.togaware.com](https://rattle.togaware.com)
 
 [http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)
+

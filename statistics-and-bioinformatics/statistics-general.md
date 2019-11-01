@@ -1,7 +1,8 @@
 # Statistics General
 
+## Statistics General
 
-# Statistics General
+## Statistics General
 
 * More problematic sexual attraction research, this time with high heels
 
@@ -26,3 +27,4 @@
 * Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing
 
 [https://www.autodeskresearch.com/publications/samestats](https://www.autodeskresearch.com/publications/samestats)
+

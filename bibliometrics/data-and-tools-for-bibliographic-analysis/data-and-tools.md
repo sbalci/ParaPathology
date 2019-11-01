@@ -1,7 +1,5 @@
 # Data and Tools
 
-
-
 * Open Citations
 
 [http://opencitations.net/](http://opencitations.net/)
@@ -18,10 +16,6 @@
 
 [https://github.com/CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc)
 
-
-
-
-
 * Open Citations
 
 [http://opencitations.net/](http://opencitations.net/)
@@ -37,10 +31,6 @@
 [https://www.crossref.org/community/researchers/](https://www.crossref.org/community/researchers/)
 
 [https://github.com/CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc)
-
-
-
-
 
 * Bluesky Statistics
 
@@ -74,9 +64,7 @@
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation  
-  [http://vassarstats.net/](http://vassarstats.net/)
-
+* VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net/)
 * Cutoff Finder
 
   [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
@@ -96,9 +84,7 @@
 [http://www.openepi.com/](http://www.openepi.com/)
 
 * [https://www.datawrapper.de](https://www.datawrapper.de)
-
 * [https://public.tableau.com/](https://public.tableau.com/)
-
 * **Open Refine, Google Refine**
 
 [http://openrefine.org/](http://openrefine.org/)
@@ -116,33 +102,23 @@
 **Online Data Visualization Websites**
 
 * [DataHero](http://datahero.com/)
-
 * [Plotly](http://plot.ly/)
-
 * [Number Picture](http://site.numberpicture.com/)
-
 * [Polychart](https://github.com/Polychart)
-
 * [Juice Analytics](http://www.juiceanalytics.com/)
-
 * [Weave](http://www.iweave.org/)
-
 * [Datavisual](http://datavisu.al/)
-
 * [Silk](https://www.silk.co/)
-
 * [Zoomdata](http://www.zoomdata.com/)
 
   \(via the cloud platforms\)
 
 * [RAW](http://app.raw.densitydesign.org/)
-
 * [Datawrapper](https://datawrapper.de/)
 
 **Software**
 
 * [Tableau](http://www.tableau.com/)
-
 * [SAP Lumira](http://www.sapstore.com/getlumira)
 
   \(including a free Personal Edition version\)
@@ -152,25 +128,19 @@
   \(or any other spreadsheet that includes charts\)
 
 * [ClearStory](http://www.clearstorydata.com/)
-
 * [BeyondCore](http://beyondcore.com/)
-
 * [Mathematica](http://www.wolfram.com/mathematica/)
-
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-
 * [MatPlotLib](http://matplotlib.org/)
 
   \(if you are comfortable programming Python\)
 
 * [R Programming Language](https://www.r-project.org/)
-
 * [ggplot2](http://ggplot2.org/)
 
 **Some Data Sources**
 
 * [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-
 * [Data from the World Bank](http://data.worldbank.org/)
 
 **Plotting your data**
@@ -191,15 +161,9 @@
 
 [https://vega.github.io/](https://vega.github.io/)
 
----
+* Design better data tables The ingredients of a successful data table UI
 
-* Design better data tables The ingredients of a successful data table UI
-
-https://uxdesign.cc/design-better-data-tables-4ecc99d23356
-
----
-
-
+[https://uxdesign.cc/design-better-data-tables-4ecc99d23356](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 
 * Bluesky Statistics
 
@@ -233,9 +197,7 @@ https://uxdesign.cc/design-better-data-tables-4ecc99d23356
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation  
-  [http://vassarstats.net/](http://vassarstats.net/)
-
+* VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net/)
 * Cutoff Finder
 
   [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
@@ -255,9 +217,7 @@ https://uxdesign.cc/design-better-data-tables-4ecc99d23356
 [http://www.openepi.com/](http://www.openepi.com/)
 
 * [https://www.datawrapper.de](https://www.datawrapper.de)
-
 * [https://public.tableau.com/](https://public.tableau.com/)
-
 * **Open Refine, Google Refine**
 
 [http://openrefine.org/](http://openrefine.org/)
@@ -275,33 +235,23 @@ https://uxdesign.cc/design-better-data-tables-4ecc99d23356
 **Online Data Visualization Websites**
 
 * [DataHero](http://datahero.com/)
-
 * [Plotly](http://plot.ly/)
-
 * [Number Picture](http://site.numberpicture.com/)
-
 * [Polychart](https://github.com/Polychart)
-
 * [Juice Analytics](http://www.juiceanalytics.com/)
-
 * [Weave](http://www.iweave.org/)
-
 * [Datavisual](http://datavisu.al/)
-
 * [Silk](https://www.silk.co/)
-
 * [Zoomdata](http://www.zoomdata.com/)
 
   \(via the cloud platforms\)
 
 * [RAW](http://app.raw.densitydesign.org/)
-
 * [Datawrapper](https://datawrapper.de/)
 
 **Software**
 
 * [Tableau](http://www.tableau.com/)
-
 * [SAP Lumira](http://www.sapstore.com/getlumira)
 
   \(including a free Personal Edition version\)
@@ -311,25 +261,19 @@ https://uxdesign.cc/design-better-data-tables-4ecc99d23356
   \(or any other spreadsheet that includes charts\)
 
 * [ClearStory](http://www.clearstorydata.com/)
-
 * [BeyondCore](http://beyondcore.com/)
-
 * [Mathematica](http://www.wolfram.com/mathematica/)
-
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-
 * [MatPlotLib](http://matplotlib.org/)
 
   \(if you are comfortable programming Python\)
 
 * [R Programming Language](https://www.r-project.org/)
-
 * [ggplot2](http://ggplot2.org/)
 
 **Some Data Sources**
 
 * [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-
 * [Data from the World Bank](http://data.worldbank.org/)
 
 **Plotting your data**
@@ -350,35 +294,23 @@ https://uxdesign.cc/design-better-data-tables-4ecc99d23356
 
 [https://vega.github.io/](https://vega.github.io/)
 
----
+* Design better data tables The ingredients of a successful data table UI
 
-* Design better data tables The ingredients of a successful data table UI
-
-https://uxdesign.cc/design-better-data-tables-4ecc99d23356
-
----
-
-
+[https://uxdesign.cc/design-better-data-tables-4ecc99d23356](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 
 * Sankey diagram
 
-https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b
+[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah_Meeks/2018-data-visualization-survey-results-26a90856476b)
 
 ![](https://cdn-images-1.medium.com/max/1600/1*oYH7MXOPL3ylWG7Ku_tAQw.png)
-
----
 
 * THE WORK OF EDWARD TUFTE AND GRAPHICS PRESS
 
 [https://www.edwardtufte.com/tufte/](https://www.edwardtufte.com/tufte/)
 
----
-
 * R Graph Gallery
 
 [https://www.r-graph-gallery.com/](https://www.r-graph-gallery.com/)
-
----
 
 * rollApp
 
@@ -416,9 +348,7 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation  
-  [http://vassarstats.net/](http://vassarstats.net/)
-
+* VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net/)
 * Cutoff Finder
 
   [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
@@ -438,9 +368,7 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 [http://www.openepi.com/](http://www.openepi.com/)
 
 * [https://www.datawrapper.de](https://www.datawrapper.de)
-
 * [https://public.tableau.com/](https://public.tableau.com/)
-
 * **Open Refine, Google Refine**
 
 [http://openrefine.org/](http://openrefine.org/)
@@ -458,33 +386,23 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 **Online Data Visualization Websites**
 
 * [DataHero](http://datahero.com/)
-
 * [Plotly](http://plot.ly/)
-
 * [Number Picture](http://site.numberpicture.com/)
-
 * [Polychart](https://github.com/Polychart)
-
 * [Juice Analytics](http://www.juiceanalytics.com/)
-
 * [Weave](http://www.iweave.org/)
-
 * [Datavisual](http://datavisu.al/)
-
 * [Silk](https://www.silk.co/)
-
 * [Zoomdata](http://www.zoomdata.com/)
 
   \(via the cloud platforms\)
 
 * [RAW](http://app.raw.densitydesign.org/)
-
 * [Datawrapper](https://datawrapper.de/)
 
 **Software**
 
 * [Tableau](http://www.tableau.com/)
-
 * [SAP Lumira](http://www.sapstore.com/getlumira)
 
   \(including a free Personal Edition version\)
@@ -494,25 +412,19 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
   \(or any other spreadsheet that includes charts\)
 
 * [ClearStory](http://www.clearstorydata.com/)
-
 * [BeyondCore](http://beyondcore.com/)
-
 * [Mathematica](http://www.wolfram.com/mathematica/)
-
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-
 * [MatPlotLib](http://matplotlib.org/)
 
   \(if you are comfortable programming Python\)
 
 * [R Programming Language](https://www.r-project.org/)
-
 * [ggplot2](http://ggplot2.org/)
 
 **Some Data Sources**
 
 * [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-
 * [Data from the World Bank](http://data.worldbank.org/)
 
 **Plotting your data**
@@ -533,13 +445,9 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 
 [https://vega.github.io/](https://vega.github.io/)
 
----
-
 * Design better data tables The ingredients of a successful data table UI
 
 [https://uxdesign.cc/design-better-data-tables-4ecc99d23356](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
-
----
 
 * gapminder
 
@@ -559,23 +467,17 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 
 * Sankey diagram
 
-https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b
+[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah_Meeks/2018-data-visualization-survey-results-26a90856476b)
 
 ![](https://cdn-images-1.medium.com/max/1600/1*oYH7MXOPL3ylWG7Ku_tAQw.png)
-
----
 
 * THE WORK OF EDWARD TUFTE AND GRAPHICS PRESS
 
 [https://www.edwardtufte.com/tufte/](https://www.edwardtufte.com/tufte/)
 
----
-
 * R Graph Gallery
 
 [https://www.r-graph-gallery.com/](https://www.r-graph-gallery.com/)
-
----
 
 * rollApp
 
@@ -613,9 +515,7 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation  
-  [http://vassarstats.net/](http://vassarstats.net/)
-
+* VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net/)
 * Cutoff Finder
 
   [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
@@ -635,9 +535,7 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 [http://www.openepi.com/](http://www.openepi.com/)
 
 * [https://www.datawrapper.de](https://www.datawrapper.de)
-
 * [https://public.tableau.com/](https://public.tableau.com/)
-
 * **Open Refine, Google Refine**
 
 [http://openrefine.org/](http://openrefine.org/)
@@ -655,33 +553,23 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 **Online Data Visualization Websites**
 
 * [DataHero](http://datahero.com/)
-
 * [Plotly](http://plot.ly/)
-
 * [Number Picture](http://site.numberpicture.com/)
-
 * [Polychart](https://github.com/Polychart)
-
 * [Juice Analytics](http://www.juiceanalytics.com/)
-
 * [Weave](http://www.iweave.org/)
-
 * [Datavisual](http://datavisu.al/)
-
 * [Silk](https://www.silk.co/)
-
 * [Zoomdata](http://www.zoomdata.com/)
 
   \(via the cloud platforms\)
 
 * [RAW](http://app.raw.densitydesign.org/)
-
 * [Datawrapper](https://datawrapper.de/)
 
 **Software**
 
 * [Tableau](http://www.tableau.com/)
-
 * [SAP Lumira](http://www.sapstore.com/getlumira)
 
   \(including a free Personal Edition version\)
@@ -691,25 +579,19 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
   \(or any other spreadsheet that includes charts\)
 
 * [ClearStory](http://www.clearstorydata.com/)
-
 * [BeyondCore](http://beyondcore.com/)
-
 * [Mathematica](http://www.wolfram.com/mathematica/)
-
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-
 * [MatPlotLib](http://matplotlib.org/)
 
   \(if you are comfortable programming Python\)
 
 * [R Programming Language](https://www.r-project.org/)
-
 * [ggplot2](http://ggplot2.org/)
 
 **Some Data Sources**
 
 * [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-
 * [Data from the World Bank](http://data.worldbank.org/)
 
 **Plotting your data**
@@ -730,13 +612,9 @@ https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a9085
 
 [https://vega.github.io/](https://vega.github.io/)
 
----
-
 * Design better data tables The ingredients of a successful data table UI
 
 [https://uxdesign.cc/design-better-data-tables-4ecc99d23356](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
-
----
 
 * gapminder
 

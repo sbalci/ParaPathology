@@ -1,7 +1,8 @@
 # Syntax Highlighting
 
+## Syntax Highlighting
 
-# Syntax highlight for R
+## Syntax highlight for R
 
 * gist github
 
@@ -11,14 +12,14 @@
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing        
-_
+_Online, wrapping text is missing_    
+
 
 * **highlight-package {highlight}**
 
 [https://github.com/romainfrancois/highlight](https://github.com/romainfrancois/highlight)
 
-```
+```text
 devtools::install_github("romainfrancois/highlight")
 library(highlight)
 
@@ -45,11 +46,9 @@ _Useful for Rmd files_
 
 * **carbonate**
 
-https://yonicd.github.io/carbonate/
+[https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-https://carbon.now.sh/
-
----
+[https://carbon.now.sh/](https://carbon.now.sh/)
 
 **Others \(did not work in my hand\):**
 
@@ -75,7 +74,7 @@ https://carbon.now.sh/
 
 [https://github.com/yihui/highr](https://github.com/yihui/highr)
 
-# Syntax highlight for R
+## Syntax highlight for R
 
 * gist github
 
@@ -85,14 +84,14 @@ https://carbon.now.sh/
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing        
-_
+_Online, wrapping text is missing_    
+
 
 * **highlight-package {highlight}**
 
 [https://github.com/romainfrancois/highlight](https://github.com/romainfrancois/highlight)
 
-```
+```text
 devtools::install_github("romainfrancois/highlight")
 library(highlight)
 
@@ -119,11 +118,9 @@ _Useful for Rmd files_
 
 * **carbonate**
 
-https://yonicd.github.io/carbonate/
+[https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-https://carbon.now.sh/
-
----
+[https://carbon.now.sh/](https://carbon.now.sh/)
 
 **Others \(did not work in my hand\):**
 
@@ -149,7 +146,7 @@ https://carbon.now.sh/
 
 [https://github.com/yihui/highr](https://github.com/yihui/highr)
 
-# Syntax Highlighting
+## Syntax Highlighting
 
 * gist github
 
@@ -219,3 +216,4 @@ _Useful for Rmd files_
 [https://cran.rstudio.com/web/packages/highr/index.html](https://cran.rstudio.com/web/packages/highr/index.html)
 
 [https://github.com/yihui/highr](https://github.com/yihui/highr)
+

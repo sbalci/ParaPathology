@@ -1,5 +1,6 @@
 # Lab Cellular Injury
 
+## Lab Cellular Injury
 
 Last updated:
 
@@ -10,9 +11,6 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-  
-
 
 Slides:
 
@@ -26,18 +24,6 @@ anthracotic pigments, lymph node
 
 cholesterolosis, gallbladder
 
-  
-
-
-  
-
-
-  
-
-
-  
-
-
 References:
 
 Last updated:
@@ -49,9 +35,6 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-  
-
 
 Slides:
 
@@ -65,21 +48,9 @@ anthracotic pigments, lymph node
 
 cholesterolosis, gallbladder
 
-  
-
-
-  
-
-
-  
-
-
-  
-
-
 References:
 
-# Lab Cellular Injury
+## Lab Cellular Injury
 
 Last updated:
 
@@ -133,7 +104,7 @@ Vocal Cord Polyp
 
 Aspergillus, Lung
 
-# Lab: Diseases and Tumors of Respiratory System-1
+## Lab: Diseases and Tumors of Respiratory System-1
 
 Emphysema
 
@@ -169,7 +140,7 @@ CARCINOID TUMOR
 
 MESOTHELIOMA
 
-# Lab: Diseases and Tumors of Respiratory System-2
+## Lab: Diseases and Tumors of Respiratory System-2
 
 Adenocarcinoma of Lung
 
@@ -190,30 +161,18 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-
 
 Slides:
 
 Glomerullerdeglobal glomerulosklerozvar. Interstisyumda plazma, lenfosit ve eozinofil lokosit icereniltihabi hücreinfiltrasyonu,tubullerde atrofiizlendi. Tubullerdetiroidizasyonizlendi. Damarlarda intimal proliferasyon vardır. Tanı: Kronik pyelonefrit
 
-
-
 Amilod
 
 Glomerullerde eozinofilik global birikim izlenmektedir. Eozinofilik materyalin naturunu aydinlatmak icin yapilan histokimyasal boya Kristal viyole\`de parlak fusya rengi boyanma gozlenmistir. Tani amiloidoz
 
-
-
 Bobrek igne biyopsisi korteks ve medulla icermektedir. Damarda kolesterol klefti iceren kolesterol embolisi izlenmiştir. Tubullerde iskemiye bağlı dejeneratif degisiklikler\( bazal membrane kalınlaşması, tubuler epitel hücrelerinin lümene dökülmesi\) ve atrofi gözlenmektedir. Tani: Kolesterol embolisi
 
-
-
-Böbrek iğne biyopsisi korteks içermektedir. Glomerullerden birinde fokal segmental glomeruloskleroz gözlenmiştir. Arteriollerde hiperplastik arterioloskleroz dikkati cekmistir. Tubullerde atrofi mevcuttur. Tani: malign hipertansiyona sekonder değişiklikler  
-
-
-  
-
+Böbrek iğne biyopsisi korteks içermektedir. Glomerullerden birinde fokal segmental glomeruloskleroz gözlenmiştir. Arteriollerde hiperplastik arterioloskleroz dikkati cekmistir. Tubullerde atrofi mevcuttur. Tani: malign hipertansiyona sekonder değişiklikler
 
 References:
 
@@ -227,33 +186,21 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-
-
 Slides:
 
 Glomerullerdeglobal glomerulosklerozvar. Interstisyumda plazma, lenfosit ve eozinofil lokosit icereniltihabi hücreinfiltrasyonu,tubullerde atrofiizlendi. Tubullerdetiroidizasyonizlendi. Damarlarda intimal proliferasyon vardır. Tanı: Kronik pyelonefrit
-
-
 
 Amilod
 
 Glomerullerde eozinofilik global birikim izlenmektedir. Eozinofilik materyalin naturunu aydinlatmak icin yapilan histokimyasal boya Kristal viyole\`de parlak fusya rengi boyanma gozlenmistir. Tani amiloidoz
 
-
-
 Bobrek igne biyopsisi korteks ve medulla icermektedir. Damarda kolesterol klefti iceren kolesterol embolisi izlenmiştir. Tubullerde iskemiye bağlı dejeneratif degisiklikler\( bazal membrane kalınlaşması, tubuler epitel hücrelerinin lümene dökülmesi\) ve atrofi gözlenmektedir. Tani: Kolesterol embolisi
 
-
-
-Böbrek iğne biyopsisi korteks içermektedir. Glomerullerden birinde fokal segmental glomeruloskleroz gözlenmiştir. Arteriollerde hiperplastik arterioloskleroz dikkati cekmistir. Tubullerde atrofi mevcuttur. Tani: malign hipertansiyona sekonder değişiklikler  
-
-
-  
-
+Böbrek iğne biyopsisi korteks içermektedir. Glomerullerden birinde fokal segmental glomeruloskleroz gözlenmiştir. Arteriollerde hiperplastik arterioloskleroz dikkati cekmistir. Tubullerde atrofi mevcuttur. Tani: malign hipertansiyona sekonder değişiklikler
 
 References:
 
-# Lab: Glomerular Diseases
+## Lab: Glomerular Diseases
 
 Last updated:
 
@@ -323,7 +270,7 @@ TERATOMA
 
 SEROUS PAPILLARY CYSTADENOCARCINOMA
 
-# Lab: Gynecologic pathologies
+## Lab: Gynecologic pathologies
 
 CERVİX: Transformation Zone, Squamocolumnar Junction And Squamous Metaplasia
 
@@ -357,9 +304,6 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
 
 Venous Thrombosis
@@ -371,9 +315,6 @@ ischemic necrosis, testis
 Hemorrhagic \(Red\) infarct, lung
 
 Hemorrhagic \(Red\) infarct, Testis
-
-  
-
 
 References:
 
@@ -387,9 +328,6 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
 
 Venous Thrombosis
@@ -402,12 +340,9 @@ Hemorrhagic \(Red\) infarct, lung
 
 Hemorrhagic \(Red\) infarct, Testis
 
-  
-
-
 References:
 
-# Lab Hemodynamic Disorders
+## Lab Hemodynamic Disorders
 
 Last updated:
 
@@ -442,9 +377,6 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-  
-
 
 Slides:
 
@@ -460,29 +392,11 @@ Cyst Hidatid
 
 Amyloidosis, kidney
 
-  
-
-
 Enterobius vermicularis, appendix
 
 Enterobius vermicularis, appendix
 
 Aspergillus, Lung
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
 
 References:
 
@@ -495,9 +409,6 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-  
-
 
 Slides:
 
@@ -513,33 +424,15 @@ Cyst Hidatid
 
 Amyloidosis, kidney
 
-  
-
-
 Enterobius vermicularis, appendix
 
 Enterobius vermicularis, appendix
 
 Aspergillus, Lung
 
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
 References:
 
-# Lab: Infectious agents in tissues
+## Lab: Infectious agents in tissues
 
 Last updated:
 
@@ -579,19 +472,13 @@ Fibrocyctic Changes, Epithelial Hyperplasia, Apocrine Metaplasia, Sclerosing Ade
 
 INFILTRATIVE DUCTAL CARCINOMA, BREAST
 
-  
-
-
 FIBROADENOMA, BREAST
 
 Fibrocyctic Changes, Epithelial Hyperplasia, Apocrine Metaplasia, Sclerosing Adenosis, Blunt Duct Adenosis
 
 INFILTRATIVE DUCTAL CARCINOMA, BREAST
 
-  
-
-
-# Lab: Pathology of Breast
+## Lab: Pathology of Breast
 
 FIBROADENOMA, BREAST
 
@@ -605,15 +492,9 @@ Name of the Lecture:Santral Sinir Sistemi Patolojisi, Laboratuvar Dersi
 
 Required Prior Knowledge:Santral Sinir Sistemi Patolojisi Teorik Derslerinin gözden geçirilmiş olması
 
-  
-
-
 Aim of the Lecture:Santral Sinir Sistemi Patolojisi hakkındaki teorik ders bilgilerini pekiştirmek
 
 Goals of the lecture:Santral sinir sisteminin inflamatuar, iskemik ve neoplastik hastalıkları hakkındaki örnek lezyonların histomorfolojik özelliklerinin öğrenilmesi
-
-  
-
 
 Slides:
 
@@ -623,26 +504,19 @@ Bu örnek uzun süre yoğun bakımda kalmış, immünsüprese bir hastanın otop
 
 Resim 1A:
 
-![](https://lh3.googleusercontent.com/gbjfCjhxuOPhKo5czKpdbLskSvGqBI_CudrQ2WDJnfIGKfFFTuppXOjBCTgKQWqH_fHwTRwjeYpQMemjptkOn4CeZ6-EDcBLHjRWeazzU-G3gXp9kX3VVtXLvPpWzVRhLUy35_eG "cryptococcus-2x.jpg")
+![cryptococcus-2x.jpg](https://lh3.googleusercontent.com/gbjfCjhxuOPhKo5czKpdbLskSvGqBI_CudrQ2WDJnfIGKfFFTuppXOjBCTgKQWqH_fHwTRwjeYpQMemjptkOn4CeZ6-EDcBLHjRWeazzU-G3gXp9kX3VVtXLvPpWzVRhLUy35_eG)
 
 Resim 1B:
 
-![](https://lh5.googleusercontent.com/o5LavMTwMMN1dC2lH1IQTxRybnJSlgiwCNKKoUuYPcpALDXNP9cfQL_hOH8-tiy365xEL5NF20ZV68HLJnuWK5p7sL3G3fT0XO-7wo5xcfj1CFu1G2gTugvjKOCKqARMn2SipQe6 "cryptococcus-10x.jpg")
+![cryptococcus-10x.jpg](https://lh5.googleusercontent.com/o5LavMTwMMN1dC2lH1IQTxRybnJSlgiwCNKKoUuYPcpALDXNP9cfQL_hOH8-tiy365xEL5NF20ZV68HLJnuWK5p7sL3G3fT0XO-7wo5xcfj1CFu1G2gTugvjKOCKqARMn2SipQe6)
 
 Resim 1C:
 
-
-
-![](https://lh3.googleusercontent.com/auV6AjRMn5n1velnb4onyjMah19NtXMWk1artNiQRvC0h0emRK5T1rxxUXlaMV9efqoElqG-9LhdVFWxC9zV1It8famlBwqk6Vm0j76w8KE2SqQoN-HukaZ44eqs6et36hehD6LY "cryptococcus-40x.jpg")
+![cryptococcus-40x.jpg](https://lh3.googleusercontent.com/auV6AjRMn5n1velnb4onyjMah19NtXMWk1artNiQRvC0h0emRK5T1rxxUXlaMV9efqoElqG-9LhdVFWxC9zV1It8famlBwqk6Vm0j76w8KE2SqQoN-HukaZ44eqs6et36hehD6LY)
 
 Resim 1D:
 
-
-
-![](https://lh4.googleusercontent.com/4L10rjzldGVb8Jhd07aKR4i5ldm3dw0L2fA74VUz3zw3ny0iNE-lVqNsc3ZqoADxQKTgtUX5H8vz1UcRKQ1BtGzvCRqHGln1Nvk5x2lKI1e6E5H8OBNEB08Pf5pBLqc6TG4P0m4d "cryptococcus-100x.jpg")
-
-  
-
+![cryptococcus-100x.jpg](https://lh4.googleusercontent.com/4L10rjzldGVb8Jhd07aKR4i5ldm3dw0L2fA74VUz3zw3ny0iNE-lVqNsc3ZqoADxQKTgtUX5H8vz1UcRKQ1BtGzvCRqHGln1Nvk5x2lKI1e6E5H8OBNEB08Pf5pBLqc6TG4P0m4d)
 
 1. Subakut infarkt
 
@@ -658,9 +532,6 @@ Lezyonda geniş, köpüksü sitoplazmalı makrofajlar \(histiyositler\) görülm
 
 Lezyona ait orijinal preperatlarda lezyon çevresinde reaktif astrositler de izlenmektedir.
 
-  
-
-
 1. Pilositik Astrositom
 
 Bu lezyon genç bir hastanın serebellar yerleşimli kistik alanlar içeren kitlesinden örneklenmiştir.
@@ -673,31 +544,17 @@ Mitotik aktivite, glomeruloid vasküler prolifeasyon ya da nekroz gibi yüksek d
 
 Pilositik astrositomlar DSÖ, derece I tümörlerdir.
 
-  
-
-
 1. Meningiom
 
 Bu örnek dura ile ilşkili bir lezyondur. Preperatın bir kenarındaki fibröz doku niteliğinde dura mater üzerinde gelişmiş meningiomda, psammomatöz kalsifikasyon alanlarını görebiliyoruz.
 
 Büyük büyütmelerde hücrelerin sitoplazmik sınırlarını net seçemediğimizi, sinsityal eozinofilik sitoplazmalı olduklarını görebiliyoruz. Hücreler yuvarlak, oval nükleusludur; nükleuslarda yer yer inklüzyonlar da görülmektedir.
 
-Artmış mitoz, nekroz gibi atipi kriterleri taşımadığından ve beyin parankim invazyonu göstermediğinden bu meningiom, DSÖ derece I meningotelyal bir meningiomdur. 
-
-  
-
-
-  
-
-
-  
-
+Artmış mitoz, nekroz gibi atipi kriterleri taşımadığından ve beyin parankim invazyonu göstermediğinden bu meningiom, DSÖ derece I meningotelyal bir meningiomdur.
 
 References:
 
 Robbins Basic Pathology, 9th edition, p.829, Figure 22-19
-
-
 
 Last updated:01/04/2015
 
@@ -705,15 +562,9 @@ Name of the Lecture:Santral Sinir Sistemi Patolojisi, Laboratuvar Dersi
 
 Required Prior Knowledge:Santral Sinir Sistemi Patolojisi Teorik Derslerinin gözden geçirilmiş olması
 
-  
-
-
 Aim of the Lecture:Santral Sinir Sistemi Patolojisi hakkındaki teorik ders bilgilerini pekiştirmek
 
 Goals of the lecture:Santral sinir sisteminin inflamatuar, iskemik ve neoplastik hastalıkları hakkındaki örnek lezyonların histomorfolojik özelliklerinin öğrenilmesi
-
-  
-
 
 Slides:
 
@@ -723,26 +574,19 @@ Bu örnek uzun süre yoğun bakımda kalmış, immünsüprese bir hastanın otop
 
 Resim 1A:
 
-![](https://lh3.googleusercontent.com/gbjfCjhxuOPhKo5czKpdbLskSvGqBI_CudrQ2WDJnfIGKfFFTuppXOjBCTgKQWqH_fHwTRwjeYpQMemjptkOn4CeZ6-EDcBLHjRWeazzU-G3gXp9kX3VVtXLvPpWzVRhLUy35_eG "cryptococcus-2x.jpg")
+![cryptococcus-2x.jpg](https://lh3.googleusercontent.com/gbjfCjhxuOPhKo5czKpdbLskSvGqBI_CudrQ2WDJnfIGKfFFTuppXOjBCTgKQWqH_fHwTRwjeYpQMemjptkOn4CeZ6-EDcBLHjRWeazzU-G3gXp9kX3VVtXLvPpWzVRhLUy35_eG)
 
 Resim 1B:
 
-![](https://lh5.googleusercontent.com/o5LavMTwMMN1dC2lH1IQTxRybnJSlgiwCNKKoUuYPcpALDXNP9cfQL_hOH8-tiy365xEL5NF20ZV68HLJnuWK5p7sL3G3fT0XO-7wo5xcfj1CFu1G2gTugvjKOCKqARMn2SipQe6 "cryptococcus-10x.jpg")
+![cryptococcus-10x.jpg](https://lh5.googleusercontent.com/o5LavMTwMMN1dC2lH1IQTxRybnJSlgiwCNKKoUuYPcpALDXNP9cfQL_hOH8-tiy365xEL5NF20ZV68HLJnuWK5p7sL3G3fT0XO-7wo5xcfj1CFu1G2gTugvjKOCKqARMn2SipQe6)
 
 Resim 1C:
 
-
-
-![](https://lh3.googleusercontent.com/auV6AjRMn5n1velnb4onyjMah19NtXMWk1artNiQRvC0h0emRK5T1rxxUXlaMV9efqoElqG-9LhdVFWxC9zV1It8famlBwqk6Vm0j76w8KE2SqQoN-HukaZ44eqs6et36hehD6LY "cryptococcus-40x.jpg")
+![cryptococcus-40x.jpg](https://lh3.googleusercontent.com/auV6AjRMn5n1velnb4onyjMah19NtXMWk1artNiQRvC0h0emRK5T1rxxUXlaMV9efqoElqG-9LhdVFWxC9zV1It8famlBwqk6Vm0j76w8KE2SqQoN-HukaZ44eqs6et36hehD6LY)
 
 Resim 1D:
 
-
-
-![](https://lh4.googleusercontent.com/4L10rjzldGVb8Jhd07aKR4i5ldm3dw0L2fA74VUz3zw3ny0iNE-lVqNsc3ZqoADxQKTgtUX5H8vz1UcRKQ1BtGzvCRqHGln1Nvk5x2lKI1e6E5H8OBNEB08Pf5pBLqc6TG4P0m4d "cryptococcus-100x.jpg")
-
-  
-
+![cryptococcus-100x.jpg](https://lh4.googleusercontent.com/4L10rjzldGVb8Jhd07aKR4i5ldm3dw0L2fA74VUz3zw3ny0iNE-lVqNsc3ZqoADxQKTgtUX5H8vz1UcRKQ1BtGzvCRqHGln1Nvk5x2lKI1e6E5H8OBNEB08Pf5pBLqc6TG4P0m4d)
 
 1. Subakut infarkt
 
@@ -758,9 +602,6 @@ Lezyonda geniş, köpüksü sitoplazmalı makrofajlar \(histiyositler\) görülm
 
 Lezyona ait orijinal preperatlarda lezyon çevresinde reaktif astrositler de izlenmektedir.
 
-  
-
-
 1. Pilositik Astrositom
 
 Bu lezyon genç bir hastanın serebellar yerleşimli kistik alanlar içeren kitlesinden örneklenmiştir.
@@ -773,33 +614,19 @@ Mitotik aktivite, glomeruloid vasküler prolifeasyon ya da nekroz gibi yüksek d
 
 Pilositik astrositomlar DSÖ, derece I tümörlerdir.
 
-  
-
-
 1. Meningiom
 
 Bu örnek dura ile ilşkili bir lezyondur. Preperatın bir kenarındaki fibröz doku niteliğinde dura mater üzerinde gelişmiş meningiomda, psammomatöz kalsifikasyon alanlarını görebiliyoruz.
 
 Büyük büyütmelerde hücrelerin sitoplazmik sınırlarını net seçemediğimizi, sinsityal eozinofilik sitoplazmalı olduklarını görebiliyoruz. Hücreler yuvarlak, oval nükleusludur; nükleuslarda yer yer inklüzyonlar da görülmektedir.
 
-Artmış mitoz, nekroz gibi atipi kriterleri taşımadığından ve beyin parankim invazyonu göstermediğinden bu meningiom, DSÖ derece I meningotelyal bir meningiomdur. 
-
-  
-
-
-  
-
-
-  
-
+Artmış mitoz, nekroz gibi atipi kriterleri taşımadığından ve beyin parankim invazyonu göstermediğinden bu meningiom, DSÖ derece I meningotelyal bir meningiomdur.
 
 References:
 
 Robbins Basic Pathology, 9th edition, p.829, Figure 22-19
 
-
-
-# Lab: Pathology of CNS
+## Lab: Pathology of CNS
 
 Last updated:01/04/2015
 
@@ -881,13 +708,7 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
-
-  
-
 
 Multinodular Goitre
 
@@ -898,12 +719,6 @@ Papillary Microcarcinoma, Thyroid
 Diffuse Hyperplasia Of Thyroid
 
 Chronic Lymphocytic Thyroiditis
-
-  
-
-
-  
-
 
 References:
 
@@ -917,13 +732,7 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
-
-  
-
 
 Multinodular Goitre
 
@@ -935,15 +744,9 @@ Diffuse Hyperplasia Of Thyroid
 
 Chronic Lymphocytic Thyroiditis
 
-  
-
-
-  
-
-
 References:
 
-# Lab: Pathology of Endocrine System-1
+## Lab: Pathology of Endocrine System-1
 
 Last updated:
 
@@ -979,9 +782,6 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
 
 Pituitary adenoma
@@ -989,12 +789,6 @@ Pituitary adenoma
 PHEOCHROMOCYTOMA
 
 Parathyroid Adenoma
-
-  
-
-
-  
-
 
 References:
 
@@ -1008,9 +802,6 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
 
 Pituitary adenoma
@@ -1019,15 +810,9 @@ PHEOCHROMOCYTOMA
 
 Parathyroid Adenoma
 
-  
-
-
-  
-
-
 References:
 
-# Lab: Pathology of Endocrine System-2
+## Lab: Pathology of Endocrine System-2
 
 Last updated:
 
@@ -1058,9 +843,6 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-  
-
 
 Slides:
 
@@ -1076,12 +858,6 @@ Moderately Differentiated Colorectal Adenocarcinoma
 
 Poorly Differentiated Gastric CA With Signet Ring Cell Component \(Linitis Plastica\)
 
-  
-
-
-  
-
-
 References:
 
 Last updated:
@@ -1093,9 +869,6 @@ Required Prior Knowledge:
 Aim of the Lecture:
 
 Goals of the lecture:
-
-  
-
 
 Slides:
 
@@ -1111,15 +884,9 @@ Moderately Differentiated Colorectal Adenocarcinoma
 
 Poorly Differentiated Gastric CA With Signet Ring Cell Component \(Linitis Plastica\)
 
-  
-
-
-  
-
-
 References:
 
-# Lab: Pathology of Gastrointestinal Tract-1
+## Lab: Pathology of Gastrointestinal Tract-1
 
 Last updated:
 
@@ -1169,8 +936,6 @@ Enterobius vermicularis, appendix
 
 Giardiasis, duodenum
 
-
-
 İyi diferansiye Nöroendokrin Tümör
 
 Neuroendocrine Carcinoma
@@ -1179,47 +944,7 @@ Warthin Tumor
 
 Pleomorphic Adenoma
 
-
-
 References:
-
-Last updated:
-
-Name of the Lecture:
-
-Required Prior Knowledge:
-
-Aim of the Lecture:
-
-Goals of the lecture:
-
-Slides:
-
-Acute Appendicitis, Perforated
-
-Ulcer, stomach
-
-Chronic Atrophic Gastritis and focal intestinal metaplasia
-
-Enterobius vermicularis, appendix
-
-Giardiasis, duodenum
-
-
-
-İyi diferansiye Nöroendokrin Tümör
-
-Neuroendocrine Carcinoma
-
-Warthin Tumor
-
-Pleomorphic Adenoma
-
-
-
-References:
-
-# Lab: Pathology of Gastrointestinal Tract-2
 
 Last updated:
 
@@ -1253,15 +978,11 @@ Pleomorphic Adenoma
 
 References:
 
+## Lab: Pathology of Gastrointestinal Tract-2
+
 Last updated:
 
-  
-
-
 Name of the Lecture:
-
-  
-
 
 Required Prior Knowledge:
 
@@ -1269,139 +990,27 @@ Aim of the Lecture:
 
 Goals of the lecture:
 
-  
-
-
 Slides:
 
-Leucocytoclastic Vasculitis, Of Skin
+Acute Appendicitis, Perforated
 
-Subacute Myocardial Infarction, Organizing Thrombus
+Ulcer, stomach
 
-Thrombus
+Chronic Atrophic Gastritis and focal intestinal metaplasia
 
-Myocardial Infarction
+Enterobius vermicularis, appendix
 
-Pyogenic Granuloma
+Giardiasis, duodenum
 
-Hemangioma
+İyi diferansiye Nöroendokrin Tümör
 
-Venous Thrombosis
+Neuroendocrine Carcinoma
 
-  
+Warthin Tumor
 
-
-- Lökoklastik vaskülit
-
-Normal görünümde epidermis altında, dermisde küçük damarlar çevresinde ve damar duvarında yoğun inflamasyon izlenmiştir. Bu inflamasyon içinde çok sayıda nötrofil lökositler görülmektedir. Endotel lümenlerin birkaçının lümeninde fibrin izlendi. Damar entolleri şişkin. Bazı damar yapılarının lümeni daralmış ve yer yer kapanmış.
-
-17751- Venöz trombüs
-
-Damar duvarına bir alanda tutunan ve damar lümeninin tamamını dolduran trombüs izlenmekte. Trombüs fibrinden oluşmakta. Bir alanda trombüsde organizasyon ve yeni damar oluşumu \(rekanalizasyon \) çevresinde kronik inflamatuar hücreler izlenmiştir.
-
-- Pyojenik granülom \(lobüler kapiller hemanjiom\)
-
-El parmaklarında hızla büyüyen polipod bir lezyon ile başvuran hastanın eksizyon biyopsisinde : dermisde lobüler tarzda gelişim gösteren küçük damar yapılarından oluşan vasküler bir lezyon izlenmiştir. Bu vasküler yapılarda belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi malignite bulguları içermemektedir.
-
- – Kavernöz hemanjiom
-
-İçleri eritrositler ile dolu, çoğunluğu orta çaplı arter yapılardan oluşan benign vasküler bir neoplazm. Malignite özellikleri \( belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi\) taşımamaktadır.
-
-- Kronik infarkt ve trombüs
-
-Kalp dokusundan alınan kesitlerde yaygın fibrozis ve kronik infarkt bulguları gözükmekte. Myokard içinde bir damarda trombüs oluşumu izlenmekte.
-
-Endokardiyal alanda subakut infarkt alanı ve iltihabi granülasyon dokusu oluşumu izlenmekte. Diğer alanlarda myokard içinde myofibrillerde kayıp, fibrozis ve bir damar içinde trombüz görülmüştür. Aha önce kronik iskemik hastalığı olan vakada yeni iyileşmekte olan subendokardiyak infarkt alanları görülmekte.
-
-Aynı hastaya ait kronik infarkt ve fibrozis alanları
-
-
-
-
-
-  
-
-
-  
-
+Pleomorphic Adenoma
 
 References:
-
-Last updated:
-
-  
-
-
-Name of the Lecture:
-
-  
-
-
-Required Prior Knowledge:
-
-Aim of the Lecture:
-
-Goals of the lecture:
-
-  
-
-
-Slides:
-
-Leucocytoclastic Vasculitis, Of Skin
-
-Subacute Myocardial Infarction, Organizing Thrombus
-
-Thrombus
-
-Myocardial Infarction
-
-Pyogenic Granuloma
-
-Hemangioma
-
-Venous Thrombosis
-
-  
-
-
-- Lökoklastik vaskülit
-
-Normal görünümde epidermis altında, dermisde küçük damarlar çevresinde ve damar duvarında yoğun inflamasyon izlenmiştir. Bu inflamasyon içinde çok sayıda nötrofil lökositler görülmektedir. Endotel lümenlerin birkaçının lümeninde fibrin izlendi. Damar entolleri şişkin. Bazı damar yapılarının lümeni daralmış ve yer yer kapanmış.
-
-17751- Venöz trombüs
-
-Damar duvarına bir alanda tutunan ve damar lümeninin tamamını dolduran trombüs izlenmekte. Trombüs fibrinden oluşmakta. Bir alanda trombüsde organizasyon ve yeni damar oluşumu \(rekanalizasyon \) çevresinde kronik inflamatuar hücreler izlenmiştir.
-
-- Pyojenik granülom \(lobüler kapiller hemanjiom\)
-
-El parmaklarında hızla büyüyen polipod bir lezyon ile başvuran hastanın eksizyon biyopsisinde : dermisde lobüler tarzda gelişim gösteren küçük damar yapılarından oluşan vasküler bir lezyon izlenmiştir. Bu vasküler yapılarda belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi malignite bulguları içermemektedir.
-
- – Kavernöz hemanjiom
-
-İçleri eritrositler ile dolu, çoğunluğu orta çaplı arter yapılardan oluşan benign vasküler bir neoplazm. Malignite özellikleri \( belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi\) taşımamaktadır.
-
-- Kronik infarkt ve trombüs
-
-Kalp dokusundan alınan kesitlerde yaygın fibrozis ve kronik infarkt bulguları gözükmekte. Myokard içinde bir damarda trombüs oluşumu izlenmekte.
-
-Endokardiyal alanda subakut infarkt alanı ve iltihabi granülasyon dokusu oluşumu izlenmekte. Diğer alanlarda myokard içinde myofibrillerde kayıp, fibrozis ve bir damar içinde trombüz görülmüştür. Aha önce kronik iskemik hastalığı olan vakada yeni iyileşmekte olan subendokardiyak infarkt alanları görülmekte.
-
-Aynı hastaya ait kronik infarkt ve fibrozis alanları
-
-
-
-
-
-  
-
-
-  
-
-
-References:
-
-# Lab: Pathology of Heart and Vascular Diseases
 
 Last updated:
 
@@ -1455,5 +1064,109 @@ Aynı hastaya ait kronik infarkt ve fibrozis alanları
 
 References:
 
+Last updated:
 
+Name of the Lecture:
+
+Required Prior Knowledge:
+
+Aim of the Lecture:
+
+Goals of the lecture:
+
+Slides:
+
+Leucocytoclastic Vasculitis, Of Skin
+
+Subacute Myocardial Infarction, Organizing Thrombus
+
+Thrombus
+
+Myocardial Infarction
+
+Pyogenic Granuloma
+
+Hemangioma
+
+Venous Thrombosis
+
+* Lökoklastik vaskülit
+
+Normal görünümde epidermis altında, dermisde küçük damarlar çevresinde ve damar duvarında yoğun inflamasyon izlenmiştir. Bu inflamasyon içinde çok sayıda nötrofil lökositler görülmektedir. Endotel lümenlerin birkaçının lümeninde fibrin izlendi. Damar entolleri şişkin. Bazı damar yapılarının lümeni daralmış ve yer yer kapanmış.
+
+17751- Venöz trombüs
+
+Damar duvarına bir alanda tutunan ve damar lümeninin tamamını dolduran trombüs izlenmekte. Trombüs fibrinden oluşmakta. Bir alanda trombüsde organizasyon ve yeni damar oluşumu \(rekanalizasyon \) çevresinde kronik inflamatuar hücreler izlenmiştir.
+
+* Pyojenik granülom \(lobüler kapiller hemanjiom\)
+
+El parmaklarında hızla büyüyen polipod bir lezyon ile başvuran hastanın eksizyon biyopsisinde : dermisde lobüler tarzda gelişim gösteren küçük damar yapılarından oluşan vasküler bir lezyon izlenmiştir. Bu vasküler yapılarda belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi malignite bulguları içermemektedir.
+
+– Kavernöz hemanjiom
+
+İçleri eritrositler ile dolu, çoğunluğu orta çaplı arter yapılardan oluşan benign vasküler bir neoplazm. Malignite özellikleri \( belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi\) taşımamaktadır.
+
+* Kronik infarkt ve trombüs
+
+Kalp dokusundan alınan kesitlerde yaygın fibrozis ve kronik infarkt bulguları gözükmekte. Myokard içinde bir damarda trombüs oluşumu izlenmekte.
+
+Endokardiyal alanda subakut infarkt alanı ve iltihabi granülasyon dokusu oluşumu izlenmekte. Diğer alanlarda myokard içinde myofibrillerde kayıp, fibrozis ve bir damar içinde trombüz görülmüştür. Aha önce kronik iskemik hastalığı olan vakada yeni iyileşmekte olan subendokardiyak infarkt alanları görülmekte.
+
+Aynı hastaya ait kronik infarkt ve fibrozis alanları
+
+References:
+
+## Lab: Pathology of Heart and Vascular Diseases
+
+Last updated:
+
+Name of the Lecture:
+
+Required Prior Knowledge:
+
+Aim of the Lecture:
+
+Goals of the lecture:
+
+Slides:
+
+Leucocytoclastic Vasculitis, Of Skin
+
+Subacute Myocardial Infarction, Organizing Thrombus
+
+Thrombus
+
+Myocardial Infarction
+
+Pyogenic Granuloma
+
+Hemangioma
+
+Venous Thrombosis
+
+* Lökoklastik vaskülit
+
+Normal görünümde epidermis altında, dermisde küçük damarlar çevresinde ve damar duvarında yoğun inflamasyon izlenmiştir. Bu inflamasyon içinde çok sayıda nötrofil lökositler görülmektedir. Endotel lümenlerin birkaçının lümeninde fibrin izlendi. Damar entolleri şişkin. Bazı damar yapılarının lümeni daralmış ve yer yer kapanmış.
+
+17751- Venöz trombüs
+
+Damar duvarına bir alanda tutunan ve damar lümeninin tamamını dolduran trombüs izlenmekte. Trombüs fibrinden oluşmakta. Bir alanda trombüsde organizasyon ve yeni damar oluşumu \(rekanalizasyon \) çevresinde kronik inflamatuar hücreler izlenmiştir.
+
+* Pyojenik granülom \(lobüler kapiller hemanjiom\)
+
+El parmaklarında hızla büyüyen polipod bir lezyon ile başvuran hastanın eksizyon biyopsisinde : dermisde lobüler tarzda gelişim gösteren küçük damar yapılarından oluşan vasküler bir lezyon izlenmiştir. Bu vasküler yapılarda belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi malignite bulguları içermemektedir.
+
+– Kavernöz hemanjiom
+
+İçleri eritrositler ile dolu, çoğunluğu orta çaplı arter yapılardan oluşan benign vasküler bir neoplazm. Malignite özellikleri \( belirgin bir atipi, pleomorfizm, nekroz veya artmış mitoz gibi\) taşımamaktadır.
+
+* Kronik infarkt ve trombüs
+
+Kalp dokusundan alınan kesitlerde yaygın fibrozis ve kronik infarkt bulguları gözükmekte. Myokard içinde bir damarda trombüs oluşumu izlenmekte.
+
+Endokardiyal alanda subakut infarkt alanı ve iltihabi granülasyon dokusu oluşumu izlenmekte. Diğer alanlarda myokard içinde myofibrillerde kayıp, fibrozis ve bir damar içinde trombüz görülmüştür. Aha önce kronik iskemik hastalığı olan vakada yeni iyileşmekte olan subendokardiyak infarkt alanları görülmekte.
+
+Aynı hastaya ait kronik infarkt ve fibrozis alanları
+
+References:
 

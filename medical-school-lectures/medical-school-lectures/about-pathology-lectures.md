@@ -2,6 +2,8 @@
 
 ## About Pathology Lectures
 
+### About Pathology Lectures
+
 Dersler ile ilgili genel bilgiler
 
 Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden beklenen bu değişik yönleri klinik derslerle de birleştirmenizdir.
@@ -111,7 +113,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
 17. The Biology of Cancer Robert A. Weinberg
 
-## List Of Lectures
+### List Of Lectures
 
 [Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1_NOnKrDbGcY4wXpidE2OBXzi4s_uqUTm6GZ3bbZCr0M/pub)
 
@@ -1145,55 +1147,32 @@ Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera
 
 [https://lagunita.stanford.edu/courses](https://lagunita.stanford.edu/courses)
 
-  
+## Introduction to Pathology
 
+{% embed url="https://docs.google.com/document/d/e/2PACX-1vRCnvneV6pVgLKcWuz1RR0jOwKBt-UJ0WWqV1qZeJPRkMa5p\_CO904y9OJ2YOlQ0wlgR1egLwiuOi1E/pub" caption="" %}
 
-# Introduction to Pathology
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u\_nsFnJh\_5\_pExSF6vCbea\_Zp66/pub?start=false&loop=false&delayms=3000" caption="" %}
 
-{% embed url="https://docs.google.com/document/d/e/2PACX-1vRCnvneV6pVgLKcWuz1RR0jOwKBt-UJ0WWqV1qZeJPRkMa5p\_CO904y9OJ2YOlQ0wlgR1egLwiuOi1E/pub" %}
-
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u\_nsFnJh\_5\_pExSF6vCbea\_Zp66/pub?start=false&loop=false&delayms=3000" %}
-
-
-
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u\_nsFnJh\_5\_pExSF6vCbea\_Zp66/pub?start=false&loop=false&delayms=3000" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u\_nsFnJh\_5\_pExSF6vCbea\_Zp66/pub?start=false&loop=false&delayms=3000" caption="" %}
 
 [History of Pathology](https://twitter.com/i/moments/926341810091380736?ref_src=twsrc%5Etfw)
 
-
-
- 
-
-
-
-{% embed url="https://twitter.com/i/moments/926341810091380736" %}
-
-
+{% embed url="https://twitter.com/i/moments/926341810091380736" caption="" %}
 
 [Pathogenesis](https://twitter.com/i/moments/924607067909951490?ref_src=twsrc%5Etfw)
 
- 
-
-
-
 Focal  
-⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️  
-  
+⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️
+
 Diffuse  
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴  
-  
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
 Patchy  
 ⚫️⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴[\#pathology](https://twitter.com/hashtag/pathology?src=hash&ref_src=twsrc%5Etfw)— Sanjay Mukhopadhyay \(@smlungpathguy\) [July 19, 2018](https://twitter.com/smlungpathguy/status/1019805627592462336?ref_src=twsrc%5Etfw)
 
-{% embed url="https://twitter.com/smlungpathguy/status/1019805627592462336" %}
+{% embed url="https://twitter.com/smlungpathguy/status/1019805627592462336" caption="" %}
 
-
-
-{% embed url="https://www.youtube.com/watch?v=6z9\_fjCuQtE" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=6z9\_fjCuQtE" caption="" %}
 
 Required Prior Knowledge:That you will be having pathology lectures in this committee and throughout phase 3.
 
@@ -1368,14 +1347,7 @@ References:
 8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
 9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
 
-
-
-
-
-
-
-
- kullanırken dikkat edilmesi gerekenler
+kullanırken dikkat edilmesi gerekenler
 
 * Laboratuvar çalışmaları için kullandığımız[mikroskopun kullanım klavuzunu gözden geçirebilirsiniz](https://drive.google.com/file/d/0B4x15l9fUIsjMDJlRkxwbE8wQzQ/view?usp=sharing)
 * Cama önce dışarıdan bakın
@@ -1412,143 +1384,71 @@ Laboratuvar sınavı için değişik yöntemler var.
 
 Laboratuvar dersleri ile ilgili genel bilgiler
 
-  
-
-
-  
-
-
 Mikroskop kullanırken dikkat edilmesi gerekenler
 
 * Laboratuvar çalışmaları için kullandığımız[mikroskopun kullanım klavuzunu gözden geçirebilirsiniz](https://drive.google.com/file/d/0B4x15l9fUIsjMDJlRkxwbE8wQzQ/view?usp=sharing)
-
 * Cama önce dışarıdan bakın
-
 * Bu örneğin iki boyutlu bir kesit olduğunu düşünerek bakın
-
 * Kondansör ayarı, ışık ayarı
-
 * Netlik
-
 * Küçük büyütmeden başlayın
-
 * Gerekirse alanları büyütüp inceleyin
-
 * Robbins ya da bir textbook’un ilgili kısmı yanınızda olsun
-
 * * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
 * Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun \(iki resim arası farkı bulun gibi\)
-
 * Stres ve panik yapmayın
-
 * * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
-
   * Soru sormaktan çekinmeyin, anlamadığınız herşeyi sorun
 * Artefaktlar olabilir onlara takılmayın
-
 * Arkadaşlardan öğrenmek iyi bir fikirdir
-
 * * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
-
   * Ama bu sizi “ben anlamıyorum zaten” ile sonlanan öğrenilmiş çaresizliğe sürüklemesin
 * Mikroskoptan fotoğraf çekmek isteyenler için:
-
 * * [Annie S. Morrison and Jerad M. Gardner \(2014\) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
-
   * [Smart Phone Microscopic Photography](https://www.youtube.com/watch?v=cfd9ViHBlR4)
-
-  
-
-
-  
-
 
 Biyopsi örneğinde iki, üç boyut ve zaman
 
 * Doku ve organlar aslında 3 boyutlu
-
 * Bizim incelediğimiz preperatlar ise 2 boyutlu
-
 * Hastalığın değişik dönemleri olduğunu \(zaman boyutunu\) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
-
-  
-
 
 Laboratuvar sınavı nasıl olacak?
 
 Laboratuvar sınavı için değişik yöntemler var.
 
 * Genel olarak histoloji sınavlarınıza benzer olacak.
-
-  
-
-
-  
-
 
 Laboratuvar dersleri ile ilgili genel bilgiler
 
-  
-
-
-  
-
-
 Mikroskop kullanırken dikkat edilmesi gerekenler
 
 * Laboratuvar çalışmaları için kullandığımız[mikroskopun kullanım klavuzunu gözden geçirebilirsiniz](https://drive.google.com/file/d/0B4x15l9fUIsjMDJlRkxwbE8wQzQ/view?usp=sharing)
-
 * Cama önce dışarıdan bakın
-
 * Bu örneğin iki boyutlu bir kesit olduğunu düşünerek bakın
-
 * Kondansör ayarı, ışık ayarı
-
 * Netlik
-
 * Küçük büyütmeden başlayın
-
 * Gerekirse alanları büyütüp inceleyin
-
 * Robbins ya da bir textbook’un ilgili kısmı yanınızda olsun
-
 * * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
 * Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun \(iki resim arası farkı bulun gibi\)
-
 * Stres ve panik yapmayın
-
 * * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
-
   * Soru sormaktan çekinmeyin, anlamadığınız herşeyi sorun
 * Artefaktlar olabilir onlara takılmayın
-
 * Arkadaşlardan öğrenmek iyi bir fikirdir
-
 * * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
-
   * Ama bu sizi “ben anlamıyorum zaten” ile sonlanan öğrenilmiş çaresizliğe sürüklemesin
 * Mikroskoptan fotoğraf çekmek isteyenler için:
-
 * * [Annie S. Morrison and Jerad M. Gardner \(2014\) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
-
   * [Smart Phone Microscopic Photography](https://www.youtube.com/watch?v=cfd9ViHBlR4)
-
-  
-
-
-  
-
 
 Biyopsi örneğinde iki, üç boyut ve zaman
 
 * Doku ve organlar aslında 3 boyutlu
-
 * Bizim incelediğimiz preperatlar ise 2 boyutlu
-
 * Hastalığın değişik dönemleri olduğunu \(zaman boyutunu\) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
-
-  
-
 
 Laboratuvar sınavı nasıl olacak?
 
@@ -1556,19 +1456,13 @@ Laboratuvar sınavı için değişik yöntemler var.
 
 * Genel olarak histoloji sınavlarınıza benzer olacak.
 
-  
-
-
-
-# Laboratuvar dersleri ile ilgili genel bilgiler
+## Laboratuvar dersleri ile ilgili genel bilgiler
 
 Laboratuvar dersleri ile ilgili genel bilgiler
 
 Mikroskop
 
-
-
-# Medical School Lectures
+## Medical School Lectures
 
 Dersler ile ilgili genel bilgiler
 
@@ -1607,11 +1501,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 16. Rubin’s Pathology CLINICOPATHOLOGIC FOUNDATIONS OF MEDICINE
 17. The Biology of Cancer Robert A. Weinberg
 
-
-
-
-
-# Patoloji Laboratuvarı Nasıl Çalışır
+## Patoloji Laboratuvarı Nasıl Çalışır
 
 Son güncelleme:01.05.2015
 
@@ -1687,93 +1577,51 @@ Dersin hedefleri:
 
 Öğrenciler patologların hastanedeki görevleri ve yaptıkları konusunda temel bilgi edineceklerdir
 
-  
-
-
 Başlıklar:
 
 * Spesmen \(Örnek\) Tipleri - Biyopsi
-
 * * İğne biyopsisi, tru-cut biyopsi
-
   * İnsizyonel biyopsi
-
   * Eksizyonel biyopsi
-
   * Radikal eksizyon
 * Spesmen Tipleri - Sitoloji
-
 * * Eksfoliyatif sitoloji
-
   * Aspirasyon sitolojisi
 * Patoloji laboratuvarında kayıt ve iş akışı
-
 * Makroskopi
-
 * * Spesmenlerin fotoğraflanması
-
   * Spesmen arşivi
-
   * Klavuzlara göre urgun örnek alma
 * Doku takibi
-
 * Parafin blok hazırlama \(parafine gömme\)
-
 * Mikrotom
-
 * H&E
-
 * Mikroskopi
-
 * Otopsi
-
 * Frozen işlemi
-
 * Özel teknikler
-
 * * Histokimya
-
   * Enzim histokimyası
-
   * İmmünohistokimya
-
   * İmmünfloresan
-
   * İn-situ hibridizasyon
 * Moleküler teknikler
-
 * Patoloji Arşivi
-
 * * Parafin bloklar
-
   * Preparatlar
-
   * Basılı ve elektronik raporlar
 * Patoloğun ürünü rapordur
-
 * Klinisyenlerle ilişkiler ve iletişim
-
 * Hastalarla ilişkiler ve iletişim
-
 * Konsültasyonlar
-
 * Telepatoloji
-
 * Dijital patoloji ve Sanal preparatlar
-
-  
-
 
 Kaynaklar:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology_report.html)
-
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-
 3. [http://rosaicollection.org/](http://rosaicollection.org/)
-
-  
-
 
 Son güncelleme:01.05.2015
 
@@ -1789,95 +1637,53 @@ Dersin hedefleri:
 
 Öğrenciler patologların hastanedeki görevleri ve yaptıkları konusunda temel bilgi edineceklerdir
 
-  
-
-
 Başlıklar:
 
 * Spesmen \(Örnek\) Tipleri - Biyopsi
-
 * * İğne biyopsisi, tru-cut biyopsi
-
   * İnsizyonel biyopsi
-
   * Eksizyonel biyopsi
-
   * Radikal eksizyon
 * Spesmen Tipleri - Sitoloji
-
 * * Eksfoliyatif sitoloji
-
   * Aspirasyon sitolojisi
 * Patoloji laboratuvarında kayıt ve iş akışı
-
 * Makroskopi
-
 * * Spesmenlerin fotoğraflanması
-
   * Spesmen arşivi
-
   * Klavuzlara göre urgun örnek alma
 * Doku takibi
-
 * Parafin blok hazırlama \(parafine gömme\)
-
 * Mikrotom
-
 * H&E
-
 * Mikroskopi
-
 * Otopsi
-
 * Frozen işlemi
-
 * Özel teknikler
-
 * * Histokimya
-
   * Enzim histokimyası
-
   * İmmünohistokimya
-
   * İmmünfloresan
-
   * İn-situ hibridizasyon
 * Moleküler teknikler
-
 * Patoloji Arşivi
-
 * * Parafin bloklar
-
   * Preparatlar
-
   * Basılı ve elektronik raporlar
 * Patoloğun ürünü rapordur
-
 * Klinisyenlerle ilişkiler ve iletişim
-
 * Hastalarla ilişkiler ve iletişim
-
 * Konsültasyonlar
-
 * Telepatoloji
-
 * Dijital patoloji ve Sanal preparatlar
-
-  
-
 
 Kaynaklar:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology_report.html)
-
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-
 3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
-  
-
-
-# Patoloji'ye Giriş
+## Patoloji'ye Giriş
 
 Son güncelleme:01.05.2015
 
@@ -1940,25 +1746,13 @@ Kaynaklar:
 
 Son güncelleme:01.05.2015
 
-  
-
-
 Ders adı:Patoloji’ye Giriş
 
-  
-
-
 Ders öncesi bilinmesi beklenenler:Bu komite ve gelecek yıl boyunca göreceğiniz zorunlu bir ders olduğunu bilmeniz yeterli.
-
-  
-
 
 Dersin Amacı:
 
 Bir disiplin, tıp bilimi, uzmanlık ve tıp fakültesi dersi olarak patoloji hakkında genel bilgi vermek
-
-  
-
 
 Dersin hedefleri:
 
@@ -1968,114 +1762,56 @@ Dersin hedefleri:
 
 Öğrenciler bir tıp bilimi olarak patoloji hakkında temel bilgi edineceklerdir.
 
-  
-
-
 Başlıklar:
 
 * Patoloji ne demektir?
-
 * Patolojide kullanılan metodlar
-
 * Patoloji nedeni, nasılı açıklamaya çalışır
-
 * Patoloji temel tıp bilimleri ve klinik arasındaki köprüdür
-
 * Genel patolojinin konuları
-
 * Sistemik patolojinin konuları
-
 * Hastalık türleri
-
 * Etioloji
-
 * Patogenez
-
 * Risk faktörü
-
 * Patoloji terminolojisi \(jargonu\)
-
 * Patoloji ve epidemioloji
-
 * Tanısal patoloji
-
 * * Makroskopi
-
   * Mikroskopi
-
   * Sitoloji
-
   * İmmünohistokimya
 * Patolog kimdir?
-
 * * Türkiye’de nasıl patolog olunur?
-
   * Dünyada değişik patolog grupları var mı?
-
   * Patolojinin alt başlıkları \(üst ihtisasları\) var mı?
 * Patoloji dersleri
-
 * * Bu dersler nasıl devam edecek?
-
   * Nasıl not alacaksınız?
-
   * Patolojiye nasıl çalışabilirim?
-
   * Patolojiye çalışma yöntemleri
-
-  
-
-
-  
-
-
-  
-
 
 Kaynaklar:
 
 1. Robbins Basic Pathology, 9th edition
-
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
-
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-
 5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-
 6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-
 7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-
 8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-
 9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
-
-  
-
 
 Son güncelleme:01.05.2015
 
-  
-
-
 Ders adı:Patoloji’ye Giriş
 
-  
-
-
 Ders öncesi bilinmesi beklenenler:Bu komite ve gelecek yıl boyunca göreceğiniz zorunlu bir ders olduğunu bilmeniz yeterli.
-
-  
-
 
 Dersin Amacı:
 
 Bir disiplin, tıp bilimi, uzmanlık ve tıp fakültesi dersi olarak patoloji hakkında genel bilgi vermek
-
-  
-
 
 Dersin hedefleri:
 
@@ -2085,90 +1821,44 @@ Dersin hedefleri:
 
 Öğrenciler bir tıp bilimi olarak patoloji hakkında temel bilgi edineceklerdir.
 
-  
-
-
 Başlıklar:
 
 * Patoloji ne demektir?
-
 * Patolojide kullanılan metodlar
-
 * Patoloji nedeni, nasılı açıklamaya çalışır
-
 * Patoloji temel tıp bilimleri ve klinik arasındaki köprüdür
-
 * Genel patolojinin konuları
-
 * Sistemik patolojinin konuları
-
 * Hastalık türleri
-
 * Etioloji
-
 * Patogenez
-
 * Risk faktörü
-
 * Patoloji terminolojisi \(jargonu\)
-
 * Patoloji ve epidemioloji
-
 * Tanısal patoloji
-
 * * Makroskopi
-
   * Mikroskopi
-
   * Sitoloji
-
   * İmmünohistokimya
 * Patolog kimdir?
-
 * * Türkiye’de nasıl patolog olunur?
-
   * Dünyada değişik patolog grupları var mı?
-
   * Patolojinin alt başlıkları \(üst ihtisasları\) var mı?
 * Patoloji dersleri
-
 * * Bu dersler nasıl devam edecek?
-
   * Nasıl not alacaksınız?
-
   * Patolojiye nasıl çalışabilirim?
-
   * Patolojiye çalışma yöntemleri
-
-  
-
-
-  
-
-
-  
-
 
 Kaynaklar:
 
 1. Robbins Basic Pathology, 9th edition
-
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
-
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-
 5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-
 6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-
 7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-
 8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-
 9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
 
-  
-  
-  

@@ -1,6 +1,8 @@
 # Research Articles
 
-# Research Articles
+## Research Articles
+
+## Research Articles
 
 * Identifying Meaningful Citations
 
@@ -24,7 +26,7 @@
 
 * Setting our bibliographic references free: towards open citation data
 
-http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-references.pdf
+[http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-references.pdf](http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-references.pdf)
 
 * Identifying Meaningful Citations
 
@@ -36,4 +38,5 @@ http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-re
 
 * Setting our bibliographic references free: towards open citation data
 
-http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-references.pdf
+[http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-references.pdf](http://speroni.web.cs.unibo.it/publications/peroni-2015-setting-bibliographic-references.pdf)
+

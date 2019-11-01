@@ -2,16 +2,7 @@
 
 ## Image Analysis
 
-* Grand Challenges in Biomedical Image Analysis
-
-[https://grand-challenge.org/](https://grand-challenge.org/)
-
-* Fiji
-
-[https://fiji.sc/](https://fiji.sc/)
-
-
-# Image Analysis
+### Image Analysis
 
 * Grand Challenges in Biomedical Image Analysis
 
@@ -21,11 +12,21 @@
 
 [https://fiji.sc/](https://fiji.sc/)
 
+## Image Analysis
+
 * Grand Challenges in Biomedical Image Analysis
 
 [https://grand-challenge.org/](https://grand-challenge.org/)
 
 * Fiji
 
-https://fiji.sc/
+[https://fiji.sc/](https://fiji.sc/)
+
+* Grand Challenges in Biomedical Image Analysis
+
+[https://grand-challenge.org/](https://grand-challenge.org/)
+
+* Fiji
+
+[https://fiji.sc/](https://fiji.sc/)
 

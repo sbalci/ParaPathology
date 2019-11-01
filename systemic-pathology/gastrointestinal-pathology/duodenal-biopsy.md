@@ -1,5 +1,7 @@
 # Duodenal Biopsy
 
+## Duodenal Biopsy
+
 * Thunderstorm-triggered asthma attacks put under the microscope in Australia
 
 [https://www.youtube.com/watch?v=8U5qL4-Kf7w](https://www.youtube.com/watch?v=8U5qL4-Kf7w)
@@ -40,16 +42,15 @@ Differential Diagnosis of the Flat Duodenal Biopsy
 
 [https://www.ncbi.nlm.nih.gov/pubmed/29168502/](https://www.ncbi.nlm.nih.gov/pubmed/29168502/)
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
-
-# GIPath Tweets
+## GIPath Tweets
 
 This is the list of Gastrointestinal Pathology \(GIPath\) Tweets collected automatically via `R`.
 
 [GIPathTweets2019-07-08.md](https://github.com/sbalci/ParaPathology/tree/7b853c5e0793aa3f04000d8577340e5623b2678c/systemic-pathology/gastrointestinal-pathology/pathTweets/GIPathTweets2019-07-08.md)
 
-# Gastrointestinal Pathology
+## Gastrointestinal Pathology
 
 * Bugs, sprue, drugs and more: adventures in the small intestine
 
@@ -63,8 +64,7 @@ Differential Diagnosis of the Flat Duodenal Biopsy
 
 [https://www.ncbi.nlm.nih.gov/pubmed/29168502/](https://www.ncbi.nlm.nih.gov/pubmed/29168502/)
 
-
-
-
 =======
->>>>>>> 8d5983ae6cbec804f306dabc6af12d91c85cbde1
+
+> > > > > > > 8d5983ae6cbec804f306dabc6af12d91c85cbde1
+

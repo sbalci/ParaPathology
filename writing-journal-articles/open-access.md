@@ -1,5 +1,6 @@
 # Open Access
 
+## Open Access
 
 * GreeneLab
 
@@ -25,7 +26,7 @@
 
 [https://medium.com/flockademic/how-open-can-open-access-be-cf6662565ecd](https://medium.com/flockademic/how-open-can-open-access-be-cf6662565ecd)
 
-# Open Access
+## Open Access
 
 * GreeneLab
 
@@ -38,5 +39,4 @@
 * How open can Open Access be?
 
 [https://medium.com/flockademic/how-open-can-open-access-be-cf6662565ecd](https://medium.com/flockademic/how-open-can-open-access-be-cf6662565ecd)
-
 

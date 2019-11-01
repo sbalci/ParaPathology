@@ -1,8 +1,8 @@
 # Text Editing
 
-
-
 ## Text Editing
+
+### Text Editing
 
 * Replace with a Subscript
 
@@ -11,50 +11,43 @@
 * [http://www.hemingwayapp.com/](http://www.hemingwayapp.com/)
 * [https://app.grammarly.com/](https://app.grammarly.com/)
 
-
-# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 [https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
-# Statistics for Social Data
-
-http://ptrckprry.com/course/ssd/
-
-# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
-
-https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
-
-
-
-# Statistics for Social Data
-
-http://ptrckprry.com/course/ssd/
-
-# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
-
-https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
-
-
-
-# Statistics for Social Data
-
-http://ptrckprry.com/course/ssd/
-
-# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
-
-https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
-
-
-
-# Text Mining Courses
+## Statistics for Social Data
 
 [http://ptrckprry.com/course/ssd/](http://ptrckprry.com/course/ssd/)
 
-# Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
 [https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
-# Text Mining Journal Articles
+## Statistics for Social Data
+
+[http://ptrckprry.com/course/ssd/](http://ptrckprry.com/course/ssd/)
+
+## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+
+[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+
+## Statistics for Social Data
+
+[http://ptrckprry.com/course/ssd/](http://ptrckprry.com/course/ssd/)
+
+## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+
+[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+
+## Text Mining Courses
+
+[http://ptrckprry.com/course/ssd/](http://ptrckprry.com/course/ssd/)
+
+## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+
+[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+
+## Text Mining Journal Articles
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -78,15 +71,15 @@ https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
-https://www.ncbi.nlm.nih.gov/pubmed/28269893
+[https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
 
 * Text mining of cancer-related information: Review of current status and future directions
 
-http://www.sciencedirect.com/science/article/pii/S1386505614001105
+[http://www.sciencedirect.com/science/article/pii/S1386505614001105](http://www.sciencedirect.com/science/article/pii/S1386505614001105)
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -94,15 +87,15 @@ https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-r
 
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
-https://www.ncbi.nlm.nih.gov/pubmed/28269893
+[https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
 
 * Text mining of cancer-related information: Review of current status and future directions
 
-http://www.sciencedirect.com/science/article/pii/S1386505614001105
+[http://www.sciencedirect.com/science/article/pii/S1386505614001105](http://www.sciencedirect.com/science/article/pii/S1386505614001105)
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -110,17 +103,17 @@ https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-r
 
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
-https://www.ncbi.nlm.nih.gov/pubmed/28269893
+[https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
 
 * Text mining of cancer-related information: Review of current status and future directions
 
-http://www.sciencedirect.com/science/article/pii/S1386505614001105
+[http://www.sciencedirect.com/science/article/pii/S1386505614001105](http://www.sciencedirect.com/science/article/pii/S1386505614001105)
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
-# Text Mining Journal Articles
+## Text Mining Journal Articles
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -139,76 +132,59 @@ https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-r
 [https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
 * Text Mining General
-
-
-
 * Text Mining General
 
+## Text Mining Orange
 
+## Text Mining Orange
 
-# Text Mining Orange
-
-# Text Mining Orange
-
-# Data sets for author name disambiguation: an empirical analysis and a new resource
+## Data sets for author name disambiguation: an empirical analysis and a new resource
 
 [https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
 
-# A theoretical model of the relationship between the _h_-index and other simple citation indicators
-
-https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals
-
-
-
-
-
-# Data sets for author name disambiguation: an empirical analysis and a new resource
-
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
-
-# A theoretical model of the relationship between the _h_-index and other simple citation indicators
-
-https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals
-
-
-
-
-
-# Text Mining PubMed
-
-# Text Mining PubMed
-
-# Data sets for author name disambiguation: an empirical analysis and a new resource
-
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
-
-# A theoretical model of the relationship between the _h_-index and other simple citation indicators
+## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
 [https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
 
-# Data sets for author name disambiguation: an empirical analysis and a new resource
+## Data sets for author name disambiguation: an empirical analysis and a new resource
 
 [https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
 
-# A theoretical model of the relationship between the _h_-index and other simple citation indicators
-
-https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals
-
-
-
-
-
-# Text Mining PubMed
-
-# Data sets for author name disambiguation: an empirical analysis and a new resource
-
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
-
-# A theoretical model of the relationship between the _h_-index and other simple citation indicators
+## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
 [https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
 
-# Text Mining R
+## Text Mining PubMed
+
+## Text Mining PubMed
+
+## Data sets for author name disambiguation: an empirical analysis and a new resource
+
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+
+## A theoretical model of the relationship between the _h_-index and other simple citation indicators
+
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+
+## Data sets for author name disambiguation: an empirical analysis and a new resource
+
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+
+## A theoretical model of the relationship between the _h_-index and other simple citation indicators
+
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+
+## Text Mining PubMed
+
+## Data sets for author name disambiguation: an empirical analysis and a new resource
+
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+
+## A theoretical model of the relationship between the _h_-index and other simple citation indicators
+
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+
+## Text Mining R
 
 * Analyzing Google Trends Data in R
 
@@ -216,23 +192,23 @@ https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjou
 
 * Analyzing Google Trends Data in R
 
-https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R Programming&utm\_campaign=google trends
-
-* Analyzing Google Trends Data in R
-
-https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R Programming&utm\_campaign=google trends
-
-* Analyzing Google Trends Data in R
-
-https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R Programming&utm\_campaign=google trends
-
-# Text Mining R
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
 [https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
 
-# Text Mining Related Web Sites
+* Analyzing Google Trends Data in R
+
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+
+## Text Mining R
+
+* Analyzing Google Trends Data in R
+
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+
+## Text Mining Related Web Sites
 
 * **import.io**
 
@@ -276,7 +252,7 @@ https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Faceboo
 
 * **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
 
-https://regexr.com/
+[https://regexr.com/](https://regexr.com/)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -285,60 +261,6 @@ https://regexr.com/
 * **Industrial-Strength Natural Language Processing**
 
 [https://spacy.io/](https://spacy.io/)
-
-* **import.io**
-
-[https://www.import.io](https://www.import.io)
-
-* **parsehub**
-
-[https://www.parsehub.com/](https://www.parsehub.com/)
-
-* **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
-
-[https://twitter.com/regex101](https://twitter.com/regex101)
-
-[https://regex101.com/](https://regex101.com/)
-
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
-
-https://regexr.com/
-
-* **Downloadable statistical models for spaCy to predict and assign linguistic features**
-
-[https://spacy.io/models/](https://spacy.io/models/)
-
-* **Industrial-Strength Natural Language Processing**
-
-[https://spacy.io/](https://spacy.io/)
-
-* **import.io**
-
-[https://www.import.io](https://www.import.io)
-
-* **parsehub**
-
-[https://www.parsehub.com/](https://www.parsehub.com/)
-
-* **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
-
-[https://twitter.com/regex101](https://twitter.com/regex101)
-
-[https://regex101.com/](https://regex101.com/)
-
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
-
-https://regexr.com/
-
-* **Downloadable statistical models for spaCy to predict and assign linguistic features**
-
-[https://spacy.io/models/](https://spacy.io/models/)
-
-* **Industrial-Strength Natural Language Processing**
-
-[https://spacy.io/](https://spacy.io/)
-
-# Text Mining Related Web Sites
 
 * **import.io**
 
@@ -366,7 +288,61 @@ https://regexr.com/
 
 [https://spacy.io/](https://spacy.io/)
 
-# Text Mining Turkish
+* **import.io**
+
+[https://www.import.io](https://www.import.io)
+
+* **parsehub**
+
+[https://www.parsehub.com/](https://www.parsehub.com/)
+
+* **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
+
+[https://twitter.com/regex101](https://twitter.com/regex101)
+
+[https://regex101.com/](https://regex101.com/)
+
+* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+
+[https://regexr.com/](https://regexr.com/)
+
+* **Downloadable statistical models for spaCy to predict and assign linguistic features**
+
+[https://spacy.io/models/](https://spacy.io/models/)
+
+* **Industrial-Strength Natural Language Processing**
+
+[https://spacy.io/](https://spacy.io/)
+
+## Text Mining Related Web Sites
+
+* **import.io**
+
+[https://www.import.io](https://www.import.io)
+
+* **parsehub**
+
+[https://www.parsehub.com/](https://www.parsehub.com/)
+
+* **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
+
+[https://twitter.com/regex101](https://twitter.com/regex101)
+
+[https://regex101.com/](https://regex101.com/)
+
+* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+
+[https://regexr.com/](https://regexr.com/)
+
+* **Downloadable statistical models for spaCy to predict and assign linguistic features**
+
+[https://spacy.io/models/](https://spacy.io/models/)
+
+* **Industrial-Strength Natural Language Processing**
+
+[https://spacy.io/](https://spacy.io/)
+
+## Text Mining Turkish
 
 * The Lucene _stopwords.txt_ source code
 
@@ -388,35 +364,9 @@ https://regexr.com/
 
 [https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
 
-# [**trstop**](https://github.com/ahmetax/trstop)
+## [**trstop**](https://github.com/ahmetax/trstop)
 
-# [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
-
-* The Lucene _stopwords.txt_ source code
-
-[https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
-
-* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
-
-[http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
-
-* [**TextRank**](https://github.com/crodas/TextRank)
-
-[https://github.com/crodas/TextRank/blob/master/lib/TextRank/Stopword/turkish-stopwords.txt](https://github.com/crodas/TextRank/blob/master/lib/TextRank/Stopword/turkish-stopwords.txt)
-
-* [**stopwords-tr**](https://github.com/stopwords-iso/stopwords-tr)
-
-[https://github.com/stopwords-iso/stopwords-tr](https://github.com/stopwords-iso/stopwords-tr)
-
-* [**Turkish-Stopwords**](https://github.com/tkorkunckaya/Turkish-Stopwords)
-
-[https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
-
-# [**trstop**](https://github.com/ahmetax/trstop)
-
-# https://github.com/ahmetax/trstop
-
-
+## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
 
 * The Lucene _stopwords.txt_ source code
 
@@ -438,11 +388,9 @@ https://regexr.com/
 
 [https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
 
-# [**trstop**](https://github.com/ahmetax/trstop)
+## [**trstop**](https://github.com/ahmetax/trstop)
 
-# https://github.com/ahmetax/trstop
-
-
+## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
 
 * The Lucene _stopwords.txt_ source code
 
@@ -464,13 +412,9 @@ https://regexr.com/
 
 [https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
 
-# [**trstop**](https://github.com/ahmetax/trstop)
+## [**trstop**](https://github.com/ahmetax/trstop)
 
-# https://github.com/ahmetax/trstop
-
-
-
-# Text Mining Turkish
+## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
 
 * The Lucene _stopwords.txt_ source code
 
@@ -492,11 +436,37 @@ https://regexr.com/
 
 [https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
 
-# [**trstop**](https://github.com/ahmetax/trstop)
+## [**trstop**](https://github.com/ahmetax/trstop)
 
-# [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
+## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
 
-# Text Mining Twitter
+## Text Mining Turkish
+
+* The Lucene _stopwords.txt_ source code
+
+[https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
+
+* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+
+[http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+
+* [**TextRank**](https://github.com/crodas/TextRank)
+
+[https://github.com/crodas/TextRank/blob/master/lib/TextRank/Stopword/turkish-stopwords.txt](https://github.com/crodas/TextRank/blob/master/lib/TextRank/Stopword/turkish-stopwords.txt)
+
+* [**stopwords-tr**](https://github.com/stopwords-iso/stopwords-tr)
+
+[https://github.com/stopwords-iso/stopwords-tr](https://github.com/stopwords-iso/stopwords-tr)
+
+* [**Turkish-Stopwords**](https://github.com/tkorkunckaya/Turkish-Stopwords)
+
+[https://github.com/tkorkunckaya/Turkish-Stopwords](https://github.com/tkorkunckaya/Turkish-Stopwords)
+
+## [**trstop**](https://github.com/ahmetax/trstop)
+
+## [https://github.com/ahmetax/trstop](https://github.com/ahmetax/trstop)
+
+## Text Mining Twitter
 
 * Quick guide to mining twitter with R
 
@@ -554,7 +524,7 @@ https://regexr.com/
 
 [https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
 
-# Text Mining Twitter
+## Text Mining Twitter
 
 * Quick guide to mining twitter with R
 
@@ -570,7 +540,7 @@ https://regexr.com/
 
 [https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
 
-# Text Mining Videos
+## Text Mining Videos
 
 * Text Mining \(part 1\) - Import Text into R \(single document\)
 
@@ -616,8 +586,7 @@ if you get error try this:
 
 --
 
-* 
-* Text Mining \(part 1\) - Import Text into R \(single document\)
+* * Text Mining \(part 1\) - Import Text into R \(single document\)
 
 [https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
 
@@ -643,12 +612,11 @@ if you get error try this:
 
 * Text Mining \(part 6\) - Cleaning Corpus text in R
 
-https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24
+[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
 
 --
 
-* 
-* N-gram word clouds in R ! Learn it in 5 minutes !
+* * N-gram word clouds in R ! Learn it in 5 minutes !
 
 [https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
 
@@ -662,10 +630,7 @@ if you get error try this:
 
 --
 
-* 
-
-
-* Text Mining \(part 1\) - Import Text into R \(single document\)
+* * Text Mining \(part 1\) - Import Text into R \(single document\)
 
 [https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
 
@@ -691,12 +656,11 @@ if you get error try this:
 
 * Text Mining \(part 6\) - Cleaning Corpus text in R
 
-https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24
+[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
 
 --
 
-* 
-* N-gram word clouds in R ! Learn it in 5 minutes !
+* * N-gram word clouds in R ! Learn it in 5 minutes !
 
 [https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
 
@@ -710,10 +674,7 @@ if you get error try this:
 
 --
 
-* 
-
-
-* Text Mining \(part 1\) - Import Text into R \(single document\)
+* * Text Mining \(part 1\) - Import Text into R \(single document\)
 
 [https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
 
@@ -739,12 +700,11 @@ if you get error try this:
 
 * Text Mining \(part 6\) - Cleaning Corpus text in R
 
-https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24
+[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
 
 --
 
-* 
-* N-gram word clouds in R ! Learn it in 5 minutes !
+* * N-gram word clouds in R ! Learn it in 5 minutes !
 
 [https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
 
@@ -759,9 +719,7 @@ if you get error try this:
 --
 
 * 
-
-
-# Text Mining Videos
+## Text Mining Videos
 
 * Text Mining \(part 1\) - Import Text into R \(single document\)
 
@@ -807,6 +765,5 @@ if you get error try this:
 
 --
 
-* 
-* Text Mining General
+* * Text Mining General
 
