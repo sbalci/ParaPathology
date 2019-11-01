@@ -4,8 +4,8 @@ author: "[Serdar Balcı, MD, Pathologist](https://sbalci.github.io/)"
 institute: "[serdarbalci.com](https://www.serdarbalci.com) [patolojinotlari.com](https://www.patolojinotlari.com)"
 date: "`r format(Sys.Date())`"
 output:
-  md_document:
   revealjs::revealjs_presentation:
+    keep_md: true
     incremental: true
     theme: sky
     highlight: pygments
@@ -68,7 +68,7 @@ knitr::opts_chunk$set(fig.width = 12, fig.height = 8, fig.path = 'Figs/', echo =
 
 
 
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+```{r xaringan, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # xaringan::inf_mr()
 # servr::daemon_stop(1)
 ```
