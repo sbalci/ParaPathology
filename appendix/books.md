@@ -55,3 +55,29 @@
 
 [https://www.amazon.com/dp/1979731772/ref=cm\_sw\_r\_cp\_api\_Tn-sAbM17Q6KS](https://www.amazon.com/dp/1979731772/ref=cm_sw_r_cp_api_Tn-sAbM17Q6KS)
 
+
+
+
+
+
+* Books
+
+[http://genomicsclass.github.io/book/](http://genomicsclass.github.io/book/)
+
+[http://r4ds.had.co.nz/](http://r4ds.had.co.nz/)
+
+[http://bioinformaticsalgorithms.com/](http://bioinformaticsalgorithms.com/)
+
+* [https://tinyletter.com/data-is-plural/archive](https://tinyletter.com/data-is-plural/archive)
+
+[https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV](https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV)
+
+[http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html](http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html)
+
+[https://github.com/rOpenHealth/rpubmed](https://github.com/rOpenHealth/rpubmed)
+
+[https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
+
+
+
+

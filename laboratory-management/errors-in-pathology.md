@@ -30,3 +30,12 @@ https://www.ncbi.nlm.nih.gov/pubmed/31351825
 Semin Diagn Pathol doi: 10.1053/j.semdp.2019.06.006
 
 PubMed - NCBI https://www.ncbi.nlm.nih.gov/pubmed/31351825
+
+
+
+- Strengthening the Medical Error "Meme Pool"
+
+https://link.springer.com/epdf/10.1007/s11606-019-05156-7?author_access_token=JDSjULvfAts70zUo03n8Mfe4RwlQNchNByi7wbcMAY5MxRyVLtxqzixLCnZR4KqJh-cJBgEHgUANnlXqkpQh0gcQy2Jy1zowkfbFnimslgcxd7m570hwLSSC2as_QSHH1bIZ1B6MzQJSO0gGDs6ukA%3D%3D
+
+
+
