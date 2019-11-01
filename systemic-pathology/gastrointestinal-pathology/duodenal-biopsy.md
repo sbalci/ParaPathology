@@ -1,6 +1,5 @@
 # Duodenal Biopsy
 
-
 * Thunderstorm-triggered asthma attacks put under the microscope in Australia
 
 [https://www.youtube.com/watch?v=8U5qL4-Kf7w](https://www.youtube.com/watch?v=8U5qL4-Kf7w)
@@ -23,9 +22,9 @@
 
 Differential Diagnosis of the Flat Duodenal Biopsy
 
-![](/assets/Ekran Resmi 2017-11-29 00.14.42.png)
+![](../../.gitbook/assets/ekran-resmi-2017-11-29-00.14.42.png)
 
-* # A gut bacterial pathway metabolizes aromatic amino acids into nine circulating metabolites.
+* **A gut bacterial pathway metabolizes aromatic amino acids into nine circulating metabolites.**
 
 [https://www.ncbi.nlm.nih.gov/pubmed/29168502/](https://www.ncbi.nlm.nih.gov/pubmed/29168502/)
 
@@ -35,12 +34,13 @@ Differential Diagnosis of the Flat Duodenal Biopsy
 
 Differential Diagnosis of the Flat Duodenal Biopsy
 
-![](/assets/Ekran Resmi 2017-11-29 00.14.42.png)
+![](../../.gitbook/assets/ekran-resmi-2017-11-29-00.14.42%20%282%29.png)
 
-* # A gut bacterial pathway metabolizes aromatic amino acids into nine circulating metabolites.
+* **A gut bacterial pathway metabolizes aromatic amino acids into nine circulating metabolites.**
 
 [https://www.ncbi.nlm.nih.gov/pubmed/29168502/](https://www.ncbi.nlm.nih.gov/pubmed/29168502/)
 
+<<<<<<< HEAD
 
 
 # GIPath Tweets
@@ -66,3 +66,5 @@ Differential Diagnosis of the Flat Duodenal Biopsy
 
 
 
+=======
+>>>>>>> 8d5983ae6cbec804f306dabc6af12d91c85cbde1
