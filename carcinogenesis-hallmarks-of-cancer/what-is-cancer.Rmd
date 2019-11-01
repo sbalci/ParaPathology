@@ -4,6 +4,7 @@ author: "[Serdar Balcı, MD, Pathologist](https://sbalci.github.io/)"
 institute: "[serdarbalci.com](https://www.serdarbalci.com) [patolojinotlari.com](https://www.patolojinotlari.com)"
 date: "`r format(Sys.Date())`"
 output:
+  md_document:
   revealjs::revealjs_presentation:
     incremental: true
     theme: sky
@@ -74,10 +75,9 @@ knitr::opts_chunk$set(fig.width = 12, fig.height = 8, fig.path = 'Figs/', echo =
 
 
 
-# Tekrarlanabilir Analiz ve Rapor
+# What is Cancer?
 
 
-[![](https://the-turing-way.netlify.com/figures/reproducibility/ReproducibleMatrix.jpg)](https://the-turing-way.netlify.com/reproducibility/03/definitions.html)
 
 
 
@@ -990,75 +990,3 @@ https://github.com/sbalci
 https://twitter.com/serdarbalci
 
 
----
-
-   
-
-
-
----
-
-
-# Other Links
-
-
-https://andrewbtran.github.io/NICAR/2018/workflow/docs/02-rmarkdown.html
-
-- Troubleshooting in R Markdown
-
-https://smithcollege-sds.github.io/sds-public/rmarkdown_problems.html
-
-
-http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
-
-https://kbroman.org/knitr_knutshell/pages/overview.html
-
-https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
-
-https://kbroman.org/knitr_knutshell/pages/markdown.html
-
-
-https://onp4.com/
-
-
-
-```
-csv {headers: true, title: "**Drawing Tables In Markdown**"}
-Name, Surname, Known As, Age
-Marcelo, David, coldzera, 22
-Oleksandr, Kostyliev, s1mple, 19
-Nikola, Kovač, NiKo, 20
-Richard, Papillon, shox, 25
-Nicolai, Reedtz, dev1ce, 21
-```
-
-```
-{pgn}
-[Event "Bled-Zagreb-Belgrade Candidates"]
-[Site "Bled, Zagreb & Belgrade YUG"]
-[Date "1959.10.11"]
-[Round "20"]
-[Result "1-0"]
-[White "Mikhail Tal"]
-[Black "Robert James Fischer"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5.
-Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5 h6 9.
-Bh4 a6 10. O-O Qe8 11. Nd2 Nh7 12. b4 Bf6
-13. Bxf6 Nhxf6 14. Nb3 Qe7 15. Qd2 Kh7 16.
-Qe3 Ng8 17. c5 f5 18. exf5 gxf5 19. f4 exf4
-20. Qxf4 dxc5 21. Bd3 cxb4 22. Rae1 Qf6 23.
-Re6 Qxc3 24. Bxf5+ Rxf5 25. Qxf5+ Kh8 26.
-Rf3 Qb2 27. Re8 Nf6 28. Qxf6+ Qxf6 29. Rxf6
-Kg7 30. Rff8 Ne7 31. Na5 h5 32. h4 Rb8 33.
-Nc4 b5 34. Ne5 1-0
-```
-
-
-- Keeping Credentials Secret with Keyrings in R
-
-https://ras44.github.io/blog/2019/01/19/keeping-credentials-secret-with-keyrings-in-r.html
-
-- How to build a website with Blogdown in R
-
-http://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/
