@@ -1,24 +1,18 @@
 # Articles on computational, digital, and mathematical pathology
 
-## Articles on computational, digital, and mathematical pathology
+#### The benefits of building and working with interactive simulations Interactive simulations for better model intuition
 
-### Articles on computational, digital, and mathematical pathology
+{% embed url="http://blog.mathematical-oncology.org/benefits-of-building-interactive-simulations.html" %}
 
-### Articles on computational, digital, and mathematical pathology
+[**Paradoxical Dependencies of Tumor Dormancy and Progression on Basic Cell Kinetics**. Heiko Enderling, Alexander R.A. Anderson, Mark A.J. Chaplain, Afshin Beheshti, Lynn Hlatky and Philip Hahnfeldt. Cancer Res November 15 2009 \(69\) \(22\) 8814-8821; DOI: 10.1158/0008-5472.CAN-09-2115](https://cancerres.aacrjournals.org/content/69/22/8814.long)
 
-* Survival Prediction in Pancreatic Ductal Adenocarcinoma by Quantitative Computed Tomography Image Analysis
+### 
 
-[https://link.springer.com/article/10.1245/s10434-017-6323-3](https://link.springer.com/article/10.1245/s10434-017-6323-3)
+#### Survival Prediction in Pancreatic Ductal Adenocarcinoma by Quantitative Computed Tomography Image Analysis
 
-* Survival Prediction in Pancreatic Ductal Adenocarcinoma by Quantitative Computed Tomography Image Analysis
+{% embed url="https://link.springer.com/article/10.1245/s10434-017-6323-3" %}
 
-[https://link.springer.com/article/10.1245/s10434-017-6323-3](https://link.springer.com/article/10.1245/s10434-017-6323-3)
 
-### Articles on computational, digital, and mathematical pathology
-
-* Survival Prediction in Pancreatic Ductal Adenocarcinoma by Quantitative Computed Tomography Image Analysis
-
-[https://link.springer.com/article/10.1245/s10434-017-6323-3](https://link.springer.com/article/10.1245/s10434-017-6323-3)
 
 * [CompPath Lecture Series 2016-2017 Semester](https://www.youtube.com/playlist?list=PLwdWByS9hJ3IpNyN1Ge4dbfSV43296jLn)
 
