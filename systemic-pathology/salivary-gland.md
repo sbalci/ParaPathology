@@ -1,10 +1,8 @@
 # Salivary Gland
 
-* The Milan System for Reporting Salivary Gland
+#### [The Milan System for Reporting Salivary Gland](http://milansystem.org/)
 
-[http://milansystem.org/](http://milansystem.org/)
+{% embed url="http://milansystem.org/" %}
 
-* The Milan System for Reporting Salivary Gland
 
-[http://milansystem.org/](http://milansystem.org/)
 

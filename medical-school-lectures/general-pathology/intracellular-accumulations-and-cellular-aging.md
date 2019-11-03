@@ -1,9 +1,5 @@
 # Intracellular Accumulations and Cellular Aging
 
-## Intracellular Accumulations and Cellular Aging
-
-Name of the Lecture:Intracellular Accumulations and Cellular Aging
-
 Required Prior Knowledge:
 
 Basic knowledge of intracellular transport
@@ -48,9 +44,7 @@ References:
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 
-## Hücre içi birikimler ve Hücre Yaşlanması
-
-Son güncelleme:01.05.2015
+#### Hücre içi birikimler ve Hücre Yaşlanması
 
 Ders adı:Hücre içi birikimler ve Hücre yaşlanması
 
@@ -145,10 +139,6 @@ Kaynaklar:
 
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
-Son güncelleme:01.05.2015
-
-Ders adı:Hücre içi birikimler ve Hücre yaşlanması
 
 Ders öncesi bilinmesi beklenenler:
 

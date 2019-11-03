@@ -1,11 +1,5 @@
 # Cellular Pathology
 
-## Cellular Pathology
-
-## Cellular Pathology
-
-Name of the Lecture:Cellular Pathology
-
 Required Prior Knowledge:
 
 Aim of the Lecture:
