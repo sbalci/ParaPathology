@@ -1,0 +1,21 @@
+---
+title: "ParaPathology"
+output:
+  html_document:
+    df_print: paged
+---
+
+# (Para)Pathology
+
+See gitbook here -> [https://serdarbalci.gitbook.io/parapathology/](https://serdarbalci.gitbook.io/parapathology/)
+
+
+
+# Presentations - Sunumlar
+
+
+
+
+
+
+
