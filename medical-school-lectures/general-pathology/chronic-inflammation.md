@@ -1,7 +1,5 @@
 # Chronic Inflammation
 
-Name of the Lecture:Chronic Inflammation
-
 Required Prior Knowledge:
 
 Pathology of acute inflammation

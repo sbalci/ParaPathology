@@ -1,40 +1,20 @@
 # Malignant Colorectal Polyps
 
-## Malignant Colorectal Polyps
+#### [Malignant colorectal polyps](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/)
 
-## Malignant colorectal polyps
+{% embed url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/" %}
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/)
 
-## Management of malignant colon polyps: Current status and controversies
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/)
+#### [Management of malignant colon polyps: Current status and controversies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/)
 
-## Haggitt classification <a id="firstHeading"></a>
+{% embed url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/" %}
 
-[http://www.ganfyd.org/index.php?title=Haggitt\_classification](http://www.ganfyd.org/index.php?title=Haggitt_classification)
 
-## Malignant colorectal polyps
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/)
+## [Haggitt classification](http://www.ganfyd.org/index.php?title=Haggitt_classification) <a id="firstHeading"></a>
 
-## Management of malignant colon polyps: Current status and controversies
+{% embed url="http://www.ganfyd.org/index.php?title=Haggitt\_classification" %}
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/)
 
-## Haggitt classification <a id="firstHeading"></a>
-
-[http://www.ganfyd.org/index.php?title=Haggitt\_classification](http://www.ganfyd.org/index.php?title=Haggitt_classification)
-
-## Malignant colorectal polyps
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896747/)
-
-## Management of malignant colon polyps: Current status and controversies
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239505/)
-
-## Haggitt classification <a id="firstHeading"></a>
-
-[http://www.ganfyd.org/index.php?title=Haggitt\_classification](http://www.ganfyd.org/index.php?title=Haggitt_classification)
 

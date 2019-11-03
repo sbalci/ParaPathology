@@ -1,10 +1,58 @@
+---
+description: 'Appendix : Suggested Web Pages'
+---
+
 # Web Pages
 
-## Web Pages
+{% embed url="http://www.uscap.org/" %}
 
-### Web Pages
 
-### Appendix : Suggested Web Pages
+
+{% embed url="http://www.pathologyportal.org/elibraryf.asp" %}
+
+
+
+{% embed url="http://uscapknowledgehub.org/index.htm?hub.htm" %}
+
+
+
+{% embed url="http://uscapknowledgehub.org/newindex.htm?educmaster.htm" %}
+
+
+
+{% embed url="http://uscapknowledgehub.org/newindex.htm?vsbindex.htm" %}
+
+
+
+{% embed url="http://www.rosaicollection.org/" %}
+
+
+
+{% embed url="https://www.pathlms.com/uscap/courses/" %}
+
+
+
+#### Social Media
+
+{% embed url="https://twitter.com/hashtag/insitupathologists" %}
+
+
+
+{% embed url="https://thepathologist.com/" %}
+
+
+
+{% embed url="https://www.derm101.com/" %}
+
+
+
+[http://www.ihcworld.com/index.htm](http://www.ihcworld.com/index.htm)
+
+[http://library.med.utah.edu/WebPath/](http://library.med.utah.edu/WebPath/)
+
+[http://www.essentialpathology.info/](http://www.essentialpathology.info/)
+
+[https://figshare.com/](https://figshare.com/)
 
 [http://www.uscap.org/](http://www.uscap.org/)
 
@@ -20,55 +68,9 @@
 
 [https://www.pathlms.com/uscap/courses/](https://www.pathlms.com/uscap/courses/)
 
-* Social Media
 
-[https://twitter.com/hashtag/insitupathologists](https://twitter.com/hashtag/insitupathologists)
 
-[https://thepathologist.com/](https://thepathologist.com/)
-
-[https://www.derm101.com/](https://www.derm101.com/)
-
-[http://www.ihcworld.com/index.htm](http://www.ihcworld.com/index.htm)
-
-[http://library.med.utah.edu/WebPath/](http://library.med.utah.edu/WebPath/)
-
-[http://www.essentialpathology.info/](http://www.essentialpathology.info/)
-
-[https://figshare.com/](https://figshare.com/)
-
-[http://www.uscap.org/](http://www.uscap.org/)
-
-[http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
-
-[http://uscapknowledgehub.org/index.htm?hub.htm](http://uscapknowledgehub.org/index.htm?hub.htm)
-
-[http://uscapknowledgehub.org/newindex.htm?educmaster.htm](http://uscapknowledgehub.org/newindex.htm?educmaster.htm)
-
-[http://uscapknowledgehub.org/newindex.htm?vsbindex.htm](http://uscapknowledgehub.org/newindex.htm?vsbindex.htm)
-
-[http://www.rosaicollection.org/](http://www.rosaicollection.org/)
-
-[https://www.pathlms.com/uscap/courses/](https://www.pathlms.com/uscap/courses/)
-
-* Social Media
-
-[https://twitter.com/hashtag/insitupathologists](https://twitter.com/hashtag/insitupathologists)
-
-[https://thepathologist.com/](https://thepathologist.com/)
-
-[https://www.derm101.com/](https://www.derm101.com/)
-
-[http://www.ihcworld.com/index.htm](http://www.ihcworld.com/index.htm)
-
-[http://library.med.utah.edu/WebPath/](http://library.med.utah.edu/WebPath/)
-
-[http://www.essentialpathology.info/](http://www.essentialpathology.info/)
-
-[https://figshare.com/](https://figshare.com/)
-
-## Websites
-
-* Work On
+#### Work On
 
 [https://publons.com/community/academy/](https://publons.com/community/academy/)
 
@@ -82,13 +84,13 @@
 
 [http://www.serdarbalci.com/](http://www.serdarbalci.com/)
 
-* Blogs
+#### Blogs
 
 [https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
 
 [https://drserdarbalci.blogspot.com.tr/](https://drserdarbalci.blogspot.com.tr/)
 
-* Articles
+#### Articles
 
 [https://www.ncbi.nlm.nih.gov/labs/journals/](https://www.ncbi.nlm.nih.gov/labs/journals/)
 
@@ -102,13 +104,13 @@
 
 [http://academic.microsoft.com/](http://academic.microsoft.com/)
 
-* Videos
+#### Videos
 
 [https://www.youtube.com/](https://www.youtube.com/)
 
 [http://ihavenotv.com/series/planet-earth-ii](http://ihavenotv.com/series/planet-earth-ii)
 
-* Courses
+#### Courses
 
 [http://www.ascp.org/](http://www.ascp.org/)
 
@@ -128,7 +130,7 @@
 
 [https://www.udacity.com](https://www.udacity.com)
 
-* Pathology
+#### Pathology
 
 USCAP Archived Online Courses [https://www.pathologyportal.org/elibraryf.asp](https://www.pathologyportal.org/elibraryf.asp)
 
