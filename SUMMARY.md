@@ -364,4 +364,5 @@
 * [Books](appendix/books.md)
 * [Web Pages](appendix/web-pages.md)
 * [Videos](appendix/videos.md)
+* [GitHub Repositories](appendix/github-repositories.md)
 
