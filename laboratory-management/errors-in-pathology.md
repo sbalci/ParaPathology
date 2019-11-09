@@ -37,6 +37,13 @@ Semin Diagn Pathol doi: 10.1053/j.semdp.2019.06.006
 {% embed url="https://link.springer.com/epdf/10.1007/s11606-019-05156-7?author\_access\_token=JDSjULvfAts70zUo03n8Mfe4RwlQNchNByi7wbcMAY5MxRyVLtxqzixLCnZR4KqJh-cJBgEHgUANnlXqkpQh0gcQy2Jy1zowkfbFnimslgcxd7m570hwLSSC2as\_QSHH1bIZ1B6MzQJSO0gGDs6ukA%3D%3D" %}
 
 
+### [Garbage In, Garbage Out The hidden reason laboratory test results may not be as reliable as they seem](https://thepathologist.com/diagnostics/garbage-in-garbage-out)
+
+
+https://thepathologist.com/diagnostics/garbage-in-garbage-out
+
+
+
 
 
 
