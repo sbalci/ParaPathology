@@ -1,10 +1,14 @@
 # Reproducibility
 
-## Reproducibility
 
 ## Reproducible Research
 
-* A push for reproducibility in biomedical research
+
+### [Better methods can’t make up for mediocre theory](https://www.nature.com/articles/d41586-019-03350-5)
+
+https://www.nature.com/articles/d41586-019-03350-5
+
+### A push for reproducibility in biomedical research
 
 [http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm\_source=feedburner&utm\_medium=twitter&utm\_campaign=Feed%3A+EmoryHealthNowBlog+\(Lab+Land\)](http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EmoryHealthNowBlog+%28Lab+Land%29)
 

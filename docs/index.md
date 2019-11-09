@@ -1,6 +1,20 @@
 ParaPathology
 ================
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # (Para)Pathology
@@ -42,6 +56,10 @@ Supp 2, 164A.
 
 <https://www.youtube.com/watch?v=1jyiiG7vLn8>
 
+<!-- https://holtzy.github.io/Pimp-my-rmd/#highlight_a_piece_of_text -->
+
+<!-- https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX -->
+
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
@@ -52,6 +70,15 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
   - This is my second conclusion
 
 </div>
+
+<div class="fancyTextColor">
+
+  - This is my first conclusion
+  - This is my second conclusion
+
+</div>
+
+fancyTextColor
 
 ## Anonim Geri Bildirim:
 

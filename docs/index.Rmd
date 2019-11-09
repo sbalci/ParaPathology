@@ -1,5 +1,6 @@
 ---
 title: "ParaPathology"
+header-includes:
 output:
   github_document:
   html_document:
@@ -62,21 +63,6 @@ Clinicopathologic Associations Of Mismatch Repair Protein Expressions In Ampulla
 Modern Pathology, 2014 Feb, 27 Supp 2, 164A.
 
 https://www.youtube.com/watch?v=1jyiiG7vLn8
-
-
-<!-- https://holtzy.github.io/Pimp-my-rmd/#highlight_a_piece_of_text -->
-<style>
-div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
-</style>
-<div class = "blue">
-
-- This is my first conclusion
-- This is my second conclusion
-
-</div>
-
-
-
 
 
 
