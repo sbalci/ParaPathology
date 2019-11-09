@@ -1,6 +1,5 @@
 # Data Visualization and R
 
-
 * Data Visualization and R, part 1, Outline
 
 [https://www.youtube.com/watch?v=P0xTaOb7OEQ](https://www.youtube.com/watch?v=P0xTaOb7OEQ)
@@ -97,44 +96,35 @@
 
 [https://www.youtube.com/watch?v=PY5plp3J8wA](https://www.youtube.com/watch?v=PY5plp3J8wA)
 
+### \[useR! 2019 Toulouse - Talk Visualisation - Achim Zeileis
 
+\]\([https://www.youtube.com/watch?v=6bv2IAcNE\_c](https://www.youtube.com/watch?v=6bv2IAcNE_c)\)
 
-### [useR! 2019 Toulouse - Talk Visualisation - Achim Zeileis
-](https://www.youtube.com/watch?v=6bv2IAcNE_c)
-
-https://www.youtube.com/watch?v=6bv2IAcNE_c
+[https://www.youtube.com/watch?v=6bv2IAcNE\_c](https://www.youtube.com/watch?v=6bv2IAcNE_c)
 
 #### [colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes](http://colorspace.r-forge.r-project.org)
 
-http://colorspace.r-forge.r-project.org
+[http://colorspace.r-forge.r-project.org](http://colorspace.r-forge.r-project.org)
 
 #### [HCL wizard](http://hclwizard.org)
 
-http://hclwizard.org
-
+[http://hclwizard.org](http://hclwizard.org)
 
 ### [RAWGraphs](https://github.com/rawgraphs/raw)
 
-
-https://github.com/rawgraphs/raw
-
+[https://github.com/rawgraphs/raw](https://github.com/rawgraphs/raw)
 
 ### [from Data to Viz](https://www.data-to-viz.com/)
 
-https://www.data-to-viz.com/
-
+[https://www.data-to-viz.com/](https://www.data-to-viz.com/)
 
 ![](https://www.data-to-viz.com/img/logo/tree-s.png)
 
-
 ### [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
-https://www.r-graph-gallery.com/
+[https://www.r-graph-gallery.com/](https://www.r-graph-gallery.com/)
 
+### [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/)
 
-###  [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/)
-
-
-https://www.d3-graph-gallery.com/
-
+[https://www.d3-graph-gallery.com/](https://www.d3-graph-gallery.com/)
 

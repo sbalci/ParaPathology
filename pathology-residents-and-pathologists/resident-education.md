@@ -88,7 +88,7 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 
 ![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%281%29.jpg)
 
-
 ### Interesting Gross Case Workshop to Remedy Disconnect in Surgical Pathology Curriculum
 
-[MedEdPORTAL. 2018 Jun 15;14:10724. doi: 10.15766/mep_2374-8265.10724. PMID: 30800924](https://www.ncbi.nlm.nih.gov/pubmed/30800924)
+[MedEdPORTAL. 2018 Jun 15;14:10724. doi: 10.15766/mep\_2374-8265.10724. PMID: 30800924](https://www.ncbi.nlm.nih.gov/pubmed/30800924)
+

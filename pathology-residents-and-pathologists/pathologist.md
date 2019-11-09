@@ -1,6 +1,6 @@
 # Pathologist
 
-### Attributes of a Pathologist
+#### Attributes of a Pathologist
 
 What makes a good pathologist? First of all, I think you have to be good at pattern recognition... You have to be thorough in your thinking, "Well, if I haven't seen this before, what must I do to try and make the diagnosis? Must I do some more special stains? Must I show it to somebody else? Must I read up in the books about it?" And you have to be quite determined to find out. **Paola Domizio** \(UK\)
 
@@ -8,11 +8,15 @@ What makes a good pathologist? First of all, I think you have to be good at patt
 
 
 
-* Choosing a Pathology Subspecialty: Have You Considered Patient Contact?
+#### Choosing a Pathology Subspecialty: Have You Considered Patient Contact?
 
 {% embed url="http://www.pathspective.com/pathology-subspecialty-patient-contact/" %}
 
 
+
+#### 
+
+#### Collections
 
 * This is what we should be doing. Collect, Catalog, Classify and Share. [\#**pathologists**](https://twitter.com/hashtag/pathologists?src=hash) are ambitious collectors who make catalogs of diseases. Collections should be mandatory for residents and educational departments.
 
@@ -24,7 +28,7 @@ What makes a good pathologist? First of all, I think you have to be good at patt
 
 
 
-* Lauren V. Ackerman: a wit, a rogue, a giant: selected anecdotes
+#### Lauren V. Ackerman: a wit, a rogue, a giant: selected anecdotes
 
 I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=hash) to keep a copy of this [\#**article**](https://twitter.com/hashtag/article?src=hash) by Prof [@**juan\_rosai**](https://twitter.com/juan_rosai) on your drawer and read it once in a while
 
@@ -32,61 +36,17 @@ I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=ha
 
 
 
-* Attributes of a Pathologist
-
-What makes a good pathologist? First of all, I think you have to be good at pattern recognition... You have to be thorough in your thinking, "Well, if I haven't seen this before, what must I do to try and make the diagnosis? Must I do some more special stains? Must I show it to somebody else? Must I read up in the books about it?" And you have to be quite determined to find out. **Paola Domizio** \(UK\)
-
-[https://www.pathsoc.org/conversations/index.php?option=com\_content&view=category&layout=blog&id=35&Itemid=78](https://www.pathsoc.org/conversations/index.php?option=com_content&view=category&layout=blog&id=35&Itemid=78)
-
-* Choosing a Pathology Subspecialty: Have You Considered Patient Contact?
-
-[http://www.pathspective.com/pathology-subspecialty-patient-contact/](http://www.pathspective.com/pathology-subspecialty-patient-contact/)
-
-* This is what we should be doing. Collect, Catalog, Classify and Share. [\#**pathologists**](https://twitter.com/hashtag/pathologists?src=hash) are ambitious collectors who make catalogs of diseases. Collections should be mandatory for residents and educational departments.
-
-[https://twitter.com/serdarbalci/status/948532412606230528](https://twitter.com/serdarbalci/status/948532412606230528)
-
-[https://twitter.com/smlungpathguy/status/948178150969761792](https://twitter.com/smlungpathguy/status/948178150969761792)
-
-* Lauren V. Ackerman: a wit, a rogue, a giant: selected anecdotes
-
-I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=hash) to keep a copy of this [\#**article**](https://twitter.com/hashtag/article?src=hash) by Prof [@**juan\_rosai**](https://twitter.com/juan_rosai) on your drawer and read it once in a while
-
-[https://www.sciencedirect.com/science/article/pii/S0740257008000531](https://www.sciencedirect.com/science/article/pii/S0740257008000531)
-
-### description: Who is a pathologist?
 
 
+#### Also known as
 
-## Pathologist
-
-* Attributes of a Pathologist
-
-What makes a good pathologist? First of all, I think you have to be good at pattern recognition... You have to be thorough in your thinking, "Well, if I haven't seen this before, what must I do to try and make the diagnosis? Must I do some more special stains? Must I show it to somebody else? Must I read up in the books about it?" And you have to be quite determined to find out. **Paola Domizio** \(UK\)
-
-[https://www.pathsoc.org/conversations/index.php?option=com\_content&view=category&layout=blog&id=35&Itemid=78](https://www.pathsoc.org/conversations/index.php?option=com_content&view=category&layout=blog&id=35&Itemid=78)
-
-* Choosing a Pathology Subspecialty: Have You Considered Patient Contact?
-
-[http://www.pathspective.com/pathology-subspecialty-patient-contact/](http://www.pathspective.com/pathology-subspecialty-patient-contact/)
-
-* This is what we should be doing. Collect, Catalog, Classify and Share. [\#**pathologists**](https://twitter.com/hashtag/pathologists?src=hash) are ambitious collectors who make catalogs of diseases. Collections should be mandatory for residents and educational departments.
-
-[https://twitter.com/serdarbalci/status/948532412606230528](https://twitter.com/serdarbalci/status/948532412606230528)
-
-[https://twitter.com/smlungpathguy/status/948178150969761792](https://twitter.com/smlungpathguy/status/948178150969761792)
-
-* Lauren V. Ackerman: a wit, a rogue, a giant: selected anecdotes
-
-I suggest the [\#**pathologist**](https://twitter.com/hashtag/pathologist?src=hash) to keep a copy of this [\#**article**](https://twitter.com/hashtag/article?src=hash) by Prof [@**juan\_rosai**](https://twitter.com/juan_rosai) on your drawer and read it once in a while
-
-[https://www.sciencedirect.com/science/article/pii/S0740257008000531](https://www.sciencedirect.com/science/article/pii/S0740257008000531)
+Someone who does precision guesswork based on unreliable data provided by those of questionable knowledge
 
 {% embed url="https://twitter.com/roland\_jong/status/1115639058179526656" caption="" %}
 
-Last updated:01.05.2015
+#### 
 
-Name of the Lecture:Pathology Laboratory, How it works?
+#### Name of the Lecture:Pathology Laboratory, How it works?
 
 Required Prior Knowledge:Histology techniques that were described in histology laboratory lectures
 
@@ -206,43 +166,43 @@ References:
 
 ## Pathologist
 
-* Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
+#### Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
 
 {% embed url="https://thepathologist.com/issues/0717/educating-the-digital-generation/" %}
 
 
 
-* Pathocholesteatoma \(Pathoma parody\): Yale Med 2017 Second Year Show
+#### Pathocholesteatoma \(Pathoma parody\): Yale Med 2017 Second Year Show
 
 {% embed url="https://www.youtube.com/watch?v=qyQPxaqfcZI" %}
 
 
 
-* Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
+#### Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
 
 [https://thepathologist.com/issues/0717/educating-the-digital-generation/](https://thepathologist.com/issues/0717/educating-the-digital-generation/)
 
-* Pathocholesteatoma \(Pathoma parody\): Yale Med 2017 Second Year Show
+#### Pathocholesteatoma \(Pathoma parody\): Yale Med 2017 Second Year Show
 
 [https://www.youtube.com/watch?v=qyQPxaqfcZI](https://www.youtube.com/watch?v=qyQPxaqfcZI)
 
-* University of Pittsburgh Pathology Conference
+#### University of Pittsburgh Pathology Conference
 
 {% embed url="http://pathologyconference.upmc.edu/" %}
 
 
 
-* Washington University in St. Louis Nephrology Web Series
+#### Washington University in St. Louis Nephrology Web Series
 
 {% embed url="https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos" %}
 
 
 
-* University of Pittsburgh Pathology Conference
+#### University of Pittsburgh Pathology Conference
 
 [http://pathologyconference.upmc.edu/](http://pathologyconference.upmc.edu/)
 
-* Washington University in St. Louis Nephrology Web Series
+#### Washington University in St. Louis Nephrology Web Series
 
 [https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos](https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos)
 
