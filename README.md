@@ -1,3 +1,9 @@
+---
+description: >-
+  The (Para) Pathology Notes for myself and those who are interested in
+  Pathology
+---
+
 # Preface
 
 ## \(Para\) Pathology Notes

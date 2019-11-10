@@ -1,4 +1,12 @@
+---
+description: About Me
+---
+
 # Introduction
+
+## About Me
+
+Below are my web pages and social media accounts
 
 [Patoloji Notları](https://sites.google.com/view/patolojinotlari/)
 
