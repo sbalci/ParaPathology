@@ -1,25 +1,30 @@
 # Bibliometrics
 
-* **Citation Performance Indicators — A Very Short Introduction**
+#### \*\*\*\*[**Citation Performance Indicators — A Very Short Introduction**](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)\*\*\*\*
 
-[https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)
+{% embed url="https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/" %}
 
-* **Journal Citation Reports**
+
+
+#### **Journal Citation Reports**
 
 [http://ipscience-help.thomsonreuters.com/incitesLiveJCR/welcomeToTheNewJCR.html](http://ipscience-help.thomsonreuters.com/incitesLiveJCR/welcomeToTheNewJCR.html)
 
-* **CiteScore metrics from Scopus**
+#### **CiteScore metrics from Scopus**
 
 [https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com/)
 
-* **Semantic Scholar**
+#### **Semantic Scholar**
 
 [https://www.semanticscholar.org/](https://www.semanticscholar.org/)
 
-* **Google Scholar**
-* **Research Gate**
-* **EndNote**
-* **colwiz**
+#### **Google Scholar**
+
+#### **Research Gate**
+
+#### **EndNote**
+
+#### **colwiz**
 
 [https://www.colwiz.com/](https://www.colwiz.com/)
 
