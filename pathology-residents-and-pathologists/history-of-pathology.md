@@ -33,3 +33,17 @@
 
 
 
+
+
+#### [Thalidomide: still with us half a century later | DW Documentary](https://www.youtube.com/watch?v=nc3nHrDEWs4)
+
+
+{% embed url="https://www.youtube.com/watch?v=nc3nHrDEWs4" %}
+
+
+
+
+
+
+
+
