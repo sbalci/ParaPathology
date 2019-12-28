@@ -68,21 +68,28 @@ electron-forge package
 electron-forge make
 ```
 
+
+
 ## [Adding an existing project to GitHub using the command line](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
 
-[https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
+https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/
+
+
 
 ```bash
 git init
 ```
 
+
 ```bash
 git add .
 ```
 
+
 ```bash
 git commit -m "initial commit"
 ```
+
 
 ```bash
 git remote add origin <remote repository URL>
@@ -95,4 +102,6 @@ git remote -v
 ```bash
 git push -f origin master
 ```
+
+
 
