@@ -368,4 +368,5 @@
 * [Videos](appendix/videos.md)
 * [GitHub Repositories](appendix/github-repositories.md)
 * [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
+* [Deutsche Artikel](deutsche-artikel.md)
 
