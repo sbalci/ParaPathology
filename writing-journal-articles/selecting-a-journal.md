@@ -641,3 +641,18 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 [https://trdizin.gov.tr/statistics/listAcceptedJournals.xhtml](https://trdizin.gov.tr/statistics/listAcceptedJournals.xhtml)
 
+
+---
+
+
+- Critical appraisal of predatory journals in pathology
+
+https://jcp.bmj.com/content/73/1/58.long
+
+https://www.ncbi.nlm.nih.gov/pubmed/31732617
+
+
+
+
+
+

@@ -234,7 +234,23 @@ Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.co
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
 * Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
 * Detecting cancer in real-time with machine learning [https://www.youtube.com/watch?v=9Mz84cwVmS0](https://www.youtube.com/watch?v=9Mz84cwVmS0)
+
 * The Histolog Scanner
 
 [https://samantree.com/product/](https://samantree.com/product/)
+
+
+* [Next-generation protein analysis in the pathology department.](https://www.ncbi.nlm.nih.gov/pubmed/31308255)
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/31308255
+
+
+
+
+
+
+
+
+
 
