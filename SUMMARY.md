@@ -133,6 +133,7 @@
 * [Whipple Macroscopy](macroscopy/whipple-macroscopy.md)
 * [Macroscopic Photography](macroscopy/macroscopic-photography.md)
 * [Macrocopy Videos](macroscopy/macrocopy-videos.md)
+* [Macroscopy Articles & Guidelines](macroscopy/macroscopy-articles-and-guidelines.md)
 
 ## Autopsy
 

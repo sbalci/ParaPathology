@@ -4,11 +4,5 @@
 
 {% embed url="https://onlinelibrary.wiley.com/doi/abs/10.1111/pin.12706" %}
 
-#### \_\_[_Sir William Osler 1849-1919: A Selection for Medical Students_](https://www.ams-inc.on.ca/resource/osler-book-download/)\_\_
-
-{% embed url="https://www.ams-inc.on.ca/resource/osler-book-download/" %}
-
-\_\_
-
 
 
