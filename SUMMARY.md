@@ -14,6 +14,8 @@
 * [Medical School Lectures](medical-school-lectures/medical-school-lectures/README.md)
   * [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
 * [General Pathology](medical-school-lectures/general-pathology/README.md)
+  * [General Pathology Links](medical-school-lectures/general-pathology/general-pathology-links.md)
+  * [Introduction to Pathology](medical-school-lectures/general-pathology/introduction-to-pathology.md)
   * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
   * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md)
