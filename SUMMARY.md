@@ -42,6 +42,7 @@
   * [Lab: Pathology of CNS](medical-school-lectures/laboratory-lectures/lab-pathology-of-cns.md)
 * [Public Health](medical-school-lectures/public-health.md)
 * [Infectious Diseases](medical-school-lectures/infectious-diseases/README.md)
+  * [Vaccination](medical-school-lectures/infectious-diseases/vaccination.md)
   * [Parasitic Diseases](medical-school-lectures/infectious-diseases/parasitic-diseases.md)
 
 ## Systemic Pathology

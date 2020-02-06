@@ -59,11 +59,5 @@
 
 * Histopathologic changes following neoadjuvant chemotherapy in various malignancies
 
-{% embed url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3678690/" %}
-
-#### [Pathological assessment of resection specimens after neoadjuvant therapy for metastatic melanoma.](https://www.ncbi.nlm.nih.gov/pubmed/29945191)
-
-{% embed url="https://www.ncbi.nlm.nih.gov/pubmed/29945191" %}
-
-
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3678690/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3678690/)
 
