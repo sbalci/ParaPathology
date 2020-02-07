@@ -312,6 +312,7 @@
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Citavi](writing-journal-articles/citavi.md)
 * [Research Quality](writing-journal-articles/research-quality.md)
+* [Citation](writing-journal-articles/citation.md)
 * [Visual Abstracts](writing-journal-articles/visual-abstracts.md)
 
 ## Bibliometrics
