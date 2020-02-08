@@ -8,6 +8,11 @@ description: >-
 
 ## \(Para\) Pathology Notes
 
+
+https://zenodo.org/account/settings/github/repository/sbalci/ClinicoPathJamoviModule
+
+https://osf.io/8drpq/
+
 This booklet will contain my notes on pathology and the tools I use for my research.
 
 The notes may be used by medical school students, pathology residents or pathologists who have similar interests with me.

@@ -14,3 +14,9 @@
 
 \*\*\*\*
 
+
+Pathologists are hypercorrect.
+
+Intraductal Proliferative Lesions, Microinvasion, and Columnar Cell Lesions  Stuart J. Schnitt, MD USCAP 1.16.2020 
+
+https://www.pathlms.com/uscap/courses/15308/webinars/7280

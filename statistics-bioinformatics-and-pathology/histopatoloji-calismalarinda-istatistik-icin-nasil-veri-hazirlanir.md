@@ -786,3 +786,10 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
+
+
+# Articles to be discussed:
+
+## Histologic pattern is better correlated with clinical outcomes than biochemical classification in patients with drug-induced liver injury.
+
+https://www.ncbi.nlm.nih.gov/pubmed/?term=31300804

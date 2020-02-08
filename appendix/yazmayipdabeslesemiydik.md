@@ -14,10 +14,21 @@ Haksızlığa uğrayan birisini gördüğümüzde hemen sabrı tavsiye ediyoruz.
 ---
 
 
+Celveti olanları takiyye yapıyorlar diye eleştiriyorlar. Bilenlere selam olsun. 
 
 
+---
+
+Research yoluyla kazanç elde edilir mi?
+İnsanın düzenli kazancı olmalı ki merakından ve keyif alarak research yapsın.
+Yoksa sahtekarlığı engellemek çok zor.
+Adam Nature'ın ne olduğunu anlamak için değil Nature'da yayın yapmak için uğraşıyor.
+Nature'da yayını olmazsa işinden olacak, eve ekmek götüremeyecek çünkü.
 
 
+---
+
+Tenure olan niceleri liste liste işinden edildikten sonra, bu dediklerimin hiç önemi yok.
 
 
 ---
