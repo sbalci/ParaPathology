@@ -43,6 +43,7 @@
 * [Public Health](medical-school-lectures/public-health.md)
 * [Infectious Diseases](medical-school-lectures/infectious-diseases/README.md)
   * [Vaccination](medical-school-lectures/infectious-diseases/vaccination.md)
+  * [Fungal Diseases](medical-school-lectures/infectious-diseases/fungal-diseases.md)
   * [Parasitic Diseases](medical-school-lectures/infectious-diseases/parasitic-diseases.md)
 
 ## Systemic Pathology
