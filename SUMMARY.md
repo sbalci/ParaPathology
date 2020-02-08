@@ -14,11 +14,14 @@
 * [Medical School Lectures](medical-school-lectures/medical-school-lectures/README.md)
   * [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
 * [General Pathology](medical-school-lectures/general-pathology/README.md)
+  * [General Pathology Links](medical-school-lectures/general-pathology/general-pathology-links.md)
+  * [Introduction to Pathology](medical-school-lectures/general-pathology/introduction-to-pathology.md)
   * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
   * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md)
   * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
+  * [Amyloidosis](medical-school-lectures/general-pathology/amyloidosis.md)
 * [Laboratory Lectures](medical-school-lectures/laboratory-lectures/README.md)
   * [Lab: Pathology of Heart and Vascular Diseases](medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md)
   * [Lab: Glomerular Diseases](medical-school-lectures/laboratory-lectures/lab-glomerular-diseases.md)
@@ -39,6 +42,7 @@
   * [Lab: Pathology of CNS](medical-school-lectures/laboratory-lectures/lab-pathology-of-cns.md)
 * [Public Health](medical-school-lectures/public-health.md)
 * [Infectious Diseases](medical-school-lectures/infectious-diseases/README.md)
+  * [Vaccination](medical-school-lectures/infectious-diseases/vaccination.md)
   * [Parasitic Diseases](medical-school-lectures/infectious-diseases/parasitic-diseases.md)
 
 ## Systemic Pathology
@@ -114,6 +118,7 @@
   * [Carcinogenesis Links](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/carcinogenesis-links.md)
   * [HPV](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/hpv.md)
   * [Tumor Immunology](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/tumor-immunology.md)
+  * [Metastasis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/metastasis.md)
 
 ## Computational, Digital & Mathematical Pathology
 
@@ -133,6 +138,7 @@
 * [Whipple Macroscopy](macroscopy/whipple-macroscopy.md)
 * [Macroscopic Photography](macroscopy/macroscopic-photography.md)
 * [Macrocopy Videos](macroscopy/macrocopy-videos.md)
+* [Macroscopy Articles & Guidelines](macroscopy/macroscopy-articles-and-guidelines.md)
 
 ## Autopsy
 
@@ -306,6 +312,7 @@
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Citavi](writing-journal-articles/citavi.md)
 * [Research Quality](writing-journal-articles/research-quality.md)
+* [Citation](writing-journal-articles/citation.md)
 * [Visual Abstracts](writing-journal-articles/visual-abstracts.md)
 
 ## Bibliometrics

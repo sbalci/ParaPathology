@@ -74,5 +74,11 @@
 
 * Nature Collection Statistics for Biologists
 
-[https://www.nature.com/collections/qghhqm](https://www.nature.com/collections/qghhqm)
+{% embed url="https://www.nature.com/collections/qghhqm" %}
+
+#### [Don’t waste your time on statistics](https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c)
+
+{% embed url="https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c" %}
+
+
 
