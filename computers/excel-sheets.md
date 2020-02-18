@@ -100,3 +100,13 @@
 >
 > [`SUMPRODUCT(array1, [array2, ...])`](https://support.google.com/docs/answer/3094294)
 
+
+
+#### Compare two sheets
+
+```text
+=IF(Sheet1!A1<> Sheet2!A1, Sheet1!A1&" | "&Sheet2!A1, "")
+```
+
+
+
