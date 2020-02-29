@@ -277,3 +277,25 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
   [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
 
+#### [Adjust P-values for Multiple Comparisons](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/p.adjust.html)
+
+{% embed url="https://stat.ethz.ch/R-manual/R-patched/library/stats/html/p.adjust.html" %}
+
+
+
+## q value
+
+#### [Bioconductor’s qvalue package](https://www.bioconductor.org/packages/3.3/bioc/vignettes/qvalue/inst/doc/qvalue.pdf)
+
+{% embed url="https://www.bioconductor.org/packages/3.3/bioc/vignettes/qvalue/inst/doc/qvalue.pdf" %}
+
+#### [StoreyLab/qvalue](https://github.com/StoreyLab/qvalue)
+
+{% embed url="https://github.com/StoreyLab/qvalue" %}
+
+
+
+#### 
+
+
+
