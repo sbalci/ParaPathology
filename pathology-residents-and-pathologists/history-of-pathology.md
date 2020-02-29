@@ -1,16 +1,12 @@
 # History of Pathology
 
-#### **2016 MSK Alumni Conference - Ralph Hruban, MD**
+## **2016 MSK Alumni Conference - Ralph Hruban, MD**
 
 [The Annual Fred Stewart Award Lecture "The Good, The Bad and the Ugly"](https://www.youtube.com/watch?v=kUn-LRKaVJE)
 
-{% embed url="https://www.youtube.com/watch?v=kUn-LRKaVJE" %}
+{% embed url="https://www.youtube.com/watch?v=kUn-LRKaVJE" caption="" %}
 
-
-
-
-
-#### Was Virchow the first scientist to offer Cell Theory?
+## Was Virchow the first scientist to offer Cell Theory?
 
 * [https://en.wikipedia.org/wiki/Rudolf\_Virchow\#Cell\_biology](https://en.wikipedia.org/wiki/Rudolf_Virchow#Cell_biology)
 
@@ -20,30 +16,16 @@
 
 > [Despite his significant scientific legacy, there is some controversy regarding this essay, in which Virchow proposed the central tenet of modern cell theory—that all cells arise from other cells. Robert Remak, a former colleague who worked in the same laboratory as Virchow at the University of Berlin, had published the same idea 3 years before. Though it appears Virchow was familiar with Remak’s work, he neglected to credit Remak’s ideas in his essay. When Remak wrote a letter to Virchow pointing out similarities between Virchow’s ideas and his own, Virchow was dismissive. In 1858, in the preface to one of his books, Virchow wrote that his 1855 publication was just an editorial piece, not a scientific paper, and thus there was no need to cite Remak’s work.](https://courses.lumenlearning.com/microbiology/chapter/foundations-of-modern-cell-theory/)
 
-*  ****[**Virchow's Contribution to the Cell Theory**](https://www.jstor.org/stable/24619588)
+* **\*\*\[**Virchow's Contribution to the Cell Theory\*\*\]\([https://www.jstor.org/stable/24619588](https://www.jstor.org/stable/24619588)\)
 
   [ J. WALTER WILSON Journal of the History of Medicine and Allied Sciences Vol. 2, No. 2 \(Spring 1947\), pp. 163-178](https://www.jstor.org/stable/24619588)
 
 * [https://www.bbc.co.uk/programmes/b00m5w92](https://www.bbc.co.uk/programmes/b00m5w92)
 * [https://www.dailymotion.com/video/x2a1c75](https://www.dailymotion.com/video/x2a1c75)
 
+{% embed url="https://www.dailymotion.com/video/x2a1c75" caption="" %}
 
+## [Thalidomide: still with us half a century later \| DW Documentary](https://www.youtube.com/watch?v=nc3nHrDEWs4)
 
-{% embed url="https://www.dailymotion.com/video/x2a1c75" %}
-
-
-
-
-
-#### [Thalidomide: still with us half a century later | DW Documentary](https://www.youtube.com/watch?v=nc3nHrDEWs4)
-
-
-{% embed url="https://www.youtube.com/watch?v=nc3nHrDEWs4" %}
-
-
-
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=nc3nHrDEWs4" caption="" %}
 
