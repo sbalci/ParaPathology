@@ -1,8 +1,12 @@
 # Organization Of Meetings
 
-## Organization Of Meetings
+#### [Spring Residents Forum 2020 - CAP Foundation Update](https://www.facebook.com/capathologists/videos/2749888985065562/)
 
-## Organization Of Meetings
+{% embed url="https://www.facebook.com/capathologists/videos/2749888985065562/" %}
+
+
+
+## 
 
 ## Conferences: The secrets of a standout seminar
 
