@@ -1,4 +1,12 @@
-# The Future Of Pathology
+# The Future of Pathology
+
+#### [Nathan Kaufman Timely Topics Lecture USCAP2020 presented by Samuel H. Sternberg, PhD. Programmable Genome Engineering Using CRISPR Technology](https://www.facebook.com/TheUSCAP/videos/1042460216123966/)
+
+{% embed url="https://www.facebook.com/TheUSCAP/videos/1042460216123966/" %}
+
+
+
+
 
 #### [Nathan Kaufman Timely Topics Lecture 2017 - Platforms, Diagnosis and Disease: An Evolution Rooted In Pathology Presented by - Daniel J. Brat, M.D., Ph.D.](https://www.pathlms.com/uscap/courses/5418/video_presentations/80687)
 

@@ -86,7 +86,7 @@
 * [History of Pathology](pathology-residents-and-pathologists/history-of-pathology.md)
 * [Pathology Reports](pathology-residents-and-pathologists/pathology-reports.md)
 * [Mitosis](pathology-residents-and-pathologists/mitosis.md)
-* [The Future Of Pathology](pathology-residents-and-pathologists/the-future-of-pathology.md)
+* [The Future of Pathology](pathology-residents-and-pathologists/the-future-of-pathology.md)
 * [Resident Education](pathology-residents-and-pathologists/resident-education.md)
 * [Rotations of Pathology Residents](pathology-residents-and-pathologists/rotations-of-pathology-residents.md)
 * [Web sites of Pathologists](pathology-residents-and-pathologists/web-sites-of-pathologists.md)
