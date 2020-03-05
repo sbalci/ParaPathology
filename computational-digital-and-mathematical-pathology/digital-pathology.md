@@ -1,8 +1,32 @@
 # Digital Pathology
 
-## Digital Pathology
+#### [microvisioneer](http://www.microvisioneer.com/)
 
-### Digital Pathology
+{% embed url="http://www.microvisioneer.com/" %}
+
+
+
+{% embed url="https://www.facebook.com/serdarbalcimd/posts/10154699447595679" %}
+
+
+
+#### [Argenit](https://argenit.com.tr/)
+
+{% embed url="https://argenit.com.tr/" %}
+
+
+
+{% embed url="https://twitter.com/argenitt/status/814824189345624064" %}
+
+#### [X-WOW](https://www.x-wow.com/product-page/wsi)
+
+{% embed url="https://www.x-wow.com/product-page/wsi" %}
+
+
+
+### 
+
+#### QuPath
 
 Mac OS için`.svs`dosyalarını açacak program ararken bulmuştum [QuPath](https://qupath.github.io/)'ı.
 
