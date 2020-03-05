@@ -1,6 +1,6 @@
 # Digital Pathology
 
-#### [microvisioneer](http://www.microvisioneer.com/)
+#### [Microvisioneer](http://www.microvisioneer.com/)
 
 {% embed url="http://www.microvisioneer.com/" %}
 
