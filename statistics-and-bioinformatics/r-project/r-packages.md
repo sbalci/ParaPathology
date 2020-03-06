@@ -1,6 +1,14 @@
 # R packages
 
-## R packages
+#### [R-project, paket bağımlılığı, ve ölçüm kriterlerine dair](https://www.serdarbalci.com/)
+
+["It depends - A dialog about dependencies"](https://www.tidyverse.org/blog/2019/05/itdepends/) adlı yazıyı tavsiye ederim. `R-project` kullanırken, paket hazırlarken kullandığımız, üstüne bina ettiğimiz, yaslandığımız, bağımlı olduğumuz diğer paketleri nasıl tespit edeceğimizi, bunları nasıl dengeli ve verimli kullanabileceğimizi anlatıyor. Bunlar için geliştirilen `itdepends` paketinden örnekler verilen yazının son cümlesi şu: 
+
+> _Finally it is important to remember_ [_Goodhart’s Law_](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+>
+> _When a measure becomes a target, it ceases to be a good measure._
+
+Eğer bir ölçüm hedef haline geliyorsa, artık o ölçüm iyi bir ölçüm değildir. Bunu okuyunca codecoverage’ların, codeclass’ların yanısıra performans değerlendirmelerinin, yatak doluluk oranlarının, biyopsi sürelerinin, ekonomik göstergelerin nasıl manipüle edilebildiği konusunda düşünmeye başladım. 
 
 ## R packages
 
