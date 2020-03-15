@@ -1,5 +1,11 @@
 # The Future of Pathology
 
+### [Maude Abbott Lecture 2018: The Pathologist and Individualized Cancer Therapy by Stanley R. Hamilton, M.D.](https://www.pathlms.com/uscap/courses/7026)
+
+{% embed url="https://www.pathlms.com/uscap/courses/7026" %}
+
+
+
 #### [Nathan Kaufman Timely Topics Lecture USCAP2020 presented by Samuel H. Sternberg, PhD. Programmable Genome Engineering Using CRISPR Technology](https://www.facebook.com/TheUSCAP/videos/1042460216123966/)
 
 {% embed url="https://www.facebook.com/TheUSCAP/videos/1042460216123966/" %}

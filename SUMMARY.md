@@ -346,6 +346,7 @@
 * [Neuroscience](science/neuroscience.md)
 * [Academics](science/academics.md)
 * [Cancer Research](science/cancer-research.md)
+* [Medicine](science/medicine.md)
 
 ## Computers
 
