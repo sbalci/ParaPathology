@@ -1,5 +1,13 @@
 # Organization Of Meetings
 
+#### [A year without conferences? How the coronavirus pandemic could change research](https://www.nature.com/articles/d41586-020-00786-y)
+
+{% embed url="https://www.nature.com/articles/d41586-020-00786-y" %}
+
+
+
+
+
 #### [Spring Residents Forum 2020 - CAP Foundation Update](https://www.facebook.com/capathologists/videos/2749888985065562/)
 
 {% embed url="https://www.facebook.com/capathologists/videos/2749888985065562/" %}
