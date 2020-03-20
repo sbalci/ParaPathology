@@ -1,5 +1,13 @@
 # Public Health
 
+#### Cancer Screening
+
+[Timely Topics Lecture 2018: Overdiagnosis & Cancer Screening: Challenges Posed by Birds, Rabbits and Turtles](https://www.pathlms.com/uscap/courses/7025/)
+
+[![](https://embedwistia-a.akamaihd.net/deliveries/4843c938d0b74da25e3bcbb836a729d69a39e0d6.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=54bbffe0)](https://www.pathlms.com/uscap/courses/7025/video_presentations/102016?wvideo=5bsp1qcxat)
+
+[Timely Topics Lecture 2018: Overdiagnosis & Cancer Screening: Challenges Posed by Birds, Rabbits and Turtles \| USCAP eLearning](https://www.pathlms.com/uscap/courses/7025/video_presentations/102016?wvideo=5bsp1qcxat)
+
 #### Venezuela's public health crisis: a regional emergency.
 
 Lancet. 2019 Mar 11. pii: S0140-6736\(19\)30344-7. doi: 10.1016/S0140-6736\(19\)30344-7. \[Epub ahead of print\]
