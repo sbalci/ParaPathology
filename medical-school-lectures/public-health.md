@@ -1,5 +1,11 @@
 # Public Health
 
+#### [Can the Power of Prayer Alone Stop a Pandemic like the Coronavirus? Even the Prophet Muhammad Thought Otherwise \| Opinion](https://www.newsweek.com/prophet-prayer-muhammad-covid-19-coronavirus-1492798?amp=1)
+
+{% embed url="https://www.newsweek.com/prophet-prayer-muhammad-covid-19-coronavirus-1492798?amp=1" %}
+
+
+
 #### Cancer Screening
 
 [Timely Topics Lecture 2018: Overdiagnosis & Cancer Screening: Challenges Posed by Birds, Rabbits and Turtles](https://www.pathlms.com/uscap/courses/7025/)
