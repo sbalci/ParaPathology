@@ -2,6 +2,8 @@
 
 #### [Uthman's Law: Everything is bullshit until proved otherwise.](https://www.facebook.com/euthman/posts/10223270629134410)
 
+#### [Uthman’s Razor: “Of two equally plausible explanations, the more cynical one is correct.”](https://www.facebook.com/euthman/posts/10223270629134410)
+
 {% embed url="https://www.facebook.com/euthman/posts/10223270629134410" %}
 
 
