@@ -137,12 +137,95 @@ https://twitter.com/serdarbalci/status/1198289126484840448
 
 
 
+https://twitter.com/serdarbalci/status/1239649806303322113
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1239650476699893767
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1239790651803402240
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1239885919399919616
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1240183486947954688
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1240184841439776770
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1240585730793058304
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1241333999433285633
 
 
 
+---
 
 
 
+X ilacı çok iyi geliyor diyor diye birileri, eczaneye koşup almışsınız hemen hepsini.
+Yahu erenler, o vakit, kelle paça için diyene niye kızıyonuz?
+Temel prensibimizi unutmayalım, aşk ile bir dahi buyurun: "In God we trust, all others must provide data"
+
+
+https://twitter.com/serdarbalci/status/1241359679944613893?s=20
+
+
+
+---
+
+
+https://twitter.com/serdarbalci/status/1241638275980410880?s=20
+
+
+
+---
+
+
+what was "diagnostic accuracy without a gold standard" and "prior probability" again?
+
+https://twitter.com/serdarbalci/status/1241687742939086848?s=20
+
+---
+
+Wise to invite the expert back, when there is a specific problem.
+Would have been wiser, if allowed to continue to input efforts beforehand.
+I know orphan disease experts dismissed and displaced. Should we wait until their work area happens to become this much problematic?
+
+https://twitter.com/serdarbalci/status/1241719082514362369?s=20
+
+
+---
+
+
+I'm fed up with this nonsense. It is nearly 25 years since I myself remember, way too long as I learn from history. Enough is enough. I have limited time left and will not spend time on this anymore. I should have realized this beforehand, but no time to cry for that. Tschüss ...
+
+
+---
 
 
 
