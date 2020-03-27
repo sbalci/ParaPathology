@@ -2,7 +2,9 @@
 
 ## Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
+
+### Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -154,11 +156,11 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+### Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -310,13 +312,13 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+### Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
-## Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -468,11 +470,11 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+### Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -624,13 +626,13 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+### Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
-## Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
 
-## Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
+### Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
 İstatistik analizlerinde en çok vakit alan kısım verilerin düzenlenmesi ve analize hazır hale getirilmesidir. Bu durum o kadar belirgindir ki veri analizi ile ilgili eğitimlerin de özel bir kısmını "veri temizleme" dersleri oluşturmaktadır \(Coursera\). Analize hazır haldeki veri "temiz veri" olarak adlandırılır \(Tidy Data, H.Wickham\). İstatistikçilerin kısıtlı vakti olduğunu düşünüldüğünde verinin temiz olarak teslim edilmesi onların veriyi rahat anlamalarına ve veri temizleme için ayıracakları vakit yerine sizin araştırmanızdaki ilginç noktalara odaklanmalarına yardımcı olacaktır. Ayrıca temiz veri ile çalışmanın istatistikçileri daha mutlu ettiğini ve özen gösterilmiş bir veride onların da daha özenli çalıştığını gözlemlediğimi belirtmek isterim.
 
@@ -782,14 +784,13 @@ Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
-## Top ten errors of statistical analysis in observational studies for cancer research
+### Top ten errors of statistical analysis in observational studies for cancer research
 
 [https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9](https://rd.springer.com/article/10.1007%2Fs12094-017-1817-9)
 
+## Articles to be discussed:
 
+### Histologic pattern is better correlated with clinical outcomes than biochemical classification in patients with drug-induced liver injury.
 
-# Articles to be discussed:
+[https://www.ncbi.nlm.nih.gov/pubmed/?term=31300804](https://www.ncbi.nlm.nih.gov/pubmed/?term=31300804)
 
-## Histologic pattern is better correlated with clinical outcomes than biochemical classification in patients with drug-induced liver injury.
-
-https://www.ncbi.nlm.nih.gov/pubmed/?term=31300804

@@ -1,6 +1,10 @@
 # Pathology Reports
 
-## Pathology Reports
+## [How Pathology Report Affects Treatment of Colorectal Cancer](https://www.facebook.com/pathCast/videos/514548495926280/)
+
+{% embed url="https://www.facebook.com/pathCast/videos/514548495926280/" %}
+
+
 
 ## Pathology reports are the most important medical documents:
 

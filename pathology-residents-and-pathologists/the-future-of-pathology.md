@@ -1,6 +1,32 @@
-# The Future Of Pathology
+# The Future of Pathology
+
+### [Maude Abbott Lecture 2018: The Pathologist and Individualized Cancer Therapy by Stanley R. Hamilton, M.D.](https://www.pathlms.com/uscap/courses/7026)
+
+{% embed url="https://www.pathlms.com/uscap/courses/7026" %}
+
+
+
+#### [Nathan Kaufman Timely Topics Lecture USCAP2020 presented by Samuel H. Sternberg, PhD. Programmable Genome Engineering Using CRISPR Technology](https://www.facebook.com/TheUSCAP/videos/1042460216123966/)
+
+{% embed url="https://www.facebook.com/TheUSCAP/videos/1042460216123966/" %}
+
+
+
+
+
+#### [Nathan Kaufman Timely Topics Lecture 2017 - Platforms, Diagnosis and Disease: An Evolution Rooted In Pathology Presented by - Daniel J. Brat, M.D., Ph.D.](https://www.pathlms.com/uscap/courses/5418/video_presentations/80687)
+
+{% embed url="https://www.pathlms.com/uscap/courses/5418/video\_presentations/80687" %}
+
+
+
+
 
 ## The Future Of Pathology
+
+{% embed url="https://www.facebook.com/HistoMemes/photos/a.188905821905532/614298496032927/" %}
+
+
 
 ## Molecular Visualizations of DNA
 
@@ -234,23 +260,11 @@ Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.co
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
 * Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
 * Detecting cancer in real-time with machine learning [https://www.youtube.com/watch?v=9Mz84cwVmS0](https://www.youtube.com/watch?v=9Mz84cwVmS0)
-
 * The Histolog Scanner
 
 [https://samantree.com/product/](https://samantree.com/product/)
 
-
 * [Next-generation protein analysis in the pathology department.](https://www.ncbi.nlm.nih.gov/pubmed/31308255)
 
-
-https://www.ncbi.nlm.nih.gov/pubmed/31308255
-
-
-
-
-
-
-
-
-
+[https://www.ncbi.nlm.nih.gov/pubmed/31308255](https://www.ncbi.nlm.nih.gov/pubmed/31308255)
 

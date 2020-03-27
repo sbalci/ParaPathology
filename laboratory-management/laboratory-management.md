@@ -1,6 +1,6 @@
 # Laboratory Management
 
-### Laboratory Management
+## Laboratory Management
 
 * **Tıbbi Patoloji Laboratuvarı Örnek Kabulü Sırasında Dikkat Edilecek Konular ve Red Kriterleri**
 
@@ -19,7 +19,7 @@ Distile su 900 ml
 Monobazik sodyum fosfat 4 gr  
 Dibazik sodyum fosfat 6.5 gr
 
-### An Introduction to the Centrifuge
+## An Introduction to the Centrifuge
 
 [https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge](https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge)
 
@@ -40,7 +40,7 @@ Distile su 900 ml
 Monobazik sodyum fosfat 4 gr  
 Dibazik sodyum fosfat 6.5 gr
 
-### An Introduction to the Centrifuge
+## An Introduction to the Centrifuge
 
 [https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge](https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge)
 
@@ -61,7 +61,7 @@ Distile su 900 ml
 Monobazik sodyum fosfat 4 gr  
 Dibazik sodyum fosfat 6.5 gr
 
-### An Introduction to the Centrifuge
+## An Introduction to the Centrifuge
 
 [https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge](https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge)
 
@@ -82,11 +82,11 @@ Distile su 900 ml
 Monobazik sodyum fosfat 4 gr  
 Dibazik sodyum fosfat 6.5 gr
 
-### An Introduction to the Centrifuge
+## An Introduction to the Centrifuge
 
 [https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge](https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge)
 
-### Routine Histology Laboratory
+## Routine Histology Laboratory
 
 * **Tıbbi Patoloji Laboratuvarı Örnek Kabulü Sırasında Dikkat Edilecek Konular ve Red Kriterleri**
 
@@ -105,19 +105,13 @@ Distile su 900 ml
 Monobazik sodyum fosfat 4 gr  
 Dibazik sodyum fosfat 6.5 gr
 
-### An Introduction to the Centrifuge
+## An Introduction to the Centrifuge
 
 [https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge](https://www.jove.com/science-education/5019/an-introduction-to-the-centrifuge)
 
+## Preface: Selected technical problems in anatomic pathology
 
+Semin Diagn Pathol. 2019 Sep;36\(5\):293. doi: 10.1053/j.semdp.2019.06.007. Epub 2019 Jun 28. Preface: Selected technical problems in anatomic pathology.
 
-### Preface: Selected technical problems in anatomic pathology
-
-Semin Diagn Pathol. 2019 Sep;36(5):293. doi: 10.1053/j.semdp.2019.06.007. Epub 2019 Jun 28.
-Preface: Selected technical problems in anatomic pathology.
-
-https://www.ncbi.nlm.nih.gov/pubmed/31277981
-
-
-
+[https://www.ncbi.nlm.nih.gov/pubmed/31277981](https://www.ncbi.nlm.nih.gov/pubmed/31277981)
 

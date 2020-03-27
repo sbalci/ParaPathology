@@ -43,6 +43,7 @@
 * [Public Health](medical-school-lectures/public-health.md)
 * [Infectious Diseases](medical-school-lectures/infectious-diseases/README.md)
   * [Vaccination](medical-school-lectures/infectious-diseases/vaccination.md)
+  * [Fungal Diseases](medical-school-lectures/infectious-diseases/fungal-diseases.md)
   * [Parasitic Diseases](medical-school-lectures/infectious-diseases/parasitic-diseases.md)
 
 ## Systemic Pathology
@@ -85,7 +86,7 @@
 * [History of Pathology](pathology-residents-and-pathologists/history-of-pathology.md)
 * [Pathology Reports](pathology-residents-and-pathologists/pathology-reports.md)
 * [Mitosis](pathology-residents-and-pathologists/mitosis.md)
-* [The Future Of Pathology](pathology-residents-and-pathologists/the-future-of-pathology.md)
+* [The Future of Pathology](pathology-residents-and-pathologists/the-future-of-pathology.md)
 * [Resident Education](pathology-residents-and-pathologists/resident-education.md)
 * [Rotations of Pathology Residents](pathology-residents-and-pathologists/rotations-of-pathology-residents.md)
 * [Web sites of Pathologists](pathology-residents-and-pathologists/web-sites-of-pathologists.md)
@@ -345,6 +346,7 @@
 * [Neuroscience](science/neuroscience.md)
 * [Academics](science/academics.md)
 * [Cancer Research](science/cancer-research.md)
+* [Medicine](science/medicine.md)
 
 ## Computers
 
