@@ -1,5 +1,15 @@
 # Carcinogenesis Links
 
+
+
+#### [Why Blue Whales Don't Get Cancer - Peto's Paradox](https://www.youtube.com/watch?v=1AElONvi9WQ)
+
+{% embed url="https://www.youtube.com/watch?v=1AElONvi9WQ" %}
+
+
+
+
+
 [https://en.wikipedia.org/wiki/Rudolf\_Virchow\#Theory\_on\_cancer\_origin](https://en.wikipedia.org/wiki/Rudolf_Virchow#Theory_on_cancer_origin)
 
 ### The Cancer Dependency Map
