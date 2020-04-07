@@ -1,6 +1,12 @@
 # Therapy related changes
 
-## Therapy related changes
+{% embed url="https://twitter.com/joemaleszewski/status/1247374172327522304?s=20" %}
+
+{% embed url="https://twitter.com/joemaleszewski/status/1247375043182682115?s=20" %}
+
+
+
+## 
 
 ## Therapy related changes
 
