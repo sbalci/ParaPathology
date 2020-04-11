@@ -18,7 +18,7 @@ The notes may be used by medical school students, pathology residents or patholo
 
 I plan to write many of the notes in English \(but some may be Turkish or German as well.\)
 
-If you want to contribute to these notes, please let me know.
+If you want to contribute to these notes, please let me know in [discord app here](https://discord.gg/3mtZNHG)
 
 You may also comment on paragraphs on this page or make edit suggestions \(fork\) via GitHub.
 
