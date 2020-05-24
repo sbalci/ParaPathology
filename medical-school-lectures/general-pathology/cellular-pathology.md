@@ -1,5 +1,11 @@
 # Cellular Pathology
 
+[Organelles of a human cell](https://www.youtube.com/watch?v=2YCgro6BV8U)
+
+{% embed url="https://www.youtube.com/watch?v=2YCgro6BV8U" %}
+
+
+
 Required Prior Knowledge:
 
 Aim of the Lecture:
