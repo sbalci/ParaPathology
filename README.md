@@ -18,7 +18,7 @@ The notes may be used by medical school students, pathology residents or patholo
 
 I plan to write many of the notes in English \(but some may be Turkish or German as well.\)
 
-If you want to contribute to these notes, please let me know.
+If you want to contribute to these notes, please let me know in [discord app here](https://discord.gg/3mtZNHG)
 
 You may also comment on paragraphs on this page or make edit suggestions \(fork\) via GitHub.
 
@@ -69,4 +69,8 @@ I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequen
 {% embed url="https://twitter.com/serdarbalci/status/1156678529888727041" caption="" %}
 
 {% embed url="https://twitter.com/serdarbalci/status/1156961597333671936" caption="" %}
+
+{% embed url="https://twitter.com/ok\_maps/status/1252577217542045696?s=21" %}
+
+
 
