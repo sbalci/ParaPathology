@@ -2,6 +2,11 @@
 
 ## Orange
 
+## Analysis of Covid-19 Epidemics: Part 1
+
+[Analysis of Covid-19 Epidemics: Part 1](https://orange.biolab.si/blog/2020/2020-04-02-covid-19-basic/)
+
+
 ## Orange Data Mining
 
 * Orange Visual Programming
@@ -811,4 +816,3 @@ Orange3 Text PubMed
 * Getting Started with Orange 20: Multivariate Projection - Freeviz
 
 [https://www.youtube.com/watch?v=BqXPCjeH4TA&feature=youtu.be](https://www.youtube.com/watch?v=BqXPCjeH4TA&feature=youtu.be)
-
