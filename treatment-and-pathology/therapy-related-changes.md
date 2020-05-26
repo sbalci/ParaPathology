@@ -1,17 +1,12 @@
 # Therapy related changes
 
-{% embed url="https://twitter.com/joemaleszewski/status/1247374172327522304?s=20" %}
+{% embed url="https://twitter.com/joemaleszewski/status/1247374172327522304?s=20" caption="" %}
 
-{% embed url="https://twitter.com/joemaleszewski/status/1247375043182682115?s=20" %}
+{% embed url="https://twitter.com/joemaleszewski/status/1247375043182682115?s=20" caption="" %}
 
+### [Iatrogenic GI Tract Lesions: Some Tough Pills to Swallow](https://www.facebook.com/pathCast/videos/589123181695672/)
 
-
-
-#### [Iatrogenic GI Tract Lesions: Some Tough Pills to Swallow](https://www.facebook.com/pathCast/videos/589123181695672/)
-
-{% embed url="https://www.facebook.com/pathCast/videos/589123181695672/" %}
-
-
+{% embed url="https://www.facebook.com/pathCast/videos/589123181695672/" caption="" %}
 
 ## Therapy related changes
 
@@ -70,11 +65,9 @@
 
 * Histopathologic changes following neoadjuvant chemotherapy in various malignancies
 
-{% embed url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3678690/" %}
+{% embed url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3678690/" caption="" %}
 
-#### [Pathological assessment of resection specimens after neoadjuvant therapy for metastatic melanoma.](https://www.ncbi.nlm.nih.gov/pubmed/29945191)
+### [Pathological assessment of resection specimens after neoadjuvant therapy for metastatic melanoma.](https://www.ncbi.nlm.nih.gov/pubmed/29945191)
 
-{% embed url="https://www.ncbi.nlm.nih.gov/pubmed/29945191" %}
-
-
+{% embed url="https://www.ncbi.nlm.nih.gov/pubmed/29945191" caption="" %}
 

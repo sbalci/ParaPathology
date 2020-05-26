@@ -1,4 +1,4 @@
-# Support Vector Machine \(SVM\)
+# Support Vector Machine
 
 ## Support Vector Machine \(SVM\)
 
