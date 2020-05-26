@@ -4,22 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1093797047411531776?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1200411850036236289?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1259460886219104257?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1200408504676171780?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1256924162909708288?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1200311728237531136?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CancerMedMDA/status/1251180049228800000?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1242081379732672513?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1243893317471023106?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1218888486457090051?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1210553574297657344?s=20" %}<br>
 <br>
 <hr>
 

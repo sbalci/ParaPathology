@@ -4,7 +4,13 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/BinXu16/status/1092859424681717760?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1205509542483652610?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1107206641202544640?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/aarontay/status/1259095523853664258?s=20" %}<br>
 <br>
 <hr>
 

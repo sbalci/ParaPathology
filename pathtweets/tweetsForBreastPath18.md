@@ -4,13 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BreastPath pages here: https://serdarbalci.netlify.com/categories/BreastPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1063039609578254337?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/992063969887043584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1061952345217556480?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/931977700754972672?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/985177583133147137?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/931434005852852225?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235470553797906432?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235448980818935808?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235460704137691136?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235449497099984898?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235466964069302272?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235469583911247872?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235467968206655488?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1234207954661826560?s=20" %}<br>
 <br>
 <hr>
 

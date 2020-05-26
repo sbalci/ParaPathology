@@ -4,16 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1167489281386057729?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1214807328353992707?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1248275903395827720?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1214626121406275584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AnnalsofSurgery/status/1237340187354492928?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1115256017338503168?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1217836807045382146?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1115250232348954624?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1115228157387268096?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Myeloma_Doc/status/1234136472120328192?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1220521261551370240?s=20" %}<br>
 <br>
 <hr>
 

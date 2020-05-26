@@ -4,34 +4,34 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1032817954855874560?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1235217159720075274?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1032790184775929858?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1238543854048952320?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/920587004856774656?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1038576181916786690?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/benmarwick/status/1254105739540393984?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/968415904781320192?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/moorejh/status/1241014044099837952?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/968211233194221568?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/440885134447751168?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/921964225244708864?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/440883229428445184?s=20" %}<br>
+{% embed url="https://twitter.com/UMichPath/status/1261310373547765761?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/440530961348825089?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/567463519827005440?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/440530385089208320?s=20" %}<br>
+{% embed url="https://twitter.com/mikelove/status/1242436343537565697?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UABPathology/status/1210363232428462082?s=20" %}<br>
+{% embed url="https://twitter.com/lfwalkerlw/status/1211312793288355842?s=20" %}<br>
 <br>
 <hr>
 

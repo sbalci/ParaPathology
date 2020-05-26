@@ -4,67 +4,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1248300067628429313?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1179895036567261185?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1165034039750868998?s=20" %}<br>
+{% embed url="https://twitter.com/absresourcepage/status/1253334648723103749?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1220466536609210369?s=20" %}<br>
+{% embed url="https://twitter.com/dw_akademie/status/1252175928316186625?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/KMirza/status/1254515468553146373?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1248572966574657536?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1253559413526364163?s=20" %}<br>
+{% embed url="https://twitter.com/Erky321/status/1247633142703423494?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1253738844761055233?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1240795000549433344?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1253016045297774594?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1237992976711921665?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1244444181042511878?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1237922443186049024?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1244469050824163328?s=20" %}<br>
+{% embed url="https://twitter.com/preethijaison/status/1238153734259200000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1239150567613702145?s=20" %}<br>
+{% embed url="https://twitter.com/AdamGomezMD/status/1234882998580858880?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1239530205422772229?s=20" %}<br>
+{% embed url="https://twitter.com/preethijaison/status/1234342294695948288?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1239511531437555714?s=20" %}<br>
+{% embed url="https://twitter.com/HermelinMD/status/1227381878283472896?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1230554071976660993?s=20" %}<br>
+{% embed url="https://twitter.com/DrSamreenfatima/status/1227342415285170179?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1230938555779698688?s=20" %}<br>
+{% embed url="https://twitter.com/DrSamreenfatima/status/1227343488523603968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1230992630495887360?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1223001183897309184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HermelinMD/status/1220425813344104451?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1223085884020424704?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HermelinMD/status/1220712248001335297?s=20" %}<br>
+{% embed url="https://twitter.com/TheGoodMD/status/1215996584594485248?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AmmarAliQureshi/status/1210100234271023105?s=20" %}<br>
+{% embed url="https://twitter.com/ElsevierConnect/status/1218209737466093569?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1205615133709479942?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1210303546220064769?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1204741628298219520?s=20" %}<br>
+{% embed url="https://twitter.com/VijayPatho/status/1210207726535467008?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1204864508490993664?s=20" %}<br>
+{% embed url="https://twitter.com/CMichaelGibson/status/1207110146016661505?s=20" %}<br>
 <br>
 <hr>
 

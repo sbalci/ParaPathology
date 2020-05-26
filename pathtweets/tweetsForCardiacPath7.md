@@ -4,7 +4,13 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/919486580993036288?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1091127174214479872?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DraEosina/status/1247055694718816257?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/urbanx_f/status/1214561908868534273?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,19 +4,13 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1241080586770378752?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1048180290521198593?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1042562813393231873?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/924139283450970112?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1135269106175881216?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1134906717324623872?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/marklewismd/status/1212418205790040066?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1248303421851123713?s=20" %}<br>
 <br>
 <hr>
 

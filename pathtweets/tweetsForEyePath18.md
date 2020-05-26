@@ -4,64 +4,67 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/579987252480200704?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/905414678628769792?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1163792225135841281?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1169614243710173184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1062858393017233409?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1069744359287877634?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1062677178632945666?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/992547226776817665?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1062495966492672000?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/992305591224680449?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/986868955187826688?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/991580719049723904?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/930074790764806149?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/931887078996041729?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/929621749787852800?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/931796462412763138?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/929531147758968832?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/931705844663648256?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/991251429682827265?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1175137411606691840?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1155821772639485952?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1175136119253544960?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1254429286787940352?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1172120186394222592?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/camcath/status/1259158507946827777?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1260388127602081792?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/revodavid/status/1247197653907070978?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1165640986627923968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GilWhitedale/status/1239371616297144326?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1165278599064236033?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JeremiahCharles/status/1237414585579253761?s=20" %}<br>
+{% embed url="https://twitter.com/Myeloma_Doc/status/1258416461271445505?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ThomasSci/status/1228374171614433280?s=20" %}<br>
+{% embed url="https://twitter.com/CraigHorbinski/status/1245342405408276482?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/duty2warn/status/1221117471999922176?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1235470553797906432?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/duty2warn/status/1220429719050559488?s=20" %}<br>
+{% embed url="https://twitter.com/jfdwolff/status/1226517340898123776?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/realagriculture/status/1214653392435470336?s=20" %}<br>
+{% embed url="https://twitter.com/Jim_Weber/status/1217843996418039808?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Jim_Weber/status/1217763542709014534?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,7 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/ReyPathology/status/1210127124209840129?s=20" %}<br>
+{% embed url="https://twitter.com/slsteinmd1/status/1265212876681330690?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/thisbrokenwheel/status/1264024434643361792?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/bangchriisss/status/1244354199971713026?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/toates_19/status/1208282823427338240?s=20" %}<br>
 <br>
 <hr>
 

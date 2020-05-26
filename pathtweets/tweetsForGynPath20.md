@@ -4,34 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/579724508308836352?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/892707979090374656?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1237591783556567040?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/580022170820182016?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1237584815286710272?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1066482556399378432?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1237584161507913728?s=20" %}<br>
+{% embed url="https://twitter.com/Loose_Lab_Rat/status/1255840803005575168?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1058146907426447366?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/981070982445023232?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/985891195393069057?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1255548779664678912?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1184980354203082754?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/trigeminy_henry/status/1232252115940233216?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919770305152684034?s=20" %}<br>
 <br>
 <hr>
 

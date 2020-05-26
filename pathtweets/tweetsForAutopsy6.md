@@ -4,22 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1185167172026261505?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1185177465494351872?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1084966025991401472?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1184502526122582016?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PaulMinda1/status/1257041661332541442?s=20" %}<br>
+{% embed url="https://twitter.com/ColinRCooke/status/1262938557221670914?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TheCanadianMike/status/1235705870048284677?s=20" %}<br>
+{% embed url="https://twitter.com/sciencebeta/status/1259147625254850560?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/MobilePunch/status/1235765797605138432?s=20" %}<br>
+{% embed url="https://twitter.com/TeamCaptainJohn/status/1245847757098823680?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/919746934444777472?s=20" %}<br>
+{% embed url="https://twitter.com/Jay_Rome_Jnr/status/1222410614208913408?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Okizle/status/1207544758383644672?s=20" %}<br>
 <br>
 <hr>
 

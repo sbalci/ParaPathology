@@ -4,34 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1238725072329662464?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1251506212945838083?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1238543854048952320?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1046652103236567041?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1038576181916786690?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1046646186285793285?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/968415904781320192?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1046549404373549056?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/968211233194221568?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/973943095682191360?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/922372628555251712?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/923481049123864576?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/920206151295279104?s=20" %}<br>
+{% embed url="https://twitter.com/amigaRUTH/status/1262590277656731649?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/L_on_Skates/status/1241058730097197056?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1086717182975852545?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1230276350591803406?s=20" %}<br>
+{% embed url="https://twitter.com/AnneMillsMD/status/1234646768001794048?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/djsampson/status/1214711174450700288?s=20" %}<br>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1222221744422969344?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Medscape/status/1227294226746138624?s=20" %}<br>
 <br>
 <hr>
 

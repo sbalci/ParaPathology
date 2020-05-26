@@ -4,28 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/1152012545747644418?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1234742990498926592?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1216054395802128385?s=20" %}<br>
+{% embed url="https://twitter.com/JackWestMD/status/1263472747382013952?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1216054330274516994?s=20" %}<br>
+{% embed url="https://twitter.com/HermelinMD/status/1260033665163091969?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1216053477778116610?s=20" %}<br>
+{% embed url="https://twitter.com/raj_mehta/status/1260007519977566209?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/957076498879455232?s=20" %}<br>
+{% embed url="https://twitter.com/DCSkipperDO/status/1259923302816120832?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/gjardim/status/1244096563305222144?s=20" %}<br>
+{% embed url="https://twitter.com/MarcelaSaebL/status/1247167244389380098?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PMc276/status/1241446336479875073?s=20" %}<br>
+{% embed url="https://twitter.com/ClevelandClinic/status/1241308578838917120?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JMcMahonG/status/1239026567113818113?s=20" %}<br>
+{% embed url="https://twitter.com/madamefang/status/1241200057413701639?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1085347187096281088?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DCSkipperDO/status/1233893163632336896?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/thedextazlab/status/1233140835572703233?s=20" %}<br>
 <br>
 <hr>
 

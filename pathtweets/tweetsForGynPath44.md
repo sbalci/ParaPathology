@@ -4,28 +4,40 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/1057337207898492928?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1105078187216781312?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/1057048695609483264?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/778414332057190400?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1019125987009691648?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/778413825993342976?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1018763560346742785?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/778412320548593664?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lingtotheling/status/1263795815920791552?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1216438074797776896?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1255887904179490822?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1115590575112110081?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CellSignal/status/1234877187989417985?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1025347696071045120?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PittHealthSci/status/1221874334932688896?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/954901856215490560?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/954781037506174976?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1106190556940693504?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1235108152502153216?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DCSkipperDO/status/1230694283017105408?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,31 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1131537016263327745?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1139147725486809088?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1131471120714985474?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/922372628555251712?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1131174597317910529?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1123926550775324672?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1035428102782873600?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1123309444702593024?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1034728774460293121?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1123167129807794176?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/964808401027973120?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1135273133315956736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1117804175704952833?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1135269106175881216?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Andresangel3/status/1243251197479391233?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1134910747216138242?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AmyRemeikis/status/1225584416858107905?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1235243965319806976?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Williamson_SR/status/1226146809237602304?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/UTTurfPath/status/1220208285422444544?s=20" %}<br>
 <br>
 <hr>
 

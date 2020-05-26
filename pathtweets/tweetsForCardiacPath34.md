@@ -4,22 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1230752493828591622?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1237628742933065728?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1229846492090814464?s=20" %}<br>
+{% embed url="https://twitter.com/Katiohead/status/1249571058706862080?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/920589782685585409?s=20" %}<br>
+{% embed url="https://twitter.com/arkanalabs/status/1239654968543662080?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/protoninfo/status/1262715135975583746?s=20" %}<br>
+{% embed url="https://twitter.com/AdelaidaFall/status/1238543162668351488?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kjgillenwater/status/1255197166890438656?s=20" %}<br>
+{% embed url="https://twitter.com/AdelaidaFall/status/1238543483515928583?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TC_133/status/1255179773099343872?s=20" %}<br>
+{% embed url="https://twitter.com/AdelaidaFall/status/1238544819548557312?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AdelaidaFall/status/1238543231702437889?s=20" %}<br>
 <br>
 <hr>
 

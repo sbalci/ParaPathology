@@ -4,28 +4,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/PathologySayah/status/1264669612576321538?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1214216572769841152?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1261397178339262470?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1213129403946979330?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HermelinMD/status/1261454657248870403?s=20" %}<br>
+{% embed url="https://twitter.com/PathologySayah/status/1257519336836812800?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GermHunterMD/status/1254275330199572480?s=20" %}<br>
+{% embed url="https://twitter.com/PathologySayah/status/1256444748199612417?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1226417610323046400?s=20" %}<br>
+{% embed url="https://twitter.com/PathologySayah/status/1256329023170330625?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1226308073473613824?s=20" %}<br>
+{% embed url="https://twitter.com/kriyer68/status/1253541162662506496?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1226415384254873600?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1247953739815796736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/zmadak/status/1220512908901257218?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1248167322805833728?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrGeeONE/status/1247846674313216002?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DraEosina/status/1248182332680482816?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1229420778250129408?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1222530869648166912?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1220711336050446336?s=20" %}<br>
 <br>
 <hr>
 

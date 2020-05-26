@@ -4,22 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/925543929520386050?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1238842030719107072?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1151498297527414784?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/984090280960774144?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AadilAhmedMD/status/1235584285140062209?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/983969479313899521?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Sara_Jiang/status/1234979758305185794?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/983607040667873280?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234520190949437440?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/983366418866495488?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1214608055616200704?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/982883185502535680?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/928182772799217665?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1153321825402839040?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/smlungpathguy/status/1192449364192645121?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/PathologySayah/status/1238880980288638984?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/919623161058009089?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,22 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/BinXu16/status/1093126331246804995?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1100912027093135360?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1264170087445155843?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1249821616521052165?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/KMirza/status/1260374595275821057?s=20" %}<br>
+{% embed url="https://twitter.com/etzioni/status/1220397224548397056?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HermelinMD/status/1260401206859571200?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1218188168878575620?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1259484486825398272?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/preethijaison/status/1220160998427910145?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1218308235628662785?s=20" %}<br>
 <br>
 <hr>
 

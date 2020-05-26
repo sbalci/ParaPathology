@@ -4,43 +4,34 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1262421099918381063?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1008837721652162562?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1258372086915047424?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1007433771908567040?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1253723730884407296?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/946656280424386561?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1090025634703831040?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/946384457316966400?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/oncologician/status/1264209039916806145?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1218204980202496000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/LMBarton1/status/1259638003544227840?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/909460652518969344?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/evolutionarypsy/status/1254790180797480962?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1097804277031096321?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/urbanx_f/status/1244645947214385153?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1096440295250710528?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Path_Matt/status/1241361766841450496?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1189383603563700230?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Yiayia_sue/status/1233477174851776512?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ErnstNordholt/status/1233463552096296965?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1225242671972790272?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/PathologySayah/status/1212912990191673344?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1219521547276374016?s=20" %}<br>
 <br>
 <hr>
 

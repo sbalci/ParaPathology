@@ -4,25 +4,55 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/KMirza/status/1237476059811065857?s=20" %}<br>
+{% embed url="https://twitter.com/Corista_LLC/status/1234873210111504389?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234653495464210432?s=20" %}<br>
+{% embed url="https://twitter.com/ALBoothMD/status/1234192849589043201?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CancerCytopath/status/1234145145462935553?s=20" %}<br>
+{% embed url="https://twitter.com/ALBoothMD/status/1234238642945544192?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathDocBoston/status/1234144066960384000?s=20" %}<br>
+{% embed url="https://twitter.com/ALBoothMD/status/1234243775523766272?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1234124285418958849?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234273689648025601?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1234123986847453185?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234263230396059648?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ACDbio/status/1234101260674125825?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234336841743994882?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/vighnesh_w/status/1234339037608939521?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/vighnesh_w/status/1234332328194785280?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/vighnesh_w/status/1234194812816855041?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/vighnesh_w/status/1234228418163511297?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CArnold_GI/status/1233916897428553728?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CArnold_GI/status/1233916458427543552?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CArnold_GI/status/1233912997581479937?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233916814272258048?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233918140142063617?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233915570078146561?s=20" %}<br>
 <br>
 <hr>
 

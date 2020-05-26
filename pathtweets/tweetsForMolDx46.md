@@ -4,25 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1165652294077157377?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/957841303877967873?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1218987068182777857?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1103447138447564806?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ImperialMed/status/1262665439316004866?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1103444832511500288?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kierisi/status/1255895392987856896?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1235004925282627584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CArnold_GI/status/1235334852607651841?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/kaz_yos/status/1230347851416449030?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/RichShippy/status/1217514916665425922?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1204800995684999169?s=20" %}<br>
 <br>
 <hr>
 

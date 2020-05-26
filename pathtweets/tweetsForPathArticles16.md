@@ -4,52 +4,85 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Gleason4plus5/status/1172182747000950785?s=20" %}<br>
+{% embed url="https://twitter.com/shibi76/status/1265217277042933760?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/barbarakevans/status/1263989952368517122?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/580415060499173377?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/aetiology/status/1250393460835856384?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1176594375062753280?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/MacHealthSci/status/1250121383474061312?s=20" %}<br>
+{% embed url="https://twitter.com/NephJC/status/1261997765615333376?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1085356442020995073?s=20" %}<br>
+{% embed url="https://twitter.com/tandfmedicine/status/1259830680713859074?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/upulie/status/1240631725262135298?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1258459079388745728?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Corista_LLC/status/1239582213479501826?s=20" %}<br>
+{% embed url="https://twitter.com/WEHI_research/status/1254996795681157122?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/absresourcepage/status/1235964357315616768?s=20" %}<br>
+{% embed url="https://twitter.com/adamjohnwhite/status/1254372890172145664?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CancerCytopath/status/1234145145462935553?s=20" %}<br>
+{% embed url="https://twitter.com/antybuddy/status/1250419983537954817?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathDocBoston/status/1234144066960384000?s=20" %}<br>
+{% embed url="https://twitter.com/Primary_Immune/status/1249754009117884425?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1226208069253656576?s=20" %}<br>
+{% embed url="https://twitter.com/ProfRayWills/status/1249695374752632832?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1179828411684007938?s=20" %}<br>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1248433157549916166?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/EvaMaeRey/status/1224764472859844609?s=20" %}<br>
+{% embed url="https://twitter.com/RJ_Phoenix16/status/1245364599911845888?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1053380518698463232?s=20" %}<br>
+{% embed url="https://twitter.com/pinardag/status/1240144387671232512?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/trishgreenhalgh/status/1208289152657178624?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1085344814051328000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathologistmag/status/1205876616381059072?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1082731931081547777?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1081915296066220032?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1081552903792410624?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1081190516929245185?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MRC_LMB/status/1235498332295966720?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/SpringerPlants/status/1234869894400872451?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Claire_M/status/1234815412463980546?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/tboecker/status/1234794478277419008?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/NS4Histotech/status/1225539716524707844?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/GdnUniversities/status/1220358806774910976?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DNABARCODE/status/1219636857853612034?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/LSEImpactBlog/status/1206937209124859905?s=20" %}<br>
 <br>
 <hr>
 

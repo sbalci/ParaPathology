@@ -4,55 +4,76 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/976155775105028096?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1161251363155841030?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/709124317145989120?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1160868569619603456?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1263471331254906881?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1202486067791720449?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1194875841450168321?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1104174320576679937?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1194332248385806342?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1103474501780557826?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1193416680287784965?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1014535070755926016?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1094570198529523712?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/946565664180912128?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1094026566655332352?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/946293847532769281?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1010146221061648385?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/904068454386470912?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1202583334662135809?s=20" %}<br>
+{% embed url="https://twitter.com/Nat_SCA/status/1263507345557995523?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/KMirza/status/1257750111993704452?s=20" %}<br>
+{% embed url="https://twitter.com/UMichPath/status/1259866800512262151?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Path_Matt/status/1254756243903823873?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/920190219973832704?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/mlage/status/1234257102303985664?s=20" %}<br>
+{% embed url="https://twitter.com/david_hzt/status/1245436187529142284?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/_atanas_/status/1228723395367460866?s=20" %}<br>
+{% embed url="https://twitter.com/amigaRUTH/status/1238347325803769858?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/EMJOncology/status/1217710716410421248?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/512957241784549376?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/urbanx_f/status/1212891511098093568?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919772331718750208?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AnnSurgOncol/status/1211255665471213570?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919771470967873537?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1234545297906425857?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/nusrat_xahra/status/1233094157289316352?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/440571272913620992?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/pathphyo/status/1227966562813956096?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/440277873274793984?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Jim_Weber/status/1216701454863556613?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrGeeONE/status/1207657149754675200?s=20" %}<br>
 <br>
 <hr>
 

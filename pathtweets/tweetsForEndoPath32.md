@@ -4,37 +4,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/837346178769498113?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1141528266517315584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1036785440592809984?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1043650083852406785?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1036782474766901248?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1042562813393231873?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1036781717111984128?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1139901630525202432?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1036775886966513665?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1139539244874129408?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/965170856782528513?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1139176863773974529?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1118164428283944961?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1138814487186890752?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/OC_Expat/status/1257359068387332096?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1138452104119508994?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ProfMattFox/status/1255522079375601667?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/drsys02/status/1245492795575394309?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/duckhuca/status/1217370804289179649?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1138089699552169987?s=20" %}<br>
 <br>
 <hr>
 

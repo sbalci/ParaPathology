@@ -4,13 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1243254925057916933?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/976359372199673857?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1044193713100996608?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/975655898751295488?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/922870553970491393?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1249071731601539073?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1248709346378371072?s=20" %}<br>
 <br>
 <hr>
 

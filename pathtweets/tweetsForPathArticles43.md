@@ -4,67 +4,64 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/1062815027969826829?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1214794445310373890?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1177429294513119232?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1114905204607078401?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1171755797606481921?s=20" %}<br>
+{% embed url="https://twitter.com/CombatSportPhys/status/1263946564046852102?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1100761437331472386?s=20" %}<br>
+{% embed url="https://twitter.com/MathCancer/status/1263481542837444609?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/948192345433964555?s=20" %}<br>
+{% embed url="https://twitter.com/DrSamreenfatima/status/1258474461935931394?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/945537084709797888?s=20" %}<br>
+{% embed url="https://twitter.com/FamMD_/status/1256540788411871232?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NCRI_partners/status/1260881141877350400?s=20" %}<br>
+{% embed url="https://twitter.com/CogNerd/status/1254848494130458624?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TruthSite/status/1248597243587899392?s=20" %}<br>
+{% embed url="https://twitter.com/researchinfo/status/1253592520015187968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ProfRayWills/status/1248503969162219521?s=20" %}<br>
+{% embed url="https://twitter.com/SAGEHealthInfo/status/1253685406744354819?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/mallidalli/status/1248420092435550211?s=20" %}<br>
+{% embed url="https://twitter.com/moved_average/status/1249981647761571840?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/LarsDenmar/status/1245266039518171136?s=20" %}<br>
+{% embed url="https://twitter.com/moved_average/status/1249982949463818240?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/EMJOncology/status/1244168685474009088?s=20" %}<br>
+{% embed url="https://twitter.com/asunza/status/1249403680333447169?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CMichaelGibson/status/1240833157198471168?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1247228578825039872?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/accuweather/status/1239869167941103617?s=20" %}<br>
+{% embed url="https://twitter.com/SciReports/status/1243794969585954817?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1070074772694990848?s=20" %}<br>
+{% embed url="https://twitter.com/nusrat_xahra/status/1238488773782011908?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1069712385525592065?s=20" %}<br>
+{% embed url="https://twitter.com/chassiskat/status/1237415359918952448?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1069349998670819328?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1068625218904694784?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JBBC/status/1234892572394389509?s=20" %}<br>
+{% embed url="https://twitter.com/narceducator/status/1230860572075401218?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/cindrianna/status/1233826050221789190?s=20" %}<br>
+{% embed url="https://twitter.com/CogNerd/status/1222702714703859712?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/sowhatfaith/status/1222002624465113089?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/oncologician/status/1219284385091842048?s=20" %}<br>
+{% embed url="https://twitter.com/TimAllenMDJD/status/1219375843048411136?s=20" %}<br>
 <br>
 <hr>
 

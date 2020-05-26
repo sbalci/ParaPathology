@@ -4,37 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/954000399647870978?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/975504141190496256?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/953223283465388032?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/707705481335324677?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/951876459638992896?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1185169855252594689?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/581158742290526208?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1234165941606371328?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/581065946292420608?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580540063328677888?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1182008181746257920?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1213107401102114816?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/rovingatuscap/status/567463519827005440?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AnapathResident/status/1235114440057446402?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AnapathResident/status/1235113020944084992?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1078656890110914560?s=20" %}<br>
 <br>
 <hr>
 

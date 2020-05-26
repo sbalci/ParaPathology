@@ -4,25 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/948468511592013824?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1181805287218524161?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/948106061747068928?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1209552654466048000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/947743613999398912?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1208827880102223877?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/947471775004164097?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1089925612620386304?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/merva_st/status/918149666780405760?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/OSUCCC_James/status/1225105557981298688?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919745006713192448?s=20" %}<br>
 <br>
 <hr>
 

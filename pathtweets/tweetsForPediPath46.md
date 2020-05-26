@@ -4,31 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/947653005976879104?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1069741862548848640?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1218420126006968320?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/952606439687651328?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/neiltheknee/status/1262694501572804608?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1211679859098947584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PatelOncology/status/1226911468379000832?s=20" %}<br>
+{% embed url="https://twitter.com/ERDENEROZER/status/1259229768450523136?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/master_usmle_rv/status/1224176203809996800?s=20" %}<br>
+{% embed url="https://twitter.com/David_Dobbs/status/1262193583085563913?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Future_SpaceDad/status/1217817183096463360?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1258535835558789120?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GEHealthcare/status/1214268403755692032?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1255484227245576193?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1213330968943173632?s=20" %}<br>
+{% embed url="https://twitter.com/ginnylourn/status/1241924156784082944?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1049829370393714689?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919745006713192448?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrJHK/status/1225696841884266498?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/mreyesm/status/1208092040996773888?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,7 +4,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ForensicPath pages here: https://serdarbalci.netlify.com/categories/ForensicPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Gforceatlas/status/1248272047437942784?s=20" %}<br>
+{% embed url="https://twitter.com/estheryoud/status/1255558194400759808?s=20" %}<br>
 <br>
 <hr>
 

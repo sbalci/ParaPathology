@@ -4,34 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/feldstej/status/1234905205403197441?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1231985617132818434?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234841595276603396?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1230895482018435073?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234891331916488709?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1230568839223685120?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234871774975791105?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234898874021679110?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234883775399702531?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234892577452756993?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234835966428372993?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234888821235441665?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234877496279130112?s=20" %}<br>
+{% embed url="https://twitter.com/ACDbio/status/1234569478211391490?s=20" %}<br>
 <br>
 <hr>
 
