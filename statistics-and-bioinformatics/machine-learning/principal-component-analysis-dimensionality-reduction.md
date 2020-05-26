@@ -1,4 +1,4 @@
-# Principal Component Analysis \(Dimensionality Reduction\)
+# Principal Component Analysis
 
 ## Principal Component Analysis \(Dimensionality Reduction\)
 

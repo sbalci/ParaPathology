@@ -1,4 +1,4 @@
-# Decision Tree \(CART\)
+# Decision Tree
 
 ## Decision Tree \(CART\)
 

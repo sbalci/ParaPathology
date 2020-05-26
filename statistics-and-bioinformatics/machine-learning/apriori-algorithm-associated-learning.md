@@ -1,4 +1,4 @@
-# Apriori Algorithm \(Associated Learning\)
+# Apriori Algorithm
 
 ## Apriori Algorithm \(Associated Learning\)
 
