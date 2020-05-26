@@ -1,0 +1,107 @@
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{% embed url="https://twitter.com/Gleason4plus5/status/1185722052927508480?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Gleason4plus5/status/1028584875140497409?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1175448859230789632?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1175402805378654208?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CleClinicMD/status/1263863440642150402?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1122967598801485824?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/umbrios/status/1259301075712122880?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/ScottAdamsSays/status/1258081075458273281?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Corista_LLC/status/1256716345007357961?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/KoparaFallsKid/status/1255744403362033665?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/yaelheher/status/1253872372295372803?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/mybendystraw/status/1253860222025728000?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/KRey729/status/1250150797398159363?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/EdDarrell/status/1250142175658225664?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/matthewherper/status/1248588202883121158?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/gocomics/status/1241424337367969792?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/moorejh/status/1241393739928649729?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/kindcongress/status/1240247333029363712?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/RichShippy/status/1235701166593339392?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/mtscompany/status/1235765290862030849?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Inevitable_ET/status/1234661604861497344?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/TheUSCAP/status/1233773976003825665?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/cytopathology/status/1227247714272006145?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/marenwhymd/status/1224891389395251200?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/EikoFried/status/1222944119091335169?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/StephStammel/status/1221555881931759617?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/EBmedicine/status/1219635792714387461?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/InterSystemsUK/status/1219628255189356546?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1215257050772578304?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/TeachTherapy/status/1215245614335905797?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/dpatil/status/1210959518680543232?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/trishgreenhalgh/status/1209902859338354688?s=20" %}<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

@@ -1,0 +1,62 @@
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{% embed url="https://twitter.com/rovingatuscap/status/890537798939357184?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/smlungpathguy/status/1241698125724758022?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/988318720740081673?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/930665331915403264?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/930437255029596160?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Gleason4plus5/status/1171556335638462464?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1158099696998469632?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1157358064783253505?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/StressMarq/status/1261348294653104129?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/dynarski/status/1256984210847551497?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/antybuddy/status/1250074316093509638?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrHowieMell/status/1237479491905224705?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/LC_Analysis/status/1236923242855583745?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1230672178791829505?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/RaulFranca1/status/1226852095967535105?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/smlungpathguy/status/1180285879329447936?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/duffy_ma/status/1218537082781683713?s=20" %}<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #IHCPath pages here: https://serdarbalci.netlify.com/categories/IHCPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

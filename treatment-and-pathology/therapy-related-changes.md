@@ -7,7 +7,6 @@
 
 
 
-
 #### [Iatrogenic GI Tract Lesions: Some Tough Pills to Swallow](https://www.facebook.com/pathCast/videos/589123181695672/)
 
 {% embed url="https://www.facebook.com/pathCast/videos/589123181695672/" %}

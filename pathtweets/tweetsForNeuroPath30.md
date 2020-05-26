@@ -1,0 +1,26 @@
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{% embed url="https://twitter.com/Patholwalker/status/1041113141466169344?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1040931928025645056?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1040750724345286656?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1040388304808685570?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MalakAbed/status/1207658194824310784?s=20" %}<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/

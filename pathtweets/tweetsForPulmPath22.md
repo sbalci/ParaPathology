@@ -1,0 +1,68 @@
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{% embed url="https://twitter.com/rovingatuscap/status/838846777897922560?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/838846329954701312?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/838846078648795137?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/838845748133396481?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/838839286237638657?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/579631543884316672?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/smlungpathguy/status/1236410460011999233?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/smlungpathguy/status/1236180922430521346?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1155094173994737664?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1053435326822154240?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/978654757106561025?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/978292340614770689?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1147821259360821248?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1063072420599422977?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/LMBarton1/status/1247877838038016000?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1245721576680484864?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/lfwalkerlw/status/1243894096600739842?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Path_Matt/status/1238652030153097217?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/BinXu16/status/1057311075522306056?s=20" %}<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See other #PulmPath pages here: https://serdarbalci.netlify.com/categories/PulmPath/ 
+See selected social media based textbook project here: http://www.patolojinotlari.com/
