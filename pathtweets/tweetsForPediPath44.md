@@ -4,37 +4,40 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1217525237081759744?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1205514085552386049?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1117583878661660672?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1205511496693768192?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1026434964567420930?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1018038690617028608?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/954901856215490560?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1017797052858753024?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1214216572769841152?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1226092627277361152?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1213129403946979330?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1200082933379403776?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ngwata_/status/1249283877878849536?s=20" %}<br>
+{% embed url="https://twitter.com/HarvardHealth/status/1264239690640736262?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1248215079075614721?s=20" %}<br>
+{% embed url="https://twitter.com/jwbelmon/status/1258058205642571776?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DanglisFotiosMD/status/1240972677080322049?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1253809441796849664?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kevinnbass/status/1239312163430371334?s=20" %}<br>
+{% embed url="https://twitter.com/DraEosina/status/1229916925385375745?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/StonyBrookMed/status/1213934698323480578?s=20" %}<br>
+{% embed url="https://twitter.com/AdamGomezMD/status/1226161517361369088?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/dgkeyes/status/1220218563211870208?s=20" %}<br>
 <br>
 <hr>
 

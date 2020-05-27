@@ -4,16 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #BreastPath pages here: https://serdarbalci.netlify.com/categories/BreastPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1243979704140529666?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1234479717677326336?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/972976591788589056?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1234470630642159616?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/joannejacobs/status/1259374483208458243?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/921248265252716546?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/440522913586769921?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/921247740838871040?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/921012689903562752?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/919770305152684034?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/919769760585342976?s=20" %}<br>
 <br>
 <hr>
 

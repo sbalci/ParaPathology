@@ -4,34 +4,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/928806288485629952?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1151832396884353024?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1254123266907820037?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/924909596509999105?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1253760882536001540?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/924637713780764672?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/WIMLF/status/1253326086261227521?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1144941814526435330?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DataScienceCtrl/status/1249754476002631680?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1249412005687164936?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1244973721212895234?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1249049619402801153?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/master_usmle_rv/status/1230133025746255872?s=20" %}<br>
+{% embed url="https://twitter.com/MysorekarLab/status/1263870047862358017?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/maan_pagalan/status/1218888296362696705?s=20" %}<br>
+{% embed url="https://twitter.com/emckaymd/status/1263146983038083076?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/mnt/status/1213326737163145216?s=20" %}<br>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1242542725645336579?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathphyo/status/1211536974747594752?s=20" %}<br>
+{% embed url="https://twitter.com/JohnMashey/status/1241520171526701056?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/PathDocBoston/status/1227393501500887040?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/hmason/status/1219310076290306048?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AJKDonline/status/1216735460468248578?s=20" %}<br>
 <br>
 <hr>
 

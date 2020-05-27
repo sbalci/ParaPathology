@@ -4,16 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Sara_Jiang/status/1240820979062001665?s=20" %}<br>
+{% embed url="https://twitter.com/CaKizil/status/1250102671257874432?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234878908115378178?s=20" %}<br>
+{% embed url="https://twitter.com/AMPath/status/1246875453501120512?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Prof_M_Ristow/status/1231904530230644741?s=20" %}<br>
+{% embed url="https://twitter.com/olytic/status/1241823029832941570?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathogenomenick/status/1219299716061696005?s=20" %}<br>
+{% embed url="https://twitter.com/ARUPLabs/status/1221489911632662529?s=20" %}<br>
 <br>
 <hr>
 

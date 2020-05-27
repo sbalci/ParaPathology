@@ -4,46 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1230208888395321345?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1119577195410706434?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1032831277542531072?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/955626735734702080?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1032790184775929858?s=20" %}<br>
+{% embed url="https://twitter.com/ctisus/status/1259513529134206976?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/920348135246905345?s=20" %}<br>
+{% embed url="https://twitter.com/kriyer68/status/1258061118951456768?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/mreyesm/status/1262427158682710026?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1241343550920458240?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/forthejon/status/1259940701040783361?s=20" %}<br>
+{% embed url="https://twitter.com/martiponi/status/1217701281835421697?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/martiponi/status/1256221062712393733?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1249510112336605187?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1247154339640115200?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Bongpandaa/status/1247099569051021313?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ThomasSci/status/1243804794390745090?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1241146250889748481?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/andrewheiss/status/1234332940844371968?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/JohnsHopkinsSPH/status/1214988909245059079?s=20" %}<br>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1217526879181209600?s=20" %}<br>
 <br>
 <hr>
 

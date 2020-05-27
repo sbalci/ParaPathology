@@ -4,31 +4,34 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/MArnold_PedPath/status/1234135898469498882?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234158193133015040?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234541538434310145?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234156379205554176?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234545297906425857?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234165790565232640?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234537753284612103?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234171762906021888?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234509360472240129?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234173483703132161?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234533975533785088?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234160010147463168?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234536499556818945?s=20" %}<br>
+{% embed url="https://twitter.com/DrFNA/status/1234163905976385536?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234540299394875393?s=20" %}<br>
+{% embed url="https://twitter.com/KaitlinSundling/status/1234153026627047425?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/evemariecrane/status/1234544666839638018?s=20" %}<br>
+{% embed url="https://twitter.com/evemariecrane/status/1234124776282710016?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Path_Matt/status/1234149535896625153?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,25 +4,40 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1236830758582378496?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1251506212945838083?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/980587738071154688?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1047738097054625792?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/980104471068868608?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1047636656176549888?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1148371592734527488?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/974909606475440128?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1153017092163219457?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1152229705699024899?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/david_hzt/status/1262759376852414474?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/975509761750790144?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/RanaAldreesMD/status/1234316285963464707?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1139343399314763779?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/jopo899/status/1252247278095605762?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/KaitlinSundling/status/1233966619140874241?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1231978691560906753?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/cytopathology/status/1225767084954656768?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1210405381135990784?s=20" %}<br>
 <br>
 <hr>
 

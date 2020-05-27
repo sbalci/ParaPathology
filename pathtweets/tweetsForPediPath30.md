@@ -4,28 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/973701453897383936?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1235217159720075274?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1152285536243060737?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1136610836170981377?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1245689960390430723?s=20" %}<br>
+{% embed url="https://twitter.com/MasriAhmadMD/status/1264338325235621889?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1245380912168271873?s=20" %}<br>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1255887904179490822?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PrinSciAdvGoI/status/1261331569706446850?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1234611657881468928?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1222172877581099014?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/JavaScript_Plow/status/1218567247796432897?s=20" %}<br>
+{% embed url="https://twitter.com/ERDENEROZER/status/1236039947079086081?s=20" %}<br>
 <br>
 <hr>
 

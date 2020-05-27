@@ -4,25 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #CardiacPath pages here: https://serdarbalci.netlify.com/categories/CardiacPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/951277472091324417?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/946203227573202944?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathologistmag/status/1258686833057243136?s=20" %}<br>
+{% embed url="https://twitter.com/_SaranyaS_/status/1262449212282646528?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/robertdunn7/status/1255457424762429442?s=20" %}<br>
+{% embed url="https://twitter.com/ariesjill/status/1261044021834723328?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HerbScribner/status/1255461107159969794?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AndyVermaut/status/1255429178083749888?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/htjlaw/status/1255423764931784705?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/cardiojaydoc02/status/1213885483018797056?s=20" %}<br>
+{% embed url="https://twitter.com/CMichaelGibson/status/1238661630222688256?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,7 +4,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #OralPath pages here: https://serdarbalci.netlify.com/categories/OralPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1246469773338296320?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1241344541866721283?s=20" %}<br>
 <br>
 <hr>
 

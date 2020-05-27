@@ -4,37 +4,55 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/feldstej/status/1235686661817843712?s=20" %}<br>
+{% embed url="https://twitter.com/ALBoothMD/status/1234238642945544192?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235692840992346112?s=20" %}<br>
+{% embed url="https://twitter.com/ALBoothMD/status/1234243775523766272?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235716828535623680?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234273689648025601?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235702921020481538?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234263230396059648?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235690345612087300?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234336841743994882?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235637492969353218?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234339037608939521?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235652601099759618?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234332328194785280?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235731903946293248?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234194812816855041?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235787206926782467?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234228418163511297?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1235784728436973568?s=20" %}<br>
+{% embed url="https://twitter.com/vighnesh_w/status/1234326936421203968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/vighnesh_w/status/1232721469827760128?s=20" %}<br>
+{% embed url="https://twitter.com/CArnold_GI/status/1233916897428553728?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CArnold_GI/status/1233916458427543552?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CArnold_GI/status/1233912997581479937?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233916814272258048?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233918140142063617?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233915570078146561?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/PathDocBoston/status/1233918938360107010?s=20" %}<br>
 <br>
 <hr>
 

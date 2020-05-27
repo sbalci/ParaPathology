@@ -4,25 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1140416203573174272?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1129680411460694018?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1140053782409035776?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1032826482714759168?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1139328929557172224?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1032825411590189057?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1042200402588917760?s=20" %}<br>
+{% embed url="https://twitter.com/Bio_SB/status/1244619178922979335?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1042019193690832896?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/1041113141466169344?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/1040931928025645056?s=20" %}<br>
+{% embed url="https://twitter.com/theIBTA/status/1220206746674892800?s=20" %}<br>
 <br>
 <hr>
 

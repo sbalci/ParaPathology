@@ -4,52 +4,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/DrFNA/status/1265110254200729600?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1237722227539349506?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1094939383323598848?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1087300013645021184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/cwru/status/1263522590561361921?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1085862961522987008?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/E_Heidi_Cheek/status/1254935753034997761?s=20" %}<br>
+{% embed url="https://twitter.com/Janiranavarro/status/1264944255648198661?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AmyHDeekenMD/status/1254433317627330561?s=20" %}<br>
+{% embed url="https://twitter.com/Path_Matt/status/1262154943739330561?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SUNYPress/status/1250494920130953216?s=20" %}<br>
+{% embed url="https://twitter.com/BodyAnatomy/status/1257015583641677829?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ASIPath/status/1242149700918263813?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1253090262915530752?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UABPathology/status/1234517614023577601?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1253695993297731585?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1174873151118991360?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1253371186026864646?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1217971354277826560?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1253090719008296960?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1210397150787461122?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1253479526216142849?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1207406888276463616?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1253039905694859264?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1207989944720846849?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1251862984823132160?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1207405027444215808?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1060249236418256897?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1207994002173128709?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1239393398626418688?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1207395897186893824?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1237626057190227969?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrGeeONE/status/1237378864655073280?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/HermelinMD/status/1230685243843194882?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AmyHDeekenMD/status/1220727108995031043?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1204144179363774464?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1204868280613130240?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/luishcruzc/status/1206902728519278593?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AmyHDeekenMD/status/1205913413647585280?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AmyHDeekenMD/status/1205964849529937921?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrGeeONE/status/1205044976532566016?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,25 +4,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/ALBoothMD/status/1234238642945544192?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1234243775523766272?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1233916814272258048?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1233918140142063617?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1233915570078146561?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/zucchiatti_/status/1232694172655800322?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1218875379278143488?s=20" %}<br>
+{% embed url="https://twitter.com/Path_Matt/status/1207270555382091776?s=20" %}<br>
 <br>
 <hr>
 

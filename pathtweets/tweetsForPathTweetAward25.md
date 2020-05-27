@@ -4,43 +4,46 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathTweetAward pages here: https://serdarbalci.netlify.com/categories/PathTweetAward/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/579652770816462848?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1228851611121922050?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1254687845501079553?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1228802411252342784?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1254764022097993728?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1248651564367187970?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1254744250375340033?s=20" %}<br>
+{% embed url="https://twitter.com/oreoimc/status/1240836001691467776?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1254833649431674881?s=20" %}<br>
+{% embed url="https://twitter.com/premcharles/status/1240772661275328512?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CostinAntonescu/status/1251163877318053890?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1237440214445871105?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1242474748526944256?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1239030792044580866?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1241420218456592384?s=20" %}<br>
+{% embed url="https://twitter.com/PathologySayah/status/1236156784525668352?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1241393569270808579?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1231978691560906753?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathologySayah/status/1233581863207391232?s=20" %}<br>
+{% embed url="https://twitter.com/Shoogie5/status/1226726631810719745?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HermelinMD/status/1220156031352868864?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1220338035046350849?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1207000188088393728?s=20" %}<br>
+{% embed url="https://twitter.com/ElsevierConnect/status/1218209737466093569?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/luishcruzc/status/1206983195171811328?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1210405381135990784?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/HermelinMD/status/1204064587382972416?s=20" %}<br>
 <br>
 <hr>
 

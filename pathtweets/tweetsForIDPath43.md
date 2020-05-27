@@ -4,19 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/NPR/status/1261843867848105984?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1206472365569261569?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/flygirlNHM/status/1255760699277656066?s=20" %}<br>
+{% embed url="https://twitter.com/SenWhitehouse/status/1251202486523887616?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/RhysHParry/status/1250001621624320001?s=20" %}<br>
+{% embed url="https://twitter.com/PeterHotez/status/1248234353571827712?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/HanbyAndrew/status/1244503339573882881?s=20" %}<br>
+{% embed url="https://twitter.com/NatureRevMicro/status/1245277021481177088?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kmcnam1/status/1239396144884547584?s=20" %}<br>
+{% embed url="https://twitter.com/hansijzerman/status/1238881652673298432?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrSusanNasif/status/1231281947692929024?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CleClinicMD/status/1226258401098969088?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,19 +4,22 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/1234890161416097792?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/920529367930826752?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/922054849411235840?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1228386182897315840?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NHSDigital/status/1242494550972694531?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1228023795924992000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lara_pijuan/status/1222657726637117440?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1227661407702921216?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1211312793288355842?s=20" %}<br>
+{% embed url="https://twitter.com/DataScienceCtrl/status/1249754476002631680?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnnalsofSurgery/status/1206915227729588224?s=20" %}<br>
 <br>
 <hr>
 

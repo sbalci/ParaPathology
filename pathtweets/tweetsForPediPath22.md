@@ -4,40 +4,58 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1061589922014875650?s=20" %}<br>
+{% embed url="https://twitter.com/martiponi/status/1262502008487063553?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1061408719919927296?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/838835028717109250?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/986506528302579713?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1152919667901521920?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/929349931420213248?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1053254130150457349?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1254485653586415616?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1051804456071847936?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1259653197863571457?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/925136147369508864?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/570433347157143552?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1161762040702275584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrSandyMinck/status/1247666505094840320?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1250770422913695745?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Bio_SB/status/1244619178922979335?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1250408034381238272?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1235384437359206400?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1250136796257755141?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TheLastPirateLA/status/1235378140383305728?s=20" %}<br>
+{% embed url="https://twitter.com/Loose_Lab_Rat/status/1263899576949489665?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/master_usmle_rv/status/1224176203809996800?s=20" %}<br>
+{% embed url="https://twitter.com/SamWardeWriter/status/1254999627386011650?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CleClinicMD/status/1243155490172887040?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Path_Matt/status/1243137641954099201?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/UABPathology/status/1234907685151133696?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/oncologician/status/1230523747867607040?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/mikelove/status/1222366856708681728?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/mem_lewis/status/1219061609114587136?s=20" %}<br>
 <br>
 <hr>
 

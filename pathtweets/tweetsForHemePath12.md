@@ -4,40 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1179217595825872897?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/993755363118743552?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1065411452532486147?s=20" %}<br>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1245692489983459329?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1263084755052122112?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234545297906425857?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1257286693427777536?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234536499556818945?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/drsys02/status/1256187778330656769?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234540299394875393?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1256199386083794945?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1229397792105345025?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1239907208030236673?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1238819885481955331?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234883775399702531?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1065379080529477632?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1222149985782915072?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/KMirza/status/1207026870363013120?s=20" %}<br>
+{% embed url="https://twitter.com/OncLive/status/1209171890251677696?s=20" %}<br>
 <br>
 <hr>
 

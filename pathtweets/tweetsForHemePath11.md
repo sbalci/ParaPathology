@@ -4,19 +4,52 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1183022674554961923?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1174325310914850816?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1182660659256942593?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1174144114771673089?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1182503635852218368?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1173962923166715904?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1261997591094538240?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1173781722510446593?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1254387453043113989?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1173600533686341632?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/smlungpathguy/status/1208820148884398081?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1235558395316338690?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1234541538652434432?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1234516547424653317?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1234535268406919168?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1234531649179856897?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1234506299695665152?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1225773925243772929?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Tom_J_Giordano/status/1225767588833177602?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/440488781569736704?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1208741629630275585?s=20" %}<br>
 <br>
 <hr>
 

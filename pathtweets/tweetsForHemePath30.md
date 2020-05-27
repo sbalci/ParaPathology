@@ -4,16 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1251850740156547072?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1254108909373186053?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/farrell_katrina/status/1251257120269484033?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1237628742933065728?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1241356600281124864?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1237628478180061184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1214168935123345408?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1237626329647865856?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/967707966055985152?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/921858480666853376?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/evemariecrane/status/1226297819075633154?s=20" %}<br>
 <br>
 <hr>
 

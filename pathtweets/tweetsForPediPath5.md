@@ -4,40 +4,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/976161735160688641?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1258417177511821313?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/976110614278938624?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1185161864105193474?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1094026566655332352?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1234165941606371328?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1009460946035621889?s=20" %}<br>
+{% embed url="https://twitter.com/ngwata_/status/1249283877878849536?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/942851543237214208?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1248215079075614721?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1262916953364193280?s=20" %}<br>
+{% embed url="https://twitter.com/DanglisFotiosMD/status/1240972677080322049?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/locsei/status/1249034947207352323?s=20" %}<br>
+{% embed url="https://twitter.com/kevinnbass/status/1239312163430371334?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/aetiology/status/1237589409484034048?s=20" %}<br>
+{% embed url="https://twitter.com/OhioStateMed/status/1235582178932727809?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/QualityJill/status/1235317563086778371?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1055564981654044673?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/FrontMedicine/status/1216760829325934594?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/RetoPaul/status/1209150920405213191?s=20" %}<br>
+{% embed url="https://twitter.com/StonyBrookMed/status/1213934698323480578?s=20" %}<br>
 <br>
 <hr>
 

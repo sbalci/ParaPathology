@@ -4,13 +4,13 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/AstuteFellow/status/1254925589187887107?s=20" %}<br>
+{% embed url="https://twitter.com/RoxanaDaneshjou/status/1264605932698271744?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kathryniveyy/status/1216787996034269184?s=20" %}<br>
+{% embed url="https://twitter.com/DoctorYasmin/status/1245036930909126657?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/RichardReichle/status/1204392710335029248?s=20" %}<br>
+{% embed url="https://twitter.com/NatureRevMicro/status/1235301010052177921?s=20" %}<br>
 <br>
 <hr>
 

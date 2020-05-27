@@ -4,25 +4,13 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/579993792008294401?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1251495197449560064?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1171838190631567360?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1251132812469645312?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234243285683757057?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234244579936874496?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234245800013770757?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234239518691266561?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234240781906477056?s=20" %}<br>
+{% embed url="https://twitter.com/JournalCancer/status/1209189464356147201?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,10 +4,28 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Gleason4plus5/status/1161758305133518848?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1244893655246094336?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/971375427997577216?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1244160925038301184?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1143496797060341763?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1045824582492377088?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1045643382511493120?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1045462178633936896?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1045280955450028032?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CaDxPath/status/1233955690399428608?s=20" %}<br>
 <br>
 <hr>
 

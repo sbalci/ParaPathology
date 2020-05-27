@@ -4,46 +4,22 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1224624167699537920?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1235821342672318464?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/forthejon/status/1234536136011218944?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1235827062234959872?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1234186117986971648?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1235822656978468865?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234125012342333440?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1234723801553760257?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234162778430111744?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1234741424517550081?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234161672853557249?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234148924543447040?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234164459171545088?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234164780308385792?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234164488561016837?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234164357635772419?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234131350669668352?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234133817130090496?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AgilentDGG/status/1226951719570948097?s=20" %}<br>
+{% embed url="https://twitter.com/AnapathResident/status/1234671350809149440?s=20" %}<br>
 <br>
 <hr>
 

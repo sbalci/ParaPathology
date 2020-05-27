@@ -4,40 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1108704574993358849?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/709513590135336960?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1108523359233404928?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1264373762432131072?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1108342160024174593?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1198499779669417985?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1108160951520395264?s=20" %}<br>
+{% embed url="https://twitter.com/ctisus/status/1259223535098175492?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/949827672711995392?s=20" %}<br>
+{% embed url="https://twitter.com/DraEosina/status/1226095111454547969?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1249134158040961024?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1208016873985576966?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/KMirza/status/1245483287444848645?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1240269438034890756?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234912752969375747?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234539629954654214?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1219250868261924865?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1215626998497845248?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1206929688951762945?s=20" %}<br>
 <br>
 <hr>
 

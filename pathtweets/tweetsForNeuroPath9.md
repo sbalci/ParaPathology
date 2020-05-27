@@ -4,34 +4,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1186102985245376518?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1177578861871026177?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1087865403114582016?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1177042051885481985?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1087684183546310657?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1177023901932511232?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1087502966720933888?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1177018548448706560?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1087321757235564545?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/998829436370763777?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1003541102337523712?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1204487214454968320?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1220378338121920513?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1064207675217522688?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1220344089440329728?s=20" %}<br>
+{% embed url="https://twitter.com/CraigHorbinski/status/1226860488182632449?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1220343442364141569?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1215368220619788288?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1219376341851824131?s=20" %}<br>
 <br>
 <hr>
 

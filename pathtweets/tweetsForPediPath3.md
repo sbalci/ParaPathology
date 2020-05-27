@@ -4,28 +4,40 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/SocPediPath/status/1263945038406582274?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/940405021102841856?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/martiponi/status/1260853496716431360?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1236791708119162880?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BioMedCentral/status/1255504340040790017?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1235054635414507520?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SciReports/status/1250121668057587718?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1263976937938194432?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/advancedmd/status/1246900419382718469?s=20" %}<br>
+{% embed url="https://twitter.com/GSotomayorD/status/1263984676324155392?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/upulie/status/1236495819177508864?s=20" %}<br>
+{% embed url="https://twitter.com/imtryam/status/1262040786746527744?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ERDENEROZER/status/1234832761845960704?s=20" %}<br>
+{% embed url="https://twitter.com/aetiology/status/1259347834240983042?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1055555493899444224?s=20" %}<br>
+{% embed url="https://twitter.com/AaronCohenGadol/status/1257702271200169984?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MicrobiomDigest/status/1251937098443001856?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CodeShip/status/1245789094967377929?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CleClinicMD/status/1244352628374392832?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/CleClinicMD/status/1227100952647192577?s=20" %}<br>
 <br>
 <hr>
 

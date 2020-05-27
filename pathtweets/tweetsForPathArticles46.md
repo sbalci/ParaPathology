@@ -4,64 +4,76 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1184087565609111552?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/718212013407801344?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1182961635754987521?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1164429402362601473?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/948192345433964555?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/908274437597925378?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1207683516890255361?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1196509888928788481?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/WildlifeMag/status/1264086159547944962?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1195361576037048320?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/EMJOncology/status/1263150015620567040?s=20" %}<br>
+{% embed url="https://twitter.com/kaz_yos/status/1262721418611118082?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/David_Dobbs/status/1262193583085563913?s=20" %}<br>
+{% embed url="https://twitter.com/kickstarter/status/1260609528644751361?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AdilSaribay/status/1246319312320843776?s=20" %}<br>
+{% embed url="https://twitter.com/dataandme/status/1259274521036550145?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/carisls/status/1243538456946638850?s=20" %}<br>
+{% embed url="https://twitter.com/JBBC/status/1255725326551965697?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Fergus_Connolly/status/1243495523081953280?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1111700560783310848?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/germanlanguage/status/1235581043106877440?s=20" %}<br>
+{% embed url="https://twitter.com/ibddoctor/status/1252989548029775875?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1062094691913658368?s=20" %}<br>
+{% embed url="https://twitter.com/simonbchen/status/1250960006586830850?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SpringerPlants/status/1229442884333535232?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1105831885995995137?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/fake_journals/status/1227136196662452225?s=20" %}<br>
+{% embed url="https://twitter.com/CarlosdelRio7/status/1247589661654093825?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JBBC/status/1215775087665741832?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1246090450026586113?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/venkmurthy/status/1214015227144081409?s=20" %}<br>
+{% embed url="https://twitter.com/KSusztak/status/1240375034281148418?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kaz_yos/status/1211121160739532802?s=20" %}<br>
+{% embed url="https://twitter.com/JNCI_Now/status/1239567438183690241?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ThomasSci/status/1208077739128971264?s=20" %}<br>
+{% embed url="https://twitter.com/Sara_Jiang/status/1234557489607106562?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ASCO/status/1208050067518701568?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1233116881210331136?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SantaCruzBio/status/1208071581169156097?s=20" %}<br>
+{% embed url="https://twitter.com/AMPath/status/1228378943432073216?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/bradford_pathol/status/1222606878984810496?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/SantaCruzBio/status/1221844386444652545?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/MicrobiomDigest/status/1208291146717224961?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/insidehighered/status/1206949675133276160?s=20" %}<br>
 <br>
 <hr>
 

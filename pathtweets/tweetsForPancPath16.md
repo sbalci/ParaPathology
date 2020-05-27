@@ -7,13 +7,10 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {% embed url="https://twitter.com/Patholwalker/status/1065938938391449601?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/931335927246372864?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1064851701578969088?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1257779208463548416?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CancerCytopath/status/1234145145462935553?s=20" %}<br>
+{% embed url="https://twitter.com/kylehamilton/status/1237540143575097344?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,25 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/580052007559544832?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/839116125803773952?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580021445100728322?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1157812318249504769?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1165446753367158784?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/980346076908568576?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1065757730718138368?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/996840366962864130?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1161927133704400896?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1160162943503413248?s=20" %}<br>
+{% embed url="https://twitter.com/PathDocBoston/status/1228688012483141633?s=20" %}<br>
 <br>
 <hr>
 

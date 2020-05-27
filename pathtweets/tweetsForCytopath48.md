@@ -4,19 +4,52 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/950634084794998786?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1264373762432131072?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/950371353776947200?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1264373264052375553?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/949827672711995392?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1264366375981789186?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/930692065452752897?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1264365157125365760?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AadilAhmedMD/status/1235584285140062209?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1199768124213456897?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1199586947791872000?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1198680957122822144?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1198499779669417985?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1101412665413427200?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1100006485155708928?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1099954317715398656?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1099825283622854656?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1099281626792488961?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1099100423024066561?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1098822656776794112?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/merva_st/status/891330215489806336?s=20" %}<br>
 <br>
 <hr>
 

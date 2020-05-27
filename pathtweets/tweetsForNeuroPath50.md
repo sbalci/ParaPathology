@@ -4,22 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1165189626333732864?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1194513449205714944?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1015110551725174785?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1096019867939950595?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/570695190698201088?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1095657459811667969?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1214595131187376129?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1211865843690172417?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1212034957620764672?s=20" %}<br>
+{% embed url="https://twitter.com/CraigHorbinski/status/1252599899511836672?s=20" %}<br>
 <br>
 <hr>
 

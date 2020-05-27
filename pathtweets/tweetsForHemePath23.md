@@ -4,37 +4,49 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/982883185502535680?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1151288769271623680?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/928852943104647169?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1159067871315709952?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/928534190382989312?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1158380090197237761?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/987436335668645888?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1263084755052122112?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234238255987642375?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1257286693427777536?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1215287288214716416?s=20" %}<br>
+{% embed url="https://twitter.com/drsys02/status/1256187778330656769?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1215302397058338825?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1256199386083794945?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1215332605622661120?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1239907208030236673?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1215272177555136513?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1238819885481955331?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1215317522280521728?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1236037257947164673?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1209466482129854465?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234883775399702531?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1065379080529477632?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1222149985782915072?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/feldstej/status/1215423216530939904?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/KMirza/status/1207026870363013120?s=20" %}<br>
 <br>
 <hr>
 
