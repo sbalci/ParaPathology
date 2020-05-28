@@ -4,34 +4,34 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/BinXu16/status/1226148477748547591?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976161735160688641?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ERDENEROZER/status/1259229768450523136?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976110614278938624?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/David_Dobbs/status/1262193583085563913?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1094026566655332352?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1258535835558789120?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1009460946035621889?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1255484227245576193?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/942851543237214208?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ginnylourn/status/1241924156784082944?s=20" %}<br>
+{% embed url="https://twitter.com/MasriAhmadMD/status/1264338325235621889?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/jansen_marnix/status/1235620953436102657?s=20" %}<br>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1255887904179490822?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/919745006713192448?s=20" %}<br>
+{% embed url="https://twitter.com/ERDENEROZER/status/1236039947079086081?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrJHK/status/1225696841884266498?s=20" %}<br>
+{% embed url="https://twitter.com/digitalhealth2/status/1213158224565866503?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/mreyesm/status/1208092040996773888?s=20" %}<br>
+{% embed url="https://twitter.com/PacBio/status/1265710630906060802?s=20" %}<br>
 <br>
 <hr>
 

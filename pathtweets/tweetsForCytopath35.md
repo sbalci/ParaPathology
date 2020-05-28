@@ -4,34 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1228034541970812928?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1141861496990904321?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1125919532000763904?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1123309444702593024?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1125738330065235969?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1123167129807794176?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1125557128712744960?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1135273133315956736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1032562384802463745?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1135269106175881216?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1110946596018184197?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1134910747216138242?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/bernabephoto/status/1257015929541713922?s=20" %}<br>
+{% embed url="https://twitter.com/CytologyHist/status/1263432626087424000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BenMazer/status/1246582261899722752?s=20" %}<br>
+{% embed url="https://twitter.com/cytopathology/status/1263511377945165830?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/RanaAldreesMD/status/1234316285963464707?s=20" %}<br>
+{% embed url="https://twitter.com/cytopathology/status/1253847201090068480?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1052953205741670405?s=20" %}<br>
+{% embed url="https://twitter.com/oreoimc/status/1234182394187583488?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Dr_DR_Cells/status/1217564172327714818?s=20" %}<br>
 <br>
 <hr>
 

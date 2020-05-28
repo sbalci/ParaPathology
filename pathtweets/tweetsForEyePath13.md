@@ -4,70 +4,61 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EyePath pages here: https://serdarbalci.netlify.com/categories/EyePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1170257706281652225?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/601858700261883907?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1169614243710173184?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1183022674554961923?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/992547226776817665?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1182841476029415426?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/992305591224680449?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1182496819353280513?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1175137411606691840?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1000399983051341824?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1175136119253544960?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/937324136052899841?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1000259945563074560?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/936417984125353984?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1172120186394222592?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1184567254471598080?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1260946229900574720?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1226146329182777344?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1260583840504037377?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1225981297551650816?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1260388127602081792?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1067622416480780294?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1165640986627923968?s=20" %}<br>
+{% embed url="https://twitter.com/Hypoxia505/status/1264239687041822721?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CRoullardArt/status/1263866301233029120?s=20" %}<br>
+{% embed url="https://twitter.com/lonestarsally/status/1262445733937963008?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/novusbio/status/1257685463067836416?s=20" %}<br>
+{% embed url="https://twitter.com/DrJimboNHS/status/1248882868706783232?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SAPDigital/status/1255490774290006017?s=20" %}<br>
+{% embed url="https://twitter.com/madameshawshank/status/1246561173756989441?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/LilyEPloski/status/1254446320657395712?s=20" %}<br>
+{% embed url="https://twitter.com/simonbchen/status/1246493487303819265?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/FiRawle/status/1246950033037164551?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919466726403665921?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/919829401067339781?s=20" %}<br>
+{% embed url="https://twitter.com/Jad_Sattar/status/1218908249082269698?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UABPathology/status/1234517614023577601?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1055555493899444224?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Jim_Weber/status/1216938003400155136?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Jim_Weber/status/1217481612880945153?s=20" %}<br>
+{% embed url="https://twitter.com/honeyviscous/status/1212998928360075265?s=20" %}<br>
 <br>
 <hr>
 

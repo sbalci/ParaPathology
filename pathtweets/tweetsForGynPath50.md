@@ -4,46 +4,28 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/976134560814571521?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1057337207898492928?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1095660497511211010?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1057048695609483264?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1095657459811667969?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1019125987009691648?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1094932620167700481?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1018763560346742785?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1010789866315997184?s=20" %}<br>
+{% embed url="https://twitter.com/Loose_Lab_Rat/status/1263899576949489665?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1010427439606976513?s=20" %}<br>
+{% embed url="https://twitter.com/ReyPathology/status/1262720740706512898?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1010306625616277504?s=20" %}<br>
+{% embed url="https://twitter.com/AJKDonline/status/1216735460468248578?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/943032761870200832?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1053012931317813249?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1258372086915047424?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1253723730884407296?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ASIPath/status/1262346049072570368?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/RichShippy/status/1257148158116679680?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/analyticbridge/status/1232535514051436545?s=20" %}<br>
+{% embed url="https://twitter.com/AltoMarketing/status/1204426330135240704?s=20" %}<br>
 <br>
 <hr>
 

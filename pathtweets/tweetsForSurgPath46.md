@@ -4,25 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/merva_st/status/910867552045338624?s=20" %}<br>
+{% embed url="https://twitter.com/HarvardHealth/status/1264979589757112323?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Dr_RTomato/status/1265126896716648448?s=20" %}<br>
+{% embed url="https://twitter.com/BodyAnatomy/status/1242158990248861696?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathologistmag/status/1261279163635425280?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1222173166837075973?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AmyHDeekenMD/status/1251114706502377473?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1105831885995995137?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/DrGeeONE/status/1222624263783559169?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1222627355790921729?s=20" %}<br>
+{% embed url="https://twitter.com/AmyHDeekenMD/status/1216921721317601281?s=20" %}<br>
 <br>
 <hr>
 

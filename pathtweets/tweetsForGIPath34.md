@@ -4,25 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1129000091346280448?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/838285943085940736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1127187959264862209?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1142047161988734976?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1126878579659137024?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1141865961219166208?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1126873313760792576?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1141503539576860673?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/gonzadetoro/status/1235328687861620736?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1141322328841715717?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathnoob/status/1218915480628596737?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1043468870021832704?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1218666400094523395?s=20" %}<br>
+{% embed url="https://twitter.com/ALBoothMD/status/1255518466959986688?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,34 +4,34 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1261804215653076992?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1164258571770630144?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1261803264502312960?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1203210851253047297?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1240972033363775488?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1203029635048628226?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1087310168067620864?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1107206641202544640?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1183054476661481472?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1107191085053300737?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1182692092121878528?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1105442810054864898?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/920191776857604096?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/947924835300139008?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1059475204882251777?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1111338167548944384?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CancerCytopath/status/1234145145462935553?s=20" %}<br>
+{% embed url="https://twitter.com/womenofteal/status/1244035637168177153?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PathDocBoston/status/1234144066960384000?s=20" %}<br>
+{% embed url="https://twitter.com/DrGeeONE/status/1231986545487466499?s=20" %}<br>
 <br>
 <hr>
 

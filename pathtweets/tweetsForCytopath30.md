@@ -4,52 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Cytopath pages here: https://serdarbalci.netlify.com/categories/Cytopath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/837748186437545984?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/838615396567695360?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1237628478180061184?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1235107670622760963?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1137154449342787584?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1049629955628269569?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1136973240444678144?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1049086326954328065?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1136792039553560577?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/975780269008486412?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1038394976088948737?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1113107577716473856?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1037307686444879874?s=20" %}<br>
+{% embed url="https://twitter.com/DraEosina/status/1253067168335396869?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/967345532417929217?s=20" %}<br>
+{% embed url="https://twitter.com/cytopathology/status/1235792408568307712?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1121359652627865600?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1183066443400790017?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1133823591290736642?s=20" %}<br>
+{% embed url="https://twitter.com/pathnoob/status/1220496490352824320?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1133461199356612608?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/HermelinMD/status/1264753308943757315?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Histopatolomon/status/1264634900969336833?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/RanaAldreesMD/status/1260769027753938953?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/cytopathology/status/1258429215227228165?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/PathologySayah/status/1226415384254873600?s=20" %}<br>
+{% embed url="https://twitter.com/lteytelman/status/1218567655684067328?s=20" %}<br>
 <br>
 <hr>
 

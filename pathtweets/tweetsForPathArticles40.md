@@ -4,43 +4,37 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1188839674254680065?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1265334858315968516?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lizworthey/status/1260625667982536704?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1263828338537308164?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1116678102501949442?s=20" %}<br>
+{% embed url="https://twitter.com/Science_Open/status/1264960294507491328?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/jd_wilko/status/1259080490037981184?s=20" %}<br>
+{% embed url="https://twitter.com/Corista_LLC/status/1254440096755068928?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/WAIRNetworks/status/1242245765650698248?s=20" %}<br>
+{% embed url="https://twitter.com/kate_manne/status/1236723633483022336?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SPINALpedia/status/1235959631501037571?s=20" %}<br>
+{% embed url="https://twitter.com/PathDocBoston/status/1234521419066724352?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UMichPath/status/1227244843283304448?s=20" %}<br>
+{% embed url="https://twitter.com/maanow/status/1230494850560208896?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PLOSONE/status/1222875349098196993?s=20" %}<br>
+{% embed url="https://twitter.com/germanlanguage/status/1227940559299411968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1055033397725212674?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1226933096743829504?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1051515255300460544?s=20" %}<br>
+{% embed url="https://twitter.com/LSEImpactBlog/status/1223320145982107648?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1051503651141898240?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/christlet/status/1209866779511664641?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/lizworthey/status/1206990061746700289?s=20" %}<br>
+{% embed url="https://twitter.com/Lymphoma_Doc/status/1210553574297657344?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,34 +4,40 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1205203974904639488?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1116430911359340549?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/948468511592013824?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1119939609121579009?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/948106061747068928?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1119577195410706434?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/947743613999398912?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/955868349333819392?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1089925612620386304?s=20" %}<br>
+{% embed url="https://twitter.com/ERDENEROZER/status/1256884869520596995?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/918149666780405760?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1112744340185628675?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UMichPath/status/1261310373547765761?s=20" %}<br>
+{% embed url="https://twitter.com/ElshaikhMD/status/1250566819854852096?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/567463519827005440?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1088920446857302022?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/mikelove/status/1242436343537565697?s=20" %}<br>
+{% embed url="https://twitter.com/Endofound/status/1229522666735972352?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1211312793288355842?s=20" %}<br>
+{% embed url="https://twitter.com/PittHealthSci/status/1223279385223946240?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/AnapathResident/status/1210440502761476097?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Law360/status/1204970397336309760?s=20" %}<br>
 <br>
 <hr>
 

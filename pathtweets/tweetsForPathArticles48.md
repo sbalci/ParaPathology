@@ -4,52 +4,79 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1264380891603832837?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1184087565609111552?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1070355781604831232?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1182961635754987521?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/tslumley/status/1264105866728333317?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1100761437331472386?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrSamreenfatima/status/1260208271656443909?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/948192345433964555?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/my_ueg/status/1256901432885809152?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/945537084709797888?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/OKFN/status/1253011184317542404?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1207683516890255361?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/The_MRC/status/1251510040638480384?s=20" %}<br>
+{% embed url="https://twitter.com/MSKCC_Library/status/1260968128152035338?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1249443835010310145?s=20" %}<br>
+{% embed url="https://twitter.com/UniTurku/status/1258314627445907456?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/WheatInitiative/status/1247196769684992005?s=20" %}<br>
+{% embed url="https://twitter.com/TonyBjourson/status/1254423851804626945?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/antybuddy/status/1246008247842209792?s=20" %}<br>
+{% embed url="https://twitter.com/Ferrariic/status/1251578514014449664?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Charleegrams/status/1228228117056983040?s=20" %}<br>
+{% embed url="https://twitter.com/NatRevGastroHep/status/1249026928817745920?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NS4Histotech/status/1224814981134344193?s=20" %}<br>
+{% embed url="https://twitter.com/KabwePRQ/status/1247780296914653184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lakens/status/1220251981849210880?s=20" %}<br>
+{% embed url="https://twitter.com/aetiology/status/1244493846987366400?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/analyticbridge/status/1218588616894689280?s=20" %}<br>
+{% embed url="https://twitter.com/WinterOakPress/status/1243117436267909121?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/colleenkraftmd/status/1209622610281140224?s=20" %}<br>
+{% embed url="https://twitter.com/DeborahSuggRyan/status/1235114300576092160?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NS4Histotech/status/1208145347924627462?s=20" %}<br>
+{% embed url="https://twitter.com/Naturevolve/status/1234466984261300224?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Gleason4plus5/status/961008815008370688?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/absresourcepage/status/1231973445581275138?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1057638586798014464?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/ceptional/status/1228019789542486017?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/bradford_pathol/status/1220258143957110784?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/sassafraslowrey/status/1217900930336575488?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/pathogenomenick/status/1214599967748362241?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Naturevolve/status/1207991102030123008?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/bmj_latest/status/1208060762096308224?s=20" %}<br>
 <br>
 <hr>
 

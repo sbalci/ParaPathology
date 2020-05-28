@@ -4,73 +4,58 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/838808765172449280?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/887846291665039364?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/838773187391406081?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1164879495716728833?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1150926347948052481?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1164698278035775488?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1051260838596632577?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1064308091485773825?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1049992357670580226?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/988439547942912000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1049629955628269569?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/992764525152735232?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/924954903952232448?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1157359770313117697?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/924864272869371905?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1157271660720021505?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/924637713780764672?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1159558658994388993?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1146220669870465025?s=20" %}<br>
+{% embed url="https://twitter.com/JBBC/status/1259349200028012544?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1144748390212915200?s=20" %}<br>
+{% embed url="https://twitter.com/CleClinicMD/status/1256755353036832768?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1249412005687164936?s=20" %}<br>
+{% embed url="https://twitter.com/BeesAndBaking/status/1238541999805874176?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1249049619402801153?s=20" %}<br>
+{% embed url="https://twitter.com/SonofBaldwin/status/1228375739734675458?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/920227304743190530?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919474566761553921?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/jburnmurdoch/status/1263872445435523075?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/919473271111802880?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ecancer/status/1261245472469024770?s=20" %}<br>
+{% embed url="https://twitter.com/duckhuca/status/1214905765229674496?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/maanow/status/1258457844002828288?s=20" %}<br>
+{% embed url="https://twitter.com/Resource_Finder/status/1214901475543060480?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1242551620812124162?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/JohnMashey/status/1241520171526701056?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/919758937439723520?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/racingjen/status/1228695987922694144?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1207058441157709834?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/saratechnology/status/1204359839222091777?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1052596364117508096?s=20" %}<br>
 <br>
 <hr>
 

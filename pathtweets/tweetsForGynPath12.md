@@ -4,37 +4,40 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/928399630240505856?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/974045226150121473?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/994359427238060033?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/973951135500460032?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/994117810950291457?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/695069884544368640?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/993996995479007232?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1084966025991401472?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/933699335769923585?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/937867774625333248?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JavaScript_b/status/1262420506457698304?s=20" %}<br>
+{% embed url="https://twitter.com/OHSUKnight/status/1262784585286455297?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/haaanyaar/status/1259792543522402305?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/968936034204561408?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DoctorYasmin/status/1245036930909126657?s=20" %}<br>
+{% embed url="https://twitter.com/BrianNosek/status/1243172169833754624?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1202378551724523521?s=20" %}<br>
+{% embed url="https://twitter.com/mreyesm/status/1238769840548196352?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/tomstafford/status/1247230811109240832?s=20" %}<br>
+{% embed url="https://twitter.com/maanow/status/1237078217065988102?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrFNA/status/1206065550432059392?s=20" %}<br>
+{% embed url="https://twitter.com/ibddoctor/status/1223084740875554816?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/JCGarcesPath/status/1209698779324145664?s=20" %}<br>
 <br>
 <hr>
 

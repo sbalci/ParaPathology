@@ -4,91 +4,112 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/JBBC/status/1265338164190883840?s=20" %}<br>
+{% embed url="https://twitter.com/tiesv/status/1265369335259897864?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/972950106923298816?s=20" %}<br>
+{% embed url="https://twitter.com/CQmarketing/status/1265358820349562880?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/965944079472349186?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976111139598684161?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/583428497508564993?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976110614278938624?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1184567254471598080?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976109403026857984?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1025817829931732994?s=20" %}<br>
+{% embed url="https://twitter.com/smlungpathguy/status/1263471331254906881?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1175448859230789632?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1202580247650164736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1175402805378654208?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1186654703914029056?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TheTLS/status/1262450517709553665?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1186635836709842944?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PaulNaish78/status/1262423054875086854?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1186312905416937473?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/tripdatabase/status/1261361092330168321?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1186273454175277057?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/bradford_pathol/status/1255491879082307584?s=20" %}<br>
+{% embed url="https://twitter.com/Harley1947/status/1255912806592856064?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/MyBizNY/status/1253333825863573506?s=20" %}<br>
+{% embed url="https://twitter.com/TejasKat/status/1255907002221498368?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/laurenpressley/status/1251214384656822272?s=20" %}<br>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1255887904179490822?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SciReports/status/1246437391314927616?s=20" %}<br>
+{% embed url="https://twitter.com/ThomasSci/status/1254404522312638465?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BoikanyoB/status/1243478424372551681?s=20" %}<br>
+{% embed url="https://twitter.com/marsrader/status/1249766568990564355?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ThePunMan/status/1241950058897006592?s=20" %}<br>
+{% embed url="https://twitter.com/norrthpier/status/1248339533483184128?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/iborgward/status/1241916342812307456?s=20" %}<br>
+{% embed url="https://twitter.com/Write4Research/status/1247607550566109184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/MForstater/status/1239168982587973633?s=20" %}<br>
+{% embed url="https://twitter.com/sesiegler/status/1245340000054661121?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/vicderbyshire/status/1239139572807872512?s=20" %}<br>
+{% embed url="https://twitter.com/LarsDenmar/status/1245266039518171136?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/noamross/status/1239610905622700034?s=20" %}<br>
+{% embed url="https://twitter.com/pathologistmag/status/1245249037038759936?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/critiques4geeks/status/1235059362315427842?s=20" %}<br>
+{% embed url="https://twitter.com/pathologistmag/status/1245093011714912256?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kasson_wvu/status/1235022284609343488?s=20" %}<br>
+{% embed url="https://twitter.com/fpazgomez/status/1237846027744317440?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1066103859188310016?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1072967660512665601?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1065741472929103873?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1072556377401376768?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/dpatil/status/1232333331871797250?s=20" %}<br>
+{% embed url="https://twitter.com/JBBC/status/1227761561403568134?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/fake_journals/status/1212737833074667521?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/440489663543775233?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/narceducator/status/1205112107857043456?s=20" %}<br>
+{% embed url="https://twitter.com/MattHiefield/status/1225515858455343113?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UABPathology/status/1204800995684999169?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1054407832978759680?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/ChristopWFisher/status/1221904984444411905?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/oncologician/status/1219284385091842048?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DataScienceCtrl/status/1217507745819131905?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/digitalhealth2/status/1213032268442288128?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/digitalhealth2/status/1213158224565866503?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Mortuarysupply/status/1213081682422710273?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/claryisfray/status/1209942533045927941?s=20" %}<br>
 <br>
 <hr>
 

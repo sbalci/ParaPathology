@@ -4,16 +4,52 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/975518927538208768?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/978585901021515777?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/937867774625333248?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976535333796904961?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AnapathResident/status/1235108152502153216?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976533249529864192?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DCSkipperDO/status/1230694283017105408?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/976532989818490880?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/rovingatuscap/status/976532423352578048?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1199527081232625664?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1197593788236980225?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1197336346332815361?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1197231394872688640?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1099954317715398656?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1099281626792488961?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1098822656776794112?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Patholwalker/status/1012558036227932160?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DrGeeONE/status/1244626861306634247?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/Pathologists/status/1081190516929245185?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/TEDMED/status/1232783686334124033?s=20" %}<br>
 <br>
 <hr>
 

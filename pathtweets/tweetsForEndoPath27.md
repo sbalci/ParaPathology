@@ -4,31 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1142590781800083457?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1157812318249504769?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1043650083852406785?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1055609882525614085?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1133007871157968897?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/980346076908568576?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1140264020865425408?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1139901630525202432?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1139539244874129408?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1139176863773974529?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1138814487186890752?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1138452104119508994?s=20" %}<br>
+{% embed url="https://twitter.com/WildlifeMag/status/1246424787511058433?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,76 +4,55 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/718212013407801344?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1199936912829628416?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1164429402362601473?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1197849208302252032?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/908274437597925378?s=20" %}<br>
+{% embed url="https://twitter.com/cytopathology/status/1263802436881387522?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1196509888928788481?s=20" %}<br>
+{% embed url="https://twitter.com/tslumley/status/1264105280658235392?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1195361576037048320?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1156877161908899840?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kaz_yos/status/1262721418611118082?s=20" %}<br>
+{% embed url="https://twitter.com/AnnualReviews/status/1259872494942470144?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/kickstarter/status/1260609528644751361?s=20" %}<br>
+{% embed url="https://twitter.com/VirologyJ/status/1258442231301779457?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/dataandme/status/1259274521036550145?s=20" %}<br>
+{% embed url="https://twitter.com/estheryoud/status/1257323179032248320?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JBBC/status/1255725326551965697?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1257294001859973121?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1111700560783310848?s=20" %}<br>
+{% embed url="https://twitter.com/citnaj/status/1253737615192322049?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ibddoctor/status/1252989548029775875?s=20" %}<br>
+{% embed url="https://twitter.com/MattHiefield/status/1248287191308144640?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/simonbchen/status/1250960006586830850?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1239986325111128064?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1105831885995995137?s=20" %}<br>
+{% embed url="https://twitter.com/germanlanguage/status/1237400316611624960?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CarlosdelRio7/status/1247589661654093825?s=20" %}<br>
+{% embed url="https://twitter.com/CraigHorbinski/status/1228671779809513472?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ASIPath/status/1246090450026586113?s=20" %}<br>
+{% embed url="https://twitter.com/pathologistmag/status/1222179046320230400?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/KSusztak/status/1240375034281148418?s=20" %}<br>
+{% embed url="https://twitter.com/Neuro_Central/status/1222166445720768512?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JNCI_Now/status/1239567438183690241?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Sara_Jiang/status/1234557489607106562?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/UABPathology/status/1233116881210331136?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AMPath/status/1228378943432073216?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/bradford_pathol/status/1222606878984810496?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/SantaCruzBio/status/1221844386444652545?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MicrobiomDigest/status/1208291146717224961?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/insidehighered/status/1206949675133276160?s=20" %}<br>
+{% embed url="https://twitter.com/skathire/status/1218231509838106625?s=20" %}<br>
 <br>
 <hr>
 

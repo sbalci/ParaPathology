@@ -4,25 +4,22 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #NeuroPath pages here: https://serdarbalci.netlify.com/categories/NeuroPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1230073304754470912?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/838285943085940736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1228940542240673792?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/578724094679609345?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1128818888790044672?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1242167755907821569?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1032565512419434497?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1141531932485808128?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/961546526462898176?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1043831299964719105?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1192285977735094272?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1230144109152788481?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1043650083852406785?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,43 +4,25 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/905588995647827968?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/971376269517574144?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/897603283317121024?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/971230232668770306?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/897262653151756289?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/971063296366403584?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580075573126541312?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/959127687347437570?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580074817161924608?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1025427118526787586?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580073319774494721?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1213107401102114816?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580072464077754369?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580072070375194624?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/rovingatuscap/status/580068558861926400?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1172558419020021765?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1172555792181907456?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/997872646896406528?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/rovingatuscap/status/576302857856626688?s=20" %}<br>
+{% embed url="https://twitter.com/preethijaison/status/1231194438569013248?s=20" %}<br>
 <br>
 <hr>
 

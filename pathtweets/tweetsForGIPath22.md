@@ -4,10 +4,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1154265372033290245?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/UABPathology/status/1234879085727248385?s=20" %}<br>
+{% embed url="https://twitter.com/evemariecrane/status/1224859140603904002?s=20" %}<br>
 <br>
 <hr>
 

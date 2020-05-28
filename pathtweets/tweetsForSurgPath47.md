@@ -4,25 +4,13 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #SurgPath pages here: https://serdarbalci.netlify.com/categories/SurgPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Gleason4plus5/status/1212141347144192001?s=20" %}<br>
+{% embed url="https://twitter.com/SantaCruzBio/status/1264225325103198208?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DrFNA/status/1234610055569231872?s=20" %}<br>
+{% embed url="https://twitter.com/Turnitin/status/1249823702004400134?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1058759211805536256?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1058396822643859456?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/hunter_alexan/status/1222601352007901185?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/NirajGusani/status/1217113444966641664?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/NirajGusani/status/1207671370806677504?s=20" %}<br>
+{% embed url="https://twitter.com/Tom_Drake1/status/1234887224090669056?s=20" %}<br>
 <br>
 <hr>
 

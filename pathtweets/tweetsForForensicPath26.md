@@ -4,16 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ForensicPath pages here: https://serdarbalci.netlify.com/categories/ForensicPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/973218221418360832?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1253419383663165440?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/973097399571775488?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1253056992802942977?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/923005617366638593?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/920192988793356288?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/sassyanesdoc/status/1248822166558310400?s=20" %}<br>
+{% embed url="https://twitter.com/BelieveAllCom/status/1227113856280997889?s=20" %}<br>
 <br>
 <hr>
 

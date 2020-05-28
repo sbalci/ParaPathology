@@ -4,46 +4,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GynPath pages here: https://serdarbalci.netlify.com/categories/GynPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/978585901021515777?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1181805287218524161?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/976535333796904961?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1209552654466048000?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/709940660854398976?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1114049447330177024?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1199768124213456897?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/945339819651104768?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1199527081232625664?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/945339008246337537?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1099954317715398656?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/940640326842241025?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1099281626792488961?s=20" %}<br>
+{% embed url="https://twitter.com/Histopatolomon/status/1264985903656841218?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1098822656776794112?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1210363232428462082?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1012964506786394117?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/1012558036227932160?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/mjcascio/status/1255694692030636033?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/JNCI_Now/status/1242471239664300038?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AAMCtoday/status/1214989902288437248?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/zen_saadet/status/1214831572194660355?s=20" %}<br>
+{% embed url="https://twitter.com/MayoClinic/status/1204796735308075009?s=20" %}<br>
 <br>
 <hr>
 

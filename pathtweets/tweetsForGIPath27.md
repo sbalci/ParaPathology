@@ -4,34 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GIPath pages here: https://serdarbalci.netlify.com/categories/GIPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/838285943085940736?s=20" %}<br>
+{% embed url="https://twitter.com/GeronimoJrLapac/status/1264520183722450944?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1142047161988734976?s=20" %}<br>
+{% embed url="https://twitter.com/mreyesm/status/1262427158682710026?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1141865961219166208?s=20" %}<br>
+{% embed url="https://twitter.com/DCSkipperDO/status/1259923302816120832?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1043468870021832704?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1234238642945544192?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1234243775523766272?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1233916814272258048?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1233918140142063617?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MArnold_PedPath/status/1233915570078146561?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/GeronimoJrLapac/status/1218875379278143488?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1212637487992123393?s=20" %}<br>
 <br>
 <hr>
 

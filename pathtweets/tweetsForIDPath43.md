@@ -4,25 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1206472365569261569?s=20" %}<br>
+{% embed url="https://twitter.com/absresourcepage/status/1260877997655064576?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SenWhitehouse/status/1251202486523887616?s=20" %}<br>
+{% embed url="https://twitter.com/LSEImpactBlog/status/1259906241570263040?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PeterHotez/status/1248234353571827712?s=20" %}<br>
+{% embed url="https://twitter.com/UMichPath/status/1252265776406560769?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NatureRevMicro/status/1245277021481177088?s=20" %}<br>
+{% embed url="https://twitter.com/TruthSite/status/1252336492061405191?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/hansijzerman/status/1238881652673298432?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/DrSusanNasif/status/1231281947692929024?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1226258401098969088?s=20" %}<br>
+{% embed url="https://twitter.com/medicalce/status/1251756864829886468?s=20" %}<br>
 <br>
 <hr>
 

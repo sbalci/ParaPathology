@@ -4,16 +4,22 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #IDPath pages here: https://serdarbalci.netlify.com/categories/IDPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1074274619333345280?s=20" %}<br>
+{% embed url="https://twitter.com/gillespi/status/1259642280526241796?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/SephSeddon/status/1251705232662257664?s=20" %}<br>
+{% embed url="https://twitter.com/Gail_Fairlamb/status/1252916435698896898?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234506299695665152?s=20" %}<br>
+{% embed url="https://twitter.com/gonzadetoro/status/1235328687861620736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1213586237384282114?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/511255014288162816?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DavidBCollum/status/1233792883628617728?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/PacBio/status/1232009605355646979?s=20" %}<br>
 <br>
 <hr>
 

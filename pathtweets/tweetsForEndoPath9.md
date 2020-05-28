@@ -4,28 +4,28 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/943295806366502913?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1188352861035364352?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1177042051885481985?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1188171645489278976?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/998104563826573313?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1187990470166663168?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1208089826878210053?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1085861434460917760?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1204489614549037056?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1183054476661481472?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1204487214454968320?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1182692092121878528?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BinXu16/status/1063786279404355588?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1182329702071054336?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/tripdatabase/status/1241316502176923649?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1181967314595569664?s=20" %}<br>
 <br>
 <hr>
 

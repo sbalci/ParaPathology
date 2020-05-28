@@ -4,79 +4,49 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #ENTPath pages here: https://serdarbalci.netlify.com/categories/ENTPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1212451776852414464?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1233684295920779264?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1114140904510480384?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1229665319947341830?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1113597290579554305?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1228396934731194368?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1113416072449810433?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1228034541970812928?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1113234857314836480?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1128505521953050624?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1022991907113160704?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/1043171086559596545?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1022508661812297728?s=20" %}<br>
+{% embed url="https://twitter.com/MarkLevineNYC/status/1263521204599742466?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1022146242225131526?s=20" %}<br>
+{% embed url="https://twitter.com/ReyPathology/status/1247976315720007681?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1022012765270155265?s=20" %}<br>
+{% embed url="https://twitter.com/ClevelandClinic/status/1240978187762499586?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1022012400357261312?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1234524154956697602?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1022011422912405504?s=20" %}<br>
+{% embed url="https://twitter.com/SeqComplete/status/1224530869936959488?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/953331298172456960?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1055555493899444224?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/953192239492206592?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1053356111166926849?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/952727257365139456?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1053321124388450305?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1240587621807591424?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1240402861726597121?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1240382952753770496?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/merva_st/status/971322219677790209?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/merva_st/status/957841303877967873?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1103447138447564806?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/JBBC/status/1264251005392375810?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/BinXu16/status/1060322932696596480?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/StudentDrKendra/status/1239722491171479555?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/919794672528015360?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1053404434930298882?s=20" %}<br>
+{% embed url="https://twitter.com/acalderon52/status/1205496559099625472?s=20" %}<br>
 <br>
 <hr>
 

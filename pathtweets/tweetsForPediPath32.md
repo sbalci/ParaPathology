@@ -4,37 +4,22 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/920891869898227712?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/973701453897383936?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1128730772662378496?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1245689960390430723?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1128368383806836737?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1245380912168271873?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1128076027312443392?s=20" %}<br>
+{% embed url="https://twitter.com/kevinnbass/status/1239312163430371334?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/neiltheknee/status/1262694501572804608?s=20" %}<br>
+{% embed url="https://twitter.com/luishcruzc/status/1219366612098138112?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/PatelOncology/status/1226911468379000832?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/master_usmle_rv/status/1224176203809996800?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Future_SpaceDad/status/1217817183096463360?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/GEHealthcare/status/1214268403755692032?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1213330968943173632?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1049829370393714689?s=20" %}<br>
+{% embed url="https://twitter.com/StonyBrookMed/status/1213934698323480578?s=20" %}<br>
 <br>
 <hr>
 

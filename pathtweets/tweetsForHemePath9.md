@@ -4,31 +4,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #HemePath pages here: https://serdarbalci.netlify.com/categories/HemePath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/998952019116281856?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1189621204555980800?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/998949040204136449?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1006923869200871425?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lfwalkerlw/status/1249134158040961024?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1195046380580020225?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/KMirza/status/1245483287444848645?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1243407565762920449?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1240269438034890756?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234243287403376654?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234912752969375747?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234243285683757057?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234539629954654214?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234244579936874496?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1219250868261924865?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234245800013770757?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Lymphoma_Doc/status/1215626998497845248?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234239518691266561?s=20" %}<br>
 <br>
 <hr>
 

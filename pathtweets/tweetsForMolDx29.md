@@ -4,13 +4,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/merva_st/status/1187790656984489984?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/PrinSciAdvGoI/status/1251536324915421185?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AnapathResident/status/1235460704137691136?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/977809091975196672?s=20" %}<br>
 <br>
 <hr>
 

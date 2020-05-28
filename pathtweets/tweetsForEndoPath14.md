@@ -4,22 +4,22 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #EndoPath pages here: https://serdarbalci.netlify.com/categories/EndoPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1167235241305505792?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/971376269517574144?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/931796462412763138?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/971230232668770306?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1165615816185917440?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1000158345750200322?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1165253428370710529?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1213107401102114816?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1164528654476632064?s=20" %}<br>
+{% embed url="https://twitter.com/BinXu16/status/1213106817900908549?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CaDxPath/status/1233971391784865792?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/971375427997577216?s=20" %}<br>
 <br>
 <hr>
 

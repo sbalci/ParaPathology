@@ -4,25 +4,19 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1217706450610356224?s=20" %}<br>
+{% embed url="https://twitter.com/estheryoud/status/1259860940071280647?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1217162846800240640?s=20" %}<br>
+{% embed url="https://twitter.com/Tuko_co_ke/status/1251746033564033030?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/955143470884126721?s=20" %}<br>
+{% embed url="https://twitter.com/FactsMatterJack/status/1250530154788552708?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/954539417246380032?s=20" %}<br>
+{% embed url="https://twitter.com/RoboHoward/status/1217999970562764800?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ASIPath/status/1263741405886910465?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/pulselivekenya/status/1257907205904437249?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/PTFlashcards/status/1242440953203310592?s=20" %}<br>
+{% embed url="https://twitter.com/KarlT0/status/1206160547265290241?s=20" %}<br>
 <br>
 <hr>
 

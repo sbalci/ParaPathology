@@ -4,100 +4,100 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathEdu pages here: https://serdarbalci.netlify.com/categories/PathEdu/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/708935945869877248?s=20" %}<br>
+{% embed url="https://twitter.com/slobogin/status/1265692754295820293?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1184204554457550849?s=20" %}<br>
+{% embed url="https://twitter.com/Laconic_doc/status/1265675524757741571?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1183479780357890048?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1165579660555669511?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1183117389942185984?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1218624218050387968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1183054476661481472?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1218239668765913088?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1182692092121878528?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1083097546321526786?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ctisus/status/1265311739815419904?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/910867552045338624?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NatRevNeph/status/1265259038431948806?s=20" %}<br>
+{% embed url="https://twitter.com/merva_st/status/909753094971559936?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/alexios_rei/status/1264008278373273600?s=20" %}<br>
+{% embed url="https://twitter.com/JBBC/status/1265338164190883840?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/femtobrewster/status/1263186342533574656?s=20" %}<br>
+{% embed url="https://twitter.com/ProfMattFox/status/1264947835474071552?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ChrisFitzPHR/status/1262111604382056450?s=20" %}<br>
+{% embed url="https://twitter.com/MattHiefield/status/1254085502078275586?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JBBC/status/1260264751843721216?s=20" %}<br>
+{% embed url="https://twitter.com/JBBC/status/1251567426183073794?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/RichShippy/status/1256449988361519104?s=20" %}<br>
+{% embed url="https://twitter.com/Caarolsss/status/1246812310288596998?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1216066241250709507?s=20" %}<br>
+{% embed url="https://twitter.com/RafRatinam/status/1245778215458623489?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1113107577716473856?s=20" %}<br>
+{% embed url="https://twitter.com/inquirerdotnet/status/1244048083429842950?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/CEKanakisMD/status/1253468144838086656?s=20" %}<br>
+{% embed url="https://twitter.com/King_Of_Shade/status/1242894116700241920?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/eapotterjr/status/1252367144114778114?s=20" %}<br>
+{% embed url="https://twitter.com/MLabsUM/status/1242876901728890880?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BenMazer/status/1246441515733450754?s=20" %}<br>
+{% embed url="https://twitter.com/Radio2000ZA/status/1242822935984906242?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1085578940377370625?s=20" %}<br>
+{% embed url="https://twitter.com/OneFineJay/status/1242645244103077892?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/forthejon/status/1239362967050899462?s=20" %}<br>
+{% embed url="https://twitter.com/DavidRWells/status/1241437229626654721?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/laceydurham/status/1239601211814432768?s=20" %}<br>
+{% embed url="https://twitter.com/RetoPaul/status/1238269848045658112?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/laceydurham/status/1239601210870640640?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234875017957167106?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1237395047437365251?s=20" %}<br>
+{% embed url="https://twitter.com/kaz_yos/status/1234528651833683971?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/cytopathology/status/1235792408568307712?s=20" %}<br>
+{% embed url="https://twitter.com/Corista_LLC/status/1230277130891735041?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/arkanalabs/status/1226922491735674881?s=20" %}<br>
+{% embed url="https://twitter.com/cytopathology/status/1225767084954656768?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/analyticbridge/status/1226198760180604929?s=20" %}<br>
+{% embed url="https://twitter.com/OncLive/status/1218234058351816704?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/LC_Analysis/status/1222787549086830593?s=20" %}<br>
+{% embed url="https://twitter.com/SantaCruzBio/status/1218220561949691911?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/dtrmedical/status/1221463005621297152?s=20" %}<br>
+{% embed url="https://twitter.com/yourgirl_Elle/status/1216533513077436418?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JavaScript_Plow/status/1216238213234212864?s=20" %}<br>
+{% embed url="https://twitter.com/HowardFarran/status/1215380295995707392?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1053388326840029185?s=20" %}<br>
+{% embed url="https://twitter.com/Jenpmichel/status/1215355326133952512?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1053372253633679365?s=20" %}<br>
+{% embed url="https://twitter.com/IBMScience/status/1206984667674619904?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TeachTherapy/status/1209447384863969281?s=20" %}<br>
+{% embed url="https://twitter.com/fibroidsupport/status/1204108920828157953?s=20" %}<br>
 <br>
 <hr>
 

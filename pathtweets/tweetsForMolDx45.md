@@ -4,31 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #MolDx pages here: https://serdarbalci.netlify.com/categories/MolDx/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1165652294077157377?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1212455741757497346?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1016830539708284928?s=20" %}<br>
+{% embed url="https://twitter.com/OncLive/status/1259907398988414984?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/1218987068182777857?s=20" %}<br>
+{% embed url="https://twitter.com/dr_reasoner/status/1240070555081920512?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/merva_st/status/922161166603948032?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/UMichPath/status/1261310373547765761?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/JNCI_Now/status/1258053416988708864?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234612148531187712?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1234579279004028928?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/MicrobiomDigest/status/1224792140611342336?s=20" %}<br>
+{% embed url="https://twitter.com/EpluribusUnum32/status/1222271398866849792?s=20" %}<br>
 <br>
 <hr>
 

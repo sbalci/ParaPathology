@@ -4,34 +4,31 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PediPath pages here: https://serdarbalci.netlify.com/categories/PediPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1057784481451409409?s=20" %}<br>
+{% embed url="https://twitter.com/ldcornell/status/1265420702372507650?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1056697208949493760?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/580075573126541312?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/979983663369564165?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/991822344938127360?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/927084352206278656?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1175128325188198403?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gleason4plus5/status/982024939866873857?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/998241218885767174?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Histopatolomon/status/1264985903656841218?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1165640986627923968?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/NatRevNeph/status/1264171860264194049?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1165278599064236033?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/JavaScript_b/status/1247037600197570562?s=20" %}<br>
+{% embed url="https://twitter.com/PBS/status/1247569962023165952?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ProfMattFox/status/1234813774483410944?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Williamson_SR/status/1234350561979334656?s=20" %}<br>
+{% embed url="https://twitter.com/Turnitin/status/1212848550574534656?s=20" %}<br>
 <br>
 <hr>
 

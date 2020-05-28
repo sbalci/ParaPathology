@@ -4,67 +4,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #USCAP pages here: https://serdarbalci.netlify.com/categories/USCAP/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Corista_LLC/status/1235205542404075520?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234547811393384448?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234897666296905730?s=20" %}<br>
+{% embed url="https://twitter.com/feldstej/status/1234599755507892224?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234879989478240256?s=20" %}<br>
+{% embed url="https://twitter.com/Sara_Jiang/status/1234595070835183616?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234903934344536065?s=20" %}<br>
+{% embed url="https://twitter.com/Sara_Jiang/status/1234557489607106562?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234833609997066241?s=20" %}<br>
+{% embed url="https://twitter.com/Sara_Jiang/status/1234620445032243201?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234872488980512771?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1234602717202407424?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234875017957167106?s=20" %}<br>
+{% embed url="https://twitter.com/pathologistmag/status/1234634792672481281?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234905205470351360?s=20" %}<br>
+{% embed url="https://twitter.com/pathologistmag/status/1234547051985133569?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234895093821251584?s=20" %}<br>
+{% embed url="https://twitter.com/h_alahmadie/status/1233368862248374272?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234841622493515776?s=20" %}<br>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1233438719798960129?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1234851077327069187?s=20" %}<br>
+{% embed url="https://twitter.com/UABPathology/status/1233437867319255040?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1233920053671845888?s=20" %}<br>
+{% embed url="https://twitter.com/CArnold_GI/status/1233102014562717696?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/feldstej/status/1233920054003142658?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233957688142442497?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233950207198494721?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233859727660113921?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233927487052242949?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233927486892847106?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233927486829977600?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233965287256592384?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/feldstej/status/1233935154311319554?s=20" %}<br>
+{% embed url="https://twitter.com/RanaAldreesMD/status/1233420984549543936?s=20" %}<br>
 <br>
 <hr>
 

@@ -4,79 +4,52 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Pathologists/status/1174315642641690626?s=20" %}<br>
+{% embed url="https://twitter.com/dgkeyes/status/1265681866448760834?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1173953256172785664?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1183010936648589314?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1173590871750717441?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1182642513364082688?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Gregonimo/status/1260972163861020673?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1182391611348717570?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/pathologistmag/status/1260959688868401153?s=20" %}<br>
+{% embed url="https://twitter.com/HD283271/status/1262705125774286853?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/EOWalong/status/1257520429041889280?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1261389867302268928?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/DroversCTN/status/1253103821594779651?s=20" %}<br>
+{% embed url="https://twitter.com/barnmedia/status/1255840054909386754?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/insidehighered/status/1252664264965455873?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1244633262682710017?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ReyPathology/status/1249396175381368832?s=20" %}<br>
+{% embed url="https://twitter.com/KMirza/status/1243407565762920449?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Pathologists/status/1105107111820832770?s=20" %}<br>
+{% embed url="https://twitter.com/andre_peralta/status/1243444854010589184?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AmyHDeekenMD/status/1240310778495983616?s=20" %}<br>
+{% embed url="https://twitter.com/KumarAGarg/status/1237386604605571072?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/UABPathology/status/1235005800138960896?s=20" %}<br>
+{% embed url="https://twitter.com/j_perkel/status/1232725267354796032?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ginalynnryan/status/1234998691536105472?s=20" %}<br>
+{% embed url="https://twitter.com/kaz_yos/status/1230347851416449030?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/smlungpathguy/status/1185645851848445952?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1122186704708952064?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Corista_LLC/status/1233074355116158977?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1050065686494613504?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ALBoothMD/status/1232347859053350912?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CraigHorbinski/status/1226860488182632449?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Ayomidejoe/status/1226884388618735616?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/EMJOncology/status/1215913795652067328?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Write4Research/status/1214818894193426432?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Medscape/status/1214746044342394883?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/lakens/status/1213875448570171392?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/pathologistmag/status/1210587687650054144?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CleClinicMD/status/1210570781211664384?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Pathologists/status/1050428075584958466?s=20" %}<br>
+{% embed url="https://twitter.com/Pathologists/status/1049827120191610881?s=20" %}<br>
 <br>
 <hr>
 

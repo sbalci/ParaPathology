@@ -4,19 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #GUPath pages here: https://serdarbalci.netlify.com/categories/GUPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/rovingatuscap/status/1033003389528035328?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1124375268494389248?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/752996780036460544?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1123963252210372612?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/rovingatuscap/status/567463519827005440?s=20" %}<br>
+{% embed url="https://twitter.com/rovingatuscap/status/1107634899907956736?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/AnapathResident/status/1235114440057446402?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/AnapathResident/status/1235113020944084992?s=20" %}<br>
+{% embed url="https://twitter.com/Gleason4plus5/status/1247226676695744514?s=20" %}<br>
 <br>
 <hr>
 

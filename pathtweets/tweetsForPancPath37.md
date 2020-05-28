@@ -4,7 +4,7 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PancPath pages here: https://serdarbalci.netlify.com/categories/PancPath/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1121026849004351489?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1037307686444879874?s=20" %}<br>
 <br>
 <hr>
 

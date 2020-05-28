@@ -4,40 +4,43 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #PathArticles pages here: https://serdarbalci.netlify.com/categories/PathArticles/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/serdarbalci/status/1199936912829628416?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1240703011980107777?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/serdarbalci/status/1197849208302252032?s=20" %}<br>
+{% embed url="https://twitter.com/serdarbalci/status/1239889967750492165?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/StressMarq/status/1264828705475571713?s=20" %}<br>
+{% embed url="https://twitter.com/UMichPath/status/1259866800512262151?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ASIPath/status/1263835763629871105?s=20" %}<br>
+{% embed url="https://twitter.com/DrSherryPagoto/status/1255562070831087618?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/StressMarq/status/1259755689636966400?s=20" %}<br>
+{% embed url="https://twitter.com/DoctorYasmin/status/1245036930909126657?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/fake_journals/status/1254115528274325504?s=20" %}<br>
+{% embed url="https://twitter.com/antybuddy/status/1245678583944806400?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/TheTLS/status/1252193415078576131?s=20" %}<br>
+{% embed url="https://twitter.com/pathologistmag/status/1241039418695340032?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/wfvanvalkenburg/status/1241396396512681990?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1241023965386153984?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/lambertlab1/status/1234244550312546306?s=20" %}<br>
+{% embed url="https://twitter.com/ASIPath/status/1241019129181716481?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/theAliceRoberts/status/1231183294584229888?s=20" %}<br>
+{% embed url="https://twitter.com/HenriquesLab/status/1240247703302479873?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/ARUPLabs/status/1230171469818290178?s=20" %}<br>
+{% embed url="https://twitter.com/Links_Medicus/status/1239510303714553861?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/function2fitnes/status/1208323811948597248?s=20" %}<br>
+{% embed url="https://twitter.com/MArnold_PedPath/status/1234135898469498882?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/LSEImpactBlog/status/1210636566454034432?s=20" %}<br>
 <br>
 <hr>
 
