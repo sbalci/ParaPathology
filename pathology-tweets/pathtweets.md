@@ -1,8 +1,8 @@
 
 
-- [pathtweets/tweetsForAutopsy1](pathtweets/tweetsForAutopsy1.md)<br><br><hr><br><br>
+- [pathtweets/tweetsForAutopsy1](tweetsForAutopsy1.md)<br><br><hr><br><br>
 
-- [pathtweets/tweetsForAutopsy2](pathtweets/tweetsForAutopsy2.md)<br><br><hr><br><br>
+- [pathtweets/tweetsForAutopsy2](tweetsForAutopsy2.md)<br><br><hr><br><br>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
