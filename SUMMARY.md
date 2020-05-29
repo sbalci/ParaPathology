@@ -105,9 +105,6 @@
 
 ## Pathology Tweets
 
-* [Pathology Tweets](pathtweets/README.md)
-  * [pathtweets](pathtweets/pathtweets.md)
-
 ## Taxonomy and Classification of Diseases
 
 * [Taxonomy and Classification of Diseases](taxonomy-and-classification-of-diseases/taxonomy-and-classification-of-diseases.md)
@@ -385,5 +382,5 @@
 * [GitHub Repositories](appendix/github-repositories.md)
 * [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
-* [deneme](deneme.md)
+* [deneme](appendix/deneme.md)
 
