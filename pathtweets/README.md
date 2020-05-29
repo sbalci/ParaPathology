@@ -1,1 +1,1 @@
-# pathtweets
+# Pathology Tweets
