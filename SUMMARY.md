@@ -105,7 +105,7 @@
 
 ## Pathology Tweets
 
-* [Pathology Tweets](pathology-tweets-1.md)
+* [Pathology Tweets](pathology-tweets/README.md)
 
 ## Taxonomy and Classification of Diseases
 
