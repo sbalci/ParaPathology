@@ -103,8 +103,9 @@
 
 * [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
 
-## [Pathology Tweets](pathtweets/README.md)
+## Pathology Tweets
 
+* [Pathology Tweets](pathtweets/README.md)
 
 ## Taxonomy and Classification of Diseases
 
