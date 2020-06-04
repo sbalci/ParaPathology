@@ -99,15 +99,6 @@
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
 
-## Pathology and Social Media
-
-* [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
-
-## Pathology Tweets
-
-* [Pathology Tweets](pathology-tweets/README.md)
-  * [Pathology Tweets](pathology-tweets/pathtweets.md)
-
 
 ## Taxonomy and Classification of Diseases
 
@@ -388,3 +379,13 @@
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 * [deneme](appendix/deneme.md)
 
+
+## Pathology and Social Media
+
+* [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
+
+## Pathology Tweets
+
+* [Pathology Tweets](pathology-tweets/README.md)
+  * [Pathology Tweets](pathology-tweets/pathtweets.md)
+  
