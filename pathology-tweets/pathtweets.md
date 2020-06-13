@@ -1149,6 +1149,6 @@
 
 
 
-These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+These #pathology tweets by #pathologists are selected automatically with #rstats code. Please inform me if any is inappropriate.
 See other pages here: https://serdarbalci.netlify.app/#PathTweets
-See selected social media based textbook project here: http://www.patolojinotlari.com/
+See selected social media based #pathology #textbook project here: http://www.patolojinotlari.com/
