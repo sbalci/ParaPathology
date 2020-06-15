@@ -13,9 +13,6 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {% embed url="https://twitter.com/Patholwalker/status/961857172186411008?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1272056891816833033?s=20" %}<br>
-<br>
-<hr>
 {% embed url="https://twitter.com/Pathologists/status/1272173204384239616?s=20" %}<br>
 <br>
 <hr>
