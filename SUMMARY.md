@@ -100,6 +100,16 @@
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
 
 
+## Pathology and Social Media
+
+* [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
+
+## Pathology Tweets
+
+* [Pathology Tweets](pathology-tweets/pathology-tweets/README.md)
+  * [Pathology Tweets](pathology-tweets/pathology-tweets/pathtweets.md)
+
+
 ## Taxonomy and Classification of Diseases
 
 * [Taxonomy and Classification of Diseases](taxonomy-and-classification-of-diseases/taxonomy-and-classification-of-diseases.md)
@@ -377,7 +387,6 @@
 * [GitHub Repositories](appendix/github-repositories.md)
 * [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
-* [deneme](appendix/deneme.md)
 
 
 ## Pathology and Social Media
