@@ -4,22 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/smlungpathguy/status/1273065444237246466?s=20" %}<br>
+{% embed url="https://twitter.com/AIP_Publishing/status/1274115070222577664?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1101456129773600768?s=20" %}<br>
+{% embed url="https://twitter.com/seattlequinns/status/1273225530242789384?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1100187688542572545?s=20" %}<br>
+{% embed url="https://twitter.com/JoyAnnReid/status/1267543232935858176?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1012964506786394117?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Patholwalker/status/1012722890460913664?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/K12Lioness/status/1268241259312885760?s=20" %}<br>
+{% embed url="https://twitter.com/Tonyo711/status/1267542446797393925?s=20" %}<br>
 <br>
 <hr>
 
