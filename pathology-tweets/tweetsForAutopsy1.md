@@ -13,13 +13,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {% embed url="https://twitter.com/Patholwalker/status/953460382714159104?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/graywolf442/status/1267979907952328705?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/CheryldeeHuddle/status/1267940872739405824?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/America2QAnon/status/1267854910533574656?s=20" %}<br>
+{% embed url="https://twitter.com/sabine_alise/status/1268785461943828481?s=20" %}<br>
 <br>
 <hr>
 
