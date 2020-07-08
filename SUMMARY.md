@@ -49,6 +49,7 @@
 ## Systemic Pathology
 
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
+* [Endocrine Pathology](systemic-pathology/endocrine-pathology.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
@@ -58,6 +59,7 @@
   * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/neuropathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
   * [Gliomlar](systemic-pathology/neuropathology/gliomlar.md)
 * [Bone and Soft Tissue](systemic-pathology/bone-and-soft-tissue/README.md)
+  * [Yumuşak doku tümörleri](systemic-pathology/bone-and-soft-tissue/yumusak-doku-tuemoerleri.md)
   * [Approach to Soft Tissue Tumors](systemic-pathology/bone-and-soft-tissue/approach-to-soft-tissue-tumors.md)
   * [Bone Pathology](systemic-pathology/bone-and-soft-tissue/bone.md)
 * [Approach to Liver Biopsies](systemic-pathology/approach-to-liver-biopsies.md)
