@@ -99,7 +99,6 @@
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
 
-
 ## Pathology and Social Media
 
 * [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
@@ -108,7 +107,6 @@
 
 * [Pathology Tweets](pathology-tweets/pathology-tweets/README.md)
   * [Pathology Tweets](pathology-tweets/pathology-tweets/pathtweets.md)
-
 
 ## Taxonomy and Classification of Diseases
 
@@ -388,13 +386,12 @@
 * [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 
+## Pathology and Social Media <a id="pathology-and-social-media-1"></a>
 
-## Pathology and Social Media
+* [Pathology and Social Media](pathology-and-social-media-1/pathology-and-social-media.md)
 
-* [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
+## Pathology Tweets <a id="pathology-tweets-1"></a>
 
-## Pathology Tweets
+* [Pathology Tweets](pathology-tweets-1/pathology-tweets/README.md)
+  * [Pathology Tweets](pathology-tweets-1/pathology-tweets/pathology-tweets.md)
 
-* [Pathology Tweets](pathology-tweets/README.md)
-  * [Pathology Tweets](pathology-tweets/pathtweets.md)
-  
