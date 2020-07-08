@@ -1,4 +1,4 @@
-# Bone
+# Bone Pathology
 
 * **Pathology Insights - Osteoblastic Lesions with Scott Kilpatrick, MD**
 
