@@ -7,7 +7,7 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {% embed url="https://twitter.com/Patholwalker/status/1109791839823908865?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/BodyAnatomy/status/1269291468117680131?s=20" %}<br>
+{% embed url="https://twitter.com/floridawahoo/status/1276310417485312005?s=20" %}<br>
 <br>
 <hr>
 
