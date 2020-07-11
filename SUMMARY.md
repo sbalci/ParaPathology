@@ -18,6 +18,7 @@
   * [Introduction to Pathology](medical-school-lectures/general-pathology/introduction-to-pathology.md)
   * [Cellular Pathology](medical-school-lectures/general-pathology/cellular-pathology.md)
   * [Chronic Inflammation](medical-school-lectures/general-pathology/chronic-inflammation.md)
+  * [Wound Healing](medical-school-lectures/general-pathology/wound-healing.md)
   * [The Mechanisms of Cell Death, Apoptosis, and Autophagy](medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md)
   * [Intracellular Accumulations and Cellular Aging](medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md)
   * [Pathology of Infectious Diseases](medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md)
@@ -49,6 +50,7 @@
 ## Systemic Pathology
 
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
+* [Endocrine Pathology](systemic-pathology/endocrine-pathology.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
@@ -57,11 +59,13 @@
 * [Neuropathology](systemic-pathology/neuropathology/README.md)
   * [Injury in central nervous system and cerebrovascular diseases](systemic-pathology/neuropathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
   * [Gliomlar](systemic-pathology/neuropathology/gliomlar.md)
-* [Approach to Soft Tissue Tumors](systemic-pathology/approach-to-soft-tissue-tumors.md)
+* [Bone and Soft Tissue](systemic-pathology/bone-and-soft-tissue/README.md)
+  * [Yumuşak doku tümörleri](systemic-pathology/bone-and-soft-tissue/yumusak-doku-tuemoerleri.md)
+  * [Approach to Soft Tissue Tumors](systemic-pathology/bone-and-soft-tissue/approach-to-soft-tissue-tumors.md)
+  * [Bone Pathology](systemic-pathology/bone-and-soft-tissue/bone.md)
 * [Approach to Liver Biopsies](systemic-pathology/approach-to-liver-biopsies.md)
 * [Pancreas](systemic-pathology/pancreas.md)
 * [Lung](systemic-pathology/lung.md)
-* [Bone](systemic-pathology/bone.md)
 * [Medical Kidney](systemic-pathology/medical-kidney.md)
 * [Unnecessary Thyroid FNAC](systemic-pathology/unnecessary-thyroid-fnac.md)
 * [Salivary Gland](systemic-pathology/salivary-gland.md)
@@ -99,7 +103,6 @@
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
 
-
 ## Pathology and Social Media
 
 * [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
@@ -108,7 +111,6 @@
 
 * [Pathology Tweets](pathology-tweets/pathology-tweets/README.md)
   * [Pathology Tweets](pathology-tweets/pathology-tweets/pathtweets.md)
-
 
 ## Taxonomy and Classification of Diseases
 
@@ -388,13 +390,12 @@
 * [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 
+## Pathology and Social Media <a id="pathology-and-social-media-1"></a>
 
-## Pathology and Social Media
+* [Pathology and Social Media](pathology-and-social-media-1/pathology-and-social-media.md)
 
-* [Pathology and Social Media](pathology-and-social-media/pathology-and-social-media.md)
+## Pathology Tweets <a id="pathology-tweets-1"></a>
 
-## Pathology Tweets
+* [Pathology Tweets](pathology-tweets-1/pathology-tweets/README.md)
+  * [Pathology Tweets](pathology-tweets-1/pathology-tweets/pathology-tweets.md)
 
-* [Pathology Tweets](pathology-tweets/README.md)
-  * [Pathology Tweets](pathology-tweets/pathtweets.md)
-  
