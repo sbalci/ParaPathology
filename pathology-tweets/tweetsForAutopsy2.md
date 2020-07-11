@@ -13,22 +13,16 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {% embed url="https://twitter.com/szaheer123/status/1281515547117617153?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Fifth_Business/status/1268964262199922690?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/andyzonesix/status/1266496502932869122?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/susankey_key/status/1266493010826706944?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/LillieBeins/status/1266486086827683840?s=20" %}<br>
-<br>
-<hr>
 {% embed url="https://twitter.com/TaritaC/status/1266482479814279176?s=20" %}<br>
 <br>
 <hr>
 {% embed url="https://twitter.com/mitchellscomet/status/1266480796270985216?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/DocBarbieMD/status/1266480573519888384?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/PeaceIn2020/status/1266479873238855680?s=20" %}<br>
 <br>
 <hr>
 
