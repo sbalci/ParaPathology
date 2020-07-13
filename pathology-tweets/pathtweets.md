@@ -8,6 +8,7 @@
   * [tweetsForAutopsy14](pathology-tweets/tweetsForAutopsy14.md)<br><br><hr><br><br>
   * [tweetsForAutopsy15](pathology-tweets/tweetsForAutopsy15.md)<br><br><hr><br><br>
   * [tweetsForAutopsy16](pathology-tweets/tweetsForAutopsy16.md)<br><br><hr><br><br>
+  * [tweetsForAutopsy17](pathology-tweets/tweetsForAutopsy17.md)<br><br><hr><br><br>
   * [tweetsForAutopsy18](pathology-tweets/tweetsForAutopsy18.md)<br><br><hr><br><br>
   * [tweetsForAutopsy19](pathology-tweets/tweetsForAutopsy19.md)<br><br><hr><br><br>
   * [tweetsForAutopsy2](pathology-tweets/tweetsForAutopsy2.md)<br><br><hr><br><br>
@@ -21,7 +22,6 @@
   * [tweetsForAutopsy27](pathology-tweets/tweetsForAutopsy27.md)<br><br><hr><br><br>
   * [tweetsForAutopsy28](pathology-tweets/tweetsForAutopsy28.md)<br><br><hr><br><br>
   * [tweetsForAutopsy29](pathology-tweets/tweetsForAutopsy29.md)<br><br><hr><br><br>
-  * [tweetsForAutopsy3](pathology-tweets/tweetsForAutopsy3.md)<br><br><hr><br><br>
   * [tweetsForAutopsy30](pathology-tweets/tweetsForAutopsy30.md)<br><br><hr><br><br>
   * [tweetsForAutopsy31](pathology-tweets/tweetsForAutopsy31.md)<br><br><hr><br><br>
   * [tweetsForAutopsy32](pathology-tweets/tweetsForAutopsy32.md)<br><br><hr><br><br>
@@ -32,6 +32,7 @@
   * [tweetsForAutopsy37](pathology-tweets/tweetsForAutopsy37.md)<br><br><hr><br><br>
   * [tweetsForAutopsy38](pathology-tweets/tweetsForAutopsy38.md)<br><br><hr><br><br>
   * [tweetsForAutopsy39](pathology-tweets/tweetsForAutopsy39.md)<br><br><hr><br><br>
+  * [tweetsForAutopsy4](pathology-tweets/tweetsForAutopsy4.md)<br><br><hr><br><br>
   * [tweetsForAutopsy40](pathology-tweets/tweetsForAutopsy40.md)<br><br><hr><br><br>
   * [tweetsForAutopsy41](pathology-tweets/tweetsForAutopsy41.md)<br><br><hr><br><br>
   * [tweetsForAutopsy42](pathology-tweets/tweetsForAutopsy42.md)<br><br><hr><br><br>
@@ -149,7 +150,6 @@
   * [tweetsForBSTPath9](pathology-tweets/tweetsForBSTPath9.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath1](pathology-tweets/tweetsForCardiacPath1.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath10](pathology-tweets/tweetsForCardiacPath10.md)<br><br><hr><br><br>
-  * [tweetsForCardiacPath11](pathology-tweets/tweetsForCardiacPath11.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath12](pathology-tweets/tweetsForCardiacPath12.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath13](pathology-tweets/tweetsForCardiacPath13.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath14](pathology-tweets/tweetsForCardiacPath14.md)<br><br><hr><br><br>
@@ -166,7 +166,6 @@
   * [tweetsForCardiacPath24](pathology-tweets/tweetsForCardiacPath24.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath25](pathology-tweets/tweetsForCardiacPath25.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath26](pathology-tweets/tweetsForCardiacPath26.md)<br><br><hr><br><br>
-  * [tweetsForCardiacPath27](pathology-tweets/tweetsForCardiacPath27.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath28](pathology-tweets/tweetsForCardiacPath28.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath29](pathology-tweets/tweetsForCardiacPath29.md)<br><br><hr><br><br>
   * [tweetsForCardiacPath3](pathology-tweets/tweetsForCardiacPath3.md)<br><br><hr><br><br>
@@ -270,7 +269,6 @@
   * [tweetsForEndoPath28](pathology-tweets/tweetsForEndoPath28.md)<br><br><hr><br><br>
   * [tweetsForEndoPath29](pathology-tweets/tweetsForEndoPath29.md)<br><br><hr><br><br>
   * [tweetsForEndoPath3](pathology-tweets/tweetsForEndoPath3.md)<br><br><hr><br><br>
-  * [tweetsForEndoPath30](pathology-tweets/tweetsForEndoPath30.md)<br><br><hr><br><br>
   * [tweetsForEndoPath31](pathology-tweets/tweetsForEndoPath31.md)<br><br><hr><br><br>
   * [tweetsForEndoPath32](pathology-tweets/tweetsForEndoPath32.md)<br><br><hr><br><br>
   * [tweetsForEndoPath33](pathology-tweets/tweetsForEndoPath33.md)<br><br><hr><br><br>
@@ -400,14 +398,15 @@
   * [tweetsForForensicPath10](pathology-tweets/tweetsForForensicPath10.md)<br><br><hr><br><br>
   * [tweetsForForensicPath11](pathology-tweets/tweetsForForensicPath11.md)<br><br><hr><br><br>
   * [tweetsForForensicPath12](pathology-tweets/tweetsForForensicPath12.md)<br><br><hr><br><br>
+  * [tweetsForForensicPath13](pathology-tweets/tweetsForForensicPath13.md)<br><br><hr><br><br>
   * [tweetsForForensicPath14](pathology-tweets/tweetsForForensicPath14.md)<br><br><hr><br><br>
   * [tweetsForForensicPath15](pathology-tweets/tweetsForForensicPath15.md)<br><br><hr><br><br>
   * [tweetsForForensicPath16](pathology-tweets/tweetsForForensicPath16.md)<br><br><hr><br><br>
+  * [tweetsForForensicPath17](pathology-tweets/tweetsForForensicPath17.md)<br><br><hr><br><br>
   * [tweetsForForensicPath18](pathology-tweets/tweetsForForensicPath18.md)<br><br><hr><br><br>
   * [tweetsForForensicPath19](pathology-tweets/tweetsForForensicPath19.md)<br><br><hr><br><br>
   * [tweetsForForensicPath2](pathology-tweets/tweetsForForensicPath2.md)<br><br><hr><br><br>
   * [tweetsForForensicPath20](pathology-tweets/tweetsForForensicPath20.md)<br><br><hr><br><br>
-  * [tweetsForForensicPath22](pathology-tweets/tweetsForForensicPath22.md)<br><br><hr><br><br>
   * [tweetsForForensicPath23](pathology-tweets/tweetsForForensicPath23.md)<br><br><hr><br><br>
   * [tweetsForForensicPath24](pathology-tweets/tweetsForForensicPath24.md)<br><br><hr><br><br>
   * [tweetsForForensicPath25](pathology-tweets/tweetsForForensicPath25.md)<br><br><hr><br><br>
@@ -425,14 +424,15 @@
   * [tweetsForForensicPath37](pathology-tweets/tweetsForForensicPath37.md)<br><br><hr><br><br>
   * [tweetsForForensicPath38](pathology-tweets/tweetsForForensicPath38.md)<br><br><hr><br><br>
   * [tweetsForForensicPath39](pathology-tweets/tweetsForForensicPath39.md)<br><br><hr><br><br>
+  * [tweetsForForensicPath4](pathology-tweets/tweetsForForensicPath4.md)<br><br><hr><br><br>
   * [tweetsForForensicPath40](pathology-tweets/tweetsForForensicPath40.md)<br><br><hr><br><br>
+  * [tweetsForForensicPath41](pathology-tweets/tweetsForForensicPath41.md)<br><br><hr><br><br>
   * [tweetsForForensicPath42](pathology-tweets/tweetsForForensicPath42.md)<br><br><hr><br><br>
   * [tweetsForForensicPath43](pathology-tweets/tweetsForForensicPath43.md)<br><br><hr><br><br>
   * [tweetsForForensicPath44](pathology-tweets/tweetsForForensicPath44.md)<br><br><hr><br><br>
+  * [tweetsForForensicPath45](pathology-tweets/tweetsForForensicPath45.md)<br><br><hr><br><br>
   * [tweetsForForensicPath46](pathology-tweets/tweetsForForensicPath46.md)<br><br><hr><br><br>
   * [tweetsForForensicPath47](pathology-tweets/tweetsForForensicPath47.md)<br><br><hr><br><br>
-  * [tweetsForForensicPath48](pathology-tweets/tweetsForForensicPath48.md)<br><br><hr><br><br>
-  * [tweetsForForensicPath49](pathology-tweets/tweetsForForensicPath49.md)<br><br><hr><br><br>
   * [tweetsForForensicPath5](pathology-tweets/tweetsForForensicPath5.md)<br><br><hr><br><br>
   * [tweetsForForensicPath6](pathology-tweets/tweetsForForensicPath6.md)<br><br><hr><br><br>
   * [tweetsForForensicPath7](pathology-tweets/tweetsForForensicPath7.md)<br><br><hr><br><br>
@@ -441,15 +441,13 @@
   * [tweetsForGIPath1](pathology-tweets/tweetsForGIPath1.md)<br><br><hr><br><br>
   * [tweetsForGIPath10](pathology-tweets/tweetsForGIPath10.md)<br><br><hr><br><br>
   * [tweetsForGIPath12](pathology-tweets/tweetsForGIPath12.md)<br><br><hr><br><br>
-  * [tweetsForGIPath15](pathology-tweets/tweetsForGIPath15.md)<br><br><hr><br><br>
   * [tweetsForGIPath16](pathology-tweets/tweetsForGIPath16.md)<br><br><hr><br><br>
   * [tweetsForGIPath17](pathology-tweets/tweetsForGIPath17.md)<br><br><hr><br><br>
   * [tweetsForGIPath2](pathology-tweets/tweetsForGIPath2.md)<br><br><hr><br><br>
   * [tweetsForGIPath20](pathology-tweets/tweetsForGIPath20.md)<br><br><hr><br><br>
   * [tweetsForGIPath21](pathology-tweets/tweetsForGIPath21.md)<br><br><hr><br><br>
-  * [tweetsForGIPath23](pathology-tweets/tweetsForGIPath23.md)<br><br><hr><br><br>
   * [tweetsForGIPath24](pathology-tweets/tweetsForGIPath24.md)<br><br><hr><br><br>
-  * [tweetsForGIPath26](pathology-tweets/tweetsForGIPath26.md)<br><br><hr><br><br>
+  * [tweetsForGIPath25](pathology-tweets/tweetsForGIPath25.md)<br><br><hr><br><br>
   * [tweetsForGIPath27](pathology-tweets/tweetsForGIPath27.md)<br><br><hr><br><br>
   * [tweetsForGIPath28](pathology-tweets/tweetsForGIPath28.md)<br><br><hr><br><br>
   * [tweetsForGIPath29](pathology-tweets/tweetsForGIPath29.md)<br><br><hr><br><br>
@@ -471,7 +469,7 @@
   * [tweetsForGIPath43](pathology-tweets/tweetsForGIPath43.md)<br><br><hr><br><br>
   * [tweetsForGIPath45](pathology-tweets/tweetsForGIPath45.md)<br><br><hr><br><br>
   * [tweetsForGIPath46](pathology-tweets/tweetsForGIPath46.md)<br><br><hr><br><br>
-  * [tweetsForGIPath47](pathology-tweets/tweetsForGIPath47.md)<br><br><hr><br><br>
+  * [tweetsForGIPath48](pathology-tweets/tweetsForGIPath48.md)<br><br><hr><br><br>
   * [tweetsForGIPath49](pathology-tweets/tweetsForGIPath49.md)<br><br><hr><br><br>
   * [tweetsForGIPath5](pathology-tweets/tweetsForGIPath5.md)<br><br><hr><br><br>
   * [tweetsForGIPath50](pathology-tweets/tweetsForGIPath50.md)<br><br><hr><br><br>
@@ -479,7 +477,7 @@
   * [tweetsForGIPath8](pathology-tweets/tweetsForGIPath8.md)<br><br><hr><br><br>
   * [tweetsForGIPath9](pathology-tweets/tweetsForGIPath9.md)<br><br><hr><br><br>
   * [tweetsForGrossPath21](pathology-tweets/tweetsForGrossPath21.md)<br><br><hr><br><br>
-  * [tweetsForGrossPath27](pathology-tweets/tweetsForGrossPath27.md)<br><br><hr><br><br>
+  * [tweetsForGrossPath35](pathology-tweets/tweetsForGrossPath35.md)<br><br><hr><br><br>
   * [tweetsForGrossPath37](pathology-tweets/tweetsForGrossPath37.md)<br><br><hr><br><br>
   * [tweetsForGrossPath4](pathology-tweets/tweetsForGrossPath4.md)<br><br><hr><br><br>
   * [tweetsForGrossPath44](pathology-tweets/tweetsForGrossPath44.md)<br><br><hr><br><br>
@@ -586,6 +584,7 @@
   * [tweetsForGynPath9](pathology-tweets/tweetsForGynPath9.md)<br><br><hr><br><br>
   * [tweetsForHemePath1](pathology-tweets/tweetsForHemePath1.md)<br><br><hr><br><br>
   * [tweetsForHemePath10](pathology-tweets/tweetsForHemePath10.md)<br><br><hr><br><br>
+  * [tweetsForHemePath11](pathology-tweets/tweetsForHemePath11.md)<br><br><hr><br><br>
   * [tweetsForHemePath12](pathology-tweets/tweetsForHemePath12.md)<br><br><hr><br><br>
   * [tweetsForHemePath13](pathology-tweets/tweetsForHemePath13.md)<br><br><hr><br><br>
   * [tweetsForHemePath14](pathology-tweets/tweetsForHemePath14.md)<br><br><hr><br><br>
@@ -596,6 +595,7 @@
   * [tweetsForHemePath19](pathology-tweets/tweetsForHemePath19.md)<br><br><hr><br><br>
   * [tweetsForHemePath2](pathology-tweets/tweetsForHemePath2.md)<br><br><hr><br><br>
   * [tweetsForHemePath20](pathology-tweets/tweetsForHemePath20.md)<br><br><hr><br><br>
+  * [tweetsForHemePath21](pathology-tweets/tweetsForHemePath21.md)<br><br><hr><br><br>
   * [tweetsForHemePath22](pathology-tweets/tweetsForHemePath22.md)<br><br><hr><br><br>
   * [tweetsForHemePath23](pathology-tweets/tweetsForHemePath23.md)<br><br><hr><br><br>
   * [tweetsForHemePath24](pathology-tweets/tweetsForHemePath24.md)<br><br><hr><br><br>
@@ -604,7 +604,6 @@
   * [tweetsForHemePath27](pathology-tweets/tweetsForHemePath27.md)<br><br><hr><br><br>
   * [tweetsForHemePath28](pathology-tweets/tweetsForHemePath28.md)<br><br><hr><br><br>
   * [tweetsForHemePath29](pathology-tweets/tweetsForHemePath29.md)<br><br><hr><br><br>
-  * [tweetsForHemePath3](pathology-tweets/tweetsForHemePath3.md)<br><br><hr><br><br>
   * [tweetsForHemePath30](pathology-tweets/tweetsForHemePath30.md)<br><br><hr><br><br>
   * [tweetsForHemePath31](pathology-tweets/tweetsForHemePath31.md)<br><br><hr><br><br>
   * [tweetsForHemePath32](pathology-tweets/tweetsForHemePath32.md)<br><br><hr><br><br>
@@ -630,12 +629,10 @@
   * [tweetsForHemePath50](pathology-tweets/tweetsForHemePath50.md)<br><br><hr><br><br>
   * [tweetsForHemePath6](pathology-tweets/tweetsForHemePath6.md)<br><br><hr><br><br>
   * [tweetsForHemePath7](pathology-tweets/tweetsForHemePath7.md)<br><br><hr><br><br>
-  * [tweetsForHemePath8](pathology-tweets/tweetsForHemePath8.md)<br><br><hr><br><br>
   * [tweetsForHemePath9](pathology-tweets/tweetsForHemePath9.md)<br><br><hr><br><br>
   * [tweetsForIDPath1](pathology-tweets/tweetsForIDPath1.md)<br><br><hr><br><br>
   * [tweetsForIDPath10](pathology-tweets/tweetsForIDPath10.md)<br><br><hr><br><br>
   * [tweetsForIDPath11](pathology-tweets/tweetsForIDPath11.md)<br><br><hr><br><br>
-  * [tweetsForIDPath12](pathology-tweets/tweetsForIDPath12.md)<br><br><hr><br><br>
   * [tweetsForIDPath13](pathology-tweets/tweetsForIDPath13.md)<br><br><hr><br><br>
   * [tweetsForIDPath14](pathology-tweets/tweetsForIDPath14.md)<br><br><hr><br><br>
   * [tweetsForIDPath15](pathology-tweets/tweetsForIDPath15.md)<br><br><hr><br><br>
@@ -643,9 +640,7 @@
   * [tweetsForIDPath17](pathology-tweets/tweetsForIDPath17.md)<br><br><hr><br><br>
   * [tweetsForIDPath18](pathology-tweets/tweetsForIDPath18.md)<br><br><hr><br><br>
   * [tweetsForIDPath19](pathology-tweets/tweetsForIDPath19.md)<br><br><hr><br><br>
-  * [tweetsForIDPath2](pathology-tweets/tweetsForIDPath2.md)<br><br><hr><br><br>
   * [tweetsForIDPath20](pathology-tweets/tweetsForIDPath20.md)<br><br><hr><br><br>
-  * [tweetsForIDPath21](pathology-tweets/tweetsForIDPath21.md)<br><br><hr><br><br>
   * [tweetsForIDPath22](pathology-tweets/tweetsForIDPath22.md)<br><br><hr><br><br>
   * [tweetsForIDPath24](pathology-tweets/tweetsForIDPath24.md)<br><br><hr><br><br>
   * [tweetsForIDPath25](pathology-tweets/tweetsForIDPath25.md)<br><br><hr><br><br>
@@ -655,20 +650,20 @@
   * [tweetsForIDPath29](pathology-tweets/tweetsForIDPath29.md)<br><br><hr><br><br>
   * [tweetsForIDPath3](pathology-tweets/tweetsForIDPath3.md)<br><br><hr><br><br>
   * [tweetsForIDPath30](pathology-tweets/tweetsForIDPath30.md)<br><br><hr><br><br>
-  * [tweetsForIDPath31](pathology-tweets/tweetsForIDPath31.md)<br><br><hr><br><br>
   * [tweetsForIDPath32](pathology-tweets/tweetsForIDPath32.md)<br><br><hr><br><br>
   * [tweetsForIDPath33](pathology-tweets/tweetsForIDPath33.md)<br><br><hr><br><br>
   * [tweetsForIDPath34](pathology-tweets/tweetsForIDPath34.md)<br><br><hr><br><br>
   * [tweetsForIDPath35](pathology-tweets/tweetsForIDPath35.md)<br><br><hr><br><br>
   * [tweetsForIDPath36](pathology-tweets/tweetsForIDPath36.md)<br><br><hr><br><br>
+  * [tweetsForIDPath37](pathology-tweets/tweetsForIDPath37.md)<br><br><hr><br><br>
   * [tweetsForIDPath38](pathology-tweets/tweetsForIDPath38.md)<br><br><hr><br><br>
   * [tweetsForIDPath39](pathology-tweets/tweetsForIDPath39.md)<br><br><hr><br><br>
+  * [tweetsForIDPath4](pathology-tweets/tweetsForIDPath4.md)<br><br><hr><br><br>
   * [tweetsForIDPath40](pathology-tweets/tweetsForIDPath40.md)<br><br><hr><br><br>
   * [tweetsForIDPath41](pathology-tweets/tweetsForIDPath41.md)<br><br><hr><br><br>
   * [tweetsForIDPath42](pathology-tweets/tweetsForIDPath42.md)<br><br><hr><br><br>
   * [tweetsForIDPath43](pathology-tweets/tweetsForIDPath43.md)<br><br><hr><br><br>
   * [tweetsForIDPath44](pathology-tweets/tweetsForIDPath44.md)<br><br><hr><br><br>
-  * [tweetsForIDPath45](pathology-tweets/tweetsForIDPath45.md)<br><br><hr><br><br>
   * [tweetsForIDPath46](pathology-tweets/tweetsForIDPath46.md)<br><br><hr><br><br>
   * [tweetsForIDPath47](pathology-tweets/tweetsForIDPath47.md)<br><br><hr><br><br>
   * [tweetsForIDPath48](pathology-tweets/tweetsForIDPath48.md)<br><br><hr><br><br>
@@ -731,14 +726,13 @@
   * [tweetsForIHCPath9](pathology-tweets/tweetsForIHCPath9.md)<br><br><hr><br><br>
   * [tweetsForMolDx1](pathology-tweets/tweetsForMolDx1.md)<br><br><hr><br><br>
   * [tweetsForMolDx11](pathology-tweets/tweetsForMolDx11.md)<br><br><hr><br><br>
-  * [tweetsForMolDx15](pathology-tweets/tweetsForMolDx15.md)<br><br><hr><br><br>
+  * [tweetsForMolDx12](pathology-tweets/tweetsForMolDx12.md)<br><br><hr><br><br>
+  * [tweetsForMolDx14](pathology-tweets/tweetsForMolDx14.md)<br><br><hr><br><br>
   * [tweetsForMolDx16](pathology-tweets/tweetsForMolDx16.md)<br><br><hr><br><br>
   * [tweetsForMolDx17](pathology-tweets/tweetsForMolDx17.md)<br><br><hr><br><br>
   * [tweetsForMolDx18](pathology-tweets/tweetsForMolDx18.md)<br><br><hr><br><br>
   * [tweetsForMolDx19](pathology-tweets/tweetsForMolDx19.md)<br><br><hr><br><br>
   * [tweetsForMolDx2](pathology-tweets/tweetsForMolDx2.md)<br><br><hr><br><br>
-  * [tweetsForMolDx20](pathology-tweets/tweetsForMolDx20.md)<br><br><hr><br><br>
-  * [tweetsForMolDx21](pathology-tweets/tweetsForMolDx21.md)<br><br><hr><br><br>
   * [tweetsForMolDx22](pathology-tweets/tweetsForMolDx22.md)<br><br><hr><br><br>
   * [tweetsForMolDx23](pathology-tweets/tweetsForMolDx23.md)<br><br><hr><br><br>
   * [tweetsForMolDx24](pathology-tweets/tweetsForMolDx24.md)<br><br><hr><br><br>
@@ -762,11 +756,13 @@
   * [tweetsForMolDx41](pathology-tweets/tweetsForMolDx41.md)<br><br><hr><br><br>
   * [tweetsForMolDx42](pathology-tweets/tweetsForMolDx42.md)<br><br><hr><br><br>
   * [tweetsForMolDx43](pathology-tweets/tweetsForMolDx43.md)<br><br><hr><br><br>
+  * [tweetsForMolDx44](pathology-tweets/tweetsForMolDx44.md)<br><br><hr><br><br>
   * [tweetsForMolDx45](pathology-tweets/tweetsForMolDx45.md)<br><br><hr><br><br>
   * [tweetsForMolDx46](pathology-tweets/tweetsForMolDx46.md)<br><br><hr><br><br>
   * [tweetsForMolDx48](pathology-tweets/tweetsForMolDx48.md)<br><br><hr><br><br>
   * [tweetsForMolDx49](pathology-tweets/tweetsForMolDx49.md)<br><br><hr><br><br>
   * [tweetsForMolDx5](pathology-tweets/tweetsForMolDx5.md)<br><br><hr><br><br>
+  * [tweetsForMolDx50](pathology-tweets/tweetsForMolDx50.md)<br><br><hr><br><br>
   * [tweetsForMolDx6](pathology-tweets/tweetsForMolDx6.md)<br><br><hr><br><br>
   * [tweetsForMolDx7](pathology-tweets/tweetsForMolDx7.md)<br><br><hr><br><br>
   * [tweetsForMolDx8](pathology-tweets/tweetsForMolDx8.md)<br><br><hr><br><br>
@@ -819,7 +815,6 @@
   * [tweetsForNeuroPath7](pathology-tweets/tweetsForNeuroPath7.md)<br><br><hr><br><br>
   * [tweetsForNeuroPath8](pathology-tweets/tweetsForNeuroPath8.md)<br><br><hr><br><br>
   * [tweetsForNeuroPath9](pathology-tweets/tweetsForNeuroPath9.md)<br><br><hr><br><br>
-  * [tweetsForOralPath1](pathology-tweets/tweetsForOralPath1.md)<br><br><hr><br><br>
   * [tweetsForOralPath11](pathology-tweets/tweetsForOralPath11.md)<br><br><hr><br><br>
   * [tweetsForOralPath12](pathology-tweets/tweetsForOralPath12.md)<br><br><hr><br><br>
   * [tweetsForOralPath13](pathology-tweets/tweetsForOralPath13.md)<br><br><hr><br><br>
@@ -847,7 +842,9 @@
   * [tweetsForOralPath48](pathology-tweets/tweetsForOralPath48.md)<br><br><hr><br><br>
   * [tweetsForOralPath49](pathology-tweets/tweetsForOralPath49.md)<br><br><hr><br><br>
   * [tweetsForOralPath5](pathology-tweets/tweetsForOralPath5.md)<br><br><hr><br><br>
+  * [tweetsForOralPath9](pathology-tweets/tweetsForOralPath9.md)<br><br><hr><br><br>
   * [tweetsForPancPath1](pathology-tweets/tweetsForPancPath1.md)<br><br><hr><br><br>
+  * [tweetsForPancPath10](pathology-tweets/tweetsForPancPath10.md)<br><br><hr><br><br>
   * [tweetsForPancPath11](pathology-tweets/tweetsForPancPath11.md)<br><br><hr><br><br>
   * [tweetsForPancPath12](pathology-tweets/tweetsForPancPath12.md)<br><br><hr><br><br>
   * [tweetsForPancPath13](pathology-tweets/tweetsForPancPath13.md)<br><br><hr><br><br>
@@ -855,7 +852,7 @@
   * [tweetsForPancPath15](pathology-tweets/tweetsForPancPath15.md)<br><br><hr><br><br>
   * [tweetsForPancPath16](pathology-tweets/tweetsForPancPath16.md)<br><br><hr><br><br>
   * [tweetsForPancPath17](pathology-tweets/tweetsForPancPath17.md)<br><br><hr><br><br>
-  * [tweetsForPancPath18](pathology-tweets/tweetsForPancPath18.md)<br><br><hr><br><br>
+  * [tweetsForPancPath19](pathology-tweets/tweetsForPancPath19.md)<br><br><hr><br><br>
   * [tweetsForPancPath2](pathology-tweets/tweetsForPancPath2.md)<br><br><hr><br><br>
   * [tweetsForPancPath20](pathology-tweets/tweetsForPancPath20.md)<br><br><hr><br><br>
   * [tweetsForPancPath21](pathology-tweets/tweetsForPancPath21.md)<br><br><hr><br><br>
@@ -866,6 +863,7 @@
   * [tweetsForPancPath26](pathology-tweets/tweetsForPancPath26.md)<br><br><hr><br><br>
   * [tweetsForPancPath27](pathology-tweets/tweetsForPancPath27.md)<br><br><hr><br><br>
   * [tweetsForPancPath29](pathology-tweets/tweetsForPancPath29.md)<br><br><hr><br><br>
+  * [tweetsForPancPath3](pathology-tweets/tweetsForPancPath3.md)<br><br><hr><br><br>
   * [tweetsForPancPath30](pathology-tweets/tweetsForPancPath30.md)<br><br><hr><br><br>
   * [tweetsForPancPath31](pathology-tweets/tweetsForPancPath31.md)<br><br><hr><br><br>
   * [tweetsForPancPath32](pathology-tweets/tweetsForPancPath32.md)<br><br><hr><br><br>
@@ -890,7 +888,6 @@
   * [tweetsForPancPath50](pathology-tweets/tweetsForPancPath50.md)<br><br><hr><br><br>
   * [tweetsForPancPath6](pathology-tweets/tweetsForPancPath6.md)<br><br><hr><br><br>
   * [tweetsForPancPath7](pathology-tweets/tweetsForPancPath7.md)<br><br><hr><br><br>
-  * [tweetsForPancPath8](pathology-tweets/tweetsForPancPath8.md)<br><br><hr><br><br>
   * [tweetsForPancPath9](pathology-tweets/tweetsForPancPath9.md)<br><br><hr><br><br>
   * [tweetsForPathArticles1](pathology-tweets/tweetsForPathArticles1.md)<br><br><hr><br><br>
   * [tweetsForPathArticles10](pathology-tweets/tweetsForPathArticles10.md)<br><br><hr><br><br>
@@ -1011,7 +1008,6 @@
   * [tweetsForPathTweetAward24](pathology-tweets/tweetsForPathTweetAward24.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward25](pathology-tweets/tweetsForPathTweetAward25.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward26](pathology-tweets/tweetsForPathTweetAward26.md)<br><br><hr><br><br>
-  * [tweetsForPathTweetAward27](pathology-tweets/tweetsForPathTweetAward27.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward28](pathology-tweets/tweetsForPathTweetAward28.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward29](pathology-tweets/tweetsForPathTweetAward29.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward3](pathology-tweets/tweetsForPathTweetAward3.md)<br><br><hr><br><br>
@@ -1019,13 +1015,13 @@
   * [tweetsForPathTweetAward31](pathology-tweets/tweetsForPathTweetAward31.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward32](pathology-tweets/tweetsForPathTweetAward32.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward33](pathology-tweets/tweetsForPathTweetAward33.md)<br><br><hr><br><br>
+  * [tweetsForPathTweetAward34](pathology-tweets/tweetsForPathTweetAward34.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward35](pathology-tweets/tweetsForPathTweetAward35.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward36](pathology-tweets/tweetsForPathTweetAward36.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward37](pathology-tweets/tweetsForPathTweetAward37.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward38](pathology-tweets/tweetsForPathTweetAward38.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward39](pathology-tweets/tweetsForPathTweetAward39.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward4](pathology-tweets/tweetsForPathTweetAward4.md)<br><br><hr><br><br>
-  * [tweetsForPathTweetAward40](pathology-tweets/tweetsForPathTweetAward40.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward41](pathology-tweets/tweetsForPathTweetAward41.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward42](pathology-tweets/tweetsForPathTweetAward42.md)<br><br><hr><br><br>
   * [tweetsForPathTweetAward43](pathology-tweets/tweetsForPathTweetAward43.md)<br><br><hr><br><br>
@@ -1142,7 +1138,6 @@
   * [tweetsForPulmPath8](pathology-tweets/tweetsForPulmPath8.md)<br><br><hr><br><br>
   * [tweetsForPulmPath9](pathology-tweets/tweetsForPulmPath9.md)<br><br><hr><br><br>
   * [tweetsForSurgPath1](pathology-tweets/tweetsForSurgPath1.md)<br><br><hr><br><br>
-  * [tweetsForSurgPath10](pathology-tweets/tweetsForSurgPath10.md)<br><br><hr><br><br>
   * [tweetsForSurgPath11](pathology-tweets/tweetsForSurgPath11.md)<br><br><hr><br><br>
   * [tweetsForSurgPath12](pathology-tweets/tweetsForSurgPath12.md)<br><br><hr><br><br>
   * [tweetsForSurgPath13](pathology-tweets/tweetsForSurgPath13.md)<br><br><hr><br><br>
@@ -1166,6 +1161,7 @@
   * [tweetsForSurgPath3](pathology-tweets/tweetsForSurgPath3.md)<br><br><hr><br><br>
   * [tweetsForSurgPath30](pathology-tweets/tweetsForSurgPath30.md)<br><br><hr><br><br>
   * [tweetsForSurgPath31](pathology-tweets/tweetsForSurgPath31.md)<br><br><hr><br><br>
+  * [tweetsForSurgPath32](pathology-tweets/tweetsForSurgPath32.md)<br><br><hr><br><br>
   * [tweetsForSurgPath33](pathology-tweets/tweetsForSurgPath33.md)<br><br><hr><br><br>
   * [tweetsForSurgPath34](pathology-tweets/tweetsForSurgPath34.md)<br><br><hr><br><br>
   * [tweetsForSurgPath35](pathology-tweets/tweetsForSurgPath35.md)<br><br><hr><br><br>
@@ -1174,8 +1170,6 @@
   * [tweetsForSurgPath38](pathology-tweets/tweetsForSurgPath38.md)<br><br><hr><br><br>
   * [tweetsForSurgPath39](pathology-tweets/tweetsForSurgPath39.md)<br><br><hr><br><br>
   * [tweetsForSurgPath4](pathology-tweets/tweetsForSurgPath4.md)<br><br><hr><br><br>
-  * [tweetsForSurgPath40](pathology-tweets/tweetsForSurgPath40.md)<br><br><hr><br><br>
-  * [tweetsForSurgPath41](pathology-tweets/tweetsForSurgPath41.md)<br><br><hr><br><br>
   * [tweetsForSurgPath42](pathology-tweets/tweetsForSurgPath42.md)<br><br><hr><br><br>
   * [tweetsForSurgPath43](pathology-tweets/tweetsForSurgPath43.md)<br><br><hr><br><br>
   * [tweetsForSurgPath44](pathology-tweets/tweetsForSurgPath44.md)<br><br><hr><br><br>
@@ -1183,19 +1177,19 @@
   * [tweetsForSurgPath46](pathology-tweets/tweetsForSurgPath46.md)<br><br><hr><br><br>
   * [tweetsForSurgPath47](pathology-tweets/tweetsForSurgPath47.md)<br><br><hr><br><br>
   * [tweetsForSurgPath48](pathology-tweets/tweetsForSurgPath48.md)<br><br><hr><br><br>
+  * [tweetsForSurgPath49](pathology-tweets/tweetsForSurgPath49.md)<br><br><hr><br><br>
   * [tweetsForSurgPath5](pathology-tweets/tweetsForSurgPath5.md)<br><br><hr><br><br>
   * [tweetsForSurgPath50](pathology-tweets/tweetsForSurgPath50.md)<br><br><hr><br><br>
   * [tweetsForSurgPath6](pathology-tweets/tweetsForSurgPath6.md)<br><br><hr><br><br>
   * [tweetsForSurgPath7](pathology-tweets/tweetsForSurgPath7.md)<br><br><hr><br><br>
   * [tweetsForSurgPath8](pathology-tweets/tweetsForSurgPath8.md)<br><br><hr><br><br>
   * [tweetsForSurgPath9](pathology-tweets/tweetsForSurgPath9.md)<br><br><hr><br><br>
-  * [tweetsForUSCAP202030](pathology-tweets/tweetsForUSCAP202030.md)<br><br><hr><br><br>
+  * [tweetsForUSCAP202029](pathology-tweets/tweetsForUSCAP202029.md)<br><br><hr><br><br>
   * [tweetsForUSCAP202032](pathology-tweets/tweetsForUSCAP202032.md)<br><br><hr><br><br>
   * [tweetsForUSCAP202033](pathology-tweets/tweetsForUSCAP202033.md)<br><br><hr><br><br>
   * [tweetsForUSCAP202034](pathology-tweets/tweetsForUSCAP202034.md)<br><br><hr><br><br>
-  * [tweetsForUSCAP202035](pathology-tweets/tweetsForUSCAP202035.md)<br><br><hr><br><br>
   * [tweetsForUSCAP202036](pathology-tweets/tweetsForUSCAP202036.md)<br><br><hr><br><br>
-  * [tweetsForUSCAP202037](pathology-tweets/tweetsForUSCAP202037.md)<br><br><hr><br><br>
+  * [tweetsForUSCAP202045](pathology-tweets/tweetsForUSCAP202045.md)<br><br><hr><br><br>
   * [tweetsForUSCAP202047](pathology-tweets/tweetsForUSCAP202047.md)<br><br><hr><br><br>
   * [tweetsForUSCAP20205](pathology-tweets/tweetsForUSCAP20205.md)<br><br><hr><br><br>
   * [tweetsForUSCAP20206](pathology-tweets/tweetsForUSCAP20206.md)<br><br><hr><br><br>

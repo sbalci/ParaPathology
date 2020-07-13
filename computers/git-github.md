@@ -133,3 +133,38 @@
 > git push -f origin master
 > ```
 
+# clone a branch
+
+
+https://github.com/jamovi/jamovi/tree/current-dev
+
+
+```
+git clone --single-branch --branch current-dev https://github.com/jamovi/jamovi.git
+```
+
+# Keeping a fork up to date
+
+https://gist.github.com/sbalci/9959350f59eda7ca24bd77fe2d21323f
+
+
+1. Clone your fork:
+
+```
+git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
+```
+
+2. Add remote from original repository in your forked repository: 
+
+```
+cd into/cloned/fork-repo
+git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+git fetch upstream
+```
+
+3. Updating your fork from original repo to keep up with their changes:
+
+```
+git pull upstream master
+``` 
+
