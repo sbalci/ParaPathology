@@ -7,6 +7,12 @@ See selected social media based textbook project here: http://www.patolojinotlar
 {% embed url="https://twitter.com/Patholwalker/status/1109791839823908865?s=20" %}<br>
 <br>
 <hr>
+{% embed url="https://twitter.com/DrMJW/status/1273816850564931584?s=20" %}<br>
+<br>
+<hr>
+{% embed url="https://twitter.com/SwikrityUMD/status/1272020565663113218?s=20" %}<br>
+<br>
+<hr>
 
 
 These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
