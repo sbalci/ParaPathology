@@ -1,5 +1,7 @@
 # Git GitHub
 
+## Git GitHub
+
 * Publish blog posts from R + knitr to WordPress
 
 [https://yihui.name/knitr/demo/wordpress/](https://yihui.name/knitr/demo/wordpress/)
@@ -62,7 +64,7 @@
 {% youtube %}CR-7blJkNaI{% endyoutube %}
 ```
 
-## GitBook Plugins
+### GitBook Plugins
 
 * add this to book.json
 
@@ -91,7 +93,7 @@
 {% youtube %}CR-7blJkNaI{% endyoutube %}
 ```
 
-### [Adding an existing project to GitHub using the command line](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
+#### [Adding an existing project to GitHub using the command line](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
 
 [https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
 
@@ -133,38 +135,35 @@
 > git push -f origin master
 > ```
 
-# clone a branch
+## clone a branch
 
+[https://github.com/jamovi/jamovi/tree/current-dev](https://github.com/jamovi/jamovi/tree/current-dev)
 
-https://github.com/jamovi/jamovi/tree/current-dev
-
-
-```
+```text
 git clone --single-branch --branch current-dev https://github.com/jamovi/jamovi.git
 ```
 
-# Keeping a fork up to date
+## Keeping a fork up to date
 
-https://gist.github.com/sbalci/9959350f59eda7ca24bd77fe2d21323f
-
+[https://gist.github.com/sbalci/9959350f59eda7ca24bd77fe2d21323f](https://gist.github.com/sbalci/9959350f59eda7ca24bd77fe2d21323f)
 
 1. Clone your fork:
 
-```
+```text
 git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
 ```
 
-2. Add remote from original repository in your forked repository: 
+1. Add remote from original repository in your forked repository: 
 
-```
+```text
 cd into/cloned/fork-repo
 git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
 git fetch upstream
 ```
 
-3. Updating your fork from original repo to keep up with their changes:
+1. Updating your fork from original repo to keep up with their changes:
 
-```
+```text
 git pull upstream master
-``` 
+```
 
