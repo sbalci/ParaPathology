@@ -4,28 +4,16 @@ These tweets are selected automatically with #rstats code. Please inform me if a
 See other #Autopsy pages here: https://serdarbalci.netlify.com/categories/Autopsy/ 
 See selected social media based textbook project here: http://www.patolojinotlari.com/
 
-{% embed url="https://twitter.com/Patholwalker/status/1217706450610356224?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/1017313792630255622?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1217162846800240640?s=20" %}<br>
+{% embed url="https://twitter.com/Patholwalker/status/922378988286181376?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/1024260411913252864?s=20" %}<br>
+{% embed url="https://twitter.com/mariaphillis/status/1273415430850437120?s=20" %}<br>
 <br>
 <hr>
-{% embed url="https://twitter.com/Patholwalker/status/953460382714159104?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/gboyegaakosile/status/1274818366545543178?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/bennetomalu9168/status/1271975671695241217?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/acceptjesusnow/status/1267089950752686082?s=20" %}<br>
-<br>
-<hr>
-{% embed url="https://twitter.com/Ebony_Sunrise/status/1267062475004030976?s=20" %}<br>
+{% embed url="https://twitter.com/pathologiste08/status/1273365732827508737?s=20" %}<br>
 <br>
 <hr>
 
