@@ -76,5 +76,7 @@ I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequen
 
 {% embed url="https://twitter.com/serdarbalci/status/1269671183114526722" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1284186187205312514" %}
+
 
 
