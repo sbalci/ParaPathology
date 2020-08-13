@@ -82,3 +82,10 @@ I'm fed up with this nonsense. It is nearly 25 years since I myself remember, wa
 
 [https://twitter.com/serdarbalci/status/1198289126484840448](https://twitter.com/serdarbalci/status/1198289126484840448)
 
+
+---
+
+Kamu istatistiklerinin .csv formatında paylaşılmasına dair kanun.
+
+
+---

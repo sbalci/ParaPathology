@@ -2,6 +2,11 @@
 
 ## Computer Tips
 
+* How to reset the password on a Mac
+
+https://www.ifixit.com/Guide/How+to+reset+the+password+on+a+Mac./125092
+
+
 ## Computer Tips
 
 * Setup Ruby On Rails on macOS 10.13 High Sierra
@@ -59,7 +64,7 @@
 >
 >   Click next and then press Create archive.
 >
-> * **Step 4:**  
+> * **Step 4:**
 >   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
@@ -167,7 +172,7 @@ Screen recording gif
 >
 >    Click next and then press Create archive.
 >
-> * **Step 4:**  
+> * **Step 4:**
 >   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
@@ -249,7 +254,7 @@ Screen recording gif
 >
 >    Click next and then press Create archive.
 >
-> * **Step 4:**  
+> * **Step 4:**
 >   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
@@ -357,7 +362,7 @@ Screen recording gif
 >
 >    Click next and then press Create archive.
 >
-> * **Step 4:**  
+> * **Step 4:**
 >   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
@@ -439,7 +444,7 @@ Screen recording gif
 >
 >    Click next and then press Create archive.
 >
-> * **Step 4:**  
+> * **Step 4:**
 >   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
@@ -497,4 +502,3 @@ Screen recording gif
 [https://spark.adobe.com/](https://spark.adobe.com/)
 
 ---\# Computers
-
