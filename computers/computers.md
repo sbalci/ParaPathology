@@ -2,97 +2,119 @@
 
 ## set PYTHONPATH for npm
 
-```text
+``` {.text}
 npm config set python /usr/bin/python3
 ```
 
-[https://www.npmjs.com/package/node-gyp](https://www.npmjs.com/package/node-gyp)
+<https://www.npmjs.com/package/node-gyp>
 
 ## [Deploying a Shiny app as a desktop application with Electron](https://www.travishinkelman.com/post/deploy-shiny-electron/)
 
-* Read this [post](https://www.travishinkelman.com/post/deploy-shiny-electron/)
-* Clone this repository [R Shiny Electron \(RSE\) template](https://github.com/dirkschumacher/r-shiny-electron)
-* install Electron
+-   Read this [post](https://www.travishinkelman.com/post/deploy-shiny-electron/)
+-   Clone this repository [R Shiny Electron ](https://github.com/dirkschumacher/r-shiny-electron)$RSE$ template
+-   install Electron
 
-```text
+``` {.text}
 npm install -g electron
 ```
 
-* install Electron Forge
+-   install Electron Forge
 
-```text
+``` {.text}
 npm install -g electron-forge
 ```
 
-* open folder with terminal
+-   open folder with terminal
 
-```text
+``` {.text}
 cd r-shiny-electron-master
 ```
 
-* npm install
+-   npm install
 
-```text
+``` {.text}
 npm install
 ```
 
-* install local R
+-   install local R
 
 update R version in `get-r-mac.sh` file
 
-```text
+``` {.text}
 ./get-r-mac.sh
 ```
 
-* install packages
+-   install packages
 
-```text
+``` {.text}
 Rscript add-cran-binary-pkgs.R
 ```
 
-* run app
+-   run app
 
-```text
+``` {.text}
 npm start
 ```
 
-* make package
+-   make package
 
-```text
+``` {.text}
 electron-forge package
 ```
 
-* make portable app
+-   make portable app
 
-```text
+``` {.text}
 electron-forge make
 ```
 
 ## [Adding an existing project to GitHub using the command line](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
 
-[https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
+<https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/>
 
-```bash
+``` {.bash}
 git init
 ```
 
-```bash
+``` {.bash}
 git add .
 ```
 
-```bash
+``` {.bash}
 git commit -m "initial commit"
 ```
 
-```bash
+``` {.bash}
 git remote add origin <remote repository URL>
 ```
 
-```bash
+``` {.bash}
 git remote -v
 ```
 
-```bash
+``` {.bash}
 git push -f origin master
 ```
+
+
+## md2googleslides – Markdown to Google Slides 
+
+https://github.com/gsuitedevs/md2googleslides
+
+
+```
+npm install -g md2gslides
+```
+
+```
+md2gslides slides.md
+```
+
+
+## slidex
+
+Convert PowerPoint Slides to xaringan (remark.js) Slides
+
+https://github.com/datalorax/slidex
+
 
