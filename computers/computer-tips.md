@@ -4,8 +4,7 @@
 
 * How to reset the password on a Mac
 
-https://www.ifixit.com/Guide/How+to+reset+the+password+on+a+Mac./125092
-
+[https://www.ifixit.com/Guide/How+to+reset+the+password+on+a+Mac./125092](https://www.ifixit.com/Guide/How+to+reset+the+password+on+a+Mac./125092)
 
 ## Computer Tips
 
@@ -64,8 +63,7 @@ https://www.ifixit.com/Guide/How+to+reset+the+password+on+a+Mac./125092
 >
 >   Click next and then press Create archive.
 >
-> * **Step 4:**
->   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
+> * **Step 4:** You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
 
@@ -162,18 +160,17 @@ Screen recording gif
 >
 > * **Step 1:**
 >
->    Set your Google Drive settings to convert uploads to Google Docs format.
+>   Set your Google Drive settings to convert uploads to Google Docs format.
 >
 > * **Step 2:**
 >
->    Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
+>   Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
 >
 > * **Step 3:**
 >
->    Click next and then press Create archive.
+>   Click next and then press Create archive.
 >
-> * **Step 4:**
->   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
+> * **Step 4:** You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
 
@@ -244,18 +241,17 @@ Screen recording gif
 >
 > * **Step 1:**
 >
->    Set your Google Drive settings to convert uploads to Google Docs format.
+>   Set your Google Drive settings to convert uploads to Google Docs format.
 >
 > * **Step 2:**
 >
->    Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
+>   Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
 >
 > * **Step 3:**
 >
->    Click next and then press Create archive.
+>   Click next and then press Create archive.
 >
-> * **Step 4:**
->   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
+> * **Step 4:** You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
 
@@ -352,18 +348,17 @@ Screen recording gif
 >
 > * **Step 1:**
 >
->    Set your Google Drive settings to convert uploads to Google Docs format.
+>   Set your Google Drive settings to convert uploads to Google Docs format.
 >
 > * **Step 2:**
 >
->    Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
+>   Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
 >
 > * **Step 3:**
 >
->    Click next and then press Create archive.
+>   Click next and then press Create archive.
 >
-> * **Step 4:**
->   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
+> * **Step 4:** You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
 
@@ -434,18 +429,17 @@ Screen recording gif
 >
 > * **Step 1:**
 >
->    Set your Google Drive settings to convert uploads to Google Docs format.
+>   Set your Google Drive settings to convert uploads to Google Docs format.
 >
 > * **Step 2:**
 >
->    Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
+>   Create a Google Drive folder and name it as you wish. Upload all your Word files to this folder and then go to Google Takeout. Make sure only Google Drive is turned on and then choose "Select files and folders". Select your folder and set the file format to PDF.
 >
 > * **Step 3:**
 >
->    Click next and then press Create archive.
+>   Click next and then press Create archive.
 >
-> * **Step 4:**
->   You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
+> * **Step 4:** You don’t have to sit there and wait for the conversion to complete. You can close the browser and wait for the email notification. In the email you will find a download link for your archive PDF files.
 >
 >   Download it and open the ZIP file and you should be able to see and access all your PDF files.
 
@@ -502,3 +496,4 @@ Screen recording gif
 [https://spark.adobe.com/](https://spark.adobe.com/)
 
 ---\# Computers
+
