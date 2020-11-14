@@ -8,3 +8,28 @@ Harada, Shuko MD; Morlote, Diana MD[Author Information ](https://journals.lww.co
 
 
 
+## Approval of pembrolizumab (MSI- H/dMMR) and considerations for site-agnostic development of drugs in oncology
+
+https://www.ema.europa.eu/en/documents/presentation/presentation-session-5-approval-pembrolizumab-msi-h/dmmr-considerations-site-agnostic-development-drugs-oncology-steven-lemery_en.pdf
+
+
+## Template for Reporting Results of Biomarker Testing of Specimens From Patients With Carcinoma of the Colon and Rectum
+
+https://documents.cap.org/protocols/cp-gilower-colonrectum-14biomarker-1201.pdf
+
+
+## NCCN Guidelines Colon Cancer
+
+https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf
+
+
+## FDA Approves First-Line Immunotherapy for Patients with MSI-H/dMMR Metastatic Colorectal Cancer
+
+
+https://www.fda.gov/news-events/press-announcements/fda-approves-first-line-immunotherapy-patients-msi-hdmmr-metastatic-colorectal-cancer
+
+
+
+
+
+
