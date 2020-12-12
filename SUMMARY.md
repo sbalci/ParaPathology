@@ -177,7 +177,8 @@
 
 * [Laboratory Management](laboratory-management/laboratory-management.md)
 * [Lean](laboratory-management/lean.md)
-* [Laboratory Information Systems](laboratory-management/laboratory-information-systems.md)
+* [Laboratory Information Systems](laboratory-management/laboratory-information-systems/README.md)
+  * [Patoloji  Modülü Özellikleri](laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri.md)
 * [Routine Histology Laboratory](laboratory-management/routine-histology-laboratory.md)
 * [Liquid Based Cytology Preperations](laboratory-management/liquid-based-cytology-preperations.md)
 * [Research Lab](laboratory-management/research-lab.md)

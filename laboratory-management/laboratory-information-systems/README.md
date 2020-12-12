@@ -29,7 +29,7 @@
 
 * Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
 
-![](../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29.png)
+![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29.png)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -66,7 +66,7 @@
 
 * Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
 
-![](../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36.png)
+![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36.png)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -103,7 +103,7 @@
 
 * Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
 
-![](../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%281%29.png)
+![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%281%29.png)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -140,7 +140,7 @@
 
 * Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
 
-![](../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%283%29.png)
+![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%283%29.png)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -180,7 +180,7 @@
 
 * Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
 
-![](../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%282%29.png)
+![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%282%29.png)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
