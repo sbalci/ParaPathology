@@ -2,15 +2,40 @@
 
 ## Laboratory Management
 
-* **Tıbbi Patoloji Laboratuvarı Örnek Kabulü Sırasında Dikkat Edilecek Konular ve Red Kriterleri**
+**Tıbbi Patoloji Laboratuvarı Örnek Kabulü Sırasında Dikkat Edilecek Konular ve Red Kriterleri**
 
-[http://www.turkpath.org.tr/upload/content/files/TIBBI\_PATOLOJI\_LABORATUVARI\_ORNEK\_KABULU\_SIRASINDA\_DIKKAT\_EDILECEK\_KONULAR\_VE\_RED\_KRITERLERI.pdf](http://www.turkpath.org.tr/upload/content/files/TIBBI_PATOLOJI_LABORATUVARI_ORNEK_KABULU_SIRASINDA_DIKKAT_EDILECEK_KONULAR_VE_RED_KRITERLERI.pdf)
+{% embed url="http://www.turkpath.org.tr/upload/content/files/TIBBI\_PATOLOJI\_LABORATUVARI\_ORNEK\_KABULU\_SIRASINDA\_DIKKAT\_EDILECEK\_KONULAR\_VE\_RED\_KRITERLERI.pdf" %}
 
-* **Histology Tutorials**
+
+
+**Hasta ve Klinik İnisiyatifi ile patolojik incelemeye gönderilmeyebilecek doku-materyaller**
+
+* Kozmetik nedenlerle çıkarılmış normal dokular \(blefaroplasti, nazoplasti gibi\)
+* Yara debridman materyali
+* Liposuction materyali
+* Fekalit, bezoar, taşlar, yabancı cisimler, implantlar
+* Cerrahi sırasında prosedürsel olarak çıkarılan, subkutan dokular
+* Travmatize parmaklar
+* Menisküs yırtıkları
+* Plasenta
+* Rektosel ve sistosel tamirinde çıkarılan dokular
+* İstenmeyen gebelik materyalleri
+* Katarakt lensler
+* Şaşılık cerrahisinde çıkarılan dokular
+* Dişler
+* Protezler
+* Sünnet derisi
+* Variköz venler
+* Makroskopik olarak patoloji içermeyen kalp kapakları
+* Eklem kıkırdak parçaları
+
+
+
+**Histology Tutorials**
 
 [http://www.histologytutorials.com/](http://www.histologytutorials.com/)
 
-* **Tamponlu formaldehit nasıl hazırlanır?**
+**Tamponlu formaldehit nasıl hazırlanır?**
 
 [https://www.facebook.com/groups/1707688912815364/permalink/1907551276162459/](https://www.facebook.com/groups/1707688912815364/permalink/1907551276162459/)
 
