@@ -1,5 +1,9 @@
 # Pathology Reports
 
+{% embed url="https://www.youtube.com/watch?v=FVAuw334phM&feature=youtu.be" %}
+
+
+
 ## [How Pathology Report Affects Treatment of Colorectal Cancer](https://www.facebook.com/pathCast/videos/514548495926280/)
 
 {% embed url="https://www.facebook.com/pathCast/videos/514548495926280/" %}
@@ -43,7 +47,7 @@
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%281%29.jpg)
+![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29%20%281%29.jpg)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -120,7 +124,7 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03.jpg)
+![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29.jpg)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -199,7 +203,7 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29.jpg)
+![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29%20%282%29.jpg)
 
 The FAQ initiative explaining pathology reports to patients
 
