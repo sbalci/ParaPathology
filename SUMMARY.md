@@ -137,6 +137,7 @@
 ## Computational, Digital & Mathematical Pathology
 
 * [Digital Pathology](computational-digital-and-mathematical-pathology/digital-pathology.md)
+* [Dijital Patoloji'ye Dair](computational-digital-and-mathematical-pathology/dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
 * [Analysis](computational-digital-and-mathematical-pathology/analysis.md)
 * [Telepathology](computational-digital-and-mathematical-pathology/telepathology.md)
