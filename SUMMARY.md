@@ -7,7 +7,7 @@
 * [Introduction](introduction/introduction.md)
 * [GitBook Manual](https://docs.gitbook.com/)
 * [Patoloji Notlari](http://www.patolojinotlari.com/)
-* [Presentations Sunumlar](https://sbalci.github.io/ParaPathology/)
+* [Edit Here](https://app.gitbook.com/@serdarbalci/s/parapathology/)
 
 ## Medical School Lectures
 
