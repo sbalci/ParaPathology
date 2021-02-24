@@ -7,7 +7,7 @@
 * [Introduction](introduction/introduction.md)
 * [GitBook Manual](https://docs.gitbook.com/)
 * [Patoloji Notlari](http://www.patolojinotlari.com/)
-* [Presentations Sunumlar](https://sbalci.github.io/ParaPathology/)
+* [Edit Here](https://app.gitbook.com/@serdarbalci/s/parapathology/)
 
 ## Medical School Lectures
 
@@ -105,6 +105,8 @@
 * [Pathology as a Career](pathology-residents-and-pathologists/pathology-as-a-career.md)
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
+* [Academic Accounts](pathology-residents-and-pathologists/academic-accounts.md)
+* [Academic Tools](pathology-residents-and-pathologists/academic-tools.md)
 
 ## Pathology and Social Media
 
@@ -137,6 +139,7 @@
 ## Computational, Digital & Mathematical Pathology
 
 * [Digital Pathology](computational-digital-and-mathematical-pathology/digital-pathology.md)
+* [Dijital Patoloji'ye Dair](computational-digital-and-mathematical-pathology/dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
 * [Analysis](computational-digital-and-mathematical-pathology/analysis.md)
 * [Telepathology](computational-digital-and-mathematical-pathology/telepathology.md)
