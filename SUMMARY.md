@@ -105,6 +105,8 @@
 * [Pathology as a Career](pathology-residents-and-pathologists/pathology-as-a-career.md)
 * [Diagnosis, accuracy, interobserver and intraobserver reliability](pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md)
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
+* [Academic Accounts](pathology-residents-and-pathologists/academic-accounts.md)
+* [Academic Tools](pathology-residents-and-pathologists/academic-tools.md)
 
 ## Pathology and Social Media
 
