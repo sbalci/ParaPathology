@@ -21,7 +21,7 @@ Rougier NP, Droettboom M, Bourne PE \(2014\) Ten Simple Rules for Better Figures
 
 * Interesting Figures
 
-![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20%282%29%20%281%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20%282%29%20%282%29%20%281%29.png)
 
 * For science illustration
 
@@ -38,7 +38,7 @@ Rougier NP, Droettboom M, Bourne PE \(2014\) Ten Simple Rules for Better Figures
 
 * Interesting Figures
 
-![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20%282%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20%282%29%20%282%29.png)
 
 * For science illustration
 
@@ -58,7 +58,7 @@ Rougier NP, Droettboom M, Bourne PE \(2014\) Ten Simple Rules for Better Figures
 
 * Interesting Figures
 
-![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20%282%29%20%282%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20%282%29%20%282%29%20%282%29.png)
 
 * For science illustration
 
