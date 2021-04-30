@@ -28,3 +28,10 @@
 
 [https://www.autodeskresearch.com/publications/samestats](https://www.autodeskresearch.com/publications/samestats)
 
+
+
+- Clinical Calculators
+
+https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-calculators.html
+
+- 
