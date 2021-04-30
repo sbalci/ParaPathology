@@ -1,22 +1,16 @@
 # Immunohistochemistry
 
-{% embed url="https://nordiqc.org/recommended.php" %}
+{% embed url="https://nordiqc.org/recommended.php" caption="" %}
 
-{% embed url="https://nordiqc.org/" %}
-
-
-
-
+{% embed url="https://nordiqc.org/" caption="" %}
 
 **immunoratio**
 
 \*\*\*\*
 
-
-https://nordiqc.org/index.php
+[https://nordiqc.org/index.php](https://nordiqc.org/index.php)
 
 * **immunoratio**
-
 * **qupath**
 * \*\*\*\*
 * **Nordic Immunohistochemical Quality Control \(NordiQC, www.nordiqc.org\)**
@@ -57,7 +51,7 @@ WHAT DO THE TERMS SENSITIVITY AND SPECIFICITY MEAN IN THE CONTEXT OF IHC?
 
 * Lanjing Zhang and Fan Lin \(2017\) Best Practices in Immunohistochemistry in Surgical Pathology and Cytopathology. Archives of Pathology & Laboratory Medicine: August 2017, Vol. 141, No. 8, pp. 1011-1013.
 
-  [https://doi.org/10.5858/arpa.2017-0084-ED](https://doi.org/10.5858/arpa.2017-0084-ED) 
+  [https://doi.org/10.5858/arpa.2017-0084-ED](https://doi.org/10.5858/arpa.2017-0084-ED)
 
 * **Evolution of Quality Assurance for Clinical Immunohistochemistry in the Era of Precision Medicine: Part 1: Fit-for-Purpose Approach to Classification of Clinical Immunohistochemistry Biomarkers.**
 

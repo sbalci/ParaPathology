@@ -42,4 +42,3 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com/) for main web pa
 
 I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently,
 
-
