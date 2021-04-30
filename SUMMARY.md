@@ -107,6 +107,7 @@
 * [Pathology News](pathology-residents-and-pathologists/pathology-news.md)
 * [Academic Accounts](pathology-residents-and-pathologists/academic-accounts.md)
 * [Academic Tools](pathology-residents-and-pathologists/academic-tools.md)
+* [Moleküler Patoloji'ye Dair](pathology-residents-and-pathologists/molekueler-patolojiye-dair.md)
 
 ## Pathology and Social Media
 
@@ -141,6 +142,7 @@
 * [Digital Pathology](computational-digital-and-mathematical-pathology/digital-pathology.md)
 * [Dijital Patoloji'ye Dair](computational-digital-and-mathematical-pathology/dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
+* [Digital Pathology Software](computational-digital-and-mathematical-pathology/digital-pathology-software.md)
 * [Analysis](computational-digital-and-mathematical-pathology/analysis.md)
 * [Telepathology](computational-digital-and-mathematical-pathology/telepathology.md)
 * [Cytomine](computational-digital-and-mathematical-pathology/cytomine.md)

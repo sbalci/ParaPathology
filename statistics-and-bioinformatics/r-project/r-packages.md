@@ -1,6 +1,16 @@
 # R packages
 
-#### [R-project, paket bağımlılığı, ve ölçüm kriterlerine dair](https://www.serdarbalci.com/)
+#### 
+
+### Power analizi:
+
+#### Superpower:
+
+[https://aaroncaldwell.us/Superpower/](https://aaroncaldwell.us/Superpower/) 
+
+[https://cloud.r-project.org/web/packages/Superpower/index.html](https://cloud.r-project.org/web/packages/Superpower/index.html)
+
+## [R-project, paket bağımlılığı, ve ölçüm kriterlerine dair](https://www.serdarbalci.com/)
 
 ["It depends - A dialog about dependencies"](https://www.tidyverse.org/blog/2019/05/itdepends/) adlı yazıyı tavsiye ederim. `R-project` kullanırken, paket hazırlarken kullandığımız, üstüne bina ettiğimiz, yaslandığımız, bağımlı olduğumuz diğer paketleri nasıl tespit edeceğimizi, bunları nasıl dengeli ve verimli kullanabileceğimizi anlatıyor. Bunlar için geliştirilen `itdepends` paketinden örnekler verilen yazının son cümlesi şu: 
 

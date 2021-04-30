@@ -70,12 +70,9 @@ I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequen
 
 {% embed url="https://twitter.com/serdarbalci/status/1156961597333671936" caption="" %}
 
-{% embed url="https://twitter.com/ok\_maps/status/1252577217542045696?s=21" %}
+{% embed url="https://twitter.com/ok\_maps/status/1252577217542045696?s=21" caption="" %}
 
+{% embed url="https://twitter.com/serdarbalci/status/1269671183114526722" caption="" %}
 
-
-{% embed url="https://twitter.com/serdarbalci/status/1269671183114526722" %}
-
-{% embed url="https://twitter.com/serdarbalci/status/1284186187205312514" %}
-
+{% embed url="https://twitter.com/serdarbalci/status/1284186187205312514" caption="" %}
 

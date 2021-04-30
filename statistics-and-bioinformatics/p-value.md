@@ -24,7 +24,7 @@
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%281%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%281%29.png)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -85,7 +85,7 @@ The “80% power” lie
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%284%29.png)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -130,7 +130,7 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29.png)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -191,7 +191,7 @@ The “80% power” lie
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%283%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%283%29.png)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -238,7 +238,7 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%282%29.png)
+![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%282%29.png)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 

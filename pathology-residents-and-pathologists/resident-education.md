@@ -28,7 +28,7 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 
 [https://twitter.com/GeronimoJrLapac/status/978084675674546176](https://twitter.com/GeronimoJrLapac/status/978084675674546176)
 
-![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%282%29.jpg)
+![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%282%29%20%282%29.jpg)
 
 * Perceptions of Unprofessional Attitudes and Behaviors: Implications for Faculty Role Modeling and Teaching Professionalism During Pathology Residency.
 
@@ -56,7 +56,7 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 
 [https://twitter.com/GeronimoJrLapac/status/978084675674546176](https://twitter.com/GeronimoJrLapac/status/978084675674546176)
 
-![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%282%29%20%282%29.jpg)
+![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%282%29%20%282%29%20%282%29.jpg)
 
 ## Resident Education
 
@@ -86,7 +86,7 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 
 [https://twitter.com/GeronimoJrLapac/status/978084675674546176](https://twitter.com/GeronimoJrLapac/status/978084675674546176)
 
-![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%282%29%20%281%29.jpg)
+![](../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large%20%282%29%20%282%29%20%281%29.jpg)
 
 ### Interesting Gross Case Workshop to Remedy Disconnect in Surgical Pathology Curriculum
 

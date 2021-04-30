@@ -1,13 +1,26 @@
 # Immunohistochemistry
 
-## Immunohistochemistry
+{% embed url="https://nordiqc.org/recommended.php" %}
+
+{% embed url="https://nordiqc.org/" %}
+
+
+
+
+
+**immunoratio**
+
+\*\*\*\*
 
 
 https://nordiqc.org/index.php
 
 * **immunoratio**
+
 * **qupath**
+* \*\*\*\*
 * **Nordic Immunohistochemical Quality Control \(NordiQC, www.nordiqc.org\)**
+* \*\*\*\*
 * **Introduction to Manual IHC Staining**
 
 [https://www.youtube.com/watch?v=2XauafdfeV0](https://www.youtube.com/watch?v=2XauafdfeV0)
