@@ -118,3 +118,37 @@ Below are my web pages and social media accounts
 
 
 
+{% embed url="https://twitter.com/serdarbalci/status/1003334177939427328" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1004444876531032064" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1064962163821944832" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1065299662175903750" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1109489581190250498" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1112429499432480769" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1112434948496154624" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1116750169779863552" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1127291998833119233" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1133097191386550273" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1140262183072403456" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1156651692949196800" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1156678529888727041" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1156961597333671936" caption="" %}
+
+{% embed url="https://twitter.com/ok\_maps/status/1252577217542045696?s=21" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1269671183114526722" caption="" %}
+
+{% embed url="https://twitter.com/serdarbalci/status/1284186187205312514" caption="" %}
+
