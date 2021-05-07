@@ -22,3 +22,11 @@
 
 [https://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](https://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
 
+#### Oküler mikrometre
+
+{% embed url="https://www.youtube.com/watch?v=HaqgCtA-ioI" %}
+
+
+
+Özet olarak 4x OFN22 oküler ile görünen alan 22mm ve mikrometredeki ölçüm 4x'te birebir. Diğer okülerler için dönüştürme yapmak gerekiyor.
+
