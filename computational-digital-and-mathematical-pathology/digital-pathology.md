@@ -1,5 +1,12 @@
 # Digital Pathology
 
+#### **Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis**
+
+[**https://www.youtube.com/watch?v=7pRmonus9iM**](https://www.youtube.com/watch?v=7pRmonus9iM)
+
+  
+
+
 #### [Microvisioneer](http://www.microvisioneer.com/)
 
 {% embed url="http://www.microvisioneer.com/" %}
