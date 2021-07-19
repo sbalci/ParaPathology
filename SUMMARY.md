@@ -108,6 +108,7 @@
 * [Academic Accounts](pathology-residents-and-pathologists/academic-accounts.md)
 * [Academic Tools](pathology-residents-and-pathologists/academic-tools.md)
 * [Moleküler Patoloji'ye Dair](pathology-residents-and-pathologists/molekueler-patolojiye-dair.md)
+* [jargon](pathology-residents-and-pathologists/jargon.md)
 
 ## Pathology and Social Media
 
