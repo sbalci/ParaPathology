@@ -228,6 +228,10 @@
 
 [https://regexr.com/](https://regexr.com/)
 
+* **ExtendsClass is an online tool to visualize & test Regular Expressions**
+
+[https://extendsclass.com/regex-tester.html](https://extendsclass.com/regex-tester.html)
+
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
 [https://spacy.io/models/](https://spacy.io/models/)
