@@ -129,3 +129,7 @@ Convert PowerPoint Slides to xaringan $remark.js$ Slides
 * [Azure Virtual Machines](https://azure.microsoft.com/en-gb/free/virtual-machines/?cdn=disable)
 * [Compute Engine](https://cloud.google.com/compute)
 
+## Regular Expressions
+
+[https://regex101.com/](https://regex101.com/){target="_blank"}
+
