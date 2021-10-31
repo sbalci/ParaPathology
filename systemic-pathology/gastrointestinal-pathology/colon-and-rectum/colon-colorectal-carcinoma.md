@@ -8,7 +8,7 @@ Harada, Shuko MD; Morlote, Diana MD[Author Information ](https://journals.lww.co
 
 ## Approval of pembrolizumab \(MSI- H/dMMR\) and considerations for site-agnostic development of drugs in oncology
 
-[https://www.ema.europa.eu/en/documents/presentation/presentation-session-5-approval-pembrolizumab-msi-h/dmmr-considerations-site-agnostic-development-drugs-oncology-steven-lemery\_en.pdf](https://www.ema.europa.eu/en/documents/presentation/presentation-session-5-approval-pembrolizumab-msi-h/dmmr-considerations-site-agnostic-development-drugs-oncology-steven-lemery_en.pdf)
+[https://www.ema.europa.eu/en/documents/presentation/presentation-session-5-approval-pembrolizumab-msi-h/dmmr-considerations-site-agnostic-development-drugs-oncology-steven-lemery_en.pdf](https://www.ema.europa.eu/en/documents/presentation/presentation-session-5-approval-pembrolizumab-msi-h/dmmr-considerations-site-agnostic-development-drugs-oncology-steven-lemery_en.pdf)
 
 ## Template for Reporting Results of Biomarker Testing of Specimens From Patients With Carcinoma of the Colon and Rectum
 
@@ -16,9 +16,12 @@ Harada, Shuko MD; Morlote, Diana MD[Author Information ](https://journals.lww.co
 
 ## NCCN Guidelines Colon Cancer
 
-[https://www.nccn.org/professionals/physician\_gls/pdf/colon.pdf](https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf)
+[https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf](https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf)
 
 ## FDA Approves First-Line Immunotherapy for Patients with MSI-H/dMMR Metastatic Colorectal Cancer
 
 [https://www.fda.gov/news-events/press-announcements/fda-approves-first-line-immunotherapy-patients-msi-hdmmr-metastatic-colorectal-cancer](https://www.fda.gov/news-events/press-announcements/fda-approves-first-line-immunotherapy-patients-msi-hdmmr-metastatic-colorectal-cancer)
 
+## Lynch syndrome screening in colorectal cancer: results of a prospective 2-year regional programme validating the NICE diagnostics guidance pathway throughout a 5.2-million population
+
+[Lynch syndrome screening in colorectal cancer: results of a prospective 2-year regional programme validating the NICE diagnostics guidance pathway throughout a 5.2-million population](https://onlinelibrary.wiley.com/doi/10.1111/his.14390/full)
