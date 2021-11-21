@@ -22,13 +22,14 @@
 
 * The Year’s Most Important Study Adds to Uncertainty in Science
 
-[https://www.medscape.com/viewarticle/904286?nlid=125874\_1024&src=WNL\_mdplsfeat\_181106\_mscpedit\_path&uac=95815PK&spon=43&impID=1792413&faf=1\#vp\_1](https://www.medscape.com/viewarticle/904286?nlid=125874_1024&src=WNL_mdplsfeat_181106_mscpedit_path&uac=95815PK&spon=43&impID=1792413&faf=1#vp_1)
+[https://www.medscape.com/viewarticle/904286?nlid=125874\_1024\&src=WNL\_mdplsfeat\_181106\_mscpedit\_path\&uac=95815PK\&spon=43\&impID=1792413\&faf=1#vp\_1](https://www.medscape.com/viewarticle/904286?nlid=125874\_1024\&src=WNL\_mdplsfeat\_181106\_mscpedit\_path\&uac=95815PK\&spon=43\&impID=1792413\&faf=1#vp\_1)
 
 * Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing
 
 [https://www.autodeskresearch.com/publications/samestats](https://www.autodeskresearch.com/publications/samestats)
 
-* * More problematic sexual attraction research, this time with high heels
+*
+* More problematic sexual attraction research, this time with high heels
 
 [http://steamtraen.blogspot.com.tr/2017/12/more-problematic-sexual-attraction.html](http://steamtraen.blogspot.com.tr/2017/12/more-problematic-sexual-attraction.html)
 
@@ -58,13 +59,14 @@
 
 * The Year’s Most Important Study Adds to Uncertainty in Science
 
-[https://www.medscape.com/viewarticle/904286?nlid=125874\_1024&src=WNL\_mdplsfeat\_181106\_mscpedit\_path&uac=95815PK&spon=43&impID=1792413&faf=1\#vp\_1](https://www.medscape.com/viewarticle/904286?nlid=125874_1024&src=WNL_mdplsfeat_181106_mscpedit_path&uac=95815PK&spon=43&impID=1792413&faf=1#vp_1)
+[https://www.medscape.com/viewarticle/904286?nlid=125874\_1024\&src=WNL\_mdplsfeat\_181106\_mscpedit\_path\&uac=95815PK\&spon=43\&impID=1792413\&faf=1#vp\_1](https://www.medscape.com/viewarticle/904286?nlid=125874\_1024\&src=WNL\_mdplsfeat\_181106\_mscpedit\_path\&uac=95815PK\&spon=43\&impID=1792413\&faf=1#vp\_1)
 
 * Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing
 
 [https://www.autodeskresearch.com/publications/samestats](https://www.autodeskresearch.com/publications/samestats)
 
-* * More problematic sexual attraction research, this time with high heels
+*
+* More problematic sexual attraction research, this time with high heels
 
 [http://steamtraen.blogspot.com.tr/2017/12/more-problematic-sexual-attraction.html](http://steamtraen.blogspot.com.tr/2017/12/more-problematic-sexual-attraction.html)
 
@@ -79,6 +81,4 @@
 #### [Don’t waste your time on statistics](https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c)
 
 {% embed url="https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c" %}
-
-
 

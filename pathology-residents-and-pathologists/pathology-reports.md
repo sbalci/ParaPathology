@@ -26,28 +26,27 @@
 
 ## Pathology reports suffer from the outside forces:
 
-* Clinicians who do not want \(!\) "inadequate specimen" reports.
+* Clinicians who do not want (!) "inadequate specimen" reports.
 * We change our diagnosis so that clinicians do not misunderstand
 * Do not write chronic prostitis because they may assume that elevated PSA levels are due to chronic prostitis ???
-* We change our reports so that patients do not misunderstand
+*   We change our reports so that patients do not misunderstand
 
-  * Change prostate grading scheme so that patients are grade group 1, not in 6 out of 10.
+    * Change prostate grading scheme so that patients are grade group 1, not in 6 out of 10.
 
-  [http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf](http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf)
+    [http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf](http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf)
 
-  * Explanatory notes for patients
-
+    * Explanatory notes for patients
 * We change tumor names so that insurance firms do not label patients as cancer
-  * Change thyoid tumor names \(NIFTP\)
+  * Change thyoid tumor names (NIFTP)
 * **Patoloji Raporunda Yer Alan Tanılar Tekrarlanabilir mi? Are the Pathologic Diagnosis reproducible?**
 
-[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf_3.pdf)
+[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf)
 
 * **Hasta'ya açıklama içeren patoloji raporu**
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (2) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -59,17 +58,17 @@ The FAQ initiative explaining pathology reports to patients
 
 ## The Complete Surgical Pathology Report
 
-[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
+[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11)
 
 ## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
 ## ‘Please let me see the dragon that I’m slaying!’
 
-[http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up\#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
+[http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
 
 ## An online readability analysis of pathology-related patient education articles: an opportunity for pathologists to educate patients
 
-[http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177%2817%2930148-X/fulltext)
+[http://www.humanpathol.com/article/S0046-8177(17)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext)
 
 ## Pathologists' Perspectives on Disclosing Harmful Pathology Error
 
@@ -85,7 +84,7 @@ The FAQ initiative explaining pathology reports to patients
 
 ## Patients Want Web Access To Test Results But Don't Want To Have To Be A Doctor To Understand Them
 
-[https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/\#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
+[https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
 
 ## Pathology reports are the most important medical documents:
 
@@ -103,28 +102,27 @@ The FAQ initiative explaining pathology reports to patients
 
 ## Pathology reports suffer from the outside forces:
 
-* Clinicians who do not want \(!\) "inadequate specimen" reports.
+* Clinicians who do not want (!) "inadequate specimen" reports.
 * We change our diagnosis so that clinicians do not misunderstand
 * Do not write chronic prostitis because they may assume that elevated PSA levels are due to chronic prostitis ???
-* We change our reports so that patients do not misunderstand
+*   We change our reports so that patients do not misunderstand
 
-  * Change prostate grading scheme so that patients are grade group 1, not in 6 out of 10.
+    * Change prostate grading scheme so that patients are grade group 1, not in 6 out of 10.
 
-  [http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf](http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf)
+    [http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf](http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf)
 
-  * Explanatory notes for patients
-
+    * Explanatory notes for patients
 * We change tumor names so that insurance firms do not label patients as cancer
-  * Change thyoid tumor names \(NIFTP\)
+  * Change thyoid tumor names (NIFTP)
 * **Patoloji Raporunda Yer Alan Tanılar Tekrarlanabilir mi? Are the Pathologic Diagnosis reproducible?**
 
-[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf_3.pdf)
+[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf)
 
 * **Hasta'ya açıklama içeren patoloji raporu**
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29%20%282%29%20%282%29.jpg)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (2) (2).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -136,17 +134,17 @@ The FAQ initiative explaining pathology reports to patients
 
 ## The Complete Surgical Pathology Report
 
-[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
+[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11)
 
 ## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
 ## ‘Please let me see the dragon that I’m slaying!’
 
-[http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up\#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
+[http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
 
 ## An online readability analysis of pathology-related patient education articles: an opportunity for pathologists to educate patients
 
-[http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177%2817%2930148-X/fulltext)
+[http://www.humanpathol.com/article/S0046-8177(17)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext)
 
 ## Pathologists' Perspectives on Disclosing Harmful Pathology Error
 
@@ -162,7 +160,7 @@ The FAQ initiative explaining pathology reports to patients
 
 ## Patients Want Web Access To Test Results But Don't Want To Have To Be A Doctor To Understand Them
 
-[https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/\#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
+[https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
 
 ## Pathology Reports
 
@@ -182,28 +180,27 @@ The FAQ initiative explaining pathology reports to patients
 
 ## Pathology reports suffer from the outside forces:
 
-* Clinicians who do not want \(!\) "inadequate specimen" reports.
+* Clinicians who do not want (!) "inadequate specimen" reports.
 * We change our diagnosis so that clinicians do not misunderstand
 * Do not write chronic prostitis because they may assume that elevated PSA levels are due to chronic prostitis ???
-* We change our reports so that patients do not misunderstand
+*   We change our reports so that patients do not misunderstand
 
-  * Change prostate grading scheme so that patients are grade group 1, not in 6 out of 10.
+    * Change prostate grading scheme so that patients are grade group 1, not in 6 out of 10.
 
-  [http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf](http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf)
+    [http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf](http://pathology.jhu.edu/ProstateCancer/NewGradingSystem.pdf)
 
-  * Explanatory notes for patients
-
+    * Explanatory notes for patients
 * We change tumor names so that insurance firms do not label patients as cancer
-  * Change thyoid tumor names \(NIFTP\)
+  * Change thyoid tumor names (NIFTP)
 * **Patoloji Raporunda Yer Alan Tanılar Tekrarlanabilir mi? Are the Pathologic Diagnosis reproducible?**
 
-[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf_3.pdf)
+[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf)
 
 * **Hasta'ya açıklama içeren patoloji raporu**
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (2).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -215,17 +212,17 @@ The FAQ initiative explaining pathology reports to patients
 
 ## The Complete Surgical Pathology Report
 
-[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
+[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11)
 
 ## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
 ## ‘Please let me see the dragon that I’m slaying!’
 
-[http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up\#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
+[http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook](http://www.hhnmag.com/articles/8561-pathologist-brings-patients-into-the-lab-to-see-their-cancer-close-up#.WcAc0linuq8.facebook)
 
 ## An online readability analysis of pathology-related patient education articles: an opportunity for pathologists to educate patients
 
-[http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177%2817%2930148-X/fulltext)
+[http://www.humanpathol.com/article/S0046-8177(17)30148-X/fulltext](http://www.humanpathol.com/article/S0046-8177\(17\)30148-X/fulltext)
 
 ## Pathologists' Perspectives on Disclosing Harmful Pathology Error
 
@@ -241,5 +238,4 @@ The FAQ initiative explaining pathology reports to patients
 
 ## Patients Want Web Access To Test Results But Don't Want To Have To Be A Doctor To Understand Them
 
-[https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/\#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
-
+[https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)

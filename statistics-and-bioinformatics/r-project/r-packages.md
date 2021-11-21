@@ -1,6 +1,6 @@
 # R packages
 
-#### 
+####
 
 ### listdown
 
@@ -12,29 +12,29 @@
 
 #### Superpower:
 
-[https://aaroncaldwell.us/Superpower/](https://aaroncaldwell.us/Superpower/) 
+[https://aaroncaldwell.us/Superpower/](https://aaroncaldwell.us/Superpower/)&#x20;
 
 [https://cloud.r-project.org/web/packages/Superpower/index.html](https://cloud.r-project.org/web/packages/Superpower/index.html)
 
-## [R-project, paket bağımlılığı, ve ölçüm kriterlerine dair](https://www.serdarbalci.com/)
+## [R-project, paket bağımlılığı, ve ölçüm kriterlerine dair](https://www.serdarbalci.com)
 
-["It depends - A dialog about dependencies"](https://www.tidyverse.org/blog/2019/05/itdepends/) adlı yazıyı tavsiye ederim. `R-project` kullanırken, paket hazırlarken kullandığımız, üstüne bina ettiğimiz, yaslandığımız, bağımlı olduğumuz diğer paketleri nasıl tespit edeceğimizi, bunları nasıl dengeli ve verimli kullanabileceğimizi anlatıyor. Bunlar için geliştirilen `itdepends` paketinden örnekler verilen yazının son cümlesi şu: 
+["It depends - A dialog about dependencies"](https://www.tidyverse.org/blog/2019/05/itdepends/) adlı yazıyı tavsiye ederim. `R-project` kullanırken, paket hazırlarken kullandığımız, üstüne bina ettiğimiz, yaslandığımız, bağımlı olduğumuz diğer paketleri nasıl tespit edeceğimizi, bunları nasıl dengeli ve verimli kullanabileceğimizi anlatıyor. Bunlar için geliştirilen `itdepends` paketinden örnekler verilen yazının son cümlesi şu:&#x20;
 
-> _Finally it is important to remember_ [_Goodhart’s Law_](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+> _Finally it is important to remember _[_Goodhart’s Law_](https://en.wikipedia.org/wiki/Goodhart's\_law)
 >
 > _When a measure becomes a target, it ceases to be a good measure._
 
-Eğer bir ölçüm hedef haline geliyorsa, artık o ölçüm iyi bir ölçüm değildir. Bunu okuyunca codecoverage’ların, codeclass’ların yanısıra performans değerlendirmelerinin, yatak doluluk oranlarının, biyopsi sürelerinin, ekonomik göstergelerin nasıl manipüle edilebildiği konusunda düşünmeye başladım. 
+Eğer bir ölçüm hedef haline geliyorsa, artık o ölçüm iyi bir ölçüm değildir. Bunu okuyunca codecoverage’ların, codeclass’ların yanısıra performans değerlendirmelerinin, yatak doluluk oranlarının, biyopsi sürelerinin, ekonomik göstergelerin nasıl manipüle edilebildiği konusunda düşünmeye başladım.&#x20;
 
 ## R packages
 
 * R Package Documentation
 
-[https://rdrr.io/](https://rdrr.io/)
+[https://rdrr.io/](https://rdrr.io)
 
 * R Packages Search and Statistics
 
-[https://www.rpackages.io/](https://www.rpackages.io/)
+[https://www.rpackages.io/](https://www.rpackages.io)
 
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
@@ -52,13 +52,13 @@ Eğer bir ölçüm hedef haline geliyorsa, artık o ölçüm iyi bir ölçüm de
 
 Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerprint), `vis_dat` helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with `vis_dat`, and getting a brief look into missing data patterns using `vis_miss`.
 
-[https://www.tidyverse.org/](https://www.tidyverse.org/)
+[https://www.tidyverse.org/](https://www.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/shiny/index.html](https://cran.r-project.org/web/packages/shiny/index.html)
 
-[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com)
 
-[http://ggplot2.org/](http://ggplot2.org/)
+[http://ggplot2.org/](http://ggplot2.org)
 
 [https://yihui.name/knitr/](https://yihui.name/knitr/)
 
@@ -66,7 +66,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://blog.rstudio.com/2015/04/09/readr-0-1-0/](https://blog.rstudio.com/2015/04/09/readr-0-1-0/)
 
-[http://readxl.tidyverse.org/](http://readxl.tidyverse.org/)
+[http://readxl.tidyverse.org/](http://readxl.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
 
@@ -84,7 +84,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)
 
-[http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
+[http://tibble.tidyverse.org/](http://tibble.tidyverse.org)
 
 [https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
@@ -96,15 +96,15 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org)
 
 * R Package Documentation
 
-[https://rdrr.io/](https://rdrr.io/)
+[https://rdrr.io/](https://rdrr.io)
 
 * R Packages Search and Statistics
 
-[https://www.rpackages.io/](https://www.rpackages.io/)
+[https://www.rpackages.io/](https://www.rpackages.io)
 
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
@@ -122,13 +122,13 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerprint), `vis_dat` helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with `vis_dat`, and getting a brief look into missing data patterns using `vis_miss`.
 
-[https://www.tidyverse.org/](https://www.tidyverse.org/)
+[https://www.tidyverse.org/](https://www.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/shiny/index.html](https://cran.r-project.org/web/packages/shiny/index.html)
 
-[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com)
 
-[http://ggplot2.org/](http://ggplot2.org/)
+[http://ggplot2.org/](http://ggplot2.org)
 
 [https://yihui.name/knitr/](https://yihui.name/knitr/)
 
@@ -136,7 +136,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://blog.rstudio.com/2015/04/09/readr-0-1-0/](https://blog.rstudio.com/2015/04/09/readr-0-1-0/)
 
-[http://readxl.tidyverse.org/](http://readxl.tidyverse.org/)
+[http://readxl.tidyverse.org/](http://readxl.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
 
@@ -154,7 +154,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)
 
-[http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
+[http://tibble.tidyverse.org/](http://tibble.tidyverse.org)
 
 [https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
@@ -166,7 +166,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org)
 
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
@@ -184,13 +184,13 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerprint), `vis_dat` helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with `vis_dat`, and getting a brief look into missing data patterns using `vis_miss`.
 
-[https://www.tidyverse.org/](https://www.tidyverse.org/)
+[https://www.tidyverse.org/](https://www.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/shiny/index.html](https://cran.r-project.org/web/packages/shiny/index.html)
 
-[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com)
 
-[http://ggplot2.org/](http://ggplot2.org/)
+[http://ggplot2.org/](http://ggplot2.org)
 
 [https://yihui.name/knitr/](https://yihui.name/knitr/)
 
@@ -198,7 +198,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://blog.rstudio.com/2015/04/09/readr-0-1-0/](https://blog.rstudio.com/2015/04/09/readr-0-1-0/)
 
-[http://readxl.tidyverse.org/](http://readxl.tidyverse.org/)
+[http://readxl.tidyverse.org/](http://readxl.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
 
@@ -216,7 +216,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)
 
-[http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
+[http://tibble.tidyverse.org/](http://tibble.tidyverse.org)
 
 [https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
@@ -228,15 +228,15 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org)
 
 * R Package Documentation
 
-[https://rdrr.io/](https://rdrr.io/)
+[https://rdrr.io/](https://rdrr.io)
 
 * R Packages Search and Statistics
 
-[https://www.rpackages.io/](https://www.rpackages.io/)
+[https://www.rpackages.io/](https://www.rpackages.io)
 
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
@@ -254,13 +254,13 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerprint), `vis_dat` helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with `vis_dat`, and getting a brief look into missing data patterns using `vis_miss`.
 
-[https://www.tidyverse.org/](https://www.tidyverse.org/)
+[https://www.tidyverse.org/](https://www.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/shiny/index.html](https://cran.r-project.org/web/packages/shiny/index.html)
 
-[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com)
 
-[http://ggplot2.org/](http://ggplot2.org/)
+[http://ggplot2.org/](http://ggplot2.org)
 
 [https://yihui.name/knitr/](https://yihui.name/knitr/)
 
@@ -268,7 +268,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://blog.rstudio.com/2015/04/09/readr-0-1-0/](https://blog.rstudio.com/2015/04/09/readr-0-1-0/)
 
-[http://readxl.tidyverse.org/](http://readxl.tidyverse.org/)
+[http://readxl.tidyverse.org/](http://readxl.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
 
@@ -286,7 +286,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)
 
-[http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
+[http://tibble.tidyverse.org/](http://tibble.tidyverse.org)
 
 [https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
@@ -298,7 +298,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org)
 
 ## R packages
 
@@ -318,13 +318,13 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerprint), `vis_dat` helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with `vis_dat`, and getting a brief look into missing data patterns using `vis_miss`.
 
-[https://www.tidyverse.org/](https://www.tidyverse.org/)
+[https://www.tidyverse.org/](https://www.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/shiny/index.html](https://cran.r-project.org/web/packages/shiny/index.html)
 
-[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com)
 
-[http://ggplot2.org/](http://ggplot2.org/)
+[http://ggplot2.org/](http://ggplot2.org)
 
 [https://yihui.name/knitr/](https://yihui.name/knitr/)
 
@@ -332,7 +332,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://blog.rstudio.com/2015/04/09/readr-0-1-0/](https://blog.rstudio.com/2015/04/09/readr-0-1-0/)
 
-[http://readxl.tidyverse.org/](http://readxl.tidyverse.org/)
+[http://readxl.tidyverse.org/](http://readxl.tidyverse.org)
 
 [https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
 
@@ -350,7 +350,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)
 
-[http://tibble.tidyverse.org/](http://tibble.tidyverse.org/)
+[http://tibble.tidyverse.org/](http://tibble.tidyverse.org)
 
 [https://blog.rstudio.com/2016/03/29/feather/](https://blog.rstudio.com/2016/03/29/feather/)
 
@@ -362,11 +362,11 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://github.com/r-lib/testthat](https://github.com/r-lib/testthat)
 
-[http://purrr.tidyverse.org/](http://purrr.tidyverse.org/)
+[http://purrr.tidyverse.org/](http://purrr.tidyverse.org)
 
 * R Package Documentation
 
-[https://rdrr.io/](https://rdrr.io/)
+[https://rdrr.io/](https://rdrr.io)
 
 * Snippets Run any R code you like
 
@@ -384,19 +384,19 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://www.jamovi.org/](https://t.co/cOmH9PucqI)
 
-* R commander \(Rcmdr\)
+* R commander (Rcmdr)
 
-[http://www.rcommander.com/](http://www.rcommander.com/)
+[http://www.rcommander.com/](http://www.rcommander.com)
 
 [https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
 
 * JASP is another R based statistical open source software, also has Bayesian features
 
-[https://jasp-stats.org/](https://jasp-stats.org/)
+[https://jasp-stats.org/](https://jasp-stats.org)
 
 * RKWard
 
-[https://rkward.kde.org/](https://rkward.kde.org/)
+[https://rkward.kde.org/](https://rkward.kde.org)
 
 * The MacPorts Project Official Homepage
 
@@ -414,7 +414,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 * R Package Documentation
 
-[https://rdrr.io/](https://rdrr.io/)
+[https://rdrr.io/](https://rdrr.io)
 
 * Snippets Run any R code you like
 
@@ -432,19 +432,19 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://www.jamovi.org/](https://t.co/cOmH9PucqI)
 
-* R commander \(Rcmdr\)
+* R commander (Rcmdr)
 
-[http://www.rcommander.com/](http://www.rcommander.com/)
+[http://www.rcommander.com/](http://www.rcommander.com)
 
 [https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
 
 * JASP is another R based statistical open source software, also has Bayesian features
 
-[https://jasp-stats.org/](https://jasp-stats.org/)
+[https://jasp-stats.org/](https://jasp-stats.org)
 
 * RKWard
 
-[https://rkward.kde.org/](https://rkward.kde.org/)
+[https://rkward.kde.org/](https://rkward.kde.org)
 
 * The MacPorts Project Official Homepage
 
@@ -462,7 +462,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 * R Package Documentation
 
-[https://rdrr.io/](https://rdrr.io/)
+[https://rdrr.io/](https://rdrr.io)
 
 * Snippets Run any R code you like
 
@@ -480,19 +480,19 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [https://www.jamovi.org/](https://t.co/cOmH9PucqI)
 
-* R commander \(Rcmdr\)
+* R commander (Rcmdr)
 
-[http://www.rcommander.com/](http://www.rcommander.com/)
+[http://www.rcommander.com/](http://www.rcommander.com)
 
 [https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
 
 * JASP is another R based statistical open source software, also has Bayesian features
 
-[https://jasp-stats.org/](https://jasp-stats.org/)
+[https://jasp-stats.org/](https://jasp-stats.org)
 
 * RKWard
 
-[https://rkward.kde.org/](https://rkward.kde.org/)
+[https://rkward.kde.org/](https://rkward.kde.org)
 
 * The MacPorts Project Official Homepage
 
@@ -507,4 +507,3 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 [https://rattle.togaware.com](https://rattle.togaware.com)
 
 [http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)
-

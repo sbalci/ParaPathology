@@ -14,9 +14,9 @@
 
 
 
-#### [Nathan Kaufman Timely Topics Lecture 2017 - Platforms, Diagnosis and Disease: An Evolution Rooted In Pathology Presented by - Daniel J. Brat, M.D., Ph.D.](https://www.pathlms.com/uscap/courses/5418/video_presentations/80687)
+#### [Nathan Kaufman Timely Topics Lecture 2017 - Platforms, Diagnosis and Disease: An Evolution Rooted In Pathology Presented by - Daniel J. Brat, M.D., Ph.D.](https://www.pathlms.com/uscap/courses/5418/video\_presentations/80687)
 
-{% embed url="https://www.pathlms.com/uscap/courses/5418/video\_presentations/80687" %}
+{% embed url="https://www.pathlms.com/uscap/courses/5418/video_presentations/80687" %}
 
 
 
@@ -38,7 +38,7 @@
 
 ## Translation - Central Dogma Part 2
 
-[https://www.youtube.com/watch?v=WkI\_Vbwn14g](https://www.youtube.com/watch?v=WkI_Vbwn14g)
+[https://www.youtube.com/watch?v=WkI\_Vbwn14g](https://www.youtube.com/watch?v=WkI\_Vbwn14g)
 
 ## Lessons from the Human Genome Project
 
@@ -54,7 +54,7 @@
 
 ## Translation - Central Dogma Part 2
 
-[https://www.youtube.com/watch?v=WkI\_Vbwn14g](https://www.youtube.com/watch?v=WkI_Vbwn14g)
+[https://www.youtube.com/watch?v=WkI\_Vbwn14g](https://www.youtube.com/watch?v=WkI\_Vbwn14g)
 
 ## Lessons from the Human Genome Project
 
@@ -68,7 +68,7 @@
 
 * Pathology and laboratory medicine: the Cinderella of health systems
 
-[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)30457-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930457-4/fulltext)
+[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30457-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)30457-4/fulltext)
 
 * 2016 USCAP Nathan Kaufman Timely Topics Lecture - "Riffs on Future Path: The Fall of Paper, the Rise of Smarties and the Quest for Selfies" Faculty: Eric F. Glassy, M.D., Affiliated Pathologists Medical Group, Palos Verdes Estates, CA
 
@@ -101,7 +101,7 @@ Conventional histopathology is destructive of biopsy tissue, and doesn’t alway
 Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821](http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821)
 
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
-* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
+* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s)
 * Detecting cancer in real-time with machine learning [https://www.youtube.com/watch?v=9Mz84cwVmS0](https://www.youtube.com/watch?v=9Mz84cwVmS0)
 * The Histolog Scanner
 
@@ -138,14 +138,14 @@ Conventional histopathology is destructive of biopsy tissue, and doesn’t alway
 Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821](http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821)
 
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
-* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
+* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s)
 * Open-Top Light-Sheet Microscopy Image Atlas of Prostate Core Needle Biopsies
 
 [https://www.ncbi.nlm.nih.gov/pubmed/30892067](https://www.ncbi.nlm.nih.gov/pubmed/30892067)
 
 * Pathology and laboratory medicine: the Cinderella of health systems
 
-[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)30457-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930457-4/fulltext)
+[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30457-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)30457-4/fulltext)
 
 * 2016 USCAP Nathan Kaufman Timely Topics Lecture - "Riffs on Future Path: The Fall of Paper, the Rise of Smarties and the Quest for Selfies" Faculty: Eric F. Glassy, M.D., Affiliated Pathologists Medical Group, Palos Verdes Estates, CA
 
@@ -178,7 +178,7 @@ Conventional histopathology is destructive of biopsy tissue, and doesn’t alway
 Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821](http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821)
 
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
-* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
+* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s)
 * Detecting cancer in real-time with machine learning [https://www.youtube.com/watch?v=9Mz84cwVmS0](https://www.youtube.com/watch?v=9Mz84cwVmS0)
 * The Histolog Scanner
 
@@ -215,7 +215,7 @@ Conventional histopathology is destructive of biopsy tissue, and doesn’t alway
 Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821](http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821)
 
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
-* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
+* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s)
 
 ## The Future Of Pathology
 
@@ -225,7 +225,7 @@ Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.co
 
 * Pathology and laboratory medicine: the Cinderella of health systems
 
-[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)30457-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2930457-4/fulltext)
+[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30457-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(18\)30457-4/fulltext)
 
 * 2016 USCAP Nathan Kaufman Timely Topics Lecture - "Riffs on Future Path: The Fall of Paper, the Rise of Smarties and the Quest for Selfies" Faculty: Eric F. Glassy, M.D., Affiliated Pathologists Medical Group, Palos Verdes Estates, CA
 
@@ -258,7 +258,7 @@ Conventional histopathology is destructive of biopsy tissue, and doesn’t alway
 Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821](http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821)
 
 * Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
-* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc&t=8s)
+* Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s)
 * Detecting cancer in real-time with machine learning [https://www.youtube.com/watch?v=9Mz84cwVmS0](https://www.youtube.com/watch?v=9Mz84cwVmS0)
 * The Histolog Scanner
 
@@ -267,4 +267,3 @@ Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.co
 * [Next-generation protein analysis in the pathology department.](https://www.ncbi.nlm.nih.gov/pubmed/31308255)
 
 [https://www.ncbi.nlm.nih.gov/pubmed/31308255](https://www.ncbi.nlm.nih.gov/pubmed/31308255)
-

@@ -27,9 +27,9 @@
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269873](https://www.ncbi.nlm.nih.gov/pubmed/28269873)
 
-* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
+* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai\&Ackerman
 
-![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29%20%284%29%20%284%29%20%284%29.png)
+![](<../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36 (4) (4) (4) (4) (1).png>)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -39,7 +39,8 @@
 
 [https://doi.org/10.5858/arpa.2017-0139-OA](https://doi.org/10.5858/arpa.2017-0139-OA)
 
-* * LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
+*
+* LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
 * Dictation
 
 [http://www.binasmedikal.com/urun/patoloji-icin-ses-kayit-cihazlari/](http://www.binasmedikal.com/urun/patoloji-icin-ses-kayit-cihazlari/)
@@ -64,9 +65,9 @@
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269873](https://www.ncbi.nlm.nih.gov/pubmed/28269873)
 
-* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
+* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai\&Ackerman
 
-![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29%20%284%29%20%284%29.png)
+![](<../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36 (4) (4) (4) (4) (2).png>)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -76,7 +77,8 @@
 
 [https://doi.org/10.5858/arpa.2017-0139-OA](https://doi.org/10.5858/arpa.2017-0139-OA)
 
-* * LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
+*
+* LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
 * Dictation
 
 [http://www.binasmedikal.com/urun/patoloji-icin-ses-kayit-cihazlari/](http://www.binasmedikal.com/urun/patoloji-icin-ses-kayit-cihazlari/)
@@ -101,9 +103,9 @@
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269873](https://www.ncbi.nlm.nih.gov/pubmed/28269873)
 
-* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
+* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai\&Ackerman
 
-![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29%20%284%29%20%284%29%20%281%29.png)
+![](<../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36 (4) (4) (4) (4) (3).png>)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -113,7 +115,8 @@
 
 [https://doi.org/10.5858/arpa.2017-0139-OA](https://doi.org/10.5858/arpa.2017-0139-OA)
 
-* * LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
+*
+* LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
 * Dictation
 
 [http://www.binasmedikal.com/urun/patoloji-icin-ses-kayit-cihazlari/](http://www.binasmedikal.com/urun/patoloji-icin-ses-kayit-cihazlari/)
@@ -138,9 +141,9 @@
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269873](https://www.ncbi.nlm.nih.gov/pubmed/28269873)
 
-* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
+* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai\&Ackerman
 
-![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29%20%284%29%20%284%29%20%283%29.png)
+![](<../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36 (4) (4) (4) (4) (4).png>)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -150,7 +153,8 @@
 
 [https://doi.org/10.5858/arpa.2017-0139-OA](https://doi.org/10.5858/arpa.2017-0139-OA)
 
-* 
+*
+
 ## Laboratory Information Systems
 
 * LIS should warn pathologist if there is prior biopsy or cytology from the same patient is present.
@@ -178,9 +182,9 @@
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269873](https://www.ncbi.nlm.nih.gov/pubmed/28269873)
 
-* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai&Ackerman
+* Word processors usually masquerading as information systems in surgical pathology. Warning from Rosai\&Ackerman
 
-![](../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36%20%284%29%20%284%29%20%284%29%20%282%29.png)
+![](<../../.gitbook/assets/ekran-resmi-2017-08-29-21.14.36 (4) (4) (4) (4).png>)
 
 * Are electronic medical records largely to blame for the growing crisis of physician burnout?
 
@@ -193,4 +197,3 @@
 ## Laboratory Management
 
 During pathology residency we are not having enough education for laboratory management. Consequences of this appears when one first faces with a problem in the daily routine process.
-

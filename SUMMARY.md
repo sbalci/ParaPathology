@@ -5,9 +5,10 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
-* [GitBook Manual](https://docs.gitbook.com/)
-* [Patoloji Notlari](http://www.patolojinotlari.com/)
-* [Edit Here](https://app.gitbook.com/@serdarbalci/s/parapathology/)
+* [GitBook Manual](https://docs.gitbook.com)
+* [Patoloji Notlari](http://www.patolojinotlari.com)
+* [Edit Here](introduction/edit-here.md)
+* [Pathology Pages](introduction/pathology-pages.md)
 
 ## Medical School Lectures
 
@@ -184,7 +185,7 @@
 * [Laboratory Management](laboratory-management/laboratory-management.md)
 * [Lean](laboratory-management/lean.md)
 * [Laboratory Information Systems](laboratory-management/laboratory-information-systems/README.md)
-  * [Patoloji  Modülü Özellikleri](laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri.md)
+  * [Patoloji Modülü Özellikleri](laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri.md)
 * [Routine Histology Laboratory](laboratory-management/routine-histology-laboratory.md)
 * [Liquid Based Cytology Preperations](laboratory-management/liquid-based-cytology-preperations.md)
 * [Research Lab](laboratory-management/research-lab.md)
@@ -400,12 +401,11 @@
 * [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 
-## Pathology and Social Media <a id="pathology-and-social-media-1"></a>
+## Pathology and Social Media <a href="pathology-and-social-media-1" id="pathology-and-social-media-1"></a>
 
 * [Pathology and Social Media](pathology-and-social-media-1/pathology-and-social-media.md)
 
-## Pathology Tweets <a id="pathology-tweets-1"></a>
+## Pathology Tweets <a href="pathology-tweets-1" id="pathology-tweets-1"></a>
 
 * [Pathology Tweets](pathology-tweets-1/pathology-tweets/README.md)
   * [Pathology Tweets](pathology-tweets-1/pathology-tweets/pathology-tweets.md)
-
