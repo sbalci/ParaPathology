@@ -31,4 +31,4 @@ ReadCube is one of the essentials to follow up the literature. When you install 
 
 [https://itunes.apple.com/us/app/johns-hopkins-atlas-of-surgical-neuropathology/id1210848613?mt=8](https://itunes.apple.com/us/app/johns-hopkins-atlas-of-surgical-neuropathology/id1210848613?mt=8)
 
-* 
+*
