@@ -12,9 +12,7 @@
 
 
 
-## [Haggitt classification](http://www.ganfyd.org/index.php?title=Haggitt_classification) <a id="firstHeading"></a>
+## [Haggitt classification](http://www.ganfyd.org/index.php?title=Haggitt\_classification) <a href="firstheading" id="firstheading"></a>
 
-{% embed url="http://www.ganfyd.org/index.php?title=Haggitt\_classification" %}
-
-
+{% embed url="http://www.ganfyd.org/index.php?title=Haggitt_classification" %}
 

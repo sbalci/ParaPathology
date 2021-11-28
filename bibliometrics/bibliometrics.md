@@ -1,6 +1,6 @@
 # Bibliometrics
 
-#### \*\*\*\*[**Citation Performance Indicators — A Very Short Introduction**](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)\*\*\*\*
+#### ****[**Citation Performance Indicators — A Very Short Introduction**](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)****
 
 {% embed url="https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/" %}
 
@@ -12,11 +12,11 @@
 
 #### **CiteScore metrics from Scopus**
 
-[https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com/)
+[https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com)
 
 #### **Semantic Scholar**
 
-[https://www.semanticscholar.org/](https://www.semanticscholar.org/)
+[https://www.semanticscholar.org/](https://www.semanticscholar.org)
 
 #### **Google Scholar**
 
@@ -26,7 +26,7 @@
 
 #### **colwiz**
 
-[https://www.colwiz.com/](https://www.colwiz.com/)
+[https://www.colwiz.com/](https://www.colwiz.com)
 
 * **Publish or Perish**
 
@@ -84,17 +84,17 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 [http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf)
 
-* TÜRK DERGİLERİNİN WEB OF SCIENCE’TEKİ YERİ, İMPAKT FAKTÖR \(ETKİ FAKTÖRÜ\) VE H İNDEKS
+* TÜRK DERGİLERİNİN WEB OF SCIENCE’TEKİ YERİ, İMPAKT FAKTÖR (ETKİ FAKTÖRÜ) VE H İNDEKS
 
 [http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf)
 
-* ISI Web of Science \(WoS\)'da İndekslenen Türkiye Adresli Bilimsel Dergiler
+* ISI Web of Science (WoS)'da İndekslenen Türkiye Adresli Bilimsel Dergiler
 
 [http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler](http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler)
 
-* Thomson Reuters Web Of Science Atıf Veri Tabanlarında \(SCI, SSCI, AHCI\) İndekslenmekte Olan Türkiye Adresli Bilimsel Dergiler
+* Thomson Reuters Web Of Science Atıf Veri Tabanlarında (SCI, SSCI, AHCI) İndekslenmekte Olan Türkiye Adresli Bilimsel Dergiler
 
-[http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos_turkce_dergiler_aralik_2014.pdf)
+[http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf)
 
 * Webometrics
 
@@ -102,7 +102,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * CWTS Journal Indicators
 
-[http://www.journalindicators.com/](http://www.journalindicators.com/)
+[http://www.journalindicators.com/](http://www.journalindicators.com)
 
 [http://www.journalindicators.com/indicators](http://www.journalindicators.com/indicators)
 
@@ -112,15 +112,15 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * University Rank
 
-[http://www.umultirank.org/\#!/home](http://www.umultirank.org/#!/home)
+[http://www.umultirank.org/#!/home](http://www.umultirank.org/#!/home)
 
 * The Leiden Manifesto for Research Metrics
 
-[http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org/)
+[http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org)
 
 [https://vimeo.com/133683418](https://vimeo.com/133683418)
 
-* Diana Hicks, Paul Wouters, Ludo Waltman, Sarah de Rijke, Ismael Rafols \(2015\) The Leiden Manifesto for research metrics: use these 10 principles to guide research evaluation. Nature, April 23, 520:429-431, doi:10.1038/520429a.
+* Diana Hicks, Paul Wouters, Ludo Waltman, Sarah de Rijke, Ismael Rafols (2015) The Leiden Manifesto for research metrics: use these 10 principles to guide research evaluation. Nature, April 23, 520:429-431, doi:10.1038/520429a.
 
 [https://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351](https://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351)
 
@@ -130,15 +130,15 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * It's Gonna Get a Lot Easier to Break Science Journal Paywalls
 
-[https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social\_twitter\_onsiteshare](https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social_twitter_onsiteshare)
+[https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social\_twitter\_onsiteshare](https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social\_twitter\_onsiteshare)
 
 * The science that’s never been cited: Nature investigates how many papers really end up without a single citation.
 
-[https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?utm_source=FBK_NatureNews&sf176431210=1)
+[https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?sf176431210=1)
 
 * **The SCImago Journal & Country Rank**
 
-[https://www.scimagojr.com/journalrank.php?category=2734&area=2700](https://www.scimagojr.com/journalrank.php?category=2734&area=2700)
+[https://www.scimagojr.com/journalrank.php?category=2734\&area=2700](https://www.scimagojr.com/journalrank.php?category=2734\&area=2700)
 
 * **Citation Performance Indicators — A Very Short Introduction**
 
@@ -150,18 +150,18 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * **CiteScore metrics from Scopus**
 
-[https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com/)
+[https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com)
 
 * **Semantic Scholar**
 
-[https://www.semanticscholar.org/](https://www.semanticscholar.org/)
+[https://www.semanticscholar.org/](https://www.semanticscholar.org)
 
 * **Google Scholar**
 * **Research Gate**
 * **EndNote**
 * **colwiz**
 
-[https://www.colwiz.com/](https://www.colwiz.com/)
+[https://www.colwiz.com/](https://www.colwiz.com)
 
 * **Publish or Perish**
 
@@ -219,17 +219,17 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 [http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf)
 
-* TÜRK DERGİLERİNİN WEB OF SCIENCE’TEKİ YERİ, İMPAKT FAKTÖR \(ETKİ FAKTÖRÜ\) VE H İNDEKS
+* TÜRK DERGİLERİNİN WEB OF SCIENCE’TEKİ YERİ, İMPAKT FAKTÖR (ETKİ FAKTÖRÜ) VE H İNDEKS
 
 [http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf)
 
-* ISI Web of Science \(WoS\)'da İndekslenen Türkiye Adresli Bilimsel Dergiler
+* ISI Web of Science (WoS)'da İndekslenen Türkiye Adresli Bilimsel Dergiler
 
 [http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler](http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler)
 
-* Thomson Reuters Web Of Science Atıf Veri Tabanlarında \(SCI, SSCI, AHCI\) İndekslenmekte Olan Türkiye Adresli Bilimsel Dergiler
+* Thomson Reuters Web Of Science Atıf Veri Tabanlarında (SCI, SSCI, AHCI) İndekslenmekte Olan Türkiye Adresli Bilimsel Dergiler
 
-[http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos_turkce_dergiler_aralik_2014.pdf)
+[http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf)
 
 * Webometrics
 
@@ -237,7 +237,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * CWTS Journal Indicators
 
-[http://www.journalindicators.com/](http://www.journalindicators.com/)
+[http://www.journalindicators.com/](http://www.journalindicators.com)
 
 [http://www.journalindicators.com/indicators](http://www.journalindicators.com/indicators)
 
@@ -247,15 +247,15 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * University Rank
 
-[http://www.umultirank.org/\#!/home](http://www.umultirank.org/#!/home)
+[http://www.umultirank.org/#!/home](http://www.umultirank.org/#!/home)
 
 * The Leiden Manifesto for Research Metrics
 
-[http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org/)
+[http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org)
 
 [https://vimeo.com/133683418](https://vimeo.com/133683418)
 
-* Diana Hicks, Paul Wouters, Ludo Waltman, Sarah de Rijke, Ismael Rafols \(2015\) The Leiden Manifesto for research metrics: use these 10 principles to guide research evaluation. Nature, April 23, 520:429-431, doi:10.1038/520429a.
+* Diana Hicks, Paul Wouters, Ludo Waltman, Sarah de Rijke, Ismael Rafols (2015) The Leiden Manifesto for research metrics: use these 10 principles to guide research evaluation. Nature, April 23, 520:429-431, doi:10.1038/520429a.
 
 [https://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351](https://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351)
 
@@ -265,23 +265,22 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * It's Gonna Get a Lot Easier to Break Science Journal Paywalls
 
-[https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social\_twitter\_onsiteshare](https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social_twitter_onsiteshare)
+[https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social\_twitter\_onsiteshare](https://www.wired.com/story/its-gonna-get-a-lot-easier-to-break-science-journal-paywalls/?mbid=social\_twitter\_onsiteshare)
 
 * The science that’s never been cited: Nature investigates how many papers really end up without a single citation.
 
-[https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?utm_source=FBK_NatureNews&sf176431210=1)
+[https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?sf176431210=1)
 
 * Scholar Profili eksik olanlara öneriler
 
 [http://www.webometrics.info/en/node/179](http://www.webometrics.info/en/node/179)
 
-![](../.gitbook/assets/ekran-resmi-2018-05-22-12.54.15.png)
+![](<../.gitbook/assets/ekran-resmi-2018-05-22-12.54.15 (1).png>)
 
 * Webometric Analyst 2.0
 
-[http://lexiurl.wlv.ac.uk/](http://lexiurl.wlv.ac.uk/)
+[http://lexiurl.wlv.ac.uk/](http://lexiurl.wlv.ac.uk)
 
 * Medical Journals: A Sluggish Form of Twitter?
 
 [https://www.medpagetoday.com/blogs/revolutionandrevelation/79274](https://www.medpagetoday.com/blogs/revolutionandrevelation/79274)
-

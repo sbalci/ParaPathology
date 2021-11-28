@@ -11,11 +11,14 @@ Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden
 * Epidemiyoloji
 * Patogenez
 * Morfoloji
-* * Genetik
+*
+  * Genetik
 * Tedavi
-* * Morfoloji ve patogenezin klinik ile korelasyonu
+*
+  * Morfoloji ve patogenezin klinik ile korelasyonu
 * Hastalığın süreci
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
+*
+  * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
 
 Kaynaklar:
 
@@ -24,7 +27,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz.
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -46,11 +49,14 @@ Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden
 * Epidemiyoloji
 * Patogenez
 * Morfoloji
-* * Genetik
+*
+  * Genetik
 * Tedavi
-* * Morfoloji ve patogenezin klinik ile korelasyonu
+*
+  * Morfoloji ve patogenezin klinik ile korelasyonu
 * Hastalığın süreci
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
+*
+  * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
 
 Kaynaklar:
 
@@ -61,7 +67,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -83,11 +89,14 @@ Patoloji derslerinde hastalıklar değişik açılardan anlatılacaktır. Sizden
 * Epidemiyoloji
 * Patogenez
 * Morfoloji
-* * Genetik
+*
+  * Genetik
 * Tedavi
-* * Morfoloji ve patogenezin klinik ile korelasyonu
+*
+  * Morfoloji ve patogenezin klinik ile korelasyonu
 * Hastalığın süreci
-* * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
+*
+  * Hastalığın değişik dönemleri ve ayırıcı tanıyla ilişkisi
 
 Kaynaklar:
 
@@ -98,7 +107,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -115,7 +124,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 
 ### List Of Lectures
 
-[Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1_NOnKrDbGcY4wXpidE2OBXzi4s_uqUTm6GZ3bbZCr0M/pub)
+[Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1\_NOnKrDbGcY4wXpidE2OBXzi4s\_uqUTm6GZ3bbZCr0M/pub)
 
 [Laboratuvar dersleri ile ilgili genel bilgiler](https://docs.google.com/document/d/1RHSrxaVGStNSXbaiGIs88JOBmXtGnyeAsxiC2NOLxCE/pub)
 
@@ -123,13 +132,13 @@ Dönem 2 Komite 7 Dersleri, Türkçe Grup
 
 [Patolojiye Giriş](https://docs.google.com/document/d/1IQYxAVqj5e8tQ4BFV9wb4SjKw562eQMdDDsiKJ4yLY4/pub)
 
-[Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c_8Rq84BYg7zBmvJCvSdyM_qPwkudBEMobLOlI/pub)
+[Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c\_8Rq84BYg7zBmvJCvSdyM\_qPwkudBEMobLOlI/pub)
 
 [Hücre Patolojisi](https://docs.google.com/document/d/13-eHgXpVERd5o0iNmb04II3jJ5g5nPdc79FfUMCmmeg/pub)
 
-[Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
+[Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC\_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
 
-[Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs_vnSjydAaAeE/pub)
+[Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs\_vnSjydAaAeE/pub)
 
 Kronik inflamasyon
 
@@ -145,17 +154,17 @@ Lab: Hemodinamik bozukluklar
 
 Phase 2 Committee 7 Lectures, English Group
 
-[Introduction to Pathology](https://docs.google.com/document/d/1vSXvR3rGZ5lzaYupXc4J0E73Fg63E2ObT_9X7U-0Rfs/pub)
+[Introduction to Pathology](https://docs.google.com/document/d/1vSXvR3rGZ5lzaYupXc4J0E73Fg63E2ObT\_9X7U-0Rfs/pub)
 
-[Pathology Laboratory: How it works?](https://docs.google.com/document/d/1ewT_5USLhZozobrXR-Btt6TV5FHiNndG5tnd0Exhsrc/pub)
+[Pathology Laboratory: How it works?](https://docs.google.com/document/d/1ewT\_5USLhZozobrXR-Btt6TV5FHiNndG5tnd0Exhsrc/pub)
 
 [Cellular Pathology](https://docs.google.com/document/d/1T7frhH9mbM2dJWeh38qHvqcUmEtJ6hj0mISfXX7q2PU/pub)
 
 [Intracellular Accumulations and Cellular Aging](https://docs.google.com/document/d/1KTXcgBDKRsVf7sKmED3kgJM5jImIe-UgSLmUCIBImtE/pub)
 
-[The Mechanisms of Cell Death, Apoptosis and Autophagy](https://docs.google.com/document/d/1JUzuKbZes_zMLx17x2MuB-9s8cnN4roI-MDCA_gVsDw/pub)
+[The Mechanisms of Cell Death, Apoptosis and Autophagy](https://docs.google.com/document/d/1JUzuKbZes\_zMLx17x2MuB-9s8cnN4roI-MDCA\_gVsDw/pub)
 
-[Chronic Inflammation](https://docs.google.com/document/d/1Plu10XjB49yR325Hbe168l_i2AkuefxERQwsUg0ia_Y/pub)
+[Chronic Inflammation](https://docs.google.com/document/d/1Plu10XjB49yR325Hbe168l\_i2AkuefxERQwsUg0ia\_Y/pub)
 
 Wound Healing and Repair
 
@@ -169,13 +178,13 @@ Embolism, Infarction and Shock
 
 Phase 3 Committee 1 Lectures, English Group
 
-[Transmission and Dissemination of Microbes](https://docs.google.com/document/d/1LauzvfCfQD9EHXSQjCnoR6IK1bfoIuWy2yrAHRBm_xQ/pub)
+[Transmission and Dissemination of Microbes](https://docs.google.com/document/d/1LauzvfCfQD9EHXSQjCnoR6IK1bfoIuWy2yrAHRBm\_xQ/pub)
 
 Pathology of Fungal and Parasitic Infections
 
 Amyloidosis
 
-[Lab: Infectious agents in tissues](https://docs.google.com/document/d/1RMH1js_5DbU__Wu33rB3hDSv2-bgiFqLGFe0Gl6UB0A/pub)
+[Lab: Infectious agents in tissues](https://docs.google.com/document/d/1RMH1js\_5DbU\_\_Wu33rB3hDSv2-bgiFqLGFe0Gl6UB0A/pub)
 
 Dönem 3 Komite 1 Dersleri, Türkçe Grup
 
@@ -191,7 +200,7 @@ Hallmarks of Cancer-1
 
 Hallmarks of Cancer-2, Metastasis
 
-[Clinicopathological Features of Neoplasia and Epidemiology](https://docs.google.com/document/d/1R8X7J2BRxG2tcnaSrABsZb_SsitWQYqy37AZHLJjJJk/pub)
+[Clinicopathological Features of Neoplasia and Epidemiology](https://docs.google.com/document/d/1R8X7J2BRxG2tcnaSrABsZb\_SsitWQYqy37AZHLJjJJk/pub)
 
 Mesenchymal Tumors
 
@@ -424,7 +433,7 @@ Dersler için faydalanılabilecek kaynaklar:
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -441,15 +450,15 @@ Dersler için faydalanılabilecek kaynaklar:
 
 Web:
 
-[http://www.pathguy.com/](http://www.pathguy.com/)
+[http://www.pathguy.com/](http://www.pathguy.com)
 
-[http://www.webpathology.com/](http://www.webpathology.com/)
+[http://www.webpathology.com/](http://www.webpathology.com)
 
-[http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel_prizes/medicine/laureates/)
+[http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel\_prizes/medicine/laureates/)
 
-[http://ocw.mit.edu/courses/find-by-topic/\#cat=science&subcat=biology&spec=genetics](http://ocw.mit.edu/courses/find-by-topic/#cat=science&subcat=biology&spec=genetics)
+[http://ocw.mit.edu/courses/find-by-topic/#cat=science\&subcat=biology\&spec=genetics](http://ocw.mit.edu/courses/find-by-topic/#cat=science\&subcat=biology\&spec=genetics)
 
-[http://ocw.mit.edu/courses/find-by-topic/\#cat=healthandmedicine&subcat=pathologyandpathophysiology](http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine&subcat=pathologyandpathophysiology)
+[http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine\&subcat=pathologyandpathophysiology](http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine\&subcat=pathologyandpathophysiology)
 
 Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera.org/course/pcd)
 
@@ -459,7 +468,7 @@ Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera
 
 [https://lagunita.stanford.edu/courses](https://lagunita.stanford.edu/courses)
 
-[Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1_NOnKrDbGcY4wXpidE2OBXzi4s_uqUTm6GZ3bbZCr0M/pub)
+[Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1\_NOnKrDbGcY4wXpidE2OBXzi4s\_uqUTm6GZ3bbZCr0M/pub)
 
 [Laboratuvar dersleri ile ilgili genel bilgiler](https://docs.google.com/document/d/1RHSrxaVGStNSXbaiGIs88JOBmXtGnyeAsxiC2NOLxCE/pub)
 
@@ -467,13 +476,13 @@ Dönem 2 Komite 7 Dersleri, Türkçe Grup
 
 [Patolojiye Giriş](https://docs.google.com/document/d/1IQYxAVqj5e8tQ4BFV9wb4SjKw562eQMdDDsiKJ4yLY4/pub)
 
-[Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c_8Rq84BYg7zBmvJCvSdyM_qPwkudBEMobLOlI/pub)
+[Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c\_8Rq84BYg7zBmvJCvSdyM\_qPwkudBEMobLOlI/pub)
 
 [Hücre Patolojisi](https://docs.google.com/document/d/13-eHgXpVERd5o0iNmb04II3jJ5g5nPdc79FfUMCmmeg/pub)
 
-[Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
+[Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC\_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
 
-[Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs_vnSjydAaAeE/pub)
+[Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs\_vnSjydAaAeE/pub)
 
 Kronik inflamasyon
 
@@ -489,17 +498,17 @@ Lab: Hemodinamik bozukluklar
 
 Phase 2 Committee 7 Lectures, English Group
 
-[Introduction to Pathology](https://docs.google.com/document/d/1vSXvR3rGZ5lzaYupXc4J0E73Fg63E2ObT_9X7U-0Rfs/pub)
+[Introduction to Pathology](https://docs.google.com/document/d/1vSXvR3rGZ5lzaYupXc4J0E73Fg63E2ObT\_9X7U-0Rfs/pub)
 
-[Pathology Laboratory: How it works?](https://docs.google.com/document/d/1ewT_5USLhZozobrXR-Btt6TV5FHiNndG5tnd0Exhsrc/pub)
+[Pathology Laboratory: How it works?](https://docs.google.com/document/d/1ewT\_5USLhZozobrXR-Btt6TV5FHiNndG5tnd0Exhsrc/pub)
 
 [Cellular Pathology](https://docs.google.com/document/d/1T7frhH9mbM2dJWeh38qHvqcUmEtJ6hj0mISfXX7q2PU/pub)
 
 [Intracellular Accumulations and Cellular Aging](https://docs.google.com/document/d/1KTXcgBDKRsVf7sKmED3kgJM5jImIe-UgSLmUCIBImtE/pub)
 
-[The Mechanisms of Cell Death, Apoptosis and Autophagy](https://docs.google.com/document/d/1JUzuKbZes_zMLx17x2MuB-9s8cnN4roI-MDCA_gVsDw/pub)
+[The Mechanisms of Cell Death, Apoptosis and Autophagy](https://docs.google.com/document/d/1JUzuKbZes\_zMLx17x2MuB-9s8cnN4roI-MDCA\_gVsDw/pub)
 
-[Chronic Inflammation](https://docs.google.com/document/d/1Plu10XjB49yR325Hbe168l_i2AkuefxERQwsUg0ia_Y/pub)
+[Chronic Inflammation](https://docs.google.com/document/d/1Plu10XjB49yR325Hbe168l\_i2AkuefxERQwsUg0ia\_Y/pub)
 
 Wound Healing and Repair
 
@@ -513,13 +522,13 @@ Embolism, Infarction and Shock
 
 Phase 3 Committee 1 Lectures, English Group
 
-[Transmission and Dissemination of Microbes](https://docs.google.com/document/d/1LauzvfCfQD9EHXSQjCnoR6IK1bfoIuWy2yrAHRBm_xQ/pub)
+[Transmission and Dissemination of Microbes](https://docs.google.com/document/d/1LauzvfCfQD9EHXSQjCnoR6IK1bfoIuWy2yrAHRBm\_xQ/pub)
 
 Pathology of Fungal and Parasitic Infections
 
 Amyloidosis
 
-[Lab: Infectious agents in tissues](https://docs.google.com/document/d/1RMH1js_5DbU__Wu33rB3hDSv2-bgiFqLGFe0Gl6UB0A/pub)
+[Lab: Infectious agents in tissues](https://docs.google.com/document/d/1RMH1js\_5DbU\_\_Wu33rB3hDSv2-bgiFqLGFe0Gl6UB0A/pub)
 
 Dönem 3 Komite 1 Dersleri, Türkçe Grup
 
@@ -535,7 +544,7 @@ Hallmarks of Cancer-1
 
 Hallmarks of Cancer-2, Metastasis
 
-[Clinicopathological Features of Neoplasia and Epidemiology](https://docs.google.com/document/d/1R8X7J2BRxG2tcnaSrABsZb_SsitWQYqy37AZHLJjJJk/pub)
+[Clinicopathological Features of Neoplasia and Epidemiology](https://docs.google.com/document/d/1R8X7J2BRxG2tcnaSrABsZb\_SsitWQYqy37AZHLJjJJk/pub)
 
 Mesenchymal Tumors
 
@@ -768,7 +777,7 @@ Dersler için faydalanılabilecek kaynaklar:
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -785,15 +794,15 @@ Dersler için faydalanılabilecek kaynaklar:
 
 Web:
 
-[http://www.pathguy.com/](http://www.pathguy.com/)
+[http://www.pathguy.com/](http://www.pathguy.com)
 
-[http://www.webpathology.com/](http://www.webpathology.com/)
+[http://www.webpathology.com/](http://www.webpathology.com)
 
-[http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel_prizes/medicine/laureates/)
+[http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel\_prizes/medicine/laureates/)
 
-[http://ocw.mit.edu/courses/find-by-topic/\#cat=science&subcat=biology&spec=genetics](http://ocw.mit.edu/courses/find-by-topic/#cat=science&subcat=biology&spec=genetics)
+[http://ocw.mit.edu/courses/find-by-topic/#cat=science\&subcat=biology\&spec=genetics](http://ocw.mit.edu/courses/find-by-topic/#cat=science\&subcat=biology\&spec=genetics)
 
-[http://ocw.mit.edu/courses/find-by-topic/\#cat=healthandmedicine&subcat=pathologyandpathophysiology](http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine&subcat=pathologyandpathophysiology)
+[http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine\&subcat=pathologyandpathophysiology](http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine\&subcat=pathologyandpathophysiology)
 
 Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera.org/course/pcd)
 
@@ -803,7 +812,7 @@ Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera
 
 [https://lagunita.stanford.edu/courses](https://lagunita.stanford.edu/courses)
 
-[Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1_NOnKrDbGcY4wXpidE2OBXzi4s_uqUTm6GZ3bbZCr0M/pub)
+[Dersler ile ilgili genel bilgiler](https://docs.google.com/document/d/1\_NOnKrDbGcY4wXpidE2OBXzi4s\_uqUTm6GZ3bbZCr0M/pub)
 
 [Laboratuvar dersleri ile ilgili genel bilgiler](https://docs.google.com/document/d/1RHSrxaVGStNSXbaiGIs88JOBmXtGnyeAsxiC2NOLxCE/pub)
 
@@ -811,13 +820,13 @@ Dönem 2 Komite 7 Dersleri, Türkçe Grup
 
 [Patolojiye Giriş](https://docs.google.com/document/d/1IQYxAVqj5e8tQ4BFV9wb4SjKw562eQMdDDsiKJ4yLY4/pub)
 
-[Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c_8Rq84BYg7zBmvJCvSdyM_qPwkudBEMobLOlI/pub)
+[Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c\_8Rq84BYg7zBmvJCvSdyM\_qPwkudBEMobLOlI/pub)
 
 [Hücre Patolojisi](https://docs.google.com/document/d/13-eHgXpVERd5o0iNmb04II3jJ5g5nPdc79FfUMCmmeg/pub)
 
-[Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
+[Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC\_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
 
-[Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs_vnSjydAaAeE/pub)
+[Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs\_vnSjydAaAeE/pub)
 
 Kronik inflamasyon
 
@@ -833,17 +842,17 @@ Lab: Hemodinamik bozukluklar
 
 Phase 2 Committee 7 Lectures, English Group
 
-[Introduction to Pathology](https://docs.google.com/document/d/1vSXvR3rGZ5lzaYupXc4J0E73Fg63E2ObT_9X7U-0Rfs/pub)
+[Introduction to Pathology](https://docs.google.com/document/d/1vSXvR3rGZ5lzaYupXc4J0E73Fg63E2ObT\_9X7U-0Rfs/pub)
 
-[Pathology Laboratory: How it works?](https://docs.google.com/document/d/1ewT_5USLhZozobrXR-Btt6TV5FHiNndG5tnd0Exhsrc/pub)
+[Pathology Laboratory: How it works?](https://docs.google.com/document/d/1ewT\_5USLhZozobrXR-Btt6TV5FHiNndG5tnd0Exhsrc/pub)
 
 [Cellular Pathology](https://docs.google.com/document/d/1T7frhH9mbM2dJWeh38qHvqcUmEtJ6hj0mISfXX7q2PU/pub)
 
 [Intracellular Accumulations and Cellular Aging](https://docs.google.com/document/d/1KTXcgBDKRsVf7sKmED3kgJM5jImIe-UgSLmUCIBImtE/pub)
 
-[The Mechanisms of Cell Death, Apoptosis and Autophagy](https://docs.google.com/document/d/1JUzuKbZes_zMLx17x2MuB-9s8cnN4roI-MDCA_gVsDw/pub)
+[The Mechanisms of Cell Death, Apoptosis and Autophagy](https://docs.google.com/document/d/1JUzuKbZes\_zMLx17x2MuB-9s8cnN4roI-MDCA\_gVsDw/pub)
 
-[Chronic Inflammation](https://docs.google.com/document/d/1Plu10XjB49yR325Hbe168l_i2AkuefxERQwsUg0ia_Y/pub)
+[Chronic Inflammation](https://docs.google.com/document/d/1Plu10XjB49yR325Hbe168l\_i2AkuefxERQwsUg0ia\_Y/pub)
 
 Wound Healing and Repair
 
@@ -857,13 +866,13 @@ Embolism, Infarction and Shock
 
 Phase 3 Committee 1 Lectures, English Group
 
-[Transmission and Dissemination of Microbes](https://docs.google.com/document/d/1LauzvfCfQD9EHXSQjCnoR6IK1bfoIuWy2yrAHRBm_xQ/pub)
+[Transmission and Dissemination of Microbes](https://docs.google.com/document/d/1LauzvfCfQD9EHXSQjCnoR6IK1bfoIuWy2yrAHRBm\_xQ/pub)
 
 Pathology of Fungal and Parasitic Infections
 
 Amyloidosis
 
-[Lab: Infectious agents in tissues](https://docs.google.com/document/d/1RMH1js_5DbU__Wu33rB3hDSv2-bgiFqLGFe0Gl6UB0A/pub)
+[Lab: Infectious agents in tissues](https://docs.google.com/document/d/1RMH1js\_5DbU\_\_Wu33rB3hDSv2-bgiFqLGFe0Gl6UB0A/pub)
 
 Dönem 3 Komite 1 Dersleri, Türkçe Grup
 
@@ -879,7 +888,7 @@ Hallmarks of Cancer-1
 
 Hallmarks of Cancer-2, Metastasis
 
-[Clinicopathological Features of Neoplasia and Epidemiology](https://docs.google.com/document/d/1R8X7J2BRxG2tcnaSrABsZb_SsitWQYqy37AZHLJjJJk/pub)
+[Clinicopathological Features of Neoplasia and Epidemiology](https://docs.google.com/document/d/1R8X7J2BRxG2tcnaSrABsZb\_SsitWQYqy37AZHLJjJJk/pub)
 
 Mesenchymal Tumors
 
@@ -1112,7 +1121,7 @@ Dersler için faydalanılabilecek kaynaklar:
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -1129,15 +1138,15 @@ Dersler için faydalanılabilecek kaynaklar:
 
 Web:
 
-[http://www.pathguy.com/](http://www.pathguy.com/)
+[http://www.pathguy.com/](http://www.pathguy.com)
 
-[http://www.webpathology.com/](http://www.webpathology.com/)
+[http://www.webpathology.com/](http://www.webpathology.com)
 
-[http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel_prizes/medicine/laureates/)
+[http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel\_prizes/medicine/laureates/)
 
-[http://ocw.mit.edu/courses/find-by-topic/\#cat=science&subcat=biology&spec=genetics](http://ocw.mit.edu/courses/find-by-topic/#cat=science&subcat=biology&spec=genetics)
+[http://ocw.mit.edu/courses/find-by-topic/#cat=science\&subcat=biology\&spec=genetics](http://ocw.mit.edu/courses/find-by-topic/#cat=science\&subcat=biology\&spec=genetics)
 
-[http://ocw.mit.edu/courses/find-by-topic/\#cat=healthandmedicine&subcat=pathologyandpathophysiology](http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine&subcat=pathologyandpathophysiology)
+[http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine\&subcat=pathologyandpathophysiology](http://ocw.mit.edu/courses/find-by-topic/#cat=healthandmedicine\&subcat=pathologyandpathophysiology)
 
 Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera.org/course/pcd)
 
@@ -1149,30 +1158,30 @@ Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera
 
 ## Introduction to Pathology
 
-{% embed url="https://docs.google.com/document/d/e/2PACX-1vRCnvneV6pVgLKcWuz1RR0jOwKBt-UJ0WWqV1qZeJPRkMa5p\_CO904y9OJ2YOlQ0wlgR1egLwiuOi1E/pub" caption="" %}
+{% embed url="https://docs.google.com/document/d/e/2PACX-1vRCnvneV6pVgLKcWuz1RR0jOwKBt-UJ0WWqV1qZeJPRkMa5p_CO904y9OJ2YOlQ0wlgR1egLwiuOi1E/pub" %}
 
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u\_nsFnJh\_5\_pExSF6vCbea\_Zp66/pub?start=false&loop=false&delayms=3000" caption="" %}
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u_nsFnJh_5_pExSF6vCbea_Zp66/pub?start=false&loop=false&delayms=3000" %}
 
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u\_nsFnJh\_5\_pExSF6vCbea\_Zp66/pub?start=false&loop=false&delayms=3000" caption="" %}
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRh1goqUxBLeEOuHJrvq7d1zBO8SYgw6xOuKOG-6b17b98FXYUN4u_nsFnJh_5_pExSF6vCbea_Zp66/pub?start=false&loop=false&delayms=3000" %}
 
-[History of Pathology](https://twitter.com/i/moments/926341810091380736?ref_src=twsrc%5Etfw)
+[History of Pathology](https://twitter.com/i/moments/926341810091380736?ref\_src=twsrc%5Etfw)
 
-{% embed url="https://twitter.com/i/moments/926341810091380736" caption="" %}
+{% embed url="https://twitter.com/i/moments/926341810091380736" %}
 
-[Pathogenesis](https://twitter.com/i/moments/924607067909951490?ref_src=twsrc%5Etfw)
+[Pathogenesis](https://twitter.com/i/moments/924607067909951490?ref\_src=twsrc%5Etfw)
 
-Focal  
+Focal\
 ⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️⚫️⚫️⚫️
 
-Diffuse  
+Diffuse\
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
-Patchy  
-⚫️⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴[\#pathology](https://twitter.com/hashtag/pathology?src=hash&ref_src=twsrc%5Etfw)— Sanjay Mukhopadhyay \(@smlungpathguy\) [July 19, 2018](https://twitter.com/smlungpathguy/status/1019805627592462336?ref_src=twsrc%5Etfw)
+Patchy\
+⚫️⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️🔴🔴⚫️⚫️⚫️⚫️⚫️⚫️🔴🔴[#pathology](https://twitter.com/hashtag/pathology?src=hash\&ref\_src=twsrc%5Etfw)— Sanjay Mukhopadhyay (@smlungpathguy) [July 19, 2018](https://twitter.com/smlungpathguy/status/1019805627592462336?ref\_src=twsrc%5Etfw)
 
-{% embed url="https://twitter.com/smlungpathguy/status/1019805627592462336" caption="" %}
+{% embed url="https://twitter.com/smlungpathguy/status/1019805627592462336" %}
 
-{% embed url="https://www.youtube.com/watch?v=6z9\_fjCuQtE" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=6z9_fjCuQtE" %}
 
 Required Prior Knowledge:That you will be having pathology lectures in this committee and throughout phase 3.
 
@@ -1203,16 +1212,19 @@ Lecture Outlines:
 * Pathology jargon
 * Pathology and epidemiology
 * Diagnostic pathology
-* * Macroscopy
+*
+  * Macroscopy
   * Microscopy
   * Cytology
   * Immunohistochemistry
 * Who is a pathologist?
-* * How can one become a pathologist in Turkey?
+*
+  * How can one become a pathologist in Turkey?
   * Are there different kind of pathologist in the world?
   * Are there any subspecialities?
 * Pathology Lectures
-* * How will this course go on?
+*
+  * How will this course go on?
   * How will you be graded?
   * How can I study pathology?
   * Methods to study pathology
@@ -1223,11 +1235,11 @@ References:
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
+5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
+6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
+7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
+8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
+9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)
 
 Last updated:01.05.2015
 
@@ -1262,16 +1274,19 @@ Lecture Outlines:
 * Pathology jargon
 * Pathology and epidemiology
 * Diagnostic pathology
-* * Macroscopy
+*
+  * Macroscopy
   * Microscopy
   * Cytology
   * Immunohistochemistry
 * Who is a pathologist?
-* * How can one become a pathologist in Turkey?
+*
+  * How can one become a pathologist in Turkey?
   * Are there different kind of pathologist in the world?
   * Are there any subspecialities?
 * Pathology Lectures
-* * How will this course go on?
+*
+  * How will this course go on?
   * How will you be graded?
   * How can I study pathology?
   * Methods to study pathology
@@ -1282,11 +1297,11 @@ References:
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124<0853%3AIEOPRP>2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
+5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
+6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
+7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
+8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
+9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)
 
 Last updated:01.05.2015
 
@@ -1321,16 +1336,19 @@ Lecture Outlines:
 * Pathology jargon
 * Pathology and epidemiology
 * Diagnostic pathology
-* * Macroscopy
+*
+  * Macroscopy
   * Microscopy
   * Cytology
   * Immunohistochemistry
 * Who is a pathologist?
-* * How can one become a pathologist in Turkey?
+*
+  * How can one become a pathologist in Turkey?
   * Are there different kind of pathologist in the world?
   * Are there any subspecialities?
 * Pathology Lectures
-* * How will this course go on?
+*
+  * How will this course go on?
   * How will you be graded?
   * How can I study pathology?
   * Methods to study pathology
@@ -1341,11 +1359,11 @@ References:
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
+5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
+6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
+7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
+8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
+9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)
 
 kullanırken dikkat edilmesi gerekenler
 
@@ -1357,24 +1375,28 @@ kullanırken dikkat edilmesi gerekenler
 * Küçük büyütmeden başlayın
 * Gerekirse alanları büyütüp inceleyin
 * Robbins ya da bir textbook’un ilgili kısmı yanınızda olsun
-* * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
-* Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun \(iki resim arası farkı bulun gibi\)
+*
+  * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
+* Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun (iki resim arası farkı bulun gibi)
 * Stres ve panik yapmayın
-* * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
+*
+  * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
   * Soru sormaktan çekinmeyin, anlamadığınız herşeyi sorun
 * Artefaktlar olabilir onlara takılmayın
 * Arkadaşlardan öğrenmek iyi bir fikirdir
-* * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
+*
+  * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
   * Ama bu sizi “ben anlamıyorum zaten” ile sonlanan öğrenilmiş çaresizliğe sürüklemesin
 * Mikroskoptan fotoğraf çekmek isteyenler için:
-* * [Annie S. Morrison and Jerad M. Gardner \(2014\) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
+*
+  * [Annie S. Morrison and Jerad M. Gardner (2014) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
   * [Smart Phone Microscopic Photography](https://www.youtube.com/watch?v=cfd9ViHBlR4)
 
 Biyopsi örneğinde iki, üç boyut ve zaman
 
 * Doku ve organlar aslında 3 boyutlu
 * Bizim incelediğimiz preperatlar ise 2 boyutlu
-* Hastalığın değişik dönemleri olduğunu \(zaman boyutunu\) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
+* Hastalığın değişik dönemleri olduğunu (zaman boyutunu) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
 
 Laboratuvar sınavı nasıl olacak?
 
@@ -1394,24 +1416,28 @@ Mikroskop kullanırken dikkat edilmesi gerekenler
 * Küçük büyütmeden başlayın
 * Gerekirse alanları büyütüp inceleyin
 * Robbins ya da bir textbook’un ilgili kısmı yanınızda olsun
-* * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
-* Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun \(iki resim arası farkı bulun gibi\)
+*
+  * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
+* Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun (iki resim arası farkı bulun gibi)
 * Stres ve panik yapmayın
-* * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
+*
+  * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
   * Soru sormaktan çekinmeyin, anlamadığınız herşeyi sorun
 * Artefaktlar olabilir onlara takılmayın
 * Arkadaşlardan öğrenmek iyi bir fikirdir
-* * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
+*
+  * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
   * Ama bu sizi “ben anlamıyorum zaten” ile sonlanan öğrenilmiş çaresizliğe sürüklemesin
 * Mikroskoptan fotoğraf çekmek isteyenler için:
-* * [Annie S. Morrison and Jerad M. Gardner \(2014\) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
+*
+  * [Annie S. Morrison and Jerad M. Gardner (2014) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
   * [Smart Phone Microscopic Photography](https://www.youtube.com/watch?v=cfd9ViHBlR4)
 
 Biyopsi örneğinde iki, üç boyut ve zaman
 
 * Doku ve organlar aslında 3 boyutlu
 * Bizim incelediğimiz preperatlar ise 2 boyutlu
-* Hastalığın değişik dönemleri olduğunu \(zaman boyutunu\) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
+* Hastalığın değişik dönemleri olduğunu (zaman boyutunu) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
 
 Laboratuvar sınavı nasıl olacak?
 
@@ -1431,24 +1457,28 @@ Mikroskop kullanırken dikkat edilmesi gerekenler
 * Küçük büyütmeden başlayın
 * Gerekirse alanları büyütüp inceleyin
 * Robbins ya da bir textbook’un ilgili kısmı yanınızda olsun
-* * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
-* Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun \(iki resim arası farkı bulun gibi\)
+*
+  * Kitaplarda morfolojinin anlatıldığı kısımlar konuların yaklaşık %20-25’ini oluştumaktadır. Laboratuvar sırasında bu kısımları okumak ve morfolojik tariflerini öğrenmek için çok iyi bir fırsat
+* Normal dokuları bulup normal alanları önce inceleyin, sonra iki alan arasındaki farkları bulun (iki resim arası farkı bulun gibi)
 * Stres ve panik yapmayın
-* * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
+*
+  * Patoloji preperatları farklı ve acayip görünebilir, ama sizden beklenen şeyler oldukça basittir
   * Soru sormaktan çekinmeyin, anlamadığınız herşeyi sorun
 * Artefaktlar olabilir onlara takılmayın
 * Arkadaşlardan öğrenmek iyi bir fikirdir
-* * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
+*
+  * laboratuvar sırasında birbirinize soru sorup anladıklarınızı paylaşın
   * Ama bu sizi “ben anlamıyorum zaten” ile sonlanan öğrenilmiş çaresizliğe sürüklemesin
 * Mikroskoptan fotoğraf çekmek isteyenler için:
-* * [Annie S. Morrison and Jerad M. Gardner \(2014\) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
+*
+  * [Annie S. Morrison and Jerad M. Gardner (2014) Smart Phone Microscopic Photography: A Novel Tool for Physicians and Trainees. Archives of Pathology & Laboratory Medicine: August 2014, Vol. 138, No. 8, pp. 1002-1002. doi: http://dx.doi.org/10.5858/arpa.2013-0425-ED](http://www.archivesofpathology.org/doi/full/10.5858/arpa.2013-0425-ED)
   * [Smart Phone Microscopic Photography](https://www.youtube.com/watch?v=cfd9ViHBlR4)
 
 Biyopsi örneğinde iki, üç boyut ve zaman
 
 * Doku ve organlar aslında 3 boyutlu
 * Bizim incelediğimiz preperatlar ise 2 boyutlu
-* Hastalığın değişik dönemleri olduğunu \(zaman boyutunu\) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
+* Hastalığın değişik dönemleri olduğunu (zaman boyutunu) da akılda tutmak lazım. Morfoloji ve patogenezin klinik ile korelasyonunu ancak bu şekilde sağlayabiliriz.
 
 Laboratuvar sınavı nasıl olacak?
 
@@ -1486,7 +1516,7 @@ Aşağıda listesi verilen kitaplardan faydalanabilirsiniz. Bunların hemen tüm
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. Robbins Temel Patoloji
-4. BRS Pathology \(Board Review Series\)
+4. BRS Pathology (Board Review Series)
 5. Pathology Secrets
 6. Pathophysiology: The Biologic Basis for Disease in Adults and Children, 7e
 7. Elsevier's Integrated Pathology
@@ -1519,35 +1549,40 @@ Dersin hedefleri:
 
 Başlıklar:
 
-* Spesmen \(Örnek\) Tipleri - Biyopsi
-* * İğne biyopsisi, tru-cut biyopsi
+* Spesmen (Örnek) Tipleri - Biyopsi
+*
+  * İğne biyopsisi, tru-cut biyopsi
   * İnsizyonel biyopsi
   * Eksizyonel biyopsi
   * Radikal eksizyon
 * Spesmen Tipleri - Sitoloji
-* * Eksfoliyatif sitoloji
+*
+  * Eksfoliyatif sitoloji
   * Aspirasyon sitolojisi
 * Patoloji laboratuvarında kayıt ve iş akışı
 * Makroskopi
-* * Spesmenlerin fotoğraflanması
+*
+  * Spesmenlerin fotoğraflanması
   * Spesmen arşivi
   * Klavuzlara göre urgun örnek alma
 * Doku takibi
-* Parafin blok hazırlama \(parafine gömme\)
+* Parafin blok hazırlama (parafine gömme)
 * Mikrotom
-* H&E
+* H\&E
 * Mikroskopi
 * Otopsi
 * Frozen işlemi
 * Özel teknikler
-* * Histokimya
+*
+  * Histokimya
   * Enzim histokimyası
   * İmmünohistokimya
   * İmmünfloresan
   * İn-situ hibridizasyon
 * Moleküler teknikler
 * Patoloji Arşivi
-* * Parafin bloklar
+*
+  * Parafin bloklar
   * Preparatlar
   * Basılı ve elektronik raporlar
 * Patoloğun ürünü rapordur
@@ -1559,9 +1594,9 @@ Başlıklar:
 
 Kaynaklar:
 
-1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology_report.html)
+1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org/)
+3. [http://rosaicollection.org/](http://rosaicollection.org)
 
 Son güncelleme:01.05.2015
 
@@ -1579,35 +1614,40 @@ Dersin hedefleri:
 
 Başlıklar:
 
-* Spesmen \(Örnek\) Tipleri - Biyopsi
-* * İğne biyopsisi, tru-cut biyopsi
+* Spesmen (Örnek) Tipleri - Biyopsi
+*
+  * İğne biyopsisi, tru-cut biyopsi
   * İnsizyonel biyopsi
   * Eksizyonel biyopsi
   * Radikal eksizyon
 * Spesmen Tipleri - Sitoloji
-* * Eksfoliyatif sitoloji
+*
+  * Eksfoliyatif sitoloji
   * Aspirasyon sitolojisi
 * Patoloji laboratuvarında kayıt ve iş akışı
 * Makroskopi
-* * Spesmenlerin fotoğraflanması
+*
+  * Spesmenlerin fotoğraflanması
   * Spesmen arşivi
   * Klavuzlara göre urgun örnek alma
 * Doku takibi
-* Parafin blok hazırlama \(parafine gömme\)
+* Parafin blok hazırlama (parafine gömme)
 * Mikrotom
-* H&E
+* H\&E
 * Mikroskopi
 * Otopsi
 * Frozen işlemi
 * Özel teknikler
-* * Histokimya
+*
+  * Histokimya
   * Enzim histokimyası
   * İmmünohistokimya
   * İmmünfloresan
   * İn-situ hibridizasyon
 * Moleküler teknikler
 * Patoloji Arşivi
-* * Parafin bloklar
+*
+  * Parafin bloklar
   * Preparatlar
   * Basılı ve elektronik raporlar
 * Patoloğun ürünü rapordur
@@ -1619,9 +1659,9 @@ Başlıklar:
 
 Kaynaklar:
 
-1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology_report.html)
+1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org/)
+3. [http://rosaicollection.org/](http://rosaicollection.org)
 
 Son güncelleme:01.05.2015
 
@@ -1639,35 +1679,40 @@ Dersin hedefleri:
 
 Başlıklar:
 
-* Spesmen \(Örnek\) Tipleri - Biyopsi
-* * İğne biyopsisi, tru-cut biyopsi
+* Spesmen (Örnek) Tipleri - Biyopsi
+*
+  * İğne biyopsisi, tru-cut biyopsi
   * İnsizyonel biyopsi
   * Eksizyonel biyopsi
   * Radikal eksizyon
 * Spesmen Tipleri - Sitoloji
-* * Eksfoliyatif sitoloji
+*
+  * Eksfoliyatif sitoloji
   * Aspirasyon sitolojisi
 * Patoloji laboratuvarında kayıt ve iş akışı
 * Makroskopi
-* * Spesmenlerin fotoğraflanması
+*
+  * Spesmenlerin fotoğraflanması
   * Spesmen arşivi
   * Klavuzlara göre urgun örnek alma
 * Doku takibi
-* Parafin blok hazırlama \(parafine gömme\)
+* Parafin blok hazırlama (parafine gömme)
 * Mikrotom
-* H&E
+* H\&E
 * Mikroskopi
 * Otopsi
 * Frozen işlemi
 * Özel teknikler
-* * Histokimya
+*
+  * Histokimya
   * Enzim histokimyası
   * İmmünohistokimya
   * İmmünfloresan
   * İn-situ hibridizasyon
 * Moleküler teknikler
 * Patoloji Arşivi
-* * Parafin bloklar
+*
+  * Parafin bloklar
   * Preparatlar
   * Basılı ve elektronik raporlar
 * Patoloğun ürünü rapordur
@@ -1679,9 +1724,9 @@ Başlıklar:
 
 Kaynaklar:
 
-1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology_report.html)
+1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org/)
+3. [http://rosaicollection.org/](http://rosaicollection.org)
 
 ## Patoloji'ye Giriş
 
@@ -1715,19 +1760,22 @@ Başlıklar:
 * Etioloji
 * Patogenez
 * Risk faktörü
-* Patoloji terminolojisi \(jargonu\)
+* Patoloji terminolojisi (jargonu)
 * Patoloji ve epidemioloji
 * Tanısal patoloji
-* * Makroskopi
+*
+  * Makroskopi
   * Mikroskopi
   * Sitoloji
   * İmmünohistokimya
 * Patolog kimdir?
-* * Türkiye’de nasıl patolog olunur?
+*
+  * Türkiye’de nasıl patolog olunur?
   * Dünyada değişik patolog grupları var mı?
-  * Patolojinin alt başlıkları \(üst ihtisasları\) var mı?
+  * Patolojinin alt başlıkları (üst ihtisasları) var mı?
 * Patoloji dersleri
-* * Bu dersler nasıl devam edecek?
+*
+  * Bu dersler nasıl devam edecek?
   * Nasıl not alacaksınız?
   * Patolojiye nasıl çalışabilirim?
   * Patolojiye çalışma yöntemleri
@@ -1738,11 +1786,11 @@ Kaynaklar:
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124<0853%3AIEOPRP>2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
+5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
+6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
+7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
+8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
+9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)
 
 Son güncelleme:01.05.2015
 
@@ -1774,19 +1822,22 @@ Başlıklar:
 * Etioloji
 * Patogenez
 * Risk faktörü
-* Patoloji terminolojisi \(jargonu\)
+* Patoloji terminolojisi (jargonu)
 * Patoloji ve epidemioloji
 * Tanısal patoloji
-* * Makroskopi
+*
+  * Makroskopi
   * Mikroskopi
   * Sitoloji
   * İmmünohistokimya
 * Patolog kimdir?
-* * Türkiye’de nasıl patolog olunur?
+*
+  * Türkiye’de nasıl patolog olunur?
   * Dünyada değişik patolog grupları var mı?
-  * Patolojinin alt başlıkları \(üst ihtisasları\) var mı?
+  * Patolojinin alt başlıkları (üst ihtisasları) var mı?
 * Patoloji dersleri
-* * Bu dersler nasıl devam edecek?
+*
+  * Bu dersler nasıl devam edecek?
   * Nasıl not alacaksınız?
   * Patolojiye nasıl çalışabilirim?
   * Patolojiye çalışma yöntemleri
@@ -1797,11 +1848,11 @@ Kaynaklar:
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
+5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
+6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
+7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
+8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
+9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)
 
 Son güncelleme:01.05.2015
 
@@ -1833,19 +1884,22 @@ Başlıklar:
 * Etioloji
 * Patogenez
 * Risk faktörü
-* Patoloji terminolojisi \(jargonu\)
+* Patoloji terminolojisi (jargonu)
 * Patoloji ve epidemioloji
 * Tanısal patoloji
-* * Makroskopi
+*
+  * Makroskopi
   * Mikroskopi
   * Sitoloji
   * İmmünohistokimya
 * Patolog kimdir?
-* * Türkiye’de nasıl patolog olunur?
+*
+  * Türkiye’de nasıl patolog olunur?
   * Dünyada değişik patolog grupları var mı?
-  * Patolojinin alt başlıkları \(üst ihtisasları\) var mı?
+  * Patolojinin alt başlıkları (üst ihtisasları) var mı?
 * Patoloji dersleri
-* * Bu dersler nasıl devam edecek?
+*
+  * Bu dersler nasıl devam edecek?
   * Nasıl not alacaksınız?
   * Patolojiye nasıl çalışabilirim?
   * Patolojiye çalışma yöntemleri
@@ -1856,9 +1910,8 @@ Kaynaklar:
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
 3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
-5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx_eL3AemAI)
-6. [Rebecca F. Yorke \(2000\) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985%282000%29124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology_residents/top_8_things.pdf)
-8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver_Yenerman.pdf)
-9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami)
-
+5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
+6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
+7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
+8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
+9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)

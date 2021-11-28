@@ -24,13 +24,13 @@
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%284%29%20%281%29.png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (1).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
-**p &lt; 0.05 sizin için ne anlam ifade ediyor?**
+**p < 0.05 sizin için ne anlam ifade ediyor?**
 
-```text
+```
 Güncelleme 1: “P-hacking” nedir? Bilimsel literatürde yarattığı sorunlar nelerdir? 
 https://lnkd.in/eEKbjSj
 
@@ -45,11 +45,11 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](../.gitbook/assets/p-degeri-hacettepe%20%283%29%20%283%29.jpg)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (1).jpg>)
 
-[http://www.nicebread.de/](http://www.nicebread.de/)
+[http://www.nicebread.de/](http://www.nicebread.de)
 
-[http://www.nicebread.de/](http://www.nicebread.de/)
+[http://www.nicebread.de/](http://www.nicebread.de)
 
 [https://www.shinyapps.org/apps/vs-mpr/](https://www.shinyapps.org/apps/vs-mpr/)
 
@@ -57,13 +57,12 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 [https://www.nature.com/articles/d41586-019-00970-9](https://www.nature.com/articles/d41586-019-00970-9)
 
-* How sure are you of your result? Put a number on it
+*   How sure are you of your result? Put a number on it
 
-  Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman.  
+    Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman. &#x20;
 
-  [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
-
-* ---Big names in statistics want to shake up much-maligned P value
+    [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
+* \---Big names in statistics want to shake up much-maligned P value
 
 [http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375)
 
@@ -85,13 +84,13 @@ The “80% power” lie
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%284%29%20%284%29.png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (2).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
-**p &lt; 0.05 sizin için ne anlam ifade ediyor?**
+**p < 0.05 sizin için ne anlam ifade ediyor?**
 
-```text
+```
 Güncelleme 1: “P-hacking” nedir? Bilimsel literatürde yarattığı sorunlar nelerdir? 
 https://lnkd.in/eEKbjSj
 
@@ -106,7 +105,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](../.gitbook/assets/p-degeri-hacettepe%20%283%29%20%282%29.jpg)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (2).jpg>)
 
 * Big names in statistics want to shake up much-maligned P value
 
@@ -130,13 +129,13 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%284%29.png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (3).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
-**p &lt; 0.05 sizin için ne anlam ifade ediyor?**
+**p < 0.05 sizin için ne anlam ifade ediyor?**
 
-```text
+```
 Güncelleme 1: “P-hacking” nedir? Bilimsel literatürde yarattığı sorunlar nelerdir? 
 https://lnkd.in/eEKbjSj
 
@@ -151,11 +150,11 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](../.gitbook/assets/p-degeri-hacettepe%20%283%29.jpg)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (3).jpg>)
 
-[http://www.nicebread.de/](http://www.nicebread.de/)
+[http://www.nicebread.de/](http://www.nicebread.de)
 
-[http://www.nicebread.de/](http://www.nicebread.de/)
+[http://www.nicebread.de/](http://www.nicebread.de)
 
 [https://www.shinyapps.org/apps/vs-mpr/](https://www.shinyapps.org/apps/vs-mpr/)
 
@@ -163,13 +162,12 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 [https://www.nature.com/articles/d41586-019-00970-9](https://www.nature.com/articles/d41586-019-00970-9)
 
-* How sure are you of your result? Put a number on it
+*   How sure are you of your result? Put a number on it
 
-  Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman.  
+    Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman. &#x20;
 
-  [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
-
-* ---Big names in statistics want to shake up much-maligned P value
+    [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
+* \---Big names in statistics want to shake up much-maligned P value
 
 [http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375)
 
@@ -191,13 +189,13 @@ The “80% power” lie
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%284%29%20%283%29.png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (4).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
-**p &lt; 0.05 sizin için ne anlam ifade ediyor?**
+**p < 0.05 sizin için ne anlam ifade ediyor?**
 
-```text
+```
 Güncelleme 1: “P-hacking” nedir? Bilimsel literatürde yarattığı sorunlar nelerdir? 
 https://lnkd.in/eEKbjSj
 
@@ -212,7 +210,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](../.gitbook/assets/p-degeri-hacettepe%20%283%29%20%281%29.jpg)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (4).jpg>)
 
 ## P Value
 
@@ -238,13 +236,13 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15%20%284%29%20%284%29%20%284%29%20%282%29.png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
-**p &lt; 0.05 sizin için ne anlam ifade ediyor?**
+**p < 0.05 sizin için ne anlam ifade ediyor?**
 
-```text
+```
 Güncelleme 1: “P-hacking” nedir? Bilimsel literatürde yarattığı sorunlar nelerdir? 
 https://lnkd.in/eEKbjSj
 
@@ -259,11 +257,11 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](../.gitbook/assets/p-degeri-hacettepe%20%283%29%20%284%29.jpg)
+![](<../.gitbook/assets/p-degeri-hacettepe (3).jpg>)
 
-[http://www.nicebread.de/](http://www.nicebread.de/)
+[http://www.nicebread.de/](http://www.nicebread.de)
 
-[http://www.nicebread.de/](http://www.nicebread.de/)
+[http://www.nicebread.de/](http://www.nicebread.de)
 
 [https://www.shinyapps.org/apps/vs-mpr/](https://www.shinyapps.org/apps/vs-mpr/)
 
@@ -271,11 +269,11 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 [https://www.nature.com/articles/d41586-019-00970-9](https://www.nature.com/articles/d41586-019-00970-9)
 
-* How sure are you of your result? Put a number on it
+*   How sure are you of your result? Put a number on it
 
-  Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman.
+    Any scientist publishing a claim should quantify their confidence in it with a probability, argues Steven N. Goodman.
 
-  [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
+    [https://www.nature.com/articles/d41586-018-07589-2](https://www.nature.com/articles/d41586-018-07589-2)
 
 #### [Adjust P-values for Multiple Comparisons](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/p.adjust.html)
 
@@ -295,7 +293,5 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 
 
-#### 
-
-
+####
 

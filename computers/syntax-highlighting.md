@@ -12,14 +12,14 @@
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing_    
-
+_Online, wrapping text is missing  _\
+__
 
 * **highlight-package {highlight}**
 
 [https://github.com/romainfrancois/highlight](https://github.com/romainfrancois/highlight)
 
-```text
+```
 devtools::install_github("romainfrancois/highlight")
 library(highlight)
 
@@ -48,9 +48,9 @@ _Useful for Rmd files_
 
 [https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-[https://carbon.now.sh/](https://carbon.now.sh/)
+[https://carbon.now.sh/](https://carbon.now.sh)
 
-**Others \(did not work in my hand\):**
+**Others (did not work in my hand):**
 
 * SyntaxHighlighter
 
@@ -84,14 +84,14 @@ _Useful for Rmd files_
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing_    
-
+_Online, wrapping text is missing  _\
+__
 
 * **highlight-package {highlight}**
 
 [https://github.com/romainfrancois/highlight](https://github.com/romainfrancois/highlight)
 
-```text
+```
 devtools::install_github("romainfrancois/highlight")
 library(highlight)
 
@@ -120,9 +120,9 @@ _Useful for Rmd files_
 
 [https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-[https://carbon.now.sh/](https://carbon.now.sh/)
+[https://carbon.now.sh/](https://carbon.now.sh)
 
-**Others \(did not work in my hand\):**
+**Others (did not work in my hand):**
 
 * SyntaxHighlighter
 
@@ -162,7 +162,7 @@ _Online, wrapping text is missing_
 
 [https://github.com/romainfrancois/highlight](https://github.com/romainfrancois/highlight)
 
-```text
+```
 devtools::install_github("romainfrancois/highlight")
 library(highlight)
 
@@ -191,9 +191,9 @@ _Useful for Rmd files_
 
 [https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-[https://carbon.now.sh/](https://carbon.now.sh/)
+[https://carbon.now.sh/](https://carbon.now.sh)
 
-**Others \(did not work in my hand\):**
+**Others (did not work in my hand):**
 
 * SyntaxHighlighter
 
@@ -216,4 +216,3 @@ _Useful for Rmd files_
 [https://cran.rstudio.com/web/packages/highr/index.html](https://cran.rstudio.com/web/packages/highr/index.html)
 
 [https://github.com/yihui/highr](https://github.com/yihui/highr)
-

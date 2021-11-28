@@ -6,14 +6,14 @@
 
 * Replace with a Subscript
 
-[http://www.brainbell.com/tutorials/ms-office/Word/Replace\_With\_A\_Subscript.htm](http://www.brainbell.com/tutorials/ms-office/Word/Replace_With_A_Subscript.htm)
+[http://www.brainbell.com/tutorials/ms-office/Word/Replace\_With\_A\_Subscript.htm](http://www.brainbell.com/tutorials/ms-office/Word/Replace\_With\_A\_Subscript.htm)
 
-* [http://www.hemingwayapp.com/](http://www.hemingwayapp.com/)
-* [https://app.grammarly.com/](https://app.grammarly.com/)
+* [http://www.hemingwayapp.com/](http://www.hemingwayapp.com)
+* [https://app.grammarly.com/](https://app.grammarly.com)
 
 ## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
-[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+[https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html)
 
 ## Statistics for Social Data
 
@@ -21,7 +21,7 @@
 
 ## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
-[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+[https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html)
 
 ## Statistics for Social Data
 
@@ -29,7 +29,7 @@
 
 ## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
-[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+[https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html)
 
 ## Statistics for Social Data
 
@@ -37,7 +37,7 @@
 
 ## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
-[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+[https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html)
 
 ## Text Mining Courses
 
@@ -45,7 +45,7 @@
 
 ## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
-[https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+[https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html](https://www.cs.uic.edu/\~liub/FBS/sentiment-analysis.html)
 
 ## Text Mining Journal Articles
 
@@ -63,7 +63,7 @@
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -79,7 +79,7 @@
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -95,7 +95,7 @@
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
 
 * E-mail Address Harvesting on PubMed—A Call for Responsible Handling of E-mail Addresses
 
@@ -111,7 +111,7 @@
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
 
 ## Text Mining Journal Articles
 
@@ -129,7 +129,7 @@
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
 
 * Text Mining General
 * Text Mining General
@@ -140,19 +140,19 @@
 
 ## Data sets for author name disambiguation: an empirical analysis and a new resource
 
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals)
 
 ## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
-[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals)
 
 ## Data sets for author name disambiguation: an empirical analysis and a new resource
 
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals)
 
 ## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
-[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals)
 
 ## Text Mining PubMed
 
@@ -160,53 +160,53 @@
 
 ## Data sets for author name disambiguation: an empirical analysis and a new resource
 
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals)
 
 ## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
-[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals)
 
 ## Data sets for author name disambiguation: an empirical analysis and a new resource
 
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals)
 
 ## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
-[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals)
 
 ## Text Mining PubMed
 
 ## Data sets for author name disambiguation: an empirical analysis and a new resource
 
-[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2363-5?wt\_mc=alerts.TOCjournals)
 
 ## A theoretical model of the relationship between the _h_-index and other simple citation indicators
 
-[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt_mc=alerts.TOCjournals)
+[https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals](https://link.springer.com/article/10.1007/s11192-017-2351-9?wt\_mc=alerts.TOCjournals)
 
 ## Text Mining R
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
 
 ## Text Mining R
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm_source=Facebook&utm_medium=R) Programming&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
 
 ## Text Mining Related Web Sites
 
@@ -216,17 +216,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com/)
+[https://www.parsehub.com/](https://www.parsehub.com)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com/)
+[https://regex101.com/](https://regex101.com)
 
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+* **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com/)
+[https://regexr.com/](https://regexr.com)
 
 * **ExtendsClass is an online tool to visualize & test Regular Expressions**
 
@@ -238,7 +238,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io/)
+[https://spacy.io/](https://spacy.io)
 
 * **import.io**
 
@@ -246,17 +246,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com/)
+[https://www.parsehub.com/](https://www.parsehub.com)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com/)
+[https://regex101.com/](https://regex101.com)
 
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+* **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com/)
+[https://regexr.com/](https://regexr.com)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -264,7 +264,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io/)
+[https://spacy.io/](https://spacy.io)
 
 * **import.io**
 
@@ -272,17 +272,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com/)
+[https://www.parsehub.com/](https://www.parsehub.com)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com/)
+[https://regex101.com/](https://regex101.com)
 
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+* **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com/)
+[https://regexr.com/](https://regexr.com)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -290,7 +290,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io/)
+[https://spacy.io/](https://spacy.io)
 
 * **import.io**
 
@@ -298,17 +298,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com/)
+[https://www.parsehub.com/](https://www.parsehub.com)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com/)
+[https://regex101.com/](https://regex101.com)
 
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+* **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com/)
+[https://regexr.com/](https://regexr.com)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -316,7 +316,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io/)
+[https://spacy.io/](https://spacy.io)
 
 ## Text Mining Related Web Sites
 
@@ -326,17 +326,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com/)
+[https://www.parsehub.com/](https://www.parsehub.com)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com/)
+[https://regex101.com/](https://regex101.com)
 
-* **RegExr is an online tool to learn, build & test Regular Expressions \(RegEx / RegExp\).**
+* **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com/)
+[https://regexr.com/](https://regexr.com)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -344,7 +344,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io/)
+[https://spacy.io/](https://spacy.io)
 
 ## Text Mining Turkish
 
@@ -352,7 +352,7 @@
 
 [https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
 
-* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+* [Türkçe Etkisiz Kelimeler (Stop Words) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
 [http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
@@ -376,7 +376,7 @@
 
 [https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
 
-* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+* [Türkçe Etkisiz Kelimeler (Stop Words) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
 [http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
@@ -400,7 +400,7 @@
 
 [https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
 
-* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+* [Türkçe Etkisiz Kelimeler (Stop Words) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
 [http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
@@ -424,7 +424,7 @@
 
 [https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
 
-* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+* [Türkçe Etkisiz Kelimeler (Stop Words) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
 [http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
@@ -450,7 +450,7 @@
 
 [https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml](https://alvinalexander.com/java/jwarehouse/lucene/contrib/analyzers/common/src/resources/org/apache/lucene/analysis/tr/stopwords.txt.shtml)
 
-* [Türkçe Etkisiz Kelimeler \(Stop Words\) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
+* [Türkçe Etkisiz Kelimeler (Stop Words) Listesi 1.1](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
 [http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35](http://www.turkceogretimi.com/Genel-Konular/article/541-turkce-etkisiz-kelimeler-stop-words-listesi-11/35)
 
@@ -484,7 +484,7 @@
 
 * Symplur Signals for Research
 
-[https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
+[https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15)
 
 * Quick guide to mining twitter with R
 
@@ -498,7 +498,7 @@
 
 * Symplur Signals for Research
 
-[https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
+[https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15)
 
 * Quick guide to mining twitter with R
 
@@ -512,7 +512,7 @@
 
 * Symplur Signals for Research
 
-[https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
+[https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15)
 
 * Quick guide to mining twitter with R
 
@@ -526,7 +526,7 @@
 
 * Symplur Signals for Research
 
-[https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
+[https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15)
 
 ## Text Mining Twitter
 
@@ -542,43 +542,44 @@
 
 * Symplur Signals for Research
 
-[https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk&list=WL&index=15)
+[https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15](https://www.youtube.com/watch?v=7mmQCFjpDtk\&list=WL\&index=15)
 
 ## Text Mining Videos
 
-* Text Mining \(part 1\) - Import Text into R \(single document\)
+* Text Mining (part 1) - Import Text into R (single document)
 
-[https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
+[https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL)
 
-* Text Mining \(part 2\) - Cleaning Text Data in R \(single document\)
+* Text Mining (part 2) - Cleaning Text Data in R (single document)
 
-[https://www.youtube.com/watch?v=gtQWMxWzs\_M&list=WL&index=2](https://www.youtube.com/watch?v=gtQWMxWzs_M&list=WL&index=2)
+[https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2](https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2)
 
-* Text Mining \(part 3\) - Sentiment Analysis and Wordcloud in R \(single document\)
+* Text Mining (part 3) - Sentiment Analysis and Wordcloud in R (single document)
 
-[https://www.youtube.com/watch?v=JM\_J7ufS-BU&t=0s](https://www.youtube.com/watch?v=JM_J7ufS-BU&t=0s)
+[https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s](https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s)
 
-* Text Mining \(part4\) - Postive and Negative Terms for Sentiment Analysis in R
+* Text Mining (part4) - Postive and Negative Terms for Sentiment Analysis in R
 
-[https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL)
+[https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL)
 
 [http://ptrckprry.com/course/ssd/data/positive-words.txt](http://ptrckprry.com/course/ssd/data/positive-words.txt)
 
 [http://ptrckprry.com/course/ssd/data/negative-words.txt](http://ptrckprry.com/course/ssd/data/negative-words.txt)
 
-* Text Mining \(part 5\) - Import a Corpus in R
+* Text Mining (part 5) - Import a Corpus in R
 
-[https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14)
+[https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14)
 
-* Text Mining \(part 6\) - Cleaning Corpus text in R
+* Text Mining (part 6) - Cleaning Corpus text in R
 
-[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
+[https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24)
 
---
+\--
 
-* * N-gram word clouds in R ! Learn it in 5 minutes !
+*
+  * N-gram word clouds in R ! Learn it in 5 minutes !
 
-[https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
+[https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be)
 
 * Word Cloud in R - Learn it in 4 minutes !
 
@@ -588,41 +589,43 @@ if you get error try this:
 
 `corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, "latin1", "ASCII", sub="")))`
 
---
+\--
 
-* * Text Mining \(part 1\) - Import Text into R \(single document\)
+*
+  * Text Mining (part 1) - Import Text into R (single document)
 
-[https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
+[https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL)
 
-* Text Mining \(part 2\) - Cleaning Text Data in R \(single document\)
+* Text Mining (part 2) - Cleaning Text Data in R (single document)
 
-[https://www.youtube.com/watch?v=gtQWMxWzs\_M&list=WL&index=2](https://www.youtube.com/watch?v=gtQWMxWzs_M&list=WL&index=2)
+[https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2](https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2)
 
-* Text Mining \(part 3\) - Sentiment Analysis and Wordcloud in R \(single document\)
+* Text Mining (part 3) - Sentiment Analysis and Wordcloud in R (single document)
 
-[https://www.youtube.com/watch?v=JM\_J7ufS-BU&t=0s](https://www.youtube.com/watch?v=JM_J7ufS-BU&t=0s)
+[https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s](https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s)
 
-* Text Mining \(part4\) - Postive and Negative Terms for Sentiment Analysis in R
+* Text Mining (part4) - Postive and Negative Terms for Sentiment Analysis in R
 
-[https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL)
+[https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL)
 
 [http://ptrckprry.com/course/ssd/data/positive-words.txt](http://ptrckprry.com/course/ssd/data/positive-words.txt)
 
 [http://ptrckprry.com/course/ssd/data/negative-words.txt](http://ptrckprry.com/course/ssd/data/negative-words.txt)
 
-* Text Mining \(part 5\) - Import a Corpus in R
+* Text Mining (part 5) - Import a Corpus in R
 
-[https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14)
+[https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14)
 
-* Text Mining \(part 6\) - Cleaning Corpus text in R
+* Text Mining (part 6) - Cleaning Corpus text in R
 
-[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
+[https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24)
 
---
+\--
 
-* * N-gram word clouds in R ! Learn it in 5 minutes !
+*
+  * N-gram word clouds in R ! Learn it in 5 minutes !
 
-[https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
+[https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be)
 
 * Word Cloud in R - Learn it in 4 minutes !
 
@@ -632,41 +635,43 @@ if you get error try this:
 
 `corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, "latin1", "ASCII", sub="")))`
 
---
+\--
 
-* * Text Mining \(part 1\) - Import Text into R \(single document\)
+*
+  * Text Mining (part 1) - Import Text into R (single document)
 
-[https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
+[https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL)
 
-* Text Mining \(part 2\) - Cleaning Text Data in R \(single document\)
+* Text Mining (part 2) - Cleaning Text Data in R (single document)
 
-[https://www.youtube.com/watch?v=gtQWMxWzs\_M&list=WL&index=2](https://www.youtube.com/watch?v=gtQWMxWzs_M&list=WL&index=2)
+[https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2](https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2)
 
-* Text Mining \(part 3\) - Sentiment Analysis and Wordcloud in R \(single document\)
+* Text Mining (part 3) - Sentiment Analysis and Wordcloud in R (single document)
 
-[https://www.youtube.com/watch?v=JM\_J7ufS-BU&t=0s](https://www.youtube.com/watch?v=JM_J7ufS-BU&t=0s)
+[https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s](https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s)
 
-* Text Mining \(part4\) - Postive and Negative Terms for Sentiment Analysis in R
+* Text Mining (part4) - Postive and Negative Terms for Sentiment Analysis in R
 
-[https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL)
+[https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL)
 
 [http://ptrckprry.com/course/ssd/data/positive-words.txt](http://ptrckprry.com/course/ssd/data/positive-words.txt)
 
 [http://ptrckprry.com/course/ssd/data/negative-words.txt](http://ptrckprry.com/course/ssd/data/negative-words.txt)
 
-* Text Mining \(part 5\) - Import a Corpus in R
+* Text Mining (part 5) - Import a Corpus in R
 
-[https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14)
+[https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14)
 
-* Text Mining \(part 6\) - Cleaning Corpus text in R
+* Text Mining (part 6) - Cleaning Corpus text in R
 
-[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
+[https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24)
 
---
+\--
 
-* * N-gram word clouds in R ! Learn it in 5 minutes !
+*
+  * N-gram word clouds in R ! Learn it in 5 minutes !
 
-[https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
+[https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be)
 
 * Word Cloud in R - Learn it in 4 minutes !
 
@@ -676,41 +681,43 @@ if you get error try this:
 
 `corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, "latin1", "ASCII", sub="")))`
 
---
+\--
 
-* * Text Mining \(part 1\) - Import Text into R \(single document\)
+*
+  * Text Mining (part 1) - Import Text into R (single document)
 
-[https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
+[https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL)
 
-* Text Mining \(part 2\) - Cleaning Text Data in R \(single document\)
+* Text Mining (part 2) - Cleaning Text Data in R (single document)
 
-[https://www.youtube.com/watch?v=gtQWMxWzs\_M&list=WL&index=2](https://www.youtube.com/watch?v=gtQWMxWzs_M&list=WL&index=2)
+[https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2](https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2)
 
-* Text Mining \(part 3\) - Sentiment Analysis and Wordcloud in R \(single document\)
+* Text Mining (part 3) - Sentiment Analysis and Wordcloud in R (single document)
 
-[https://www.youtube.com/watch?v=JM\_J7ufS-BU&t=0s](https://www.youtube.com/watch?v=JM_J7ufS-BU&t=0s)
+[https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s](https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s)
 
-* Text Mining \(part4\) - Postive and Negative Terms for Sentiment Analysis in R
+* Text Mining (part4) - Postive and Negative Terms for Sentiment Analysis in R
 
-[https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL)
+[https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL)
 
 [http://ptrckprry.com/course/ssd/data/positive-words.txt](http://ptrckprry.com/course/ssd/data/positive-words.txt)
 
 [http://ptrckprry.com/course/ssd/data/negative-words.txt](http://ptrckprry.com/course/ssd/data/negative-words.txt)
 
-* Text Mining \(part 5\) - Import a Corpus in R
+* Text Mining (part 5) - Import a Corpus in R
 
-[https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14)
+[https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14)
 
-* Text Mining \(part 6\) - Cleaning Corpus text in R
+* Text Mining (part 6) - Cleaning Corpus text in R
 
-[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
+[https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24)
 
---
+\--
 
-* * N-gram word clouds in R ! Learn it in 5 minutes !
+*
+  * N-gram word clouds in R ! Learn it in 5 minutes !
 
-[https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
+[https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be)
 
 * Word Cloud in R - Learn it in 4 minutes !
 
@@ -720,44 +727,43 @@ if you get error try this:
 
 `corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, "latin1", "ASCII", sub="")))`
 
---
+\--
 
-* 
-## Text Mining Videos
+* **Text Mining Videos**
+* Text Mining (part 1) - Import Text into R (single document)
 
-* Text Mining \(part 1\) - Import Text into R \(single document\)
+[https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0\&index=2\&list=WL)
 
-[https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL](https://www.youtube.com/watch?v=fga5gLtFQs0&index=2&list=WL)
+* Text Mining (part 2) - Cleaning Text Data in R (single document)
 
-* Text Mining \(part 2\) - Cleaning Text Data in R \(single document\)
+[https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2](https://www.youtube.com/watch?v=gtQWMxWzs\_M\&list=WL\&index=2)
 
-[https://www.youtube.com/watch?v=gtQWMxWzs\_M&list=WL&index=2](https://www.youtube.com/watch?v=gtQWMxWzs_M&list=WL&index=2)
+* Text Mining (part 3) - Sentiment Analysis and Wordcloud in R (single document)
 
-* Text Mining \(part 3\) - Sentiment Analysis and Wordcloud in R \(single document\)
+[https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s](https://www.youtube.com/watch?v=JM\_J7ufS-BU\&t=0s)
 
-[https://www.youtube.com/watch?v=JM\_J7ufS-BU&t=0s](https://www.youtube.com/watch?v=JM_J7ufS-BU&t=0s)
+* Text Mining (part4) - Postive and Negative Terms for Sentiment Analysis in R
 
-* Text Mining \(part4\) - Postive and Negative Terms for Sentiment Analysis in R
-
-[https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA&index=11&list=WL)
+[https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL](https://www.youtube.com/watch?v=WfoVINuxIJA\&index=11\&list=WL)
 
 [http://ptrckprry.com/course/ssd/data/positive-words.txt](http://ptrckprry.com/course/ssd/data/positive-words.txt)
 
 [http://ptrckprry.com/course/ssd/data/negative-words.txt](http://ptrckprry.com/course/ssd/data/negative-words.txt)
 
-* Text Mining \(part 5\) - Import a Corpus in R
+* Text Mining (part 5) - Import a Corpus in R
 
-[https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A&list=WL&index=14)
+[https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14](https://www.youtube.com/watch?v=pFinlXYLZ-A\&list=WL\&index=14)
 
-* Text Mining \(part 6\) - Cleaning Corpus text in R
+* Text Mining (part 6) - Cleaning Corpus text in R
 
-[https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4&list=WL&index=24)
+[https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24](https://www.youtube.com/watch?v=jCrQYOsAcv4\&list=WL\&index=24)
 
---
+\--
 
-* * N-gram word clouds in R ! Learn it in 5 minutes !
+*
+  * N-gram word clouds in R ! Learn it in 5 minutes !
 
-[https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k&feature=youtu.be)
+[https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be](https://www.youtube.com/watch?v=HellsQ2JF2k\&feature=youtu.be)
 
 * Word Cloud in R - Learn it in 4 minutes !
 
@@ -767,7 +773,7 @@ if you get error try this:
 
 `corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, "latin1", "ASCII", sub="")))`
 
---
+\--
 
-* * Text Mining General
-
+*
+  * Text Mining General

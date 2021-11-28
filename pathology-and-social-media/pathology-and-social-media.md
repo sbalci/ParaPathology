@@ -4,9 +4,9 @@
 
 ### Pathology Hashtags
 
-* [https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash)
-* [https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash)
-* [https://twitter.com/search?f=tweets&q=%23rstats&src=typd](https://twitter.com/search?f=tweets&q=%23rstats&src=typd)
+* [https://twitter.com/hashtag/computationalpathology?f=tweets\&vertical=default\&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets\&vertical=default\&src=hash)
+* [https://twitter.com/hashtag/digitalpathology?f=tweets\&vertical=default\&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets\&vertical=default\&src=hash)
+* [https://twitter.com/search?f=tweets\&q=%23rstats\&src=typd](https://twitter.com/search?f=tweets\&q=%23rstats\&src=typd)
 * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
 * Gross pathology
 
@@ -136,7 +136,7 @@
 
 [https://twitter.com/i/moments/924605671898836992](https://twitter.com/i/moments/924605671898836992)
 
-[https://twitter.com/search?q=%23oralpath&src=typd](https://twitter.com/search?q=%23oralpath&src=typd)
+[https://twitter.com/search?q=%23oralpath\&src=typd](https://twitter.com/search?q=%23oralpath\&src=typd)
 
 #OralPath
 
@@ -232,7 +232,7 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 * HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
-[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
+[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf)
 
 ## Articles
 
@@ -398,7 +398,7 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 [https://twitter.com/i/moments/924605671898836992](https://twitter.com/i/moments/924605671898836992)
 
-[https://twitter.com/search?q=%23oralpath&src=typd](https://twitter.com/search?q=%23oralpath&src=typd)
+[https://twitter.com/search?q=%23oralpath\&src=typd](https://twitter.com/search?q=%23oralpath\&src=typd)
 
 #OralPath
 
@@ -492,7 +492,7 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
-[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
+[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf)
 
 Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
@@ -658,7 +658,7 @@ Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=tw
 
 [https://twitter.com/i/moments/924605671898836992](https://twitter.com/i/moments/924605671898836992)
 
-[https://twitter.com/search?q=%23oralpath&src=typd](https://twitter.com/search?q=%23oralpath&src=typd)
+[https://twitter.com/search?q=%23oralpath\&src=typd](https://twitter.com/search?q=%23oralpath\&src=typd)
 
 #OralPath
 
@@ -752,7 +752,7 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
-[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
+[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf)
 
 Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
