@@ -43,4 +43,3 @@
 ## [On the troubling trail of psychiatry’s pseudopatients stunt](https://www.nature.com/articles/d41586-019-03268-y)
 
 [https://www.nature.com/articles/d41586-019-03268-y](https://www.nature.com/articles/d41586-019-03268-y)
-

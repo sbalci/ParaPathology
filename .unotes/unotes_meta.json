@@ -233,8 +233,39 @@
     "writing-journal-articles": {
       "name": "writing-journal-articles",
       "isOrdered": true,
-      "folders": {},
-      "files": {}
+      "folders": {
+        "bibliography": {
+          "name": "bibliography",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "README": 0,
+            "endnote": 1
+          }
+        }
+      },
+      "files": {
+        "citation": 0,
+        "authorship": 1,
+        "citavi": 2,
+        "figures-and-images": 3,
+        "finding-relevant-articles": 4,
+        "irb": 5,
+        "open-access": 6,
+        "plagiarism": 7,
+        "platform-oral-presentation": 8,
+        "publishing-general": 9,
+        "rephrasing-and-synonyms": 10,
+        "reproducibility": 11,
+        "research-planning": 12,
+        "research-quality": 13,
+        "review": 14,
+        "selecting-a-journal": 15,
+        "text-editing": 16,
+        "visual-abstracts": 17,
+        "writing-journal-articles-1": 18,
+        "writing-journal-articles": 19
+      }
     }
   },
   "files": {
