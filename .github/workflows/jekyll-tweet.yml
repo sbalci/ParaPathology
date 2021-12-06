@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: ethomson/send-tweet-action@v1
         with:
-          status: "ParaPathology notes are updated. See https://www.parapathology.com/"
+          status: "ParaPathology notes are updated. See https://www.parapathology.com/ ${{ github.event.id }}"
           consumer-key: ${{ secrets.API_KEY }}
           consumer-secret: ${{ secrets.API_SECRET_KEY }}
           access-token: ${{ secrets.ACCESS_TOKEN }}
