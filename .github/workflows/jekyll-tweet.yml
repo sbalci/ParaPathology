@@ -20,9 +20,12 @@ jobs:
   tweet:
     runs-on: ubuntu-latest
     steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - uses: ethomson/send-tweet-action@v1
         with:
-          status: "ParaPathology notes are updated. See https://www.parapathology.com/ ${{ github.event.id }}"
+          status: ParaPathology notes are updated. See https://www.parapathology.com/ ${{ steps.date.outputs.date }}
           consumer-key: ${{ secrets.API_KEY }}
           consumer-secret: ${{ secrets.API_SECRET_KEY }}
           access-token: ${{ secrets.ACCESS_TOKEN }}
