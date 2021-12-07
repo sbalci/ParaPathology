@@ -26,4 +26,3 @@ knitr::opts_chunk$set(
 
 See gitbook here -> [https://serdarbalci.gitbook.io/parapathology/](https://serdarbalci.gitbook.io/parapathology/)
 
-
