@@ -48,7 +48,7 @@ Text mining of PubMed Abstracts (text and XML)
 
 ## [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
 
-Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)> and 'PubMed' <[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)>, process the results of those searches and pull data into their R sessions.
+Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)\> and 'PubMed' <[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)\>\, process the results of those searches and pull data into their R sessions\.
 
 ## [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
 
@@ -74,12 +74,12 @@ The`fulltext`package makes it easy to do text-mining by supporting the following
 * Extract text from articles / convert formats
 * Collect bits of articles that you actually need
 * Download supplementary materials from papers
-* Code:\
-  [https://github.com/ropensci/fulltext/](https://github.com/ropensci/fulltext/)
-* Issues/Bug reports:\
-  [https://github.com/ropensci/fulltext/issues](https://github.com/ropensci/fulltext/issues)
-* CRAN:\
-  [https://cran.rstudio.com/web/packages/fulltext/](https://cran.rstudio.com/web/packages/fulltext/)
+* Code:
+[https://github.com/ropensci/fulltext/](https://github.com/ropensci/fulltext/)
+* Issues/Bug reports:
+[https://github.com/ropensci/fulltext/issues](https://github.com/ropensci/fulltext/issues)
+* CRAN:
+[https://cran.rstudio.com/web/packages/fulltext/](https://cran.rstudio.com/web/packages/fulltext/)
 
 ## [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
 
@@ -91,7 +91,7 @@ Text mining of PubMed Abstracts (text and XML)
 
 ## [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
 
-Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)> and 'PubMed' <[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)>, process the results of those searches and pull data into their R sessions.
+Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)\> and 'PubMed' <[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)\>\, process the results of those searches and pull data into their R sessions\.
 
 ## [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
 
@@ -117,12 +117,12 @@ The`fulltext`package makes it easy to do text-mining by supporting the following
 * Extract text from articles / convert formats
 * Collect bits of articles that you actually need
 * Download supplementary materials from papers
-* Code:\
-  [https://github.com/ropensci/fulltext/](https://github.com/ropensci/fulltext/)
-* Issues/Bug reports:\
-  [https://github.com/ropensci/fulltext/issues](https://github.com/ropensci/fulltext/issues)
-* CRAN:\
-  [https://cran.rstudio.com/web/packages/fulltext/](https://cran.rstudio.com/web/packages/fulltext/)
+* Code:
+[https://github.com/ropensci/fulltext/](https://github.com/ropensci/fulltext/)
+* Issues/Bug reports:
+[https://github.com/ropensci/fulltext/issues](https://github.com/ropensci/fulltext/issues)
+* CRAN:
+[https://cran.rstudio.com/web/packages/fulltext/](https://cran.rstudio.com/web/packages/fulltext/)
 
 ## [RISmed: Download Content from NCBI Databases](https://cran.r-project.org/web/packages/RISmed/index.html)
 
@@ -134,7 +134,7 @@ Text mining of PubMed Abstracts (text and XML)
 
 ## [rentrez: 'Entrez' in R](https://cran.r-project.org/web/packages/rentrez/index.html)
 
-Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)> and 'PubMed' <[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)>, process the results of those searches and pull data into their R sessions.
+Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <[https://www.ncbi.nlm.nih.gov/genbank/](https://www.ncbi.nlm.nih.gov/genbank/)\> and 'PubMed' <[https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/)\>\, process the results of those searches and pull data into their R sessions\.
 
 ## [reutils: Talk to the NCBI EUtils](https://cran.r-project.org/web/packages/reutils/index.html)
 

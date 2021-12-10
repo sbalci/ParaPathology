@@ -10,25 +10,48 @@
         "computer-programs-and-applications": 0,
         "books": 1,
         "courses-and-moocs": 2,
-        "deneme": 3,
-        "deutsche-artikel": 4,
-        "github-repositories": 5,
-        "videos": 6,
-        "web-pages": 7,
-        "yazmayipdabeslesemiydik": 8
+        "deutsche-artikel": 3,
+        "github-repositories": 4,
+        "videos": 5,
+        "web-pages": 6
       }
     },
     "autopsy": {
       "name": "autopsy",
       "isOrdered": true,
       "folders": {},
-      "files": {}
+      "files": {
+        "autopsy": 0,
+        "autopsy-articles": 1
+      }
     },
     "bibliometrics": {
       "name": "bibliometrics",
       "isOrdered": true,
-      "folders": {},
-      "files": {}
+      "folders": {
+        "data-and-tools-for-bibliographic-analysis": {
+          "name": "data-and-tools-for-bibliographic-analysis",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "citnetexplorer": 0,
+            "citespace": 1,
+            "data-and-tools": 2,
+            "r-for-pubmed": 3,
+            "README": 4,
+            "reference-parsing": 5,
+            "sci2tool": 6,
+            "vosviewer": 7
+          }
+        }
+      },
+      "files": {
+        "bibliometrics": 0,
+        "bibliography-impact-factor-and-citations": 1,
+        "freecite": 2,
+        "problems-in-bibliometric-analysis": 3,
+        "research-articles": 4
+      }
     },
     "carcinogenesis-hallmarks-of-cancer": {
       "name": "carcinogenesis-hallmarks-of-cancer",

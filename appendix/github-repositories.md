@@ -39,6 +39,3 @@
 {% embed url="https://github.com/seeranalysis" %}
 
 {% embed url="https://github.com/statisticial-modelling-center" %}
-
-
-

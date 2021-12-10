@@ -28,9 +28,8 @@ Bluesky Statistics
 
 [http://www.rcommander.com/](http://www.rcommander.com)
 
-*   Free statistics software for Macintosh computers (Macs)
-
-    [https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
+* Free statistics software for Macintosh computers (Macs)
+[https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
 * ggplot2 extensions
 
 [http://www.ggplot2-exts.org/gallery/](http://www.ggplot2-exts.org/gallery/)
@@ -47,11 +46,10 @@ Bluesky Statistics
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation\
-  [http://vassarstats.net/](http://vassarstats.net)
-*   Cutoff Finder
-
-    [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
+* VassarStats: Website for Statistical Computation
+[http://vassarstats.net/](http://vassarstats.net)
+* Cutoff Finder
+[http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
 * Plotly
 
 [https://plot.ly/](https://plot.ly)
@@ -74,11 +72,11 @@ Bluesky Statistics
 
 * Google Refine 2.0 - Introduction (1 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J\_H\_zAWM)
+[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J_H_zAWM)
 
 * Google Refine 2.0 - Data Augmentation (3 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL)
+[https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL)
 
 * [https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)
 
@@ -92,28 +90,24 @@ Bluesky Statistics
 * [Weave](http://www.iweave.org)
 * [Datavisual](http://datavisu.al)
 * [Silk](https://www.silk.co)
-*   [Zoomdata](http://www.zoomdata.com)
-
-    (via the cloud platforms)
+* [Zoomdata](http://www.zoomdata.com)
+(via the cloud platforms)
 * [RAW](http://app.raw.densitydesign.org)
 * [Datawrapper](https://datawrapper.de)
 
 **Software**
 
 * [Tableau](http://www.tableau.com)
-*   [SAP Lumira](http://www.sapstore.com/getlumira)
-
-    (including a free Personal Edition version)
-*   [Microsoft Excel](https://products.office.com/excel)
-
-    (or any other spreadsheet that includes charts)
+* [SAP Lumira](http://www.sapstore.com/getlumira)
+(including a free Personal Edition version)
+* [Microsoft Excel](https://products.office.com/excel)
+(or any other spreadsheet that includes charts)
 * [ClearStory](http://www.clearstorydata.com)
 * [BeyondCore](http://beyondcore.com)
 * [Mathematica](http://www.wolfram.com/mathematica/)
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-*   [MatPlotLib](http://matplotlib.org)
-
-    (if you are comfortable programming Python)
+* [MatPlotLib](http://matplotlib.org)
+(if you are comfortable programming Python)
 * [R Programming Language](https://www.r-project.org)
 * [ggplot2](http://ggplot2.org)
 
@@ -156,9 +150,8 @@ Bluesky Statistics
 
 [http://www.rcommander.com/](http://www.rcommander.com)
 
-*   Free statistics software for Macintosh computers (Macs)
-
-    [https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
+* Free statistics software for Macintosh computers (Macs)
+[https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
 * ggplot2 extensions
 
 [http://www.ggplot2-exts.org/gallery/](http://www.ggplot2-exts.org/gallery/)
@@ -175,11 +168,10 @@ Bluesky Statistics
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation\
-  [http://vassarstats.net/](http://vassarstats.net)
-*   Cutoff Finder
-
-    [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
+* VassarStats: Website for Statistical Computation
+[http://vassarstats.net/](http://vassarstats.net)
+* Cutoff Finder
+[http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
 * Plotly
 
 [https://plot.ly/](https://plot.ly)
@@ -202,11 +194,11 @@ Bluesky Statistics
 
 * Google Refine 2.0 - Introduction (1 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J\_H\_zAWM)
+[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J_H_zAWM)
 
 * Google Refine 2.0 - Data Augmentation (3 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL)
+[https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL)
 
 * [https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)
 
@@ -220,28 +212,24 @@ Bluesky Statistics
 * [Weave](http://www.iweave.org)
 * [Datavisual](http://datavisu.al)
 * [Silk](https://www.silk.co)
-*   [Zoomdata](http://www.zoomdata.com)
-
-    (via the cloud platforms)
+* [Zoomdata](http://www.zoomdata.com)
+(via the cloud platforms)
 * [RAW](http://app.raw.densitydesign.org)
 * [Datawrapper](https://datawrapper.de)
 
 **Software**
 
 * [Tableau](http://www.tableau.com)
-*   [SAP Lumira](http://www.sapstore.com/getlumira)
-
-    (including a free Personal Edition version)
-*   [Microsoft Excel](https://products.office.com/excel)
-
-    (or any other spreadsheet that includes charts)
+* [SAP Lumira](http://www.sapstore.com/getlumira)
+(including a free Personal Edition version)
+* [Microsoft Excel](https://products.office.com/excel)
+(or any other spreadsheet that includes charts)
 * [ClearStory](http://www.clearstorydata.com)
 * [BeyondCore](http://beyondcore.com)
 * [Mathematica](http://www.wolfram.com/mathematica/)
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-*   [MatPlotLib](http://matplotlib.org)
-
-    (if you are comfortable programming Python)
+* [MatPlotLib](http://matplotlib.org)
+(if you are comfortable programming Python)
 * [R Programming Language](https://www.r-project.org)
 * [ggplot2](http://ggplot2.org)
 
@@ -274,9 +262,9 @@ Bluesky Statistics
 
 * Sankey diagram
 
-[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b)
+[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah_Meeks/2018-data-visualization-survey-results-26a90856476b)
 
-![](https://cdn-images-1.medium.com/max/1600/1\*oYH7MXOPL3ylWG7Ku\_tAQw.png)
+![](https://cdn-images-1.medium.com/max/1600/1*oYH7MXOPL3ylWG7Ku_tAQw.png)
 
 * THE WORK OF EDWARD TUFTE AND GRAPHICS PRESS
 
@@ -302,9 +290,8 @@ Bluesky Statistics
 
 [http://www.rcommander.com/](http://www.rcommander.com)
 
-*   Free statistics software for Macintosh computers (Macs)
-
-    [https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
+* Free statistics software for Macintosh computers (Macs)
+[https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
 * ggplot2 extensions
 
 [http://www.ggplot2-exts.org/gallery/](http://www.ggplot2-exts.org/gallery/)
@@ -321,11 +308,10 @@ Bluesky Statistics
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation\
-  [http://vassarstats.net/](http://vassarstats.net)
-*   Cutoff Finder
-
-    [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
+* VassarStats: Website for Statistical Computation
+[http://vassarstats.net/](http://vassarstats.net)
+* Cutoff Finder
+[http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
 * Plotly
 
 [https://plot.ly/](https://plot.ly)
@@ -348,11 +334,11 @@ Bluesky Statistics
 
 * Google Refine 2.0 - Introduction (1 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J\_H\_zAWM)
+[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J_H_zAWM)
 
 * Google Refine 2.0 - Data Augmentation (3 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL)
+[https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL)
 
 * [https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)
 
@@ -366,28 +352,24 @@ Bluesky Statistics
 * [Weave](http://www.iweave.org)
 * [Datavisual](http://datavisu.al)
 * [Silk](https://www.silk.co)
-*   [Zoomdata](http://www.zoomdata.com)
-
-    (via the cloud platforms)
+* [Zoomdata](http://www.zoomdata.com)
+(via the cloud platforms)
 * [RAW](http://app.raw.densitydesign.org)
 * [Datawrapper](https://datawrapper.de)
 
 **Software**
 
 * [Tableau](http://www.tableau.com)
-*   [SAP Lumira](http://www.sapstore.com/getlumira)
-
-    (including a free Personal Edition version)
-*   [Microsoft Excel](https://products.office.com/excel)
-
-    (or any other spreadsheet that includes charts)
+* [SAP Lumira](http://www.sapstore.com/getlumira)
+(including a free Personal Edition version)
+* [Microsoft Excel](https://products.office.com/excel)
+(or any other spreadsheet that includes charts)
 * [ClearStory](http://www.clearstorydata.com)
 * [BeyondCore](http://beyondcore.com)
 * [Mathematica](http://www.wolfram.com/mathematica/)
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-*   [MatPlotLib](http://matplotlib.org)
-
-    (if you are comfortable programming Python)
+* [MatPlotLib](http://matplotlib.org)
+(if you are comfortable programming Python)
 * [R Programming Language](https://www.r-project.org)
 * [ggplot2](http://ggplot2.org)
 
@@ -436,9 +418,9 @@ Bluesky Statistics
 
 * Sankey diagram
 
-[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b)
+[https://medium.com/@Elijah\_Meeks/2018-data-visualization-survey-results-26a90856476b](https://medium.com/@Elijah_Meeks/2018-data-visualization-survey-results-26a90856476b)
 
-![](https://cdn-images-1.medium.com/max/1600/1\*oYH7MXOPL3ylWG7Ku\_tAQw.png)
+![](https://cdn-images-1.medium.com/max/1600/1*oYH7MXOPL3ylWG7Ku_tAQw.png)
 
 * THE WORK OF EDWARD TUFTE AND GRAPHICS PRESS
 
@@ -464,9 +446,8 @@ Bluesky Statistics
 
 [http://www.rcommander.com/](http://www.rcommander.com)
 
-*   Free statistics software for Macintosh computers (Macs)
-
-    [https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
+* Free statistics software for Macintosh computers (Macs)
+[https://www.macstats.org/statistics-software/free.html](https://www.macstats.org/statistics-software/free.html)
 * ggplot2 extensions
 
 [http://www.ggplot2-exts.org/gallery/](http://www.ggplot2-exts.org/gallery/)
@@ -483,11 +464,10 @@ Bluesky Statistics
 
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
-* VassarStats: Website for Statistical Computation\
-  [http://vassarstats.net/](http://vassarstats.net)
-*   Cutoff Finder
-
-    [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
+* VassarStats: Website for Statistical Computation
+[http://vassarstats.net/](http://vassarstats.net)
+* Cutoff Finder
+[http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
 * Plotly
 
 [https://plot.ly/](https://plot.ly)
@@ -510,11 +490,11 @@ Bluesky Statistics
 
 * Google Refine 2.0 - Introduction (1 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J\_H\_zAWM)
+[https://www.youtube.com/watch?v=B70J\_H\_zAWM](https://www.youtube.com/watch?v=B70J_H_zAWM)
 
 * Google Refine 2.0 - Data Augmentation (3 of 3) (video version 2)
 
-[https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk\&index=2\&list=WL)
+[https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL](https://www.youtube.com/watch?v=5tsyz3ibYzk&index=2&list=WL)
 
 * [https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources](https://www.coursera.org/learn/datavisualization/supplement/ijZAO/resources)
 
@@ -528,28 +508,24 @@ Bluesky Statistics
 * [Weave](http://www.iweave.org)
 * [Datavisual](http://datavisu.al)
 * [Silk](https://www.silk.co)
-*   [Zoomdata](http://www.zoomdata.com)
-
-    (via the cloud platforms)
+* [Zoomdata](http://www.zoomdata.com)
+(via the cloud platforms)
 * [RAW](http://app.raw.densitydesign.org)
 * [Datawrapper](https://datawrapper.de)
 
 **Software**
 
 * [Tableau](http://www.tableau.com)
-*   [SAP Lumira](http://www.sapstore.com/getlumira)
-
-    (including a free Personal Edition version)
-*   [Microsoft Excel](https://products.office.com/excel)
-
-    (or any other spreadsheet that includes charts)
+* [SAP Lumira](http://www.sapstore.com/getlumira)
+(including a free Personal Edition version)
+* [Microsoft Excel](https://products.office.com/excel)
+(or any other spreadsheet that includes charts)
 * [ClearStory](http://www.clearstorydata.com)
 * [BeyondCore](http://beyondcore.com)
 * [Mathematica](http://www.wolfram.com/mathematica/)
 * [MATLAB](http://www.mathworks.com/products/matlab/)
-*   [MatPlotLib](http://matplotlib.org)
-
-    (if you are comfortable programming Python)
+* [MatPlotLib](http://matplotlib.org)
+(if you are comfortable programming Python)
 * [R Programming Language](https://www.r-project.org)
 * [ggplot2](http://ggplot2.org)
 
