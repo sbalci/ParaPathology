@@ -10,7 +10,5 @@
 
 
 
-{% embed url="https://www.instagram.com/p/CDhK6K8Br3c/?utm\_source=ig\_web\_copy\_link" %}
-
-
+{% embed url="https://www.instagram.com/p/CDhK6K8Br3c/?utm_source=ig_web_copy_link" %}
 

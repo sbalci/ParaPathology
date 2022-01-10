@@ -4,6 +4,7 @@
 
 **Virtual Slides**
 
+* [Virtual Pathology at the University of Leeds](https://www.virtualpathology.leeds.ac.uk/slides/library/)
 * USCAP Virtual Slide Box [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
 * Rosai Collection [http://www.rosaicollection.org/searchcollection.cfm](http://www.rosaicollection.org/searchcollection.cfm)
 * [https://digitalpathologyassociation.org/whole-slide-imaging-repository](https://digitalpathologyassociation.org/whole-slide-imaging-repository)

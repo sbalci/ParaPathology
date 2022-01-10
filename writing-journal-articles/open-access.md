@@ -15,4 +15,3 @@
 ## [We’re Incentivizing Bad Science Current research trends resemble the early 21st century’s financial bubble](https://blogs.scientificamerican.com/observations/were-incentivizing-bad-science/)
 
 [https://blogs.scientificamerican.com/observations/were-incentivizing-bad-science/](https://blogs.scientificamerican.com/observations/were-incentivizing-bad-science/)
-

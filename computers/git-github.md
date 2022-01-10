@@ -2,6 +2,9 @@
 
 ## Git GitHub
 
+* [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+
+
 * Publish blog posts from R + knitr to WordPress
 
 [https://yihui.name/knitr/demo/wordpress/](https://yihui.name/knitr/demo/wordpress/)

@@ -10,9 +10,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=Akedfyp5AxY" %}
 
-#### [lecture\_applied\_bioimage\_analysis\_2020](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020)
+#### [lecture\_applied\_bioimage\_analysis\_2020](https://git.mpi-cbg.de/rhaase/lecture\_applied\_bioimage\_analysis\_2020)
 
-{% embed url="https://git.mpi-cbg.de/rhaase/lecture\_applied\_bioimage\_analysis\_2020" %}
+{% embed url="https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020" %}
 
 
 
@@ -22,27 +22,26 @@
 
 * Grand Challenges in Biomedical Image Analysis
 
-[https://grand-challenge.org/](https://grand-challenge.org/)
+[https://grand-challenge.org/](https://grand-challenge.org)
 
 * Fiji
 
-[https://fiji.sc/](https://fiji.sc/)
+[https://fiji.sc/](https://fiji.sc)
 
 ## Image Analysis
 
 * Grand Challenges in Biomedical Image Analysis
 
-[https://grand-challenge.org/](https://grand-challenge.org/)
+[https://grand-challenge.org/](https://grand-challenge.org)
 
 * Fiji
 
-[https://fiji.sc/](https://fiji.sc/)
+[https://fiji.sc/](https://fiji.sc)
 
 * Grand Challenges in Biomedical Image Analysis
 
-[https://grand-challenge.org/](https://grand-challenge.org/)
+[https://grand-challenge.org/](https://grand-challenge.org)
 
 * Fiji
 
-[https://fiji.sc/](https://fiji.sc/)
-
+[https://fiji.sc/](https://fiji.sc)

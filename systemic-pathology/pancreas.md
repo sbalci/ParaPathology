@@ -1,10 +1,11 @@
 # Pancreas
 
-* * 2016 MSK Alumni Conference - Olca Basturk, MD
+*
+* 2016 MSK Alumni Conference - Olca Basturk, MD
 
 "Intraductal Papillary Mucinous Neoplasm of the Pancreas"
 
-[https://www.youtube.com/watch?v=SczxrGVnnu4&feature=youtu.be](https://www.youtube.com/watch?v=SczxrGVnnu4&feature=youtu.be)
+[https://www.youtube.com/watch?v=SczxrGVnnu4\&feature=youtu.be](https://www.youtube.com/watch?v=SczxrGVnnu4\&feature=youtu.be)
 
 * Ralph Hruban, M.D. explains pancreas cancer
 
@@ -26,7 +27,7 @@
 
 "Intraductal Papillary Mucinous Neoplasm of the Pancreas"
 
-[https://www.youtube.com/watch?v=SczxrGVnnu4&feature=youtu.be](https://www.youtube.com/watch?v=SczxrGVnnu4&feature=youtu.be)
+[https://www.youtube.com/watch?v=SczxrGVnnu4\&feature=youtu.be](https://www.youtube.com/watch?v=SczxrGVnnu4\&feature=youtu.be)
 
 * Ralph Hruban, M.D. explains pancreas cancer
 
@@ -43,4 +44,3 @@
 * Cystic lesions of the pancreas by Dr. Liz Thompson
 
 [https://www.facebook.com/pathCast/videos/634457780230213/](https://www.facebook.com/pathCast/videos/634457780230213/)
-

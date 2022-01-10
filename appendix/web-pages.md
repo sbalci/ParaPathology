@@ -6,45 +6,25 @@ description: 'Appendix : Suggested Web Pages'
 
 {% embed url="http://www.uscap.org/" %}
 
-
-
 {% embed url="http://www.pathologyportal.org/elibraryf.asp" %}
-
-
 
 {% embed url="http://uscapknowledgehub.org/index.htm?hub.htm" %}
 
-
-
 {% embed url="http://uscapknowledgehub.org/newindex.htm?educmaster.htm" %}
-
-
 
 {% embed url="http://uscapknowledgehub.org/newindex.htm?vsbindex.htm" %}
 
-
-
 {% embed url="http://www.rosaicollection.org/" %}
 
-
-
 {% embed url="https://www.pathlms.com/uscap/courses/" %}
-
-
 
 #### Social Media
 
 {% embed url="https://twitter.com/hashtag/insitupathologists" %}
 
-
-
 {% embed url="https://thepathologist.com/" %}
 
-
-
 {% embed url="https://www.derm101.com/" %}
-
-
 
 [http://www.ihcworld.com/index.htm](http://www.ihcworld.com/index.htm)
 
@@ -67,8 +47,6 @@ description: 'Appendix : Suggested Web Pages'
 [http://www.rosaicollection.org/](http://www.rosaicollection.org/)
 
 [https://www.pathlms.com/uscap/courses/](https://www.pathlms.com/uscap/courses/)
-
-
 
 #### Work On
 
@@ -208,9 +186,9 @@ www.rstudio.com/resources/webinars/
 
 [http://mail.yahoo.com/](http://mail.yahoo.com/)
 
-[https://mail.google.com/mail/u/0/\#all](https://mail.google.com/mail/u/0/#all)
+[https://mail.google.com/mail/u/0/#all](https://mail.google.com/mail/u/0/#all)
 
-[https://outlook.live.com/mail/\#/inbox](https://outlook.live.com/mail/#/inbox)
+[https://outlook.live.com/mail/#/inbox](https://outlook.live.com/mail/#/inbox)
 
 [https://inbox.google.com/](https://inbox.google.com/)
 
@@ -334,9 +312,9 @@ www.rstudio.com/resources/webinars/
 
 [http://mail.yahoo.com/](http://mail.yahoo.com/)
 
-[https://mail.google.com/mail/u/0/\#all](https://mail.google.com/mail/u/0/#all)
+[https://mail.google.com/mail/u/0/#all](https://mail.google.com/mail/u/0/#all)
 
-[https://outlook.live.com/mail/\#/inbox](https://outlook.live.com/mail/#/inbox)
+[https://outlook.live.com/mail/#/inbox](https://outlook.live.com/mail/#/inbox)
 
 [https://inbox.google.com/](https://inbox.google.com/)
 
@@ -405,4 +383,3 @@ www.cap.org/web/submenu/calendar/webinars
 www.rstudio.com/resources/webinars/
 
 [https://www.youtube.com/watch?v=6NFyB19D\_fU&feature=youtu.be&t=7m37s](https://www.youtube.com/watch?v=6NFyB19D_fU&feature=youtu.be&t=7m37s)
-

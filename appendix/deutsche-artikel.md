@@ -5,6 +5,3 @@
 {% embed url="https://www.ncbi.nlm.nih.gov/pubmed/?term=31705231" %}
 
 [https://www.ncbi.nlm.nih.gov/pubmed/?term=31705231](https://www.ncbi.nlm.nih.gov/pubmed/?term=31705231)
-
-
-

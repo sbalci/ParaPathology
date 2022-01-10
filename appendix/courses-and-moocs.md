@@ -3,12 +3,10 @@
 ## Courses and MOOCs
 
 * This list contains the MOOCs that I find useful.
-* edX  
-  [https://www.edx.org](https://www.edx.org)
-
-  Introduction to Biology - The Secret of Life  
-  [https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-4](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-4)
-
+* edX
+[https://www.edx.org](https://www.edx.org)
+Introduction to Biology - The Secret of Life
+[https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-4](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-4)
 * OsakaUx MED101x Introduction to Applied Biostatistics Statistics for Medical Research
 * Courses
 
@@ -106,21 +104,21 @@ r-statistics.co
 
 [http://r-statistics.co/](http://r-statistics.co/)
 
-Run bash from R  
+Run bash from R
 [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
 
-knitr in a knutshella minimal tutorial  
+knitr in a knutshella minimal tutorial
 [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
 
-Use other languages in knitr  
+Use other languages in knitr
 [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
 
 Run bash scripts
 
 [https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
 
-Creating Dynamic Documents with RMarkdown and Knitr  
-[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html\#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+Creating Dynamic Documents with RMarkdown and Knitr
+[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
 
 [https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
 
@@ -160,7 +158,7 @@ Creating Dynamic Documents with RMarkdown and Knitr
 
 [https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
 
-[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+\(R+bloggers\)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 
 [https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
 
@@ -224,21 +222,21 @@ r-statistics.co
 
 [http://r-statistics.co/](http://r-statistics.co/)
 
-Run bash from R  
+Run bash from R
 [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
 
-knitr in a knutshella minimal tutorial  
+knitr in a knutshella minimal tutorial
 [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
 
-Use other languages in knitr  
+Use other languages in knitr
 [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
 
 Run bash scripts
 
 [https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
 
-Creating Dynamic Documents with RMarkdown and Knitr  
-[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html\#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+Creating Dynamic Documents with RMarkdown and Knitr
+[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
 
 [https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
 
@@ -278,7 +276,7 @@ Creating Dynamic Documents with RMarkdown and Knitr
 
 [https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
 
-[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+\(R+bloggers\)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 
 [https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
 
@@ -340,21 +338,21 @@ r-statistics.co
 
 [http://r-statistics.co/](http://r-statistics.co/)
 
-Run bash from R  
+Run bash from R
 [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
 
-knitr in a knutshella minimal tutorial  
+knitr in a knutshella minimal tutorial
 [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
 
-Use other languages in knitr  
+Use other languages in knitr
 [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
 
 Run bash scripts
 
 [https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
 
-Creating Dynamic Documents with RMarkdown and Knitr  
-[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html\#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+Creating Dynamic Documents with RMarkdown and Knitr
+[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
 
 [https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
 
@@ -394,7 +392,7 @@ Creating Dynamic Documents with RMarkdown and Knitr
 
 [https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
 
-[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+\(R+bloggers\)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 
 [https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
 
@@ -452,21 +450,21 @@ r-statistics.co
 
 [http://r-statistics.co/](http://r-statistics.co/)
 
-Run bash from R  
+Run bash from R
 [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
 
-knitr in a knutshella minimal tutorial  
+knitr in a knutshella minimal tutorial
 [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
 
-Use other languages in knitr  
+Use other languages in knitr
 [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
 
 Run bash scripts
 
 [https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
 
-Creating Dynamic Documents with RMarkdown and Knitr  
-[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html\#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+Creating Dynamic Documents with RMarkdown and Knitr
+[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
 
 [https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
 
@@ -506,7 +504,7 @@ Creating Dynamic Documents with RMarkdown and Knitr
 
 [https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
 
-[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+\(R+bloggers\)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 
 [https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
 
@@ -564,21 +562,21 @@ r-statistics.co
 
 [http://r-statistics.co/](http://r-statistics.co/)
 
-Run bash from R  
+Run bash from R
 [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
 
-knitr in a knutshella minimal tutorial  
+knitr in a knutshella minimal tutorial
 [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
 
-Use other languages in knitr  
+Use other languages in knitr
 [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
 
 Run bash scripts
 
 [https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
 
-Creating Dynamic Documents with RMarkdown and Knitr  
-[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html\#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+Creating Dynamic Documents with RMarkdown and Knitr
+[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
 
 [https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
 
@@ -618,7 +616,7 @@ Creating Dynamic Documents with RMarkdown and Knitr
 
 [https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
 
-[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+\(R+bloggers\)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 
 [https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
 
@@ -680,21 +678,21 @@ r-statistics.co
 
 [http://r-statistics.co/](http://r-statistics.co/)
 
-Run bash from R  
+Run bash from R
 [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
 
-knitr in a knutshella minimal tutorial  
+knitr in a knutshella minimal tutorial
 [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
 
-Use other languages in knitr  
+Use other languages in knitr
 [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
 
 Run bash scripts
 
 [https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
 
-Creating Dynamic Documents with RMarkdown and Knitr  
-[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html\#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+Creating Dynamic Documents with RMarkdown and Knitr
+[https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
 
 [https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
 
@@ -734,7 +732,7 @@ Creating Dynamic Documents with RMarkdown and Knitr
 
 [https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
 
-[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+\(R+bloggers\)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner&utm\_medium=email&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 
 [https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
 
@@ -785,4 +783,3 @@ R interface to Keras
 * [eR-BioStat](https://er-biostat.github.io/Courses/)
 
 [https://er-biostat.github.io/Courses/abouterbiostat1/](https://er-biostat.github.io/Courses/abouterbiostat1/)
-

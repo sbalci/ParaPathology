@@ -1,0 +1,298 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "appendix": {
+      "name": "appendix",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "computer-programs-and-applications": 0,
+        "books": 1,
+        "courses-and-moocs": 2,
+        "deutsche-artikel": 3,
+        "github-repositories": 4,
+        "videos": 5,
+        "web-pages": 6
+      }
+    },
+    "autopsy": {
+      "name": "autopsy",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "autopsy": 0,
+        "autopsy-articles": 1
+      }
+    },
+    "bibliometrics": {
+      "name": "bibliometrics",
+      "isOrdered": true,
+      "folders": {
+        "data-and-tools-for-bibliographic-analysis": {
+          "name": "data-and-tools-for-bibliographic-analysis",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "citnetexplorer": 0,
+            "citespace": 1,
+            "data-and-tools": 2,
+            "r-for-pubmed": 3,
+            "README": 4,
+            "reference-parsing": 5,
+            "sci2tool": 6,
+            "vosviewer": 7
+          }
+        }
+      },
+      "files": {
+        "bibliometrics": 0,
+        "bibliography-impact-factor-and-citations": 1,
+        "freecite": 2,
+        "problems-in-bibliometric-analysis": 3,
+        "research-articles": 4
+      }
+    },
+    "carcinogenesis-hallmarks-of-cancer": {
+      "name": "carcinogenesis-hallmarks-of-cancer",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "computational-digital-and-mathematical-pathology": {
+      "name": "computational-digital-and-mathematical-pathology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "computers": {
+      "name": "computers",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "databases-and-pathology": {
+      "name": "databases-and-pathology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "games": {
+      "name": "games",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "guidelines": {
+      "name": "guidelines",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "introduction": {
+      "name": "introduction",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "laboratory-management": {
+      "name": "laboratory-management",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "macroscopy": {
+      "name": "macroscopy",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "medical-school-lectures": {
+      "name": "medical-school-lectures",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "Neoplazinin-Klinikopatolojik-Ozellikleri-ve-Epidemiyoloji": {
+      "name": "Neoplazinin-Klinikopatolojik-Ozellikleri-ve-Epidemiyoloji",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "pathology-and-other-departments": {
+      "name": "pathology-and-other-departments",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "endoscopy-and-pathology": 0,
+        "comperative-pathology": 1,
+        "epidemiology-and-pathology": 2,
+        "genetics-and-pathology": 3,
+        "inadequate-specimen-or-pathologist-or-laboratory": 4,
+        "oncology-and-pathology": 5,
+        "pathology-and-other-departments": 6,
+        "radiology-and-pathology": 7,
+        "research-collaboration": 8,
+        "rotations-of-residents-to-pathology-from-other-departments": 9,
+        "surgery-and-pathology": 10,
+        "turnaround-time": 11
+      }
+    },
+    "pathology-and-social-media-1": {
+      "name": "pathology-and-social-media-1",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "pathology-and-social-media": 0
+      }
+    },
+    "pathology-and-social-media": {
+      "name": "pathology-and-social-media",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "pathology-and-social-media": 0
+      }
+    },
+    "pathology-meetings": {
+      "name": "pathology-meetings",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "pathology-meetings": 0,
+        "organization-of-meetings": 1
+      }
+    },
+    "pathology-residents-and-pathologists": {
+      "name": "pathology-residents-and-pathologists",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "pathology-tweets-1": {
+      "name": "pathology-tweets-1",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "pathology-tweets": {
+      "name": "pathology-tweets",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "pathophysiology": {
+      "name": "pathophysiology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "patients-and-pathology": {
+      "name": "patients-and-pathology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "presentations": {
+      "name": "presentations",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "R": {
+      "name": "R",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "science": {
+      "name": "science",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "stains": {
+      "name": "stains",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "statistics-and-bioinformatics": {
+      "name": "statistics-and-bioinformatics",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "statistics-bioinformatics-and-pathology": {
+      "name": "statistics-bioinformatics-and-pathology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "systemic-pathology": {
+      "name": "systemic-pathology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "taxonomy-and-classification-of-diseases": {
+      "name": "taxonomy-and-classification-of-diseases",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "treatment-and-pathology": {
+      "name": "treatment-and-pathology",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "writing-journal-articles": {
+      "name": "writing-journal-articles",
+      "isOrdered": true,
+      "folders": {
+        "bibliography": {
+          "name": "bibliography",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "README": 0,
+            "endnote": 1
+          }
+        }
+      },
+      "files": {
+        "citation": 0,
+        "authorship": 1,
+        "citavi": 2,
+        "figures-and-images": 3,
+        "finding-relevant-articles": 4,
+        "irb": 5,
+        "open-access": 6,
+        "plagiarism": 7,
+        "platform-oral-presentation": 8,
+        "publishing-general": 9,
+        "rephrasing-and-synonyms": 10,
+        "reproducibility": 11,
+        "research-planning": 12,
+        "research-quality": 13,
+        "review": 14,
+        "selecting-a-journal": 15,
+        "text-editing": 16,
+        "visual-abstracts": 17,
+        "writing-journal-articles-1": 18,
+        "writing-journal-articles": 19
+      }
+    }
+  },
+  "files": {
+    "SUMMARY": 0,
+    "README": 1
+  }
+}
