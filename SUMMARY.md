@@ -69,6 +69,7 @@
   * [Approach to Liver Biopsies](systemic-pathology/liver-pathology/approach-to-liver-biopsies.md)
   * [Hepatitis C](systemic-pathology/liver-pathology/hepatitis-c.md)
 * [Pancreas](systemic-pathology/pancreas.md)
+* [Gallbladder](systemic-pathology/gallbladder.md)
 * [Lung](systemic-pathology/lung.md)
 * [Medical Kidney](systemic-pathology/medical-kidney.md)
 * [Unnecessary Thyroid FNAC](systemic-pathology/unnecessary-thyroid-fnac.md)
@@ -398,14 +399,14 @@
 * [Web Pages](appendix/web-pages.md)
 * [Videos](appendix/videos.md)
 * [GitHub Repositories](appendix/github-repositories.md)
-* [Yazmayıp da beslese miydik](appendix/yazmayipdabeslesemiydik.md)
+* [Yazmayıp da beslese miydik](appendix/yazmayip-da-beslese-miydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 
-## Pathology and Social Media <a href="pathology-and-social-media-1" id="pathology-and-social-media-1"></a>
+## Pathology and Social Media <a href="#pathology-and-social-media-1" id="pathology-and-social-media-1"></a>
 
 * [Pathology and Social Media](pathology-and-social-media-1/pathology-and-social-media.md)
 
-## Pathology Tweets <a href="pathology-tweets-1" id="pathology-tweets-1"></a>
+## Pathology Tweets <a href="#pathology-tweets-1" id="pathology-tweets-1"></a>
 
 * [Pathology Tweets](pathology-tweets-1/pathology-tweets/README.md)
   * [Pathology Tweets](pathology-tweets-1/pathology-tweets/pathology-tweets.md)
