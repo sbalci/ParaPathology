@@ -84,6 +84,7 @@
 * [Gynecological Pathology](systemic-pathology/gynecological-pathology/README.md)
   * [Approach to Endometrial Biopsies](systemic-pathology/gynecological-pathology/approach-to-endometrial-biopsies.md)
   * [Immunohistochemistry in Gynecological Pathology](systemic-pathology/gynecological-pathology/immunohistochemistry-in-gynecological-pathology.md)
+* [Organ Independent Pathology](systemic-pathology/organ-independent-pathology.md)
 
 ## Pathology Residents & Pathologists
 
