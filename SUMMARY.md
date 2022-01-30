@@ -55,6 +55,7 @@
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
+  * [Polyps](systemic-pathology/gastrointestinal-pathology/polyps.md)
   * [Colon and Rectum](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md)
     * [Colon Colorectal Carcinoma](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/colon-colorectal-carcinoma.md)
     * [Malignant Colorectal Polyps](systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md)
