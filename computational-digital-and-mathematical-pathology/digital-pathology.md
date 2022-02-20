@@ -1,5 +1,11 @@
 # Digital Pathology
 
+#### [5 Ways to Make Histopathology Image Models More Robust to Domain Shifts: Exploring a variety of approaches: stain normalization, color augmentation, adversarial domain adaptation, model adaptation, and finetuning](https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html)
+
+
+{% embed url="https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html" caption="" %}
+
+
 #### **Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis**
 
 [**https://www.youtube.com/watch?v=7pRmonus9iM**](https://www.youtube.com/watch?v=7pRmonus9iM)
