@@ -32,4 +32,8 @@
 
 [https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-calculators.html](https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-calculators.html)
 
-* 
+* True Random Integer Generator
+
+Haahr M. True Random Integer Generator. RANDOM.ORG True Random Number Service. 2021
+
+[https://www.random.org/](https://www.random.org/)
