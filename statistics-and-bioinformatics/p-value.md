@@ -24,7 +24,7 @@
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (1) (1).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -45,7 +45,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](<../.gitbook/assets/p-degeri-hacettepe (3) (1).jpg>)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (2).jpg>)
 
 [http://www.nicebread.de/](http://www.nicebread.de)
 
@@ -84,7 +84,7 @@ The “80% power” lie
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (1) (2).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -105,7 +105,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](<../.gitbook/assets/p-degeri-hacettepe (3) (2).jpg>)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (1) (1).jpg>)
 
 * Big names in statistics want to shake up much-maligned P value
 
@@ -129,7 +129,7 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (1) (3).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -150,7 +150,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](<../.gitbook/assets/p-degeri-hacettepe (3) (3).jpg>)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (1) (2).jpg>)
 
 [http://www.nicebread.de/](http://www.nicebread.de)
 
@@ -189,7 +189,7 @@ The “80% power” lie
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (1) (4).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -210,7 +210,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](<../.gitbook/assets/p-degeri-hacettepe (3) (4).jpg>)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (1) (3).jpg>)
 
 ## P Value
 
@@ -236,7 +236,7 @@ Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel litera
 
 * "Şuna bir p değeri attırıversen" diyeni duymuştum da bunu ilk kez duyuyorum:
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-31-11.53.15 (4) (4) (4) (1).png>)
 
 [https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377](https://www.linkedin.com/feed/update/urn:li:activity:6381174203160293377)
 
@@ -257,7 +257,7 @@ Güncelleme 4: 2015 yılında Basic and Applied Social Psychology  dergisi yayı
 Görüldüğü gibi p değerinin kullanımı ve kullanım şekli bilimsel literatürde hala sıcak bir tartışma konusu. Bu nedenle, (her konuda olduğu gibi) güncel bilimsel literatür dikkatle takip edilmeli. Bilimde herşeye şüpheyle yaklaşılması gerektiği gibi bu konuya da şüpheyle yaklaşılmalı ve istatistikte her zaman yapılması gerektiği gibi p değeri de dikkatli kullanılmalı ve yorumlanmalıdır.
 ```
 
-![](<../.gitbook/assets/p-degeri-hacettepe (3).jpg>)
+![](<../.gitbook/assets/p-degeri-hacettepe (3) (1).jpg>)
 
 [http://www.nicebread.de/](http://www.nicebread.de)
 

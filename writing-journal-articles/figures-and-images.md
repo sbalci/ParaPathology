@@ -10,12 +10,11 @@
 
 * **Ten Simple Rules for Better Figures**
 
-[**Ten Simple Rules for Better Figures**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
+[**Ten Simple Rules for Better Figures**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
 * augmented reality
 
-[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister_Crow/status/933000138552901632)
+[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister\_Crow/status/933000138552901632)
 
 * For science illustration
 
@@ -23,12 +22,11 @@ Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. 
 
 * **Ten Simple Rules for Better Figures**
 
-[**Ten Simple Rules for Better Figures**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
+[**Ten Simple Rules for Better Figures**](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
 * Interesting Figures
 
-![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20(2)%20(2)%20(2)%20(2)%20(2).png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1) (2).png>)
 
 * For science illustration
 
@@ -36,17 +34,17 @@ Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. 
 
 *
 
-[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister_Crow/status/933000138552901632)
+[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister\_Crow/status/933000138552901632)
 
 * Interesting Figures
 
-![](../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34%20(2)%20(2)%20(2)%20(2).png)
+![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1).png>)
 
 * For science illustration
 
 [https://biorender.io/](https://biorender.io)
 
-* 
+*
 * The Free Diagnostic Pathology Software Project
 
 [http://www.filemaker.com/solutions/customers/stories/free-diagnostic-pathology-software-project.html](http://www.filemaker.com/solutions/customers/stories/free-diagnostic-pathology-software-project.html)

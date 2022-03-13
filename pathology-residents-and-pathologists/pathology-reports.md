@@ -46,7 +46,7 @@
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (2) (1).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -122,7 +122,7 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (2) (2).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (2).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -200,7 +200,7 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (2).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 

@@ -37,29 +37,29 @@
 
 Bunun için Death Watch eklentisini yüklemek lazım:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (1) (1).png>)
 
 Daha sonra menüden sağkalım analizini seçip:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (1) (1).png>)
 
 İlgili yerleri doldurmak lazım. Event kısmına sağkalım durumu yazılmalı, event level'da ise ölüm durumu seçilmeli. Time elapsed geçen süreyi gösteriyor. Group seçilirse bu gruplara göre karşılaştırmalı eğriler elde edilebilir.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (1) (1).png>)
 
 Verilerin türlerine dikkat etmek lazım. Nominal, ordinal ve sürekli değişkenler uygun şekilde düzenlenmiş olmalıdır.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (1).png>)
 
 Sağkalım analizinin tanımlayıcı istatistikleri ve ikili karşılaştırmalar:
 
 Veriler değiştirilmiştir :)
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (1) (1).png>)
 
 Sağkalım eğrisi istenirse güven aralıklı olarak da çizdirilebiliyor:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (1).png>)
 
 Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün:
 
@@ -124,29 +124,29 @@ Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün
 
 Bunun için Death Watch eklentisini yüklemek lazım:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (1) (2).png>)
 
 Daha sonra menüden sağkalım analizini seçip:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (1) (2).png>)
 
 İlgili yerleri doldurmak lazım. Event kısmına sağkalım durumu yazılmalı, event level'da ise ölüm durumu seçilmeli. Time elapsed geçen süreyi gösteriyor. Group seçilirse bu gruplara göre karşılaştırmalı eğriler elde edilebilir.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (1) (2).png>)
 
 Verilerin türlerine dikkat etmek lazım. Nominal, ordinal ve sürekli değişkenler uygun şekilde düzenlenmiş olmalıdır.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (1) (2).png>)
 
 Sağkalım analizinin tanımlayıcı istatistikleri ve ikili karşılaştırmalar:
 
 Veriler değiştirilmiştir :)
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (1) (2).png>)
 
 Sağkalım eğrisi istenirse güven aralıklı olarak da çizdirilebiliyor:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (1) (2).png>)
 
 Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün:
 
@@ -211,29 +211,29 @@ Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün
 
 Bunun için Death Watch eklentisini yüklemek lazım:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (1) (3).png>)
 
 Daha sonra menüden sağkalım analizini seçip:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (1) (3).png>)
 
 İlgili yerleri doldurmak lazım. Event kısmına sağkalım durumu yazılmalı, event level'da ise ölüm durumu seçilmeli. Time elapsed geçen süreyi gösteriyor. Group seçilirse bu gruplara göre karşılaştırmalı eğriler elde edilebilir.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (1) (3).png>)
 
 Verilerin türlerine dikkat etmek lazım. Nominal, ordinal ve sürekli değişkenler uygun şekilde düzenlenmiş olmalıdır.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (1) (3).png>)
 
 Sağkalım analizinin tanımlayıcı istatistikleri ve ikili karşılaştırmalar:
 
 Veriler değiştirilmiştir :)
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (1) (3).png>)
 
 Sağkalım eğrisi istenirse güven aralıklı olarak da çizdirilebiliyor:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (1) (3).png>)
 
 Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün:
 
@@ -298,29 +298,29 @@ Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün
 
 Bunun için Death Watch eklentisini yüklemek lazım:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (1) (4).png>)
 
 Daha sonra menüden sağkalım analizini seçip:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (1) (4).png>)
 
 İlgili yerleri doldurmak lazım. Event kısmına sağkalım durumu yazılmalı, event level'da ise ölüm durumu seçilmeli. Time elapsed geçen süreyi gösteriyor. Group seçilirse bu gruplara göre karşılaştırmalı eğriler elde edilebilir.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (1) (4).png>)
 
 Verilerin türlerine dikkat etmek lazım. Nominal, ordinal ve sürekli değişkenler uygun şekilde düzenlenmiş olmalıdır.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (1) (4).png>)
 
 Sağkalım analizinin tanımlayıcı istatistikleri ve ikili karşılaştırmalar:
 
 Veriler değiştirilmiştir :)
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (1) (4).png>)
 
 Sağkalım eğrisi istenirse güven aralıklı olarak da çizdirilebiliyor:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (1) (4).png>)
 
 Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün:
 
@@ -387,29 +387,29 @@ Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün
 
 Bunun için Death Watch eklentisini yüklemek lazım:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.11 (4) (4) (4) (1) (1).png>)
 
 Daha sonra menüden sağkalım analizini seçip:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-15.41.22 (4) (4) (4) (1) (1).png>)
 
 İlgili yerleri doldurmak lazım. Event kısmına sağkalım durumu yazılmalı, event level'da ise ölüm durumu seçilmeli. Time elapsed geçen süreyi gösteriyor. Group seçilirse bu gruplara göre karşılaştırmalı eğriler elde edilebilir.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.30.06 (4) (4) (4) (1) (1).png>)
 
 Verilerin türlerine dikkat etmek lazım. Nominal, ordinal ve sürekli değişkenler uygun şekilde düzenlenmiş olmalıdır.
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-21.35.23 (4) (4) (4) (1) (1).png>)
 
 Sağkalım analizinin tanımlayıcı istatistikleri ve ikili karşılaştırmalar:
 
 Veriler değiştirilmiştir :)
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.08 (4) (4) (4) (1) (1).png>)
 
 Sağkalım eğrisi istenirse güven aralıklı olarak da çizdirilebiliyor:
 
-![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-02-12-20.36.16 (4) (4) (4) (1) (1).png>)
 
 Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün:
 

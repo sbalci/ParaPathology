@@ -12,7 +12,7 @@
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing  _\
+_Online, wrapping text is missing_  \
 __
 
 * **highlight-package {highlight}**
@@ -84,7 +84,7 @@ _Useful for Rmd files_
 
 [http://markup.su/highlighter/](http://markup.su/highlighter/)
 
-_Online, wrapping text is missing  _\
+_Online, wrapping text is missing_  \
 __
 
 * **highlight-package {highlight}**
