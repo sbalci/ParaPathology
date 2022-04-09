@@ -56,9 +56,9 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (2) (1).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (2).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1).jpg>)
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
@@ -91,15 +91,15 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [http://globocan.iarc.fr/Default.aspx](http://globocan.iarc.fr/Default.aspx)
 
-* ** The Breast Cancer Risk Assessment Tool**
+* &#x20;**The Breast Cancer Risk Assessment Tool**
 
 [https://www.cancer.gov/bcrisktool/Default.aspx](https://www.cancer.gov/bcrisktool/Default.aspx)
 
-* **Cancer System Performance Report **
+* **Cancer System Performance Report**&#x20;
 
 [http://www.systemperformance.ca/](http://www.systemperformance.ca)
 
-* **California Cancer Registry **
+* **California Cancer Registry**&#x20;
 
 [http://www.ccrcal.org/](http://www.ccrcal.org)
 
@@ -111,11 +111,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (2) (2).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (2).png>)
 
 *
 
-![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (2) (2).jpg>)
+![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2).jpg>)
 
 ## Epidemiology and Pathology
 
@@ -171,6 +171,6 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (2) (1).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (2) (1).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1).jpg>)

@@ -1,6 +1,8 @@
 # Pancreas
 
-*
+* [https://www.pancreapedia.org/reviews/anatomy-and-histology-of-pancreas](https://www.pancreapedia.org/reviews/anatomy-and-histology-of-pancreas)
+* Longnecker, Daniel S. 2021. Anatomy and Histology of the Pancreas.\
+  [_Pancreapedia: Exocrine Pancreas Knowledge Base_](http://www.pancreapedia.org), DOI: [10.3998/panc.2021.01](http://dx.doi.org/10.3998/panc.2021.01)
 * 2016 MSK Alumni Conference - Olca Basturk, MD
 
 "Intraductal Papillary Mucinous Neoplasm of the Pancreas"
