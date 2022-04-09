@@ -25,3 +25,8 @@ Harada, Shuko MD; Morlote, Diana MD[Author Information ](https://journals.lww.co
 ## Lynch syndrome screening in colorectal cancer: results of a prospective 2-year regional programme validating the NICE diagnostics guidance pathway throughout a 5.2-million population
 
 [Lynch syndrome screening in colorectal cancer: results of a prospective 2-year regional programme validating the NICE diagnostics guidance pathway throughout a 5.2-million population](https://onlinelibrary.wiley.com/doi/10.1111/his.14390/full)
+
+
+Comprehensive clinicopathologic, molecular, and immunologic characterization of colorectal carcinomas with loss of three intestinal markers, CDX2, SATB2, and KRT20
+
+https://link.springer.com/article/10.1007/s00428-021-03260-w
