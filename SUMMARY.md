@@ -6,7 +6,8 @@
 
 * [Introduction](introduction/introduction.md)
 * [GitBook Manual](https://docs.gitbook.com)
-* [Patoloji Notlari](http://www.patolojinotlari.com)
+* [Patoloji Notları](http://www.patolojinotlari.com)
+* [Patoloji Atlası](https://www.patolojiatlasi.com)
 * [Edit Here](introduction/edit-here.md)
 * [Pathology Pages](introduction/pathology-pages.md)
 
