@@ -8,7 +8,7 @@
 
 * I like Jamovi R syntax mode. But I could not find percentages in descriptive stats.
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (4) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (1) (1).png>)
 
 * jamovi for R: Easy but Controversial
 
@@ -16,7 +16,7 @@
 
 * I like Jamovi R syntax mode. But I could not find percentages in descriptive stats.
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (4) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (1) (2).png>)
 
 * jamovi for R: Easy but Controversial
 
@@ -24,7 +24,7 @@
 
 * I like Jamovi R syntax mode. But I could not find percentages in descriptive stats.
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (4) (3).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (1) (3).png>)
 
 * jamovi for R: Easy but Controversial
 
@@ -32,7 +32,7 @@
 
 * I like Jamovi R syntax mode. But I could not find percentages in descriptive stats.
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (1) (4).png>)
 
 ## Jamovi
 
@@ -42,4 +42,4 @@
 
 * I like Jamovi R syntax mode. But I could not find percentages in descriptive stats.
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (4).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-06-14.58.43 (4) (4) (4) (1).png>)

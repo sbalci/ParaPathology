@@ -6,7 +6,8 @@
 
 * [Introduction](introduction/introduction.md)
 * [GitBook Manual](https://docs.gitbook.com)
-* [Patoloji Notlari](http://www.patolojinotlari.com)
+* [Patoloji Notları](http://www.patolojinotlari.com)
+* [Patoloji Atlası](https://www.patolojiatlasi.com)
 * [Edit Here](introduction/edit-here.md)
 * [Pathology Pages](introduction/pathology-pages.md)
 
@@ -79,6 +80,8 @@
 * [Thymus](systemic-pathology/thymus.md)
 * [Breast Pathology](systemic-pathology/breast-pathology.md)
 * [Transplantation Pathology](systemic-pathology/transplantation-pathology.md)
+* [Immune System](systemic-pathology/immune-system.md)
+* [Adrenal](systemic-pathology/adrenal.md)
 * [Uropathology](systemic-pathology/uropathology/README.md)
   * [Prostate Pathology](systemic-pathology/uropathology/prostate-pathology.md)
 * [Soft Tissue](systemic-pathology/soft-tissue.md)

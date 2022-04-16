@@ -18,7 +18,6 @@ The notes may be used by medical school students, pathology residents or patholo
 
 I plan to write many of the notes in English (but some may be Turkish or German as well.)
 
-
 You may also comment on paragraphs on this page or make edit suggestions (fork) via GitHub.
 
 _Serdar Balcı, MD, Pathologist_
@@ -39,4 +38,14 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com) for main web pag
 
 [https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for `Bibliographic Studies`.
 
-I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently,
+I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently.
+
+
+
+
+
+
+
+
+
+{% embed url="https://leanpub.com/patolojiatlasi" %}
