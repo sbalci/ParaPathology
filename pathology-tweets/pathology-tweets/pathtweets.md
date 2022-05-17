@@ -11,4 +11,4 @@
   \
 
 
-These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate. See other pages here: [https://serdarbalci.netlify.app/#PathTweets](https://serdarbalci.netlify.app/#PathTweets) See selected social media based textbook project here: [http://www.patolojinotlari.com/](http://www.patolojinotlari.com)
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate. See other pages here: [https://serdarbalci.netlify.app/#PathTweets](https://serdarbalci.netlify.app/#PathTweets) See selected social media based textbook project here: [http://www.patolojinotlari.com/](http://www.patolojinotlari.com/)

@@ -8,23 +8,23 @@
 
 * Centre for Science and Technology Studies
 
-[https://www.cwts.nl/](https://www.cwts.nl)
+[https://www.cwts.nl/](https://www.cwts.nl/)
 
-[http://www.cwtsbv.nl/](http://www.cwtsbv.nl)
+[http://www.cwtsbv.nl/](http://www.cwtsbv.nl/)
 
 * VOSviewer
 
 [https://www.youtube.com/watch?time\_continue=23\&v=9dTWkNRxUtw](https://www.youtube.com/watch?time\_continue=23\&v=9dTWkNRxUtw)
 
-[http://www.vosviewer.com/](http://www.vosviewer.com)
+[http://www.vosviewer.com/](http://www.vosviewer.com/)
 
 * CWTS Leiden Ranking
 
-[http://www.leidenranking.com/](http://www.leidenranking.com)
+[http://www.leidenranking.com/](http://www.leidenranking.com/)
 
 * CWTS Journal Indicators
 
-[http://www.journalindicators.com/](http://www.journalindicators.com)
+[http://www.journalindicators.com/](http://www.journalindicators.com/)
 
 * Software survey: VOSviewer, a computer program for bibliometric mapping
 
@@ -59,23 +59,23 @@
 *
 * Centre for Science and Technology Studies
 
-[https://www.cwts.nl/](https://www.cwts.nl)
+[https://www.cwts.nl/](https://www.cwts.nl/)
 
-[http://www.cwtsbv.nl/](http://www.cwtsbv.nl)
+[http://www.cwtsbv.nl/](http://www.cwtsbv.nl/)
 
 * VOSviewer
 
 [https://www.youtube.com/watch?time\_continue=23\&v=9dTWkNRxUtw](https://www.youtube.com/watch?time\_continue=23\&v=9dTWkNRxUtw)
 
-[http://www.vosviewer.com/](http://www.vosviewer.com)
+[http://www.vosviewer.com/](http://www.vosviewer.com/)
 
 * CWTS Leiden Ranking
 
-[http://www.leidenranking.com/](http://www.leidenranking.com)
+[http://www.leidenranking.com/](http://www.leidenranking.com/)
 
 * CWTS Journal Indicators
 
-[http://www.journalindicators.com/](http://www.journalindicators.com)
+[http://www.journalindicators.com/](http://www.journalindicators.com/)
 
 * Software survey: VOSviewer, a computer program for bibliometric mapping
 
@@ -110,23 +110,23 @@
 *
 * Centre for Science and Technology Studies
 
-[https://www.cwts.nl/](https://www.cwts.nl)
+[https://www.cwts.nl/](https://www.cwts.nl/)
 
-[http://www.cwtsbv.nl/](http://www.cwtsbv.nl)
+[http://www.cwtsbv.nl/](http://www.cwtsbv.nl/)
 
 * VOSviewer
 
 [https://www.youtube.com/watch?time\_continue=23\&v=9dTWkNRxUtw](https://www.youtube.com/watch?time\_continue=23\&v=9dTWkNRxUtw)
 
-[http://www.vosviewer.com/](http://www.vosviewer.com)
+[http://www.vosviewer.com/](http://www.vosviewer.com/)
 
 * CWTS Leiden Ranking
 
-[http://www.leidenranking.com/](http://www.leidenranking.com)
+[http://www.leidenranking.com/](http://www.leidenranking.com/)
 
 * CWTS Journal Indicators
 
-[http://www.journalindicators.com/](http://www.journalindicators.com)
+[http://www.journalindicators.com/](http://www.journalindicators.com/)
 
 * Software survey: VOSviewer, a computer program for bibliometric mapping
 

@@ -107,7 +107,7 @@ References:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org)
+3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 Last updated:01.05.2015
 
@@ -172,7 +172,7 @@ References:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org)
+3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 ## Pathologist
 
@@ -210,7 +210,7 @@ References:
 
 #### University of Pittsburgh Pathology Conference
 
-[http://pathologyconference.upmc.edu/](http://pathologyconference.upmc.edu)
+[http://pathologyconference.upmc.edu/](http://pathologyconference.upmc.edu/)
 
 #### Washington University in St. Louis Nephrology Web Series
 

@@ -2,9 +2,9 @@
 
 ## Web sites of Pathologists
 
-[http://www.pathologystudent.com/](http://www.pathologystudent.com)
+[http://www.pathologystudent.com/](http://www.pathologystudent.com/)
 
-[http://www.pathologystudent.com/](http://www.pathologystudent.com)
+[http://www.pathologystudent.com/](http://www.pathologystudent.com/)
 
 * **Ed Uthman's home page**
 

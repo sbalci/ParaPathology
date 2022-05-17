@@ -18,18 +18,18 @@
 
 * **CiteScore metrics from Scopus**
 
-[https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com)
+[https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com/)
 
 * **Semantic Scholar**
 
-[https://www.semanticscholar.org/](https://www.semanticscholar.org)
+[https://www.semanticscholar.org/](https://www.semanticscholar.org/)
 
 * **Google Scholar**
 * **Research Gate**
 * **EndNote**
 * **colwiz**
 
-[https://www.colwiz.com/](https://www.colwiz.com)
+[https://www.colwiz.com/](https://www.colwiz.com/)
 
 * **Publish or Perish**
 
@@ -105,7 +105,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * CWTS Journal Indicators
 
-[http://www.journalindicators.com/](http://www.journalindicators.com)
+[http://www.journalindicators.com/](http://www.journalindicators.com/)
 
 [http://www.journalindicators.com/indicators](http://www.journalindicators.com/indicators)
 
@@ -119,7 +119,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * The Leiden Manifesto for Research Metrics
 
-[http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org)
+[http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org/)
 
 [https://vimeo.com/133683418](https://vimeo.com/133683418)
 
@@ -137,7 +137,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * The science that’s never been cited: Nature investigates how many papers really end up without a single citation.
 
-[https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?sf176431210=1)
+[https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1)
 
 * Scholar Profili eksik olanlara öneriler
 
@@ -145,7 +145,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * Webometric Analyst 2.0
 
-[http://lexiurl.wlv.ac.uk/](http://lexiurl.wlv.ac.uk)
+[http://lexiurl.wlv.ac.uk/](http://lexiurl.wlv.ac.uk/)
 
 * Medical Journals: A Sluggish Form of Twitter?
 

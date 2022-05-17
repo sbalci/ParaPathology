@@ -31,7 +31,7 @@
 
 * **Handbook of Practical Immunohistochemistry Frequently Asked Questions**
 
-[https://www.ihcfaq.com/](https://www.ihcfaq.com)
+[https://www.ihcfaq.com/](https://www.ihcfaq.com/)
 
 [http://www.springer.com/us/book/9781493915774](http://www.springer.com/us/book/9781493915774)
 
@@ -54,7 +54,7 @@ WHAT DO THE TERMS SENSITIVITY AND SPECIFICITY MEAN IN THE CONTEXT OF IHC?
     [https://doi.org/10.5858/arpa.2017-0084-ED](https://doi.org/10.5858/arpa.2017-0084-ED)
 * **Evolution of Quality Assurance for Clinical Immunohistochemistry in the Era of Precision Medicine: Part 1: Fit-for-Purpose Approach to Classification of Clinical Immunohistochemistry Biomarkers.**
 
-[Appl Immunohistochem Mol Morphol.](https://www.ncbi.nlm.nih.gov/pubmed/27922482#) 2017 Jan;25(1):4-11. PMID: 27922482 DOI: [10.1097/PAI.0000000000000451](https://doi.org/10.1097/PAI.0000000000000451) [https://www.ncbi.nlm.nih.gov/pubmed/27922482](https://www.ncbi.nlm.nih.gov/pubmed/27922482)
+[Appl Immunohistochem Mol Morphol.](https://www.ncbi.nlm.nih.gov/pubmed/27922482) 2017 Jan;25(1):4-11. PMID: 27922482 DOI: [10.1097/PAI.0000000000000451](https://doi.org/10.1097/PAI.0000000000000451) [https://www.ncbi.nlm.nih.gov/pubmed/27922482](https://www.ncbi.nlm.nih.gov/pubmed/27922482)
 
 * **immunoratio**
 * **qupath**
@@ -75,7 +75,7 @@ WHAT DO THE TERMS SENSITIVITY AND SPECIFICITY MEAN IN THE CONTEXT OF IHC?
 
 * **Handbook of Practical Immunohistochemistry Frequently Asked Questions**
 
-[https://www.ihcfaq.com/](https://www.ihcfaq.com)
+[https://www.ihcfaq.com/](https://www.ihcfaq.com/)
 
 [http://www.springer.com/us/book/9781493915774](http://www.springer.com/us/book/9781493915774)
 
@@ -101,7 +101,7 @@ WHAT DO THE TERMS SENSITIVITY AND SPECIFICITY MEAN IN THE CONTEXT OF IHC?
 
 * **Evolution of Quality Assurance for Clinical Immunohistochemistry in the Era of Precision Medicine: Part 1: Fit-for-Purpose Approach to Classification of Clinical Immunohistochemistry Biomarkers.**
 
-[Appl Immunohistochem Mol Morphol.](https://www.ncbi.nlm.nih.gov/pubmed/27922482#) 2017 Jan;25(1):4-11. PMID: 27922482 DOI: [10.1097/PAI.0000000000000451](https://doi.org/10.1097/PAI.0000000000000451) [https://www.ncbi.nlm.nih.gov/pubmed/27922482](https://www.ncbi.nlm.nih.gov/pubmed/27922482)
+[Appl Immunohistochem Mol Morphol.](https://www.ncbi.nlm.nih.gov/pubmed/27922482) 2017 Jan;25(1):4-11. PMID: 27922482 DOI: [10.1097/PAI.0000000000000451](https://doi.org/10.1097/PAI.0000000000000451) [https://www.ncbi.nlm.nih.gov/pubmed/27922482](https://www.ncbi.nlm.nih.gov/pubmed/27922482)
 
 * **immunoratio**
 * **qupath**
@@ -122,7 +122,7 @@ WHAT DO THE TERMS SENSITIVITY AND SPECIFICITY MEAN IN THE CONTEXT OF IHC?
 
 * **Handbook of Practical Immunohistochemistry Frequently Asked Questions**
 
-[https://www.ihcfaq.com/](https://www.ihcfaq.com)
+[https://www.ihcfaq.com/](https://www.ihcfaq.com/)
 
 [http://www.springer.com/us/book/9781493915774](http://www.springer.com/us/book/9781493915774)
 

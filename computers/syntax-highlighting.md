@@ -48,7 +48,7 @@ _Useful for Rmd files_
 
 [https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-[https://carbon.now.sh/](https://carbon.now.sh)
+[https://carbon.now.sh/](https://carbon.now.sh/)
 
 **Others (did not work in my hand):**
 
@@ -120,7 +120,7 @@ _Useful for Rmd files_
 
 [https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-[https://carbon.now.sh/](https://carbon.now.sh)
+[https://carbon.now.sh/](https://carbon.now.sh/)
 
 **Others (did not work in my hand):**
 
@@ -191,7 +191,7 @@ _Useful for Rmd files_
 
 [https://yonicd.github.io/carbonate/](https://yonicd.github.io/carbonate/)
 
-[https://carbon.now.sh/](https://carbon.now.sh)
+[https://carbon.now.sh/](https://carbon.now.sh/)
 
 **Others (did not work in my hand):**
 

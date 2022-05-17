@@ -33,7 +33,7 @@
 
 **Histology Tutorials**
 
-[http://www.histologytutorials.com/](http://www.histologytutorials.com)
+[http://www.histologytutorials.com/](http://www.histologytutorials.com/)
 
 **Tamponlu formaldehit nasıl hazırlanır?**
 
@@ -54,7 +54,7 @@ Dibazik sodyum fosfat 6.5 gr
 
 * **Histology Tutorials**
 
-[http://www.histologytutorials.com/](http://www.histologytutorials.com)
+[http://www.histologytutorials.com/](http://www.histologytutorials.com/)
 
 * **Tamponlu formaldehit nasıl hazırlanır?**
 
@@ -75,7 +75,7 @@ Dibazik sodyum fosfat 6.5 gr
 
 * **Histology Tutorials**
 
-[http://www.histologytutorials.com/](http://www.histologytutorials.com)
+[http://www.histologytutorials.com/](http://www.histologytutorials.com/)
 
 * **Tamponlu formaldehit nasıl hazırlanır?**
 
@@ -96,7 +96,7 @@ Dibazik sodyum fosfat 6.5 gr
 
 * **Histology Tutorials**
 
-[http://www.histologytutorials.com/](http://www.histologytutorials.com)
+[http://www.histologytutorials.com/](http://www.histologytutorials.com/)
 
 * **Tamponlu formaldehit nasıl hazırlanır?**
 
@@ -119,7 +119,7 @@ Dibazik sodyum fosfat 6.5 gr
 
 * **Histology Tutorials**
 
-[http://www.histologytutorials.com/](http://www.histologytutorials.com)
+[http://www.histologytutorials.com/](http://www.histologytutorials.com/)
 
 * **Tamponlu formaldehit nasıl hazırlanır?**
 

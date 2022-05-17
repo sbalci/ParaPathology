@@ -21,9 +21,9 @@
 The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4% per year in women, and 1.6% per year in children between 2010 and 2014. During this time frame, death rates decreased for lung, colorectal, female breast, and prostate cancers, among others, but increased for liver cancer in men and women, pancreas and brain cancers in men, and uterine cancer. [http://jamanetwork.com/journals/jama/article-abstract/2627951](http://jamanetwork.com/journals/jama/article-abstract/2627951)
 
 * **References:**
-* [https://prevention.cancer.gov/](https://prevention.cancer.gov)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
-* [http://seer.cancer.gov/](http://seer.cancer.gov)
+* [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
+* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
+* [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
 * [http://seer.cancer.gov/canques/survival.html](http://seer.cancer.gov/canques/survival.html)
@@ -42,11 +42,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **Cancer System Performance Report**&#x20;
 
-[http://www.systemperformance.ca/](http://www.systemperformance.ca)
+[http://www.systemperformance.ca/](http://www.systemperformance.ca/)
 
 * **California Cancer Registry**&#x20;
 
-[http://www.ccrcal.org/](http://www.ccrcal.org)
+[http://www.ccrcal.org/](http://www.ccrcal.org/)
 
 [http://www.cancer-rates.info/ca/](http://www.cancer-rates.info/ca/)
 
@@ -58,7 +58,7 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 ![](<../.gitbook/assets/980x (2) (2) (2) (1) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2).jpg>)
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
@@ -76,9 +76,9 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4% per year in women, and 1.6% per year in children between 2010 and 2014. During this time frame, death rates decreased for lung, colorectal, female breast, and prostate cancers, among others, but increased for liver cancer in men and women, pancreas and brain cancers in men, and uterine cancer. [http://jamanetwork.com/journals/jama/article-abstract/2627951](http://jamanetwork.com/journals/jama/article-abstract/2627951)
 
 * **References:**
-* [https://prevention.cancer.gov/](https://prevention.cancer.gov)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
-* [http://seer.cancer.gov/](http://seer.cancer.gov)
+* [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
+* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
+* [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
 * [http://seer.cancer.gov/canques/survival.html](http://seer.cancer.gov/canques/survival.html)
@@ -97,11 +97,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **Cancer System Performance Report**&#x20;
 
-[http://www.systemperformance.ca/](http://www.systemperformance.ca)
+[http://www.systemperformance.ca/](http://www.systemperformance.ca/)
 
 * **California Cancer Registry**&#x20;
 
-[http://www.ccrcal.org/](http://www.ccrcal.org)
+[http://www.ccrcal.org/](http://www.ccrcal.org/)
 
 [http://www.cancer-rates.info/ca/](http://www.cancer-rates.info/ca/)
 
@@ -111,11 +111,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (2).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (2) (1).png>)
 
 *
 
-![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2).jpg>)
+![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2) (1).jpg>)
 
 ## Epidemiology and Pathology
 
@@ -136,9 +136,9 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4% per year in women, and 1.6% per year in children between 2010 and 2014. During this time frame, death rates decreased for lung, colorectal, female breast, and prostate cancers, among others, but increased for liver cancer in men and women, pancreas and brain cancers in men, and uterine cancer. [http://jamanetwork.com/journals/jama/article-abstract/2627951](http://jamanetwork.com/journals/jama/article-abstract/2627951)
 
 * **References:**
-* [https://prevention.cancer.gov/](https://prevention.cancer.gov)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
-* [http://seer.cancer.gov/](http://seer.cancer.gov)
+* [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
+* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
+* [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
 * [http://seer.cancer.gov/canques/survival.html](http://seer.cancer.gov/canques/survival.html)
@@ -157,11 +157,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **Cancer System Performance Report**&#x20;
 
-[http://www.systemperformance.ca/](http://www.systemperformance.ca)
+[http://www.systemperformance.ca/](http://www.systemperformance.ca/)
 
 * **California Cancer Registry**&#x20;
 
-[http://www.ccrcal.org/](http://www.ccrcal.org)
+[http://www.ccrcal.org/](http://www.ccrcal.org/)
 
 [http://www.cancer-rates.info/ca/](http://www.cancer-rates.info/ca/)
 

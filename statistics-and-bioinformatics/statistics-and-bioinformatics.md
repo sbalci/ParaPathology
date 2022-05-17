@@ -8,7 +8,7 @@
 
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
 *
-  * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com)
+  * [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
@@ -34,7 +34,7 @@
 
 [http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
 
-[http://www.statistics.com/](http://www.statistics.com)
+[http://www.statistics.com/](http://www.statistics.com/)
 
 [https://statistics.laerd.com](https://statistics.laerd.com)
 
@@ -51,7 +51,7 @@
 *
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
 *
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com)
+* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
@@ -77,7 +77,7 @@
 
 [http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
 
-[http://www.statistics.com/](http://www.statistics.com)
+[http://www.statistics.com/](http://www.statistics.com/)
 
 [https://statistics.laerd.com](https://statistics.laerd.com)
 
@@ -94,7 +94,7 @@
 *
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
 *
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com)
+* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
@@ -120,7 +120,7 @@
 
 [http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
 
-[http://www.statistics.com/](http://www.statistics.com)
+[http://www.statistics.com/](http://www.statistics.com/)
 
 [https://statistics.laerd.com](https://statistics.laerd.com)
 
@@ -137,7 +137,7 @@
 *
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
 *
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com)
+* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
@@ -163,7 +163,7 @@
 
 [http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
 
-[http://www.statistics.com/](http://www.statistics.com)
+[http://www.statistics.com/](http://www.statistics.com/)
 
 [https://statistics.laerd.com](https://statistics.laerd.com)
 
@@ -180,7 +180,7 @@
 *
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)
 *
-* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com)
+* [http://www.statisticssolutions.com/](http://www.statisticssolutions.com/)
 * [https://www.ncss.com/software/pass/](https://www.ncss.com/software/pass/)
 * [http://www.gpower.hhu.de](http://www.gpower.hhu.de)
 * Which statistical tests used in pathology journals and which of those we think we know. Statistical literacy of pathologists:
@@ -206,7 +206,7 @@
 
 [http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
 
-[http://www.statistics.com/](http://www.statistics.com)
+[http://www.statistics.com/](http://www.statistics.com/)
 
 [https://statistics.laerd.com](https://statistics.laerd.com)
 

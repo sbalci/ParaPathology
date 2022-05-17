@@ -26,7 +26,7 @@
 
 * Interesting Figures
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1) (2) (1).png>)
 
 * For science illustration
 
@@ -38,7 +38,7 @@
 
 * Interesting Figures
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1) (2).png>)
 
 * For science illustration
 

@@ -8,8 +8,8 @@
 
 [http://www.brainbell.com/tutorials/ms-office/Word/Replace\_With\_A\_Subscript.htm](http://www.brainbell.com/tutorials/ms-office/Word/Replace\_With\_A\_Subscript.htm)
 
-* [http://www.hemingwayapp.com/](http://www.hemingwayapp.com)
-* [https://app.grammarly.com/](https://app.grammarly.com)
+* [http://www.hemingwayapp.com/](http://www.hemingwayapp.com/)
+* [https://app.grammarly.com/](https://app.grammarly.com/)
 
 ## Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 
@@ -188,25 +188,25 @@
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R) Programming\&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R) Programming\&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R) Programming\&utm\_campaign=google trends
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R) Programming\&utm\_campaign=google trends
 
 ## Text Mining R
 
 * Analyzing Google Trends Data in R
 
-[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/) Programming\&utm\_campaign=google trends
+[https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R](https://www.displayr.com/extracting-google-trends-data-in-r/?utm\_source=Facebook\&utm\_medium=R) Programming\&utm\_campaign=google trends
 
 ## Text Mining Related Web Sites
 
@@ -216,17 +216,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com)
+[https://www.parsehub.com/](https://www.parsehub.com/)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com)
+[https://regex101.com/](https://regex101.com/)
 
 * **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com)
+[https://regexr.com/](https://regexr.com/)
 
 * **ExtendsClass is an online tool to visualize & test Regular Expressions**
 
@@ -238,7 +238,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io)
+[https://spacy.io/](https://spacy.io/)
 
 * **import.io**
 
@@ -246,17 +246,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com)
+[https://www.parsehub.com/](https://www.parsehub.com/)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com)
+[https://regex101.com/](https://regex101.com/)
 
 * **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com)
+[https://regexr.com/](https://regexr.com/)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -264,7 +264,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io)
+[https://spacy.io/](https://spacy.io/)
 
 * **import.io**
 
@@ -272,17 +272,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com)
+[https://www.parsehub.com/](https://www.parsehub.com/)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com)
+[https://regex101.com/](https://regex101.com/)
 
 * **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com)
+[https://regexr.com/](https://regexr.com/)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -290,7 +290,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io)
+[https://spacy.io/](https://spacy.io/)
 
 * **import.io**
 
@@ -298,17 +298,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com)
+[https://www.parsehub.com/](https://www.parsehub.com/)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com)
+[https://regex101.com/](https://regex101.com/)
 
 * **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com)
+[https://regexr.com/](https://regexr.com/)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -316,7 +316,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io)
+[https://spacy.io/](https://spacy.io/)
 
 ## Text Mining Related Web Sites
 
@@ -326,17 +326,17 @@
 
 * **parsehub**
 
-[https://www.parsehub.com/](https://www.parsehub.com)
+[https://www.parsehub.com/](https://www.parsehub.com/)
 
 * **Regular Expression 101 is a very nice tool to identify regex codes for text mining**
 
 [https://twitter.com/regex101](https://twitter.com/regex101)
 
-[https://regex101.com/](https://regex101.com)
+[https://regex101.com/](https://regex101.com/)
 
 * **RegExr is an online tool to learn, build & test Regular Expressions (RegEx / RegExp).**
 
-[https://regexr.com/](https://regexr.com)
+[https://regexr.com/](https://regexr.com/)
 
 * **Downloadable statistical models for spaCy to predict and assign linguistic features**
 
@@ -344,7 +344,7 @@
 
 * **Industrial-Strength Natural Language Processing**
 
-[https://spacy.io/](https://spacy.io)
+[https://spacy.io/](https://spacy.io/)
 
 ## Text Mining Turkish
 

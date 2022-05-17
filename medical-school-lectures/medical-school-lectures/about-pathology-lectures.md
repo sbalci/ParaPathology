@@ -450,9 +450,9 @@ Dersler için faydalanılabilecek kaynaklar:
 
 Web:
 
-[http://www.pathguy.com/](http://www.pathguy.com)
+[http://www.pathguy.com/](http://www.pathguy.com/)
 
-[http://www.webpathology.com/](http://www.webpathology.com)
+[http://www.webpathology.com/](http://www.webpathology.com/)
 
 [http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel\_prizes/medicine/laureates/)
 
@@ -794,9 +794,9 @@ Dersler için faydalanılabilecek kaynaklar:
 
 Web:
 
-[http://www.pathguy.com/](http://www.pathguy.com)
+[http://www.pathguy.com/](http://www.pathguy.com/)
 
-[http://www.webpathology.com/](http://www.webpathology.com)
+[http://www.webpathology.com/](http://www.webpathology.com/)
 
 [http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel\_prizes/medicine/laureates/)
 
@@ -1138,9 +1138,9 @@ Dersler için faydalanılabilecek kaynaklar:
 
 Web:
 
-[http://www.pathguy.com/](http://www.pathguy.com)
+[http://www.pathguy.com/](http://www.pathguy.com/)
 
-[http://www.webpathology.com/](http://www.webpathology.com)
+[http://www.webpathology.com/](http://www.webpathology.com/)
 
 [http://www.nobelprize.org/nobel\_prizes/medicine/laureates/](http://www.nobelprize.org/nobel\_prizes/medicine/laureates/)
 
@@ -1596,7 +1596,7 @@ Kaynaklar:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org)
+3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 Son güncelleme:01.05.2015
 
@@ -1661,7 +1661,7 @@ Kaynaklar:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org)
+3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 Son güncelleme:01.05.2015
 
@@ -1726,7 +1726,7 @@ Kaynaklar:
 
 1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org)
+3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 ## Patoloji'ye Giriş
 

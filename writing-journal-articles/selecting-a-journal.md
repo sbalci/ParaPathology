@@ -11,11 +11,11 @@
 
 ## Selecting A Journal
 
-* [Think Check Submit](https://thinkchecksubmit.org)
+* [Think Check Submit](https://thinkchecksubmit.org/)
 
 [https://vimeo.com/151882443/recommended](https://vimeo.com/151882443/recommended)
 
-[https://thinkchecksubmit.org](https://thinkchecksubmit.org)
+[https://thinkchecksubmit.org](https://thinkchecksubmit.org/)
 
 * Master Journal List
 
@@ -23,11 +23,11 @@
 
 * Springer Journal Suggester
 
-[http://journalsuggester.springer.com/](http://journalsuggester.springer.com)
+[http://journalsuggester.springer.com/](http://journalsuggester.springer.com/)
 
 * JANE: Journal/Author Name Estimator
 
-[http://jane.biosemantics.org/](http://jane.biosemantics.org)
+[http://jane.biosemantics.org/](http://jane.biosemantics.org/)
 
 [Schuemie, Martijn J. and Jan A. Kors. “Jane: suggesting journals, finding experts.” \_Bioinformatics \_24 5 (2008): 727-8.](https://www.semanticscholar.org/paper/Jane-suggesting-journals-finding-experts-Schuemie-Kors/1a32dc12351667a021a1afffbb053282083b29b8)
 
@@ -45,7 +45,7 @@
 
 * Elsevier Journal Finder
 
-[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com)
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * Identifying Predatory or Pseudo-Journals
 
@@ -65,7 +65,7 @@
 
 * Directory of Open Access Journals (DOAJ)
 
-[https://doaj.org/](https://doaj.org)
+[https://doaj.org/](https://doaj.org/)
 
 * Where to Publish Your Research: Identifying Potential Journals
 
@@ -73,7 +73,7 @@
 
 * Journal Guide
 
-[https://www.journalguide.com/](https://www.journalguide.com)
+[https://www.journalguide.com/](https://www.journalguide.com/)
 
 * **An email from a lazy predatory journal:**![](../.gitbook/assets/ekran-resmi-2018-01-03-23.55.06.png)
 * The undercover academic keeping tabs on ‘﻿predatory’ publishing
@@ -110,7 +110,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 * List of Predatory Journals
 
-[https://predatoryjournals.com/](https://predatoryjournals.com)
+[https://predatoryjournals.com/](https://predatoryjournals.com/)
 
 [https://predatoryjournals.com/journals/](https://predatoryjournals.com/journals/)
 
@@ -124,7 +124,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 [https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal](https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal)
 
-[http://www.pontejournal.net/](http://www.pontejournal.net) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
+[http://www.pontejournal.net/](http://www.pontejournal.net/) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
 
 Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli değişiyor.
 
@@ -138,11 +138,11 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * **Springer Journal Suggester**
 
-[http://journalsuggester.springer.com/](http://journalsuggester.springer.com)
+[http://journalsuggester.springer.com/](http://journalsuggester.springer.com/)
 
 * **JANE: Journal/Author Name Estimator**
 
-[http://jane.biosemantics.org/](http://jane.biosemantics.org)
+[http://jane.biosemantics.org/](http://jane.biosemantics.org/)
 
 [Schuemie, Martijn J. and Jan A. Kors. “Jane: suggesting journals, finding experts.” \_Bioinformatics \_24 5 (2008): 727-8.](https://www.semanticscholar.org/paper/Jane-suggesting-journals-finding-experts-Schuemie-Kors/1a32dc12351667a021a1afffbb053282083b29b8)
 
@@ -160,7 +160,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * **Elsevier Journal Finder**
 
-[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com)
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * **Identifying Predatory or Pseudo-Journals**
 
@@ -180,7 +180,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * **Directory of Open Access Journals (DOAJ)**
 
-[https://doaj.org/](https://doaj.org)
+[https://doaj.org/](https://doaj.org/)
 
 * **Where to Publish Your Research: Identifying Potential Journals**
 
@@ -199,11 +199,11 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * **Springer Journal Suggester**
 
-[http://journalsuggester.springer.com/](http://journalsuggester.springer.com)
+[http://journalsuggester.springer.com/](http://journalsuggester.springer.com/)
 
 * **JANE: Journal/Author Name Estimator**
 
-[http://jane.biosemantics.org/](http://jane.biosemantics.org)
+[http://jane.biosemantics.org/](http://jane.biosemantics.org/)
 
 [Schuemie, Martijn J. and Jan A. Kors. “Jane: suggesting journals, finding experts.” \_Bioinformatics \_24 5 (2008): 727-8.](https://www.semanticscholar.org/paper/Jane-suggesting-journals-finding-experts-Schuemie-Kors/1a32dc12351667a021a1afffbb053282083b29b8)
 
@@ -221,7 +221,7 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * **Elsevier Journal Finder**
 
-[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com)
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * **Identifying Predatory or Pseudo-Journals**
 
@@ -241,7 +241,7 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * **Directory of Open Access Journals (DOAJ)**
 
-[https://doaj.org/](https://doaj.org)
+[https://doaj.org/](https://doaj.org/)
 
 * **Where to Publish Your Research: Identifying Potential Journals**
 
@@ -254,11 +254,11 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 {% embed url="https://www.nature.com/articles/d41586-018-02921-2?WT.ec_id=NATURE-20180323" %}
 
-* [Think Check Submit](https://thinkchecksubmit.org)
+* [Think Check Submit](https://thinkchecksubmit.org/)
 
 [https://vimeo.com/151882443/recommended](https://vimeo.com/151882443/recommended)
 
-[https://thinkchecksubmit.org](https://thinkchecksubmit.org)
+[https://thinkchecksubmit.org](https://thinkchecksubmit.org/)
 
 * Master Journal List
 
@@ -266,11 +266,11 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * Springer Journal Suggester
 
-[http://journalsuggester.springer.com/](http://journalsuggester.springer.com)
+[http://journalsuggester.springer.com/](http://journalsuggester.springer.com/)
 
 * JANE: Journal/Author Name Estimator
 
-[http://jane.biosemantics.org/](http://jane.biosemantics.org)
+[http://jane.biosemantics.org/](http://jane.biosemantics.org/)
 
 [Schuemie, Martijn J. and Jan A. Kors. “Jane: suggesting journals, finding experts.” \_Bioinformatics \_24 5 (2008): 727-8.](https://www.semanticscholar.org/paper/Jane-suggesting-journals-finding-experts-Schuemie-Kors/1a32dc12351667a021a1afffbb053282083b29b8)
 
@@ -288,7 +288,7 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * Elsevier Journal Finder
 
-[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com)
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * Identifying Predatory or Pseudo-Journals
 
@@ -308,7 +308,7 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * Directory of Open Access Journals (DOAJ)
 
-[https://doaj.org/](https://doaj.org)
+[https://doaj.org/](https://doaj.org/)
 
 * Where to Publish Your Research: Identifying Potential Journals
 
@@ -316,7 +316,7 @@ Following the shutdown of Beall’s list, blacklists that warn against questiona
 
 * Journal Guide
 
-[https://www.journalguide.com/](https://www.journalguide.com)
+[https://www.journalguide.com/](https://www.journalguide.com/)
 
 * **An email from a lazy predatory journal:**![](https://github.com/sbalci/ParaPathology/tree/2d652d4fef03f9b4dbceb4dd0432b14c2bef19d1/assets/Ekran%20Resmi%202018-01-03%2023.55.06.png)
 * The undercover academic keeping tabs on ‘﻿predatory’ publishing
@@ -353,7 +353,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 * List of Predatory Journals
 
-[https://predatoryjournals.com/](https://predatoryjournals.com)
+[https://predatoryjournals.com/](https://predatoryjournals.com/)
 
 [https://predatoryjournals.com/journals/](https://predatoryjournals.com/journals/)
 
@@ -367,7 +367,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 [https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal](https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal)
 
-[http://www.pontejournal.net/](http://www.pontejournal.net) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
+[http://www.pontejournal.net/](http://www.pontejournal.net/) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
 
 Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli değişiyor.
 
@@ -375,11 +375,11 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 {% embed url="https://trdizin.gov.tr/statistics/listAcceptedJournals.xhtml" %}
 
-* [Think Check Submit](https://thinkchecksubmit.org)
+* [Think Check Submit](https://thinkchecksubmit.org/)
 
 [https://vimeo.com/151882443/recommended](https://vimeo.com/151882443/recommended)
 
-[https://thinkchecksubmit.org](https://thinkchecksubmit.org)
+[https://thinkchecksubmit.org](https://thinkchecksubmit.org/)
 
 * Master Journal List
 
@@ -387,11 +387,11 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Springer Journal Suggester
 
-[http://journalsuggester.springer.com/](http://journalsuggester.springer.com)
+[http://journalsuggester.springer.com/](http://journalsuggester.springer.com/)
 
 * JANE: Journal/Author Name Estimator
 
-[http://jane.biosemantics.org/](http://jane.biosemantics.org)
+[http://jane.biosemantics.org/](http://jane.biosemantics.org/)
 
 [Schuemie, Martijn J. and Jan A. Kors. “Jane: suggesting journals, finding experts.” \_Bioinformatics \_24 5 (2008): 727-8.](https://www.semanticscholar.org/paper/Jane-suggesting-journals-finding-experts-Schuemie-Kors/1a32dc12351667a021a1afffbb053282083b29b8)
 
@@ -409,7 +409,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Elsevier Journal Finder
 
-[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com)
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * Identifying Predatory or Pseudo-Journals
 
@@ -429,7 +429,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Directory of Open Access Journals (DOAJ)
 
-[https://doaj.org/](https://doaj.org)
+[https://doaj.org/](https://doaj.org/)
 
 * Where to Publish Your Research: Identifying Potential Journals
 
@@ -437,7 +437,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Journal Guide
 
-[https://www.journalguide.com/](https://www.journalguide.com)
+[https://www.journalguide.com/](https://www.journalguide.com/)
 
 * **An email from a lazy predatory journal:**![](https://github.com/sbalci/ParaPathology/tree/2d652d4fef03f9b4dbceb4dd0432b14c2bef19d1/assets/Ekran%20Resmi%202018-01-03%2023.55.06.png)
 * The undercover academic keeping tabs on ‘﻿predatory’ publishing
@@ -474,7 +474,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 * List of Predatory Journals
 
-[https://predatoryjournals.com/](https://predatoryjournals.com)
+[https://predatoryjournals.com/](https://predatoryjournals.com/)
 
 [https://predatoryjournals.com/journals/](https://predatoryjournals.com/journals/)
 
@@ -488,7 +488,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 [https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal](https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal)
 
-[http://www.pontejournal.net/](http://www.pontejournal.net) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
+[http://www.pontejournal.net/](http://www.pontejournal.net/) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
 
 Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli değişiyor.
 
@@ -496,11 +496,11 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 {% embed url="https://trdizin.gov.tr/statistics/listAcceptedJournals.xhtml" %}
 
-* [Think Check Submit](https://thinkchecksubmit.org)
+* [Think Check Submit](https://thinkchecksubmit.org/)
 
 [https://vimeo.com/151882443/recommended](https://vimeo.com/151882443/recommended)
 
-[https://thinkchecksubmit.org](https://thinkchecksubmit.org)
+[https://thinkchecksubmit.org](https://thinkchecksubmit.org/)
 
 * Master Journal List
 
@@ -508,11 +508,11 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Springer Journal Suggester
 
-[http://journalsuggester.springer.com/](http://journalsuggester.springer.com)
+[http://journalsuggester.springer.com/](http://journalsuggester.springer.com/)
 
 * JANE: Journal/Author Name Estimator
 
-[http://jane.biosemantics.org/](http://jane.biosemantics.org)
+[http://jane.biosemantics.org/](http://jane.biosemantics.org/)
 
 [Schuemie, Martijn J. and Jan A. Kors. “Jane: suggesting journals, finding experts.” \_Bioinformatics \_24 5 (2008): 727-8.](https://www.semanticscholar.org/paper/Jane-suggesting-journals-finding-experts-Schuemie-Kors/1a32dc12351667a021a1afffbb053282083b29b8)
 
@@ -530,7 +530,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Elsevier Journal Finder
 
-[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com)
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * Identifying Predatory or Pseudo-Journals
 
@@ -550,7 +550,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Directory of Open Access Journals (DOAJ)
 
-[https://doaj.org/](https://doaj.org)
+[https://doaj.org/](https://doaj.org/)
 
 * Where to Publish Your Research: Identifying Potential Journals
 
@@ -558,7 +558,7 @@ Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli
 
 * Journal Guide
 
-[https://www.journalguide.com/](https://www.journalguide.com)
+[https://www.journalguide.com/](https://www.journalguide.com/)
 
 * **An email from a lazy predatory journal:**![](https://github.com/sbalci/ParaPathology/tree/2d652d4fef03f9b4dbceb4dd0432b14c2bef19d1/assets/Ekran%20Resmi%202018-01-03%2023.55.06.png)
 * The undercover academic keeping tabs on ‘﻿predatory’ publishing
@@ -595,7 +595,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 * List of Predatory Journals
 
-[https://predatoryjournals.com/](https://predatoryjournals.com)
+[https://predatoryjournals.com/](https://predatoryjournals.com/)
 
 [https://predatoryjournals.com/journals/](https://predatoryjournals.com/journals/)
 
@@ -609,7 +609,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 [https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal](https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal)
 
-[http://www.pontejournal.net/](http://www.pontejournal.net) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
+[http://www.pontejournal.net/](http://www.pontejournal.net/) adamlar italyan bir derginin web sayfasındaki tüm bilgileri kopyalamış ve sahte bir dergi yapmışlar. sonra da para ile makale basmışlar. Dergiyi TR'den kişiler doldurmuş. Asıl Ponte dergisi bu değil. Asıl Ponte dergisi %90 italyanca yayın yapan bir dergi.
 
 Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli değişiyor.
 

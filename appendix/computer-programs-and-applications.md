@@ -9,12 +9,12 @@ ReadCube is one of the essentials to follow up the literature. When you install 
 
 * Citavi
 
-[https://www.citavi.com/](https://www.citavi.com)\
+[https://www.citavi.com/](https://www.citavi.com/)\
 
 
 * EndNote
 
-[http://endnote.com/](http://endnote.com)
+[http://endnote.com/](http://endnote.com/)
 
 * **Johns Hopkins Pathology Atlases for the Ipad**
 * The Johns Hopkins iCarebook for Pancreatic Cancer HD

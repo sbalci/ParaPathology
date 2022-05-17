@@ -140,14 +140,14 @@ copied from: [https://www.facebook.com/ePathology/posts/10156360987684910](https
 
 * Association of Directors of Anatomic and Surgical Pathology (ADASP)
 
-[http://www.adasp.org/](http://www.adasp.org)
+[http://www.adasp.org/](http://www.adasp.org/)
 
 * Association of Directors of Anatomic and Surgical Pathology (ADASP)
 
-[http://www.adasp.org/](http://www.adasp.org)
+[http://www.adasp.org/](http://www.adasp.org/)
 
 ## Pathology Associations
 
 * Association of Directors of Anatomic and Surgical Pathology (ADASP)
 
-[http://www.adasp.org/](http://www.adasp.org)
+[http://www.adasp.org/](http://www.adasp.org/)
