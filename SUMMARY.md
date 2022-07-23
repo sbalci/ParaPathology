@@ -54,6 +54,7 @@
 * [Systemic Pathology](systemic-pathology/systemic-pathology.md)
 * [Endocrine Pathology](systemic-pathology/endocrine-pathology.md)
 * [Gastrointestinal Pathology](systemic-pathology/gastrointestinal-pathology/README.md)
+  * [Esophagus Pathology](systemic-pathology/gastrointestinal-pathology/esophagus-pathology.md)
   * [Stomach Biopsy](systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md)
   * [Duodenal Biopsy](systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md)
   * [Polyps](systemic-pathology/gastrointestinal-pathology/polyps.md)
