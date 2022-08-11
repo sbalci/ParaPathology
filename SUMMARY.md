@@ -85,6 +85,7 @@
 * [Adrenal](systemic-pathology/adrenal.md)
 * [Uropathology](systemic-pathology/uropathology/README.md)
   * [Prostate Pathology](systemic-pathology/uropathology/prostate-pathology.md)
+* [Bone](systemic-pathology/bone.md)
 * [Soft Tissue](systemic-pathology/soft-tissue.md)
 * [Gynecological Pathology](systemic-pathology/gynecological-pathology/README.md)
   * [Approach to Endometrial Biopsies](systemic-pathology/gynecological-pathology/approach-to-endometrial-biopsies.md)
