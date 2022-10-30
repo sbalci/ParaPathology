@@ -1,5 +1,7 @@
 # Image Analysis
 
+{% embed url="https://www.youtube.com/watch?v=9fEDSOUbGFA&t=1955s&ab_channel=TIAWarwick" %}
+
 ## Bioimage Analysis 2020
 
 #### [01a Introduction to Bio-Image Analysis](https://www.youtube.com/watch?v=e-2DbkUwKk4)
