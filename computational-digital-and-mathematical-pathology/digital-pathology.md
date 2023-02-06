@@ -395,3 +395,11 @@ Cancer Digital Slide Archive: an informatics resource to support integrated in s
 - Single slide scanner
 
 [optiscan](https://www.blabmarket.com/urun/optika-optiscan-dijital-mikroskop-tarayici)
+
+
+---
+
+
+{% embed url="https://www.youtube.com/watch?v=zNRxF-TqUnI" %}
+
+
