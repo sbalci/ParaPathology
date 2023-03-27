@@ -16,7 +16,7 @@
 
 #### Differential Diagnosis of the Flat Duodenal Biopsy
 
-![](<../../.gitbook/assets/ekran-resmi-2017-11-29-00.14.42 (2) (2) (2) (1) (1).png>)
+![](<../../.gitbook/assets/ekran-resmi-2017-11-29-00.14.42 (2) (2) (2) (1) (2) (1).png>)
 
 #### ****
 

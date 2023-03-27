@@ -3,8 +3,6 @@
 ## Git GitHub
 
 * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-
-
 * Publish blog posts from R + knitr to WordPress
 
 [https://yihui.name/knitr/demo/wordpress/](https://yihui.name/knitr/demo/wordpress/)
@@ -15,7 +13,7 @@
 
 * add this to book.json
 
-```text
+```
 {
 "plugins": ["youtube", "youtubex", "component", "autosize-iframe"]
     }
@@ -25,24 +23,25 @@
 
 [https://plugins.gitbook.com/plugin/component](https://plugins.gitbook.com/plugin/component)
 
-```text
+```
 {
     "plugins": ["component"]
 }
 
-{% component %}
-{% endcomponent %}
+<div data-gb-custom-block data-tag="component">
+
+</div>
 ```
 
-* YouTube 
+* YouTube
 
-```text
-{% youtube %}CR-7blJkNaI{% endyoutube %}
+```
+<div data-gb-custom-block data-tag="youtube">CR-7blJkNaI</div>
 ```
 
 * add this to book.json
 
-```text
+```
 {
 "plugins": ["youtube", "youtubex", "component", "autosize-iframe"]
     }
@@ -52,26 +51,27 @@
 
 [https://plugins.gitbook.com/plugin/component](https://plugins.gitbook.com/plugin/component)
 
-```text
+```
 {
     "plugins": ["component"]
 }
 
-{% component %}
-{% endcomponent %}
+<div data-gb-custom-block data-tag="component">
+
+</div>
 ```
 
-* YouTube 
+* YouTube
 
-```text
-{% youtube %}CR-7blJkNaI{% endyoutube %}
+```
+<div data-gb-custom-block data-tag="youtube">CR-7blJkNaI</div>
 ```
 
 ### GitBook Plugins
 
 * add this to book.json
 
-```text
+```
 {
 "plugins": ["youtube", "youtubex", "component", "autosize-iframe"]
     }
@@ -81,60 +81,61 @@
 
 [https://plugins.gitbook.com/plugin/component](https://plugins.gitbook.com/plugin/component)
 
-```text
+```
 {
     "plugins": ["component"]
 }
 
-{% component %}
-{% endcomponent %}
+<div data-gb-custom-block data-tag="component">
+
+</div>
 ```
 
-* YouTube 
+* YouTube
 
-```text
-{% youtube %}CR-7blJkNaI{% endyoutube %}
+```
+<div data-gb-custom-block data-tag="youtube">CR-7blJkNaI</div>
 ```
 
 #### [Adding an existing project to GitHub using the command line](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
 
 [https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/)
 
-> * Create a new repository on GitHub. You can also add a gitignore file, a readme and a &gt; licence if you want
+> * Create a new repository on GitHub. You can also add a gitignore file, a readme and a > licence if you want
 > * Open Git Bash
 > * Change the current working directory to your local project.
 > * Initialize the local directory as a Git repository.
 >
-> ```text
+> ```
 > git init
 > ```
 >
 > * Add the files in your new local repository. This stages them for the first commit.
 >
-> ```text
+> ```
 > git add .
 > ```
 >
 > * Commit the files that you’ve staged in your local repository.
 >
-> ```text
+> ```
 > git commit -m "initial commit"
 > ```
 >
 > * Copy the https url of your newly created repo
-> * In the Command prompt, add the URL for the remote repository where your local repository &gt; will be pushed.
+> * In the Command prompt, add the URL for the remote repository where your local repository > will be pushed.
 >
-> ```text
+> ```
 > git remote add origin 'remote_repository_URL'
 > ```
 >
-> ```text
+> ```
 > git remote -v
 > ```
 >
 > * Push the changes in your local repository to GitHub.
 >
-> ```text
+> ```
 > git push -f origin master
 > ```
 
@@ -142,7 +143,7 @@
 
 [https://github.com/jamovi/jamovi/tree/current-dev](https://github.com/jamovi/jamovi/tree/current-dev)
 
-```text
+```
 git clone --single-branch --branch current-dev https://github.com/jamovi/jamovi.git
 ```
 
@@ -152,13 +153,13 @@ git clone --single-branch --branch current-dev https://github.com/jamovi/jamovi.
 
 1. Clone your fork:
 
-```text
+```
 git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
 ```
 
-1. Add remote from original repository in your forked repository: 
+1. Add remote from original repository in your forked repository:
 
-```text
+```
 cd into/cloned/fork-repo
 git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
 git fetch upstream
@@ -166,7 +167,7 @@ git fetch upstream
 
 1. Updating your fork from original repo to keep up with their changes:
 
-```text
+```
 git pull upstream master
 ```
 
@@ -176,29 +177,21 @@ git pull upstream master
 
 Deleting the `.git` folder may cause problems in your git repository. If you want to delete all your commit history but keep the code in its current state, it is very safe to do it as in the following:
 
-1. Checkout
+1.  Checkout
 
-   `git checkout --orphan latest_branch`
+    `git checkout --orphan latest_branch`
+2.  Add all the files
 
-2. Add all the files
+    `git add -A`
+3.  Commit the changes
 
-   `git add -A`
+    `git commit -am "commit message"`
+4.  Delete the branch
 
-3. Commit the changes
+    `git branch -D main`
+5.  Rename the current branch to main
 
-   `git commit -am "commit message"`
+    `git branch -m main`
+6.  Finally, force update your repository
 
-4. Delete the branch
-
-   `git branch -D main`
-
-5. Rename the current branch to main
-
-   `git branch -m main`
-
-6. Finally, force update your repository
-
-   `git push -f origin main`
-
-
-
+    `git push -f origin main`

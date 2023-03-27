@@ -56,9 +56,9 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (1).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (2) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1).jpg>)
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
@@ -111,11 +111,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (2) (1).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (1).png>)
 
 *
 
-![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2) (1).jpg>)
+![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1) (1).jpg>)
 
 ## Epidemiology and Pathology
 
@@ -171,6 +171,6 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (1).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1) (2) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (2) (1).jpg>)
