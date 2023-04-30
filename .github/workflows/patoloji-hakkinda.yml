@@ -17,22 +17,23 @@ jobs:
 #        docker run \
 #        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
 #        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
-  tweet:
+  # tweet:
+  #   runs-on: ubuntu-latest
+    # steps:
+    #   - name: Get current date
+    #     id: date
+    #     run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    #   - uses: ethomson/send-tweet-action@v1
+    #     with:
+    #       status: (Para)Pathology notes are updated on ${{ steps.date.outputs.date }}. See here https://www.parapathology.com/ and here https://www.patolojinotlari.com/
+    #       consumer-key: ${{ secrets.API_KEY }}
+    #       consumer-secret: ${{ secrets.API_SECRET_KEY }}
+    #       access-token: ${{ secrets.ACCESS_TOKEN }}
+    #       access-token-secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
+
+  patoloji-hakkinda:
     runs-on: ubuntu-latest
     steps:
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - uses: ethomson/send-tweet-action@v1
-        with:
-          status: (Para)Pathology notes are updated on ${{ steps.date.outputs.date }}. See here https://www.parapathology.com/ and here https://www.patolojinotlari.com/
-          consumer-key: ${{ secrets.API_KEY }}
-          consumer-secret: ${{ secrets.API_SECRET_KEY }}
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          access-token-secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
-
-
-
       - name: Pushes to patoloji-hakkinda
         uses: cpina/github-action-push-to-another-repository@main
         env:
