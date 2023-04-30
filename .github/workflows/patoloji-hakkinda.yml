@@ -39,7 +39,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'lecture-notes'
+          source-directory: './'
           destination-github-username: 'sbalci'
           destination-repository-name: 'patoloji-hakkinda'
           user-email: drserdarbalci@gmail.com
