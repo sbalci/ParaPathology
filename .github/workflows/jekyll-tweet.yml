@@ -30,3 +30,16 @@ jobs:
           consumer-secret: ${{ secrets.API_SECRET_KEY }}
           access-token: ${{ secrets.ACCESS_TOKEN }}
           access-token-secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
+
+
+
+      - name: Pushes to patoloji-hakkinda
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'lecture-notes'
+          destination-github-username: 'sbalci'
+          destination-repository-name: 'patoloji-hakkinda'
+          user-email: drserdarbalci@gmail.com
+          target-branch: main
