@@ -40,12 +40,4 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com) for main web pag
 
 I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently.
 
-
-
-
-
-
-
-
-
-{% embed url="https://leanpub.com/patolojiatlasi" %}
+[https://leanpub.com/patolojiatlasi](https://leanpub.com/patolojiatlasi)
