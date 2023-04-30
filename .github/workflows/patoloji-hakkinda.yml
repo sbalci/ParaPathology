@@ -33,13 +33,19 @@ jobs:
 
   patoloji-hakkinda:
     runs-on: ubuntu-latest
+    container: ubuntu
     steps:
+      - uses: actions/checkout@v3
+
+      - name: Copy files to patoloji-hakkinda
+        run:  apk add rsync && rsync -arv --exclude="/.github/" ./ patoloji-hakkinda/
+
       - name: Pushes to patoloji-hakkinda
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: .
+          source-directory: 'patoloji-hakkinda'
           destination-github-username: 'sbalci'
           destination-repository-name: 'patoloji-hakkinda'
           user-email: drserdarbalci@gmail.com
