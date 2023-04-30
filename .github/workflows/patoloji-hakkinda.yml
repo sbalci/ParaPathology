@@ -38,9 +38,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Copy files to patoloji-hakkinda
-        run:  |
-          mkdir patoloji-hakkinda
-          cp -pR **/*.md ./patoloji-hakkinda/
+        run:  apt install rsync && rsync -arv --exclude="/.github/" ./ patoloji-hakkinda/
 
       - name: Pushes to patoloji-hakkinda
         uses: cpina/github-action-push-to-another-repository@main
