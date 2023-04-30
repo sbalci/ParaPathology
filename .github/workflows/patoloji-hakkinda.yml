@@ -40,7 +40,7 @@ jobs:
       - name: Copy files to patoloji-hakkinda
         run:  |
           mkdir patoloji-hakkinda
-          cp -R **/*.md ./patoloji-hakkinda/
+          cp -pR **/*.md ./patoloji-hakkinda/
 
       - name: Pushes to patoloji-hakkinda
         uses: cpina/github-action-push-to-another-repository@main
