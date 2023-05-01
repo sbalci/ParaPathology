@@ -7,8 +7,34 @@ Authors@R:
            role = c("aut", "cre"),
            email = "serdarbalci@serdarbalci.com",
            comment = c(ORCID = "0000-0002-7852-3851"))
+Maintainer: Serdar Balci <serdar.balci@memorial.com.tr>
 Description: The (Para) Pathology Notes for myself and those who are interested in Pathology.
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
+Date: 2023-05-01
+Depends: 
+    R (>= 4.3.0)
+Imports:
+    remotes,
+    rlang,
+    magrittr,
+    renv,
+    jsonlite,
+    markdown,
+    rmarkdown,
+    quarto,
+    fs,
+    knitr,
+    tinytex,
+    dplyr,
+    RCurl,
+    XML,
+    svDialogs,
+    xfun,
+    glue,
+    purrr
+Remotes:
+    duncantl/XMLRPC,
+    duncantl/RWordPress
