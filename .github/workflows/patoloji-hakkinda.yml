@@ -49,7 +49,24 @@ jobs:
           filestorender <- list.files(path = '.', pattern = '.md', full.names = TRUE, recursive = TRUE)
           render_file <- purrr::safely(function(file) {rmarkdown::render(file, encoding = 'UTF-8', output_dir = './patoloji-hakkinda/')})
           purrr::map(.x = filestorender, .f= render_file)
-          
+
+
+
+      - name: Commit results to main branch
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "CI added changes `date +'%Y-%m-%d %H:%M:%S'`" || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          branch: main
+          github_token: ${{ secrets.API_TOKEN_GITHUB }}
+          # WORKFLOW_GITHUB_TOKEN
+          force: true
+
 
   patoloji-hakkinda:
     needs: render
