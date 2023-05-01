@@ -44,8 +44,6 @@ parapathology-to-be-organised
 *.rdb
 *.rdx
 __packages
-*.R
 presentations
 .DS_Store
-ParaPathology.code-workspace
-parapathology.code-workspace
+

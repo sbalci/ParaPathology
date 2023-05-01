@@ -43,11 +43,11 @@ jobs:
             writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
 
-      - name: "Render patolojihakkinda"
+      - name: "Render patoloji-hakkinda"
         shell: Rscript {0}
         run: |
           filestorender <- list.files(path = '.', pattern = '.md', full.names = TRUE, recursive = TRUE)
-          render_file <- purrr::safely(function(file) {rmarkdown::render(file, encoding = 'UTF-8', output_dir = './patolojihakkinda/')})
+          render_file <- purrr::safely(function(file) {rmarkdown::render(file, encoding = 'UTF-8', output_dir = './patoloji-hakkinda/')})
           purrr::map(.x = filestorender, .f= render_file)
 
 
@@ -70,6 +70,7 @@ jobs:
 
   patoloji-hakkinda:
     needs: render
+    continue-on-error: true
     runs-on: ubuntu-latest
     container: ubuntu
     steps:
@@ -80,7 +81,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: './patolojihakkinda'
+          source-directory: './patoloji-hakkinda'
           destination-github-username: 'sbalci'
           destination-repository-name: 'patoloji-hakkinda'
           user-email: drserdarbalci@gmail.com
