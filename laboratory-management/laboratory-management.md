@@ -8,7 +8,8 @@
 
 
 
-**Hasta ve Klinik İnisiyatifi ile patolojik incelemeye gönderilmeyebilecek doku-materyaller**
+
+**Hasta ve Klinik İnisiyatifi ile patolojik incelemeye gönderilmeyebilecek doku-materyaller**
 
 * Kozmetik nedenlerle çıkarılmış normal dokular (blefaroplasti, nazoplasti gibi)
 * Yara debridman materyali
