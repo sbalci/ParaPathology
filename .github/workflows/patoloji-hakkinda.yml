@@ -6,6 +6,70 @@ on:
     branches: [ master ]
 
 jobs:
+  quarto-render-and-deploy:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    env:
+      RENV_PATHS_ROOT: ~/.local/share/renv
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: "actions checkout"
+        uses: actions/checkout@v3
+      
+      - uses: r-lib/actions/setup-r@v2   
+
+      - uses: r-lib/actions/setup-renv@v2
+
+
+
+      - name: Restore R package cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
+      - name: Install R dependencies
+        run: |
+            if (!requireNamespace("remotes", quietly = TRUE)) {install.packages("remotes", dependencies = TRUE, quiet = TRUE, verbose = FALSE)}
+            remotes::install_deps(dependencies = TRUE)
+            if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv", dependencies = TRUE, quiet = TRUE, verbose = FALSE)
+            renv::restore()
+            if (!requireNamespace("fs", quietly = TRUE)) install.packages("fs", dependencies = TRUE, quiet = TRUE, verbose = FALSE)
+            if (!requireNamespace("quarto", quietly = TRUE)) install.packages("quarto", dependencies = TRUE, quiet = TRUE, verbose = FALSE)
+            saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
+            writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
+        shell: Rscript {0}
+
+      - name: "Render patoloji-hakkinda"
+        shell: Rscript {0}
+        run: |
+          filestorender <- list.files(path = '.', pattern = '.md', full.names = TRUE, recursive = TRUE)
+          purrr::map(.x = filestorender, .f= rmarkdown::render, encoding = 'UTF-8', output_dir = './patoloji-hakkinda/')
+          
+
+  patoloji-hakkinda:
+    runs-on: ubuntu-latest
+    container: ubuntu
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pushes to patoloji-hakkinda
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: .
+          destination-github-username: 'sbalci'
+          destination-repository-name: 'patoloji-hakkinda'
+          user-email: drserdarbalci@gmail.com
+          target-branch: main
+
+
+
+
+
 #  build:
 
 #    runs-on: ubuntu-latest
@@ -31,19 +95,4 @@ jobs:
     #       access-token: ${{ secrets.ACCESS_TOKEN }}
     #       access-token-secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
 
-  patoloji-hakkinda:
-    runs-on: ubuntu-latest
-    container: ubuntu
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Pushes to patoloji-hakkinda
-        uses: cpina/github-action-push-to-another-repository@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-        with:
-          source-directory: .
-          destination-github-username: 'sbalci'
-          destination-repository-name: 'patoloji-hakkinda'
-          user-email: drserdarbalci@gmail.com
-          target-branch: main
