@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: "actions checkout"
         uses: actions/checkout@v3
+        
+      - uses: docker://pandoc/core:2.9
       
       - uses: r-lib/actions/setup-r@v2   
 
