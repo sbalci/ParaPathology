@@ -47,7 +47,8 @@ jobs:
         shell: Rscript {0}
         run: |
           filestorender <- list.files(path = '.', pattern = '.md', full.names = TRUE, recursive = TRUE)
-          purrr::map(.x = filestorender, .f= rmarkdown::render, encoding = 'UTF-8', output_dir = './patoloji-hakkinda/')
+          render_file <- purrr::safely(function(file) {rmarkdown::render(file, encoding = 'UTF-8', output_dir = './patoloji-hakkinda/')})
+          purrr::map(.x = filestorender, .f= render_file)
           
 
   patoloji-hakkinda:
