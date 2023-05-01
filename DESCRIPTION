@@ -36,7 +36,8 @@ Imports:
     xfun,
     glue,
     purrr,
-    rmdshower
+    rmdshower,
+    xaringan
 Remotes:
     duncantl/XMLRPC,
     duncantl/RWordPress
