@@ -1,5 +1,7 @@
-Web: ParaPathology
+Package: ParaPathology
 Title: ParaPathology Notes
+Description: The (Para) Pathology Notes for myself and those who are interested in Pathology.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a license
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Serdar",
@@ -8,7 +10,6 @@ Authors@R:
            email = "serdarbalci@serdarbalci.com",
            comment = c(ORCID = "0000-0002-7852-3851"))
 Maintainer: Serdar Balci <serdar.balci@memorial.com.tr>
-Description: The (Para) Pathology Notes for myself and those who are interested in Pathology.
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
