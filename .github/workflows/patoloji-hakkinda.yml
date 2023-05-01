@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 
 jobs:
-  quarto-render-and-deploy:
+  render:
     runs-on: ubuntu-latest
     continue-on-error: true
     env:
@@ -52,6 +52,7 @@ jobs:
           
 
   patoloji-hakkinda:
+    needs: render
     runs-on: ubuntu-latest
     container: ubuntu
     steps:
