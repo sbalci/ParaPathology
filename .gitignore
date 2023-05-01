@@ -29,7 +29,6 @@ rsconnect/
 .RData
 .Ruserdata
 # .gitignore
-ParaPathology.Rproj
 ders-dokumanlar
 *.ppt
 *.pptx
