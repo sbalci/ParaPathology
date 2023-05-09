@@ -2,13 +2,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=FVAuw334phM&feature=youtu.be" %}
 
-
-
 ## [How Pathology Report Affects Treatment of Colorectal Cancer](https://www.facebook.com/pathCast/videos/514548495926280/)
 
 {% embed url="https://www.facebook.com/pathCast/videos/514548495926280/" %}
-
-
 
 ## Pathology reports are the most important medical documents:
 
@@ -46,7 +42,7 @@
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (2) (1).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (1) (2).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -122,7 +118,7 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (1) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -200,7 +196,7 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (1).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (2).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 

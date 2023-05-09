@@ -12,11 +12,11 @@
 
 below copied from this page for my future personal use.
 
-> ## Original pathology- and lab medicine-related resources
+> ### Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> ## HTML documents
+> ### HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -59,7 +59,7 @@ below copied from this page for my future personal use.
 >
 > [**Elemental Composition of the Body**](http://web2.airmail.net/uthman/elements\_of\_body.html) is a simple table that lists, in descending order of abundance, all 59 chemical elements present in measurable amounts in the human body. For each element, the table shows 1) the weight of element present in a 70-kilogram person, 2) the volume occupied by that much of the purified element, and 3) how big a cube made up of that quantity of purified element would be.
 >
-> ## .PDF documents
+> ### .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf\_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -77,7 +77,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> ## [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 > This is a collection of specimen images that I have released into the public domain. The index page is
 >
@@ -87,7 +87,7 @@ below copied from this page for my future personal use.
 >
 > Since my ISP limits my space here severely, I have begun to add specimen images to a [section in my Flickr account](http://www.flickr.com/photos/euthman/sets/72057594114099781/). The images there have much higher resolution than those here.
 >
-> ## Other binary files
+> ### Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >
@@ -101,11 +101,11 @@ below copied from this page for my future personal use.
 
 below copied from this page for my future personal use.
 
-> ## Original pathology- and lab medicine-related resources
+> ### Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> ## HTML documents
+> ### HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -148,7 +148,7 @@ below copied from this page for my future personal use.
 >
 > [**Elemental Composition of the Body**](http://web2.airmail.net/uthman/elements\_of\_body.html) is a simple table that lists, in descending order of abundance, all 59 chemical elements present in measurable amounts in the human body. For each element, the table shows 1) the weight of element present in a 70-kilogram person, 2) the volume occupied by that much of the purified element, and 3) how big a cube made up of that quantity of purified element would be.
 >
-> ## .PDF documents
+> ### .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf\_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -166,7 +166,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> ## [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 > This is a collection of specimen images that I have released into the public domain. The index page is
 >
@@ -176,7 +176,7 @@ below copied from this page for my future personal use.
 >
 > Since my ISP limits my space here severely, I have begun to add specimen images to a [section in my Flickr account](http://www.flickr.com/photos/euthman/sets/72057594114099781/). The images there have much higher resolution than those here.
 >
-> ## Other binary files
+> ### Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >
@@ -192,11 +192,11 @@ below copied from this page for my future personal use.
 
 below copied from this page for my future personal use.
 
-> ## Original pathology- and lab medicine-related resources
+> ### Original pathology- and lab medicine-related resources
 >
 > verything in this section is free for noncommercial use, unless otherwise stated.
 >
-> ## HTML documents
+> ### HTML documents
 >
 > [**A Screenwriter's Guide to the Autopsy**](http://web2.airmail.net/uthman/Autop.html)
 >
@@ -239,7 +239,7 @@ below copied from this page for my future personal use.
 >
 > [**Elemental Composition of the Body**](http://web2.airmail.net/uthman/elements\_of\_body.html) is a simple table that lists, in descending order of abundance, all 59 chemical elements present in measurable amounts in the human body. For each element, the table shows 1) the weight of element present in a 70-kilogram person, 2) the volume occupied by that much of the purified element, and 3) how big a cube made up of that quantity of purified element would be.
 >
-> ## .PDF documents
+> ### .PDF documents
 >
 > ["The Red Cell and Anemia"](http://web2.airmail.net/uthman/pdf\_documents/redcell.pdf) is a companion to a sophomore med student lecture I give on this subject. It is 51 pages long, 19000 words, and has line drawings and tables. It is just about everything you would need to teach red cell diseases to med students and medical technology students. 228K.
 >
@@ -257,7 +257,7 @@ below copied from this page for my future personal use.
 >
 > [Timeline of Human Evolution](http://web2.airmail.net/uthman/Timeline%20of%20Human%20Evolution.pdf) is a one-page crib sheet covering salient points in the pre-history of our species, from our divergence from the ancestors of the chimpanzee to about 12,000 years ago, when Homo sapiens was left as the sole hominin on the planet.
 >
-> ## [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
+> ### [Pathology images](http://web2.airmail.net/uthman/specimens/index.html)
 >
 > This is a collection of specimen images that I have released into the public domain. The index page is
 >
@@ -267,7 +267,7 @@ below copied from this page for my future personal use.
 >
 > Since my ISP limits my space here severely, I have begun to add specimen images to a [section in my Flickr account](http://www.flickr.com/photos/euthman/sets/72057594114099781/). The images there have much higher resolution than those here.
 >
-> ## Other binary files
+> ### Other binary files
 >
 > ["Placenta"](http://web2.airmail.net/uthman/placenta.sit) is a **downloadable**[Stuffit](http://www.aladdinsys.com/consumer/expander1.html) archive containing my spreadsheet for calculating normal ranges of placental weights and plotting an individual patient's placental weight on the resulting nomogram. The spreadsheet can be modified with your institution's logo and your personal signature line by anyone who has a bit of working knowledge of [Microsoft Excel](http://www.microsoft.com/office/excel/default.asp). There are two files in the archive. PLACENTA.XLS is the spreadsheet template itself, and PLACDOC.TXT is documentation on how to use the spreadsheet. Public domain, 15K.
 >

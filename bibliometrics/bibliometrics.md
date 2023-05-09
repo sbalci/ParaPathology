@@ -1,10 +1,8 @@
 # Bibliometrics
 
-#### ****[**Citation Performance Indicators — A Very Short Introduction**](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)****
+#### [**Citation Performance Indicators — A Very Short Introduction**](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)
 
 {% embed url="https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/" %}
-
-
 
 #### **Journal Citation Reports**
 
@@ -275,7 +273,7 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 [http://www.webometrics.info/en/node/179](http://www.webometrics.info/en/node/179)
 
-![](<../.gitbook/assets/ekran-resmi-2018-05-22-12.54.15 (1).png>)
+![](../.gitbook/assets/ekran-resmi-2018-05-22-12.54.15.png)
 
 * Webometric Analyst 2.0
 
