@@ -1,5 +1,9 @@
 # Image Analysis
 
+[Training deep AI pipelines with Biodock](https://www.youtube.com/watch?v=yUNyonBgBIs\&ab\_channel=MichaelLee)
+
+{% embed url="https://www.youtube.com/watch?v=yUNyonBgBIs&ab_channel=MichaelLee" %}
+
 {% embed url="https://www.youtube.com/watch?v=9fEDSOUbGFA&t=1955s&ab_channel=TIAWarwick" %}
 
 ## Bioimage Analysis 2020
@@ -15,8 +19,6 @@
 #### [lecture\_applied\_bioimage\_analysis\_2020](https://git.mpi-cbg.de/rhaase/lecture\_applied\_bioimage\_analysis\_2020)
 
 {% embed url="https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020" %}
-
-
 
 ## Image Analysis
 
