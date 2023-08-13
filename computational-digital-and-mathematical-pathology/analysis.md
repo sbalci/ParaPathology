@@ -1,5 +1,9 @@
 # Analysis
 
+
+{% embed url="https://www.youtube.com/watch?v=3CJpD8z-CNw&ab_channel=PathAI" caption="" %}
+
+
 ## Analysis
 
 **ImmunoRatio**

@@ -53,7 +53,7 @@ jobs:
         run: |
           filestorender <- list.files(path = '.', pattern = '.md', full.names = TRUE, recursive = TRUE)
           render_file <- purrr::safely(function(file) {rmarkdown::render(file, encoding = 'UTF-8', output_dir = './patoloji-hakkinda/')})
-          purrr::map(.x = filestorender, .f= render_file)
+          purrr::map(.x = filestorender, .f = render_file)
 
 
 
