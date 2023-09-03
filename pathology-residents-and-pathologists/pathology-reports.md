@@ -1,6 +1,6 @@
 # Pathology Reports
 
-{% embed url="https://www.youtube.com/watch?v=FVAuw334phM&feature=youtu.be" %}
+{% embed url="https://www.facebook.com/permalink.php?story_fbid=pfbid0cMCPjNqNRDTdv1yiCSy3ewiGXAVYoHkUW7NVP4pViuERytXpoWQiQkEqvDvHLxJdl&id=100064505328169" %}
 
 ## [How Pathology Report Affects Treatment of Colorectal Cancer](https://www.facebook.com/pathCast/videos/514548495926280/)
 
