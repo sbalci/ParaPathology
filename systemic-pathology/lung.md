@@ -1,6 +1,8 @@
 # Lung
 
-## Lung
+##
+
+{% embed url="https://twitter.com/StuffIGross/status/1697993321090556259" %}
 
 ### Covid ARDS
 
