@@ -1,6 +1,6 @@
 # Pathology of Infectious Diseases
 
-
+{% embed url="https://twitter.com/EricMadPatho/status/1741988271435972686" %}
 
 {% embed url="https://www.youtube.com/watch?v=kggpgKea0lk&ab_channel=Vox" %}
 
