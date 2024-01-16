@@ -6,3 +6,4 @@ Current Diagnostic Pathology 13(6):499-511 2007 DOI: 10.1016/j.cdip.2007.06.007
 
 {% embed url="https://www.researchgate.net/publication/228619606_Neck_dissections_A_practical_guide_for_the_reporting_histopathologist" %}
 
+{% embed url="https://twitter.com/NEJM/status/1746925314754920825" %}
