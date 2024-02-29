@@ -4,6 +4,8 @@
 
 {% embed url="https://twitter.com/StuffIGross/status/1697993321090556259" %}
 
+{% embed url="https://twitter.com/Morbidful/status/1762908634042839529" %}
+
 ### Covid ARDS
 
 {% embed url="https://www.nytimes.com/video/health/100000007056651/covid-ards-acute-respiratory-distress-syndrome.html" %}
