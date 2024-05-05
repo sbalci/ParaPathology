@@ -1,11 +1,15 @@
 # Cellular Pathology
 
+{% embed url="https://biochemical-pathways.com/" %}
+
+{% embed url="https://biochemical-pathways.com/cellular-molecular-processes" %}
+
+
+
 [Organelles of a human cell](https://www.youtube.com/watch?v=2YCgro6BV8U)
 
 {% embed url="https://www.youtube.com/watch?v=2YCgro6BV8U" %}
 
-
-
 Required Prior Knowledge:
 
 Aim of the Lecture:
@@ -16,9 +20,10 @@ Lecture Outlines:
 
 * Diseases originate from cell
 * Genome
-* * Coding and non-coding DNA
+*
+  * Coding and non-coding DNA
   * Epigenetics
-  * 
+  *
 
 References:
 
@@ -38,9 +43,10 @@ Lecture Outlines:
 
 * Diseases originate from cell
 * Genome
-* * Coding and non-coding DNA
+*
+  * Coding and non-coding DNA
   * Epigenetics
-  * 
+  *
 
 References:
 
@@ -60,11 +66,11 @@ Lecture Outlines:
 
 * Diseases originate from cell
 * Genome
-* * Coding and non-coding DNA
+*
+  * Coding and non-coding DNA
   * Epigenetics
-  * 
+  *
 
 References:
 
 1. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-
