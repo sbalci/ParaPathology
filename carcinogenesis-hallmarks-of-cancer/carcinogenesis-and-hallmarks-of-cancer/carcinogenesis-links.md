@@ -51,3 +51,14 @@ Whether Fusobacterium nucleatum causes colon tumors is unknown. But a new study 
 ## [Beslenme ve Kanser ilişkisi: Prof. Dr. Şevket Ruacan](https://www.youtube.com/watch?v=FtNULJIuiYQ\&feature=emb\_logo)
 
 {% embed url="https://www.youtube.com/watch?v=FtNULJIuiYQ" %}
+
+
+
+{% embed url="https://x.com/marklewismd/status/1799049294454124792" %}
+
+
+
+{% embed url="https://x.com/Cancer_Cell/status/1799084170976854318" %}
+
+
+
