@@ -136,3 +136,9 @@ Can metastases to the lung occur from cancers that were treated several years ag
 
 * Metastasis to the Lung From Carcinomas of Nonpulmonary Sites After Prolonged Disease-free Intervals. Mukhopadhyay S, et al. J Bronchology Interv Pulmonol. 2017. [https://www.ncbi.nlm.nih.gov/m/pubmed/28248821/](https://www.ncbi.nlm.nih.gov/m/pubmed/28248821/)
 * Does Strong and Diffuse PAX-8 Positivity Occur in Primary Lung Carcinoma? An Immunohistochemical Study of 418 Cases and Review of the Literature. [https://www.ncbi.nlm.nih.gov/pubmed/28777151](https://www.ncbi.nlm.nih.gov/pubmed/28777151)
+
+
+## Smoking and the lung: Landmark papers (1929–2023)
+
+https://journals.lww.com/jdap/fulltext/2024/01010/smoking_and_the_lung__landmark_papers__1929_2023_.2.aspx
+
