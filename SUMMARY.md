@@ -409,7 +409,9 @@
 * [GitHub Repositories](appendix/github-repositories.md)
 * [Yazmayıp da beslese miydik](appendix/yazmayip-da-beslese-miydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
-- [Clippings](Clippings.md)
+* [Clippings](Clippings.md)
+* [miscellaneous](appendix/miscellaneous.md)
+
 ## Pathology and Social Media <a href="#pathology-and-social-media-1" id="pathology-and-social-media-1"></a>
 
 * [Pathology and Social Media](pathology-and-social-media-1/pathology-and-social-media.md)
