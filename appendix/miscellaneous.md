@@ -12,6 +12,18 @@ We don't spam, sell, or share your information. \
 &#xNAN;_&#x57;e highly recommend using a comfortable mouse with a scroll wheel during the training._ \
 [https://docs.google.com/forms/d/e/1FAIpQLSdl1lv\_5NlYkdz\_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdl1lv_5NlYkdz_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform)
 
+
+
 Panik Tanı
 
 {% embed url="https://www.youtube.com/watch?v=HFEN9C20ceQ" %}
+
+
+
+GI Path 2nd Opinion Club will meet on 2/11 at 8AM EST. Please bring any GI/panc/liver case which you'd like to get opinions about. All cases are welcome. There is no expectation that the cases be "interesting." Please forward to anyone who may be interested.\
+https://zoom.us/j/91358942539?pwd=gs1A5c2Ln3K8d90qV4kRAGjCv1X3T7.1
+
+
+
+
+
