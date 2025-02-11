@@ -1,8 +1,12 @@
 # Lung
 
-##
 
-{% embed url="https://twitter.com/StuffIGross/status/1697993321090556259" %}
+
+## [6 patterns of pulmonary pathology](https://www.6patterns.org/)
+
+
+
+{% embed url="https://www.6patterns.org/" %}
 
 {% embed url="https://twitter.com/Morbidful/status/1762908634042839529" %}
 
@@ -114,7 +118,7 @@ Can metastases to the lung occur from cancers that were treated several years ag
 
 * Lung Pathology slide seminar by Dr. Sanjay Mukhopadhyay, a pulmonary pathologist and textbook author
 
-[https://www.youtube.com/watch?v=sIC49YSRX\_I](https://www.youtube.com/watch?v=sIC49YSRX\_I)
+[https://www.youtube.com/watch?v=sIC49YSRX\_I](https://www.youtube.com/watch?v=sIC49YSRX_I)
 
 * Pathology Insights - Usual Interstitial Pneumonia with Carol Farver, MD
 
@@ -132,13 +136,11 @@ Can metastases to the lung occur from cancers that were treated several years ag
 
 Can metastases to the lung occur from cancers that were treated several years ago? Dr. Mukhopadhyay discusses.
 
-[https://www.youtube.com/watch?time\_continue=12\&v=izA\_lNicFDs](https://www.youtube.com/watch?time\_continue=12\&v=izA\_lNicFDs)
+[https://www.youtube.com/watch?time\_continue=12\&v=izA\_lNicFDs](https://www.youtube.com/watch?time_continue=12\&v=izA_lNicFDs)
 
 * Metastasis to the Lung From Carcinomas of Nonpulmonary Sites After Prolonged Disease-free Intervals. Mukhopadhyay S, et al. J Bronchology Interv Pulmonol. 2017. [https://www.ncbi.nlm.nih.gov/m/pubmed/28248821/](https://www.ncbi.nlm.nih.gov/m/pubmed/28248821/)
 * Does Strong and Diffuse PAX-8 Positivity Occur in Primary Lung Carcinoma? An Immunohistochemical Study of 418 Cases and Review of the Literature. [https://www.ncbi.nlm.nih.gov/pubmed/28777151](https://www.ncbi.nlm.nih.gov/pubmed/28777151)
 
-
 ## Smoking and the lung: Landmark papers (1929–2023)
 
-https://journals.lww.com/jdap/fulltext/2024/01010/smoking_and_the_lung__landmark_papers__1929_2023_.2.aspx
-
+https://journals.lww.com/jdap/fulltext/2024/01010/smoking\_and\_the\_lung\_\_landmark\_papers\_\_1929\_2023\_.2.aspx
