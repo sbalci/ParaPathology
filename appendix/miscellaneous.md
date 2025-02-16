@@ -32,7 +32,7 @@ description: >-
 
 [https://github.com/mahmoodlab/TITAN](https://github.com/mahmoodlab/TITAN)
 
-[https://arxiv.org/abs/2502.06750](https://arxiv.org/abs/2502.06750)
+Accelerating Data Processing and Benchmarking of AI Models for Pathology [https://arxiv.org/abs/2502.06750](https://arxiv.org/abs/2502.06750)
 
 [https://agentlaboratory.github.io/](https://agentlaboratory.github.io/)
 
@@ -41,3 +41,23 @@ https://github.com/microsoft/data-formulator
 
 
 Patoloji ile ilgilenen yapay zeka firmaları müşteri çekmek için "clickbait" kullanmaya da başladılar. Gen profilleme, sanal immünohistokimya gibi araştırma seviyesindeki modelleri "ürün" adı altında satmalarına alışmıştık. "QuPath çok da özellikli bir program değil" diye kendi viewerını öven yazılımcılara da heves kırmamak için şefkatle davrandıydım geçenlerde. En son, "artık patolog olmadan da kendi Ki67 skorunuzu kendiniz değerlendirin" kısmına geldik. FISH ile tümör dışı alanı değerlendirmekte ısrar eden meslektaşlarımızdan sonra, şimdi de "home made" modeller ile tedaviye yön verici belirteçlerin "branş dışı hekimler ve hatta hastalar tarafından kullanılabilmesi", "tanının demokratikleşmesi", "hasta sağaltımının iyileştirilmesi" gibi kavramların çorbası ile karşılaştık. "Mümkün", "vaki", "had", "bilgi ve irfan nüansı" konularında çalıştay yapayım en iyisi.  &#x20;
+
+
+A new vision in Pathology: From clinical implementation of Digital Pathology to algorithm development in Computational Pathology https://repositorio-aberto.up.pt/handle/10216/165284
+
+
+
+Digital Pathology in Endocrine Disorders https://link.springer.com/collections/gabfeibadh
+
+
+A multicenter study to evaluate the analytical precision by pathologists using the Aperio GT 450 DX https://pmc.ncbi.nlm.nih.gov/articles/PMC11600015/
+
+
+An international study of stain variability in histopathology using qualitative and quantitative analysis https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040 
+
+
+
+Tissue Image Analytics (TIA) Centre https://warwick.ac.uk/fac/cross_fac/tia/seminars/seminars-24-25/
+
+
+When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed 
