@@ -1,7 +1,7 @@
 ---
 description: >-
   Miscellaneous links to be organised. Ordan burdan derlenmiş ama düzenlenmemiş
-  [güncel patoloji içerikleri](https://www.parapathology.com/appendix/miscellaneous)
+  güncel patoloji içerikleri. https://www.parapathology.com/appendix/miscellaneous
 ---
 
 
