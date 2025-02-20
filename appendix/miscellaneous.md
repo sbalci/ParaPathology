@@ -38,26 +38,28 @@ Accelerating Data Processing and Benchmarking of AI Models for Pathology [https:
 
 https://github.com/microsoft/data-formulator
 
-
-
-Patoloji ile ilgilenen yapay zeka firmaları müşteri çekmek için "clickbait" kullanmaya da başladılar. Gen profilleme, sanal immünohistokimya gibi araştırma seviyesindeki modelleri "ürün" adı altında satmalarına alışmıştık. "QuPath çok da özellikli bir program değil" diye kendi viewerını öven yazılımcılara da heves kırmamak için şefkatle davrandıydım geçenlerde. En son, "artık patolog olmadan da kendi Ki67 skorunuzu kendiniz değerlendirin" kısmına geldik. FISH ile tümör dışı alanı değerlendirmekte ısrar eden meslektaşlarımızdan sonra, şimdi de "home made" modeller ile tedaviye yön verici belirteçlerin "branş dışı hekimler ve hatta hastalar tarafından kullanılabilmesi", "tanının demokratikleşmesi", "hasta sağaltımının iyileştirilmesi" gibi kavramların çorbası ile karşılaştık. "Mümkün", "vaki", "had", "bilgi ve irfan nüansı" konularında çalıştay yapayım en iyisi.  &#x20;
-
+Patoloji ile ilgilenen yapay zeka firmaları müşteri çekmek için "clickbait" kullanmaya da başladılar. Gen profilleme, sanal immünohistokimya gibi araştırma seviyesindeki modelleri "ürün" adı altında satmalarına alışmıştık. "QuPath çok da özellikli bir program değil" diye kendi viewerını öven yazılımcılara da heves kırmamak için şefkatle davrandıydım geçenlerde. En son, "artık patolog olmadan da kendi Ki67 skorunuzu kendiniz değerlendirin" kısmına geldik. FISH ile tümör dışı alanı değerlendirmekte ısrar eden meslektaşlarımızdan sonra, şimdi de "home made" modeller ile tedaviye yön verici belirteçlerin "branş dışı hekimler ve hatta hastalar tarafından kullanılabilmesi", "tanının demokratikleşmesi", "hasta sağaltımının iyileştirilmesi" gibi kavramların çorbası ile karşılaştık. "Mümkün", "vaki", "had", "bilgi ve irfan nüansı" konularında çalıştay yapayım en iyisi.
 
 A new vision in Pathology: From clinical implementation of Digital Pathology to algorithm development in Computational Pathology https://repositorio-aberto.up.pt/handle/10216/165284
 
-
-
 Digital Pathology in Endocrine Disorders https://link.springer.com/collections/gabfeibadh
-
 
 A multicenter study to evaluate the analytical precision by pathologists using the Aperio GT 450 DX https://pmc.ncbi.nlm.nih.gov/articles/PMC11600015/
 
-
-An international study of stain variability in histopathology using qualitative and quantitative analysis https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040 
-
-
+An international study of stain variability in histopathology using qualitative and quantitative analysis https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040
 
 Tissue Image Analytics (TIA) Centre https://warwick.ac.uk/fac/cross_fac/tia/seminars/seminars-24-25/
+
+When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed
+
+
+
+Generative Artificial Intelligence in Anatomic Pathology [https://pubmed.ncbi.nlm.nih.gov/39836377/](https://pubmed.ncbi.nlm.nih.gov/39836377/)
+
+NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 7 - A Focus on Stain, Scanner Physical Quality and Display. [https://events.teams.microsoft.com/event/0c9807b9-d89b-4e95-b77a-7719fa96d169@37c354b2-85b0-47f5-b222-07b48d774ee3](https://events.teams.microsoft.com/event/0c9807b9-d89b-4e95-b77a-7719fa96d169@37c354b2-85b0-47f5-b222-07b48d774ee3)  
+
+
+
 
 
 When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed 
