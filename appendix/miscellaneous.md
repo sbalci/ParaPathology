@@ -7,6 +7,9 @@ description: >-
 # miscellaneous
 
 
+Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but influenced by the diagnostic style of pathologists https://pubmed.ncbi.nlm.nih.gov/22301705/
+
+
 An international study of stain variability in histopathology using qualitative and quantitative analysis https://www.sciencedirect.com/science/article/pii/S2153353925000057
 
 
