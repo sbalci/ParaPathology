@@ -61,3 +61,8 @@ Tissue Image Analytics (TIA) Centre https://warwick.ac.uk/fac/cross_fac/tia/semi
 
 
 When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed 
+
+https://www.modernpathology.org/ai-in-pathology
+
+https://www.laboratoryinvestigation.org/li-focus-digital-pathology
+
