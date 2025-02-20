@@ -6,6 +6,59 @@ description: >-
 
 # miscellaneous
 
+
+
+Comparative performance of PD-L1 scoring by pathologists and AI algorithms https://onlinelibrary.wiley.com/doi/full/10.1111/his.15432&#x20;
+
+
+
+
+
+
+
+
+
+Frontiers in Computational Pathology [https://sites.google.com/view/miua2025-fcpath/](https://sites.google.com/view/miua2025-fcpath/)
+
+
+
+
+
+FS2K2025 Workshop Introduction [https://www.youtube.com/watch?v=Vl9V5PxOQIc](https://www.youtube.com/watch?v=Vl9V5PxOQIc)
+
+{% embed url="https://www.youtube.com/watch?v=Vl9V5PxOQIc" %}
+
+
+
+NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 8 - Ask Us Anything.\
+The National Pathology Imaging Co-Operative (NPIC) is back with an exciting new series of free educational webinars on digital pathology topics.\
+Learn first-hand about hot topics in clinical digital reporting, the digital laboratory, IT and informatics and get a chance to pose your questions to the experts! Suitable for pathologists, biomedical scientists, informatics and IT professionals, managers and industry representatives.\
+[https://events.teams.microsoft.com/event/b46d9cac-a466-4bdf-8076-35617dd24670@37c354b2-85b0-47f5-b222-07b48d774ee3](https://events.teams.microsoft.com/event/b46d9cac-a466-4bdf-8076-35617dd24670@37c354b2-85b0-47f5-b222-07b48d774ee3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics [https://www.nature.com/articles/s43018-024-00793-2](https://www.nature.com/articles/s43018-024-00793-2)&#x20;
+
+
+
+
+
+
+
+
+
+
+
 **Virtual 2025 QuPath Training Course:** From Samples to KnowledgeThank you for your interest in our training course! We will broadcast the course in real time on Zoom. While we won't have the ability to directly assist you, we will have a way for you to ask questions which will be reviewed and, if time allows, answered during the course. Please fill out the form below and we will email you the meeting details and zoom link when available. You will also get installation instructions, and links to files, presentations, and projects. The training course will take place on February 24-25, 2025 between 9 and 5 pm PST. We will not stream or record the Advanced User's Meeting on February 26 in order to protect preliminary data. Alternatively, if you want to attend in-person, please register on [Eventbrite](https://www.eventbrite.com/e/2025-qupath-training-course-from-samples-to-knowledge-registration-1117012677989?aff=oddtdtcreator). We don't spam, sell, or share your information. \&#xNAN;_We highly recommend using a comfortable mouse with a scroll wheel during the training._ [https://docs.google.com/forms/d/e/1FAIpQLSdl1lv\_5NlYkdz\_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdl1lv_5NlYkdz_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform)
 
 **Panik Tanı** [https://www.youtube.com/watch?v=HFEN9C20ceQ](https://www.youtube.com/watch?v=HFEN9C20ceQ)
@@ -48,7 +101,7 @@ A multicenter study to evaluate the analytical precision by pathologists using t
 
 An international study of stain variability in histopathology using qualitative and quantitative analysis https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040
 
-Tissue Image Analytics (TIA) Centre https://warwick.ac.uk/fac/cross_fac/tia/seminars/seminars-24-25/
+Tissue Image Analytics (TIA) Centre https://warwick.ac.uk/fac/cross\_fac/tia/seminars/seminars-24-25/
 
 When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed
 
@@ -56,15 +109,375 @@ When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack
 
 Generative Artificial Intelligence in Anatomic Pathology [https://pubmed.ncbi.nlm.nih.gov/39836377/](https://pubmed.ncbi.nlm.nih.gov/39836377/)
 
-NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 7 - A Focus on Stain, Scanner Physical Quality and Display. [https://events.teams.microsoft.com/event/0c9807b9-d89b-4e95-b77a-7719fa96d169@37c354b2-85b0-47f5-b222-07b48d774ee3](https://events.teams.microsoft.com/event/0c9807b9-d89b-4e95-b77a-7719fa96d169@37c354b2-85b0-47f5-b222-07b48d774ee3)  
+NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 7 - A Focus on Stain, Scanner Physical Quality and Display. [https://events.teams.microsoft.com/event/0c9807b9-d89b-4e95-b77a-7719fa96d169@37c354b2-85b0-47f5-b222-07b48d774ee3](https://events.teams.microsoft.com/event/0c9807b9-d89b-4e95-b77a-7719fa96d169@37c354b2-85b0-47f5-b222-07b48d774ee3)&#x20;
+
+Gross examination and frozen section of breast pathology and oncology surgery specimens [https://www.youtube.com/watch?v=SR-mAuzxt2o](https://www.youtube.com/watch?v=SR-mAuzxt2o)
+
+{% embed url="https://www.youtube.com/watch?v=SR-mAuzxt2o" %}
+
+[https://www.linkedin.com/posts/deepathology-ai\_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/](https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/)
+
+{% embed url="https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/" %}
+
+Your Operating System ｜Eukaryotic Transcription [https://www.youtube.com/watch?v=HZAmbbTcQ3M\&t=16s](https://www.youtube.com/watch?v=HZAmbbTcQ3M\&t=16s)&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=HZAmbbTcQ3M&t=16s" %}
+
+
+
+[https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing](https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing)&#x20;
+
+{% @github-files/github-code-block url="https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing" %}
+
+[https://m.canouil.dev/quarto-extensions/](https://m.canouil.dev/quarto-extensions/)
+
+
+
+[https://gist.github.com/richarddmorey/ba6aa67ef2d38356f12f7e17d0421036](https://gist.github.com/richarddmorey/ba6aa67ef2d38356f12f7e17d0421036)
+
+[https://cran.r-project.org/web/packages/staticryptR/readme/README.html](https://cran.r-project.org/web/packages/staticryptR/readme/README.html)
+
+
+
+[https://compgenomr.github.io/book/](https://compgenomr.github.io/book/)
+
+[https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP\_oCWK2omFt\&si=mhWs0jII7ipJ56cf](https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt\&si=mhWs0jII7ipJ56cf)
+
+{% embed url="https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt&si=mhWs0jII7ipJ56cf" %}
+
+[https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr\&si=JCqObGzE00qUQt5C](https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr\&si=JCqObGzE00qUQt5C)
+
+{% embed url="https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr&si=JCqObGzE00qUQt5C" %}
+
+
+
+What can men do against such reckless hate [https://www.youtube.com/watch?v=t6qQSll7InQ](https://www.youtube.com/watch?v=t6qQSll7InQ)
+
+{% embed url="https://www.youtube.com/watch?v=t6qQSll7InQ" %}
 
 
 
 
 
-When Doctors With A.I. Are Outperformed by A.I. Alone https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed 
 
-https://www.modernpathology.org/ai-in-pathology
 
-https://www.laboratoryinvestigation.org/li-focus-digital-pathology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
