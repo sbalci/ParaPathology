@@ -7,6 +7,13 @@ description: >-
 # miscellaneous
 
 
+
+Biyopsi bakarken ben: 
+![https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lg76krbsc3f2ajnqdp4t47e2/bafkreiddvenotlqalwuaywn7kewiecu5mzfijxvs23bxjsys6o2wnevibu@jpeg](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lg76krbsc3f2ajnqdp4t47e2/bafkreiddvenotlqalwuaywn7kewiecu5mzfijxvs23bxjsys6o2wnevibu@jpeg)
+https://bsky.app/profile/lucas.meyerperin.org/post/3lildqvlp4k2e
+
+
+
 Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but influenced by the diagnostic style of pathologists https://pubmed.ncbi.nlm.nih.gov/22301705/
 
 
