@@ -1,14 +1,15 @@
 ---
 description: >-
   Miscellaneous links to be organised. Ordan burdan derlenmiş ama düzenlenmemiş
-  güncel patoloji içerikleri.
+  güncel patoloji içerikleri. https://www.parapathology.com/appendix/miscellaneous
 ---
 
 # miscellaneous
 
 
 
-Biyopsi bakarken ben: 
+Biyopsi bakarken ben:  
+
 ![https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lg76krbsc3f2ajnqdp4t47e2/bafkreiddvenotlqalwuaywn7kewiecu5mzfijxvs23bxjsys6o2wnevibu@jpeg](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lg76krbsc3f2ajnqdp4t47e2/bafkreiddvenotlqalwuaywn7kewiecu5mzfijxvs23bxjsys6o2wnevibu@jpeg)
 https://bsky.app/profile/lucas.meyerperin.org/post/3lildqvlp4k2e
 
