@@ -7,6 +7,9 @@ description: >-
 # miscellaneous
 
 
+An international study of stain variability in histopathology using qualitative and quantitative analysis https://www.sciencedirect.com/science/article/pii/S2153353925000057
+
+
 
 Comparative performance of PD-L1 scoring by pathologists and AI algorithms https://onlinelibrary.wiley.com/doi/full/10.1111/his.15432&#x20;
 
