@@ -8,6 +8,13 @@ description: >-
 # miscellaneous
 
 
+[https://tolklab.de/](https://tolklab.de/)
+
+
+[https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick)
+
+{% embed url="https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick" %}
+
 Current role of cytopathology in the molecular and computational era: The perspective of young pathologists [https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22832](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22832)
 
 
