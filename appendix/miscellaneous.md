@@ -8,6 +8,10 @@ description: >-
 # miscellaneous
 
 
+Current role of cytopathology in the molecular and computational era: The perspective of young pathologists [https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22832](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22832)
+
+
+
 
 Biyopsi bakarken ben:  
 
