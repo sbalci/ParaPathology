@@ -8,6 +8,16 @@ description: >-
 # miscellaneous
 
 
+
+[https://x.com/JClinPath_BMJ/status/1893284420355788953](https://x.com/JClinPath_BMJ/status/1893284420355788953)
+
+{% embed url="https://x.com/JClinPath_BMJ/status/1893284420355788953" %}
+
+
+Gene of the month: GATA3
+[https://jcp.bmj.com/content/76/12/793](https://jcp.bmj.com/content/76/12/793)
+
+
 [https://tolklab.de/](https://tolklab.de/)
 
 
