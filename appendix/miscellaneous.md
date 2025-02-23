@@ -8,6 +8,9 @@ description: >-
 # miscellaneous
 
 
+Artificial Intelligence–Based Classification of Renal Oncocytic Neoplasms [https://allen.silverchair-cdn.com/allen/content_public/journal/aplm/pap/10.5858_arpa.2024-0374-oa/3/10.5858_arpa.2024-0374-oa.pdf?Expires=1743260269&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~BUFrtUAAA~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~exxNkHxwnEJ23o~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA](https://allen.silverchair-cdn.com/allen/content_public/journal/aplm/pap/10.5858_arpa.2024-0374-oa/3/10.5858_arpa.2024-0374-oa.pdf?Expires=1743260269&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~BUFrtUAAA~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~exxNkHxwnEJ23o~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
 
 [https://x.com/Vik_deshpandeMD/status/1556064583915393026](https://x.com/Vik_deshpandeMD/status/1556064583915393026)
 
