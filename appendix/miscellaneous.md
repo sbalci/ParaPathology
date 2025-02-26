@@ -11,6 +11,18 @@ description: >-
 
 
 
+Foundation Models in Pathology: A Major Leap Forward [https://www.linkedin.com/posts/mohsinbilal\_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/](https://www.linkedin.com/posts/mohsinbilal_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/)
+
+
+
+Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact [https://arxiv.org/abs/2502.08333](https://arxiv.org/abs/2502.08333)&#x20;
+
+
+
+
+
+
+
 Introduction to Artificial Intelligence and Machine Learning in Pathology and Medicine: Generative and Nongenerative Artificial Intelligence Basics [https://www.modernpathology.org/article/S0893-3952(24)00268-0/fulltext](https://www.modernpathology.org/article/S0893-3952\(24\)00268-0/fulltext)&#x20;
 
 
