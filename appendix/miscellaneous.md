@@ -9,6 +9,12 @@ description: >-
 
 
 
+Blueprints from plane to space: outlook of next-generation three-dimensional histopathology [https://onlinelibrary.wiley.com/doi/10.1111/cas.16095](https://onlinelibrary.wiley.com/doi/10.1111/cas.16095)&#x20;
+
+CUBIC pathology: three-dimensional imaging for pathological diagnosis [https://www.nature.com/articles/s41598-017-09117-0](https://www.nature.com/articles/s41598-017-09117-0)&#x20;
+
+
+
 
 
 Foundation Models in Pathology: A Major Leap Forward [https://www.linkedin.com/posts/mohsinbilal\_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/](https://www.linkedin.com/posts/mohsinbilal_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/)
