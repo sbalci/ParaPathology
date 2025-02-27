@@ -9,6 +9,24 @@ description: >-
 
 
 
+The National Pathology Imaging Co-operative (NPIC) have created an open source public register of AI based pathology tools to support the implementation of AI in diagnostic services. [https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html](https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html)&#x20;
+
+Public evidence on AI products for digital pathology [https://www.nature.com/articles/s41746-024-01294-3](https://www.nature.com/articles/s41746-024-01294-3)&#x20;
+
+Register of AI products for digital pathology https://osf.io/ypajd&#x20;
+
+
+
+
+
+
+
+
+
+
+
+
+
 Blueprints from plane to space: outlook of next-generation three-dimensional histopathology [https://onlinelibrary.wiley.com/doi/10.1111/cas.16095](https://onlinelibrary.wiley.com/doi/10.1111/cas.16095)&#x20;
 
 CUBIC pathology: three-dimensional imaging for pathological diagnosis [https://www.nature.com/articles/s41598-017-09117-0](https://www.nature.com/articles/s41598-017-09117-0)&#x20;
