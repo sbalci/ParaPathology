@@ -7,6 +7,12 @@ description: >-
 
 # miscellaneous
 
+[https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
+
+
+
+
+
 
 
 The National Pathology Imaging Co-operative (NPIC) have created an open source public register of AI based pathology tools to support the implementation of AI in diagnostic services. [https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html](https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html)&#x20;
