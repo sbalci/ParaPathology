@@ -13,6 +13,8 @@ description: >-
 
 
 
+Digital counting of tissue cells for molecular analysis: the QuANTUM pipeline [https://link.springer.com/article/10.1007/s00428-024-03794-9](https://link.springer.com/article/10.1007/s00428-024-03794-9)&#x20;
+
 
 
 The National Pathology Imaging Co-operative (NPIC) have created an open source public register of AI based pathology tools to support the implementation of AI in diagnostic services. [https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html](https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html)&#x20;
