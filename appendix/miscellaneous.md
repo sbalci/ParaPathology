@@ -12,6 +12,18 @@ description: >-
 
 
 
+2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. https://github.com/sbalci/bibliometrics Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
+
+
+2 Mart 2025. Olayın kök nedenine bakmak lazım. Bu adamlar ne "mal sahibi" ne de "işi yapan" kişiler.
+Bir dönem işin erbabı olan, ama zaman içinde yeniliklere ayak uyduramadığı için artık o işi yapamayanlar, tecrübelerinden istifade edilmek üzere bir tür "ara müdür" olarak hayatlarını sürdürebilirler. Peter principle da değil, onlar da başka, bunlar da başka.
+Bunlar "profesyonel yönetici" olduklarını iddia eden, ne işin mutfağında çalışmış ne de malın sahibi olmayan, bugün bir şirkette başka bir gün başka bir şirkette yer alabilecek, "plaza dili" ile tekellüm eden, C-Level olarak kendilerini tanımlayanlar. Ara müdürlerin en işe yaramaz olanları.  
+İşi bilmedikleri için, o işin mutfağı ile uğraşamazlar. Boş görünmemek için de kendilerine meşgale icat ederler. Kurumsal mesaj yayınlamak ya da yayımlamamak ya da yayımlayanlara had bildirmek ya da o kurumsal mesajda kullanılan rengin fontunu belirlemek gibi.
+Bunların en "prestijli" olanlarını 8 Mart'ta yayınlayacakları mesajlarda görürsünüz. Kadın çalışanlarına gebelik ve süt izni vermez, "bu bekar yakında evlenir gider" diye iş vermez, kadınlara daha ucuz maaş verir, ama 8 Mart'ta ünlü birkaç kişi ile poz ve mesaj verirler.
+Yani olayın özüyle bu ayın bir ilgisi yok. Zaten bu ayda sevinebilmek biraz da nasip işi, o apayrı bir şey. Heman Mevlam cümlemize selamet versin, mal ve iş sahiplerini bu C-level'ların şerrinden halas eylesin. 
+
+
+
 
 Digital counting of tissue cells for molecular analysis: the QuANTUM pipeline [https://link.springer.com/article/10.1007/s00428-024-03794-9](https://link.springer.com/article/10.1007/s00428-024-03794-9)&#x20;
 
@@ -233,7 +245,6 @@ Accelerating Data Processing and Benchmarking of AI Models for Pathology [https:
 
 https://github.com/microsoft/data-formulator
 
-Patoloji ile ilgilenen yapay zeka firmaları müşteri çekmek için "clickbait" kullanmaya da başladılar. Gen profilleme, sanal immünohistokimya gibi araştırma seviyesindeki modelleri "ürün" adı altında satmalarına alışmıştık. "QuPath çok da özellikli bir program değil" diye kendi viewerını öven yazılımcılara da heves kırmamak için şefkatle davrandıydım geçenlerde. En son, "artık patolog olmadan da kendi Ki67 skorunuzu kendiniz değerlendirin" kısmına geldik. FISH ile tümör dışı alanı değerlendirmekte ısrar eden meslektaşlarımızdan sonra, şimdi de "home made" modeller ile tedaviye yön verici belirteçlerin "branş dışı hekimler ve hatta hastalar tarafından kullanılabilmesi", "tanının demokratikleşmesi", "hasta sağaltımının iyileştirilmesi" gibi kavramların çorbası ile karşılaştık. "Mümkün", "vaki", "had", "bilgi ve irfan nüansı" konularında çalıştay yapayım en iyisi.
 
 A new vision in Pathology: From clinical implementation of Digital Pathology to algorithm development in Computational Pathology https://repositorio-aberto.up.pt/handle/10216/165284
 
