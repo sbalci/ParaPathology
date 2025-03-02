@@ -12,6 +12,14 @@ description: >-
 
 
 
+
+AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips  
+[https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists)
+  
+
+{% embed url=https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists %}
+
+
 2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. https://github.com/sbalci/bibliometrics Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
 
 
