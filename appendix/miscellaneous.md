@@ -12,6 +12,12 @@ description: >-
 
 
 
+
+Pathology in the artificial intelligence era: Guiding innovation and implementation to preserve human insight [https://www.sciencedirect.com/science/article/pii/S2374289525000089](https://www.sciencedirect.com/science/article/pii/S2374289525000089)
+
+
+
+
 Multimodal histopathologic models stratify hormone receptor-positive early breast cancer https://www.nature.com/articles/s41467-025-57283-x
 
 
