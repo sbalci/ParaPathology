@@ -11,6 +11,26 @@ description: >-
 
 
 
+
+Multimodal histopathologic models stratify hormone receptor-positive early breast cancer https://www.nature.com/articles/s41467-025-57283-x
+
+
+
+On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation [https://arxiv.org/abs/2502.19285](https://arxiv.org/abs/2502.19285)
+
+
+
+Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions [https://arxiv.org/abs/2502.19293](https://arxiv.org/abs/2502.19293)
+
+
+ GrandQC - A comprehensive solution to quality control in digital pathology: Zhilong Weng, 03/03/25 [https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick)
+
+
+
+{% embed url="https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick" %}
+
+
+
 Adam daha retikülini oturtamamış, bana PD-L1 için app kullanın daha rahat cut-off tespit edersiniz diyor.&#x20;
 
 
@@ -19,14 +39,14 @@ A pathologist's guide for the diagnostic workup of paediatric central nervous sy
 
 
 
+Foundation Models -- A Panacea for Artificial Intelligence in Pathology? [https://arxiv.org/abs/2502.21264](https://arxiv.org/abs/2502.21264)
 
 
 
+ A bottom-up initiated digital external quality assessment scheme for the state-of-the-art pathology in Sweden: reduced variability between pathology departments [https://link.springer.com/article/10.1007/s00428-025-04059-9](https://link.springer.com/article/10.1007/s00428-025-04059-9)
 
 
-
-
-
+Microsoft Dragon Copilot provides the healthcare industry’s first unified voice AI assistant that enables clinicians to streamline clinical documentation, surface information and automate tasks [https://news.microsoft.com/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/](https://news.microsoft.com/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/)
 
 
 
@@ -35,6 +55,10 @@ A pathologist's guide for the diagnostic workup of paediatric central nervous sy
 
 AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips\
 [https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab\_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists)
+
+
+
+{% embed url="https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists" %}
 
 
 
