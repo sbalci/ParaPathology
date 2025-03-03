@@ -11,173 +11,95 @@ description: >-
 
 
 
+Adam daha retikülini oturtamamış, bana PD-L1 için app kullanın daha rahat cut-off tespit edersiniz diyor.&#x20;
 
 
-AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips  
-[https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists)
-  
 
-{% embed url=https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips\
+[https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab\_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists)
+
 
 
 2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. https://github.com/sbalci/bibliometrics Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
 
+2 Mart 2025. Olayın kök nedenine bakmak lazım. Bu adamlar ne "mal sahibi" ne de "işi yapan" kişiler. Bir dönem işin erbabı olan, ama zaman içinde yeniliklere ayak uyduramadığı için artık o işi yapamayanlar, tecrübelerinden istifade edilmek üzere bir tür "ara müdür" olarak hayatlarını sürdürebilirler. Peter principle da değil, onlar da başka, bunlar da başka. Bunlar "profesyonel yönetici" olduklarını iddia eden, ne işin mutfağında çalışmış ne de malın sahibi olmayan, bugün bir şirkette başka bir gün başka bir şirkette yer alabilecek, "plaza dili" ile tekellüm eden, C-Level olarak kendilerini tanımlayanlar. Ara müdürlerin en işe yaramaz olanları.\
+İşi bilmedikleri için, o işin mutfağı ile uğraşamazlar. Boş görünmemek için de kendilerine meşgale icat ederler. Kurumsal mesaj yayınlamak ya da yayımlamamak ya da yayımlayanlara had bildirmek ya da o kurumsal mesajda kullanılan rengin fontunu belirlemek gibi. Bunların en "prestijli" olanlarını 8 Mart'ta yayınlayacakları mesajlarda görürsünüz. Kadın çalışanlarına gebelik ve süt izni vermez, "bu bekar yakında evlenir gider" diye iş vermez, kadınlara daha ucuz maaş verir, ama 8 Mart'ta ünlü birkaç kişi ile poz ve mesaj verirler. Yani olayın özüyle bu ayın bir ilgisi yok. Zaten bu ayda sevinebilmek biraz da nasip işi, o apayrı bir şey. Heman Mevlam cümlemize selamet versin, mal ve iş sahiplerini bu C-level'ların şerrinden halas eylesin.
 
-2 Mart 2025. Olayın kök nedenine bakmak lazım. Bu adamlar ne "mal sahibi" ne de "işi yapan" kişiler.
-Bir dönem işin erbabı olan, ama zaman içinde yeniliklere ayak uyduramadığı için artık o işi yapamayanlar, tecrübelerinden istifade edilmek üzere bir tür "ara müdür" olarak hayatlarını sürdürebilirler. Peter principle da değil, onlar da başka, bunlar da başka.
-Bunlar "profesyonel yönetici" olduklarını iddia eden, ne işin mutfağında çalışmış ne de malın sahibi olmayan, bugün bir şirkette başka bir gün başka bir şirkette yer alabilecek, "plaza dili" ile tekellüm eden, C-Level olarak kendilerini tanımlayanlar. Ara müdürlerin en işe yaramaz olanları.  
-İşi bilmedikleri için, o işin mutfağı ile uğraşamazlar. Boş görünmemek için de kendilerine meşgale icat ederler. Kurumsal mesaj yayınlamak ya da yayımlamamak ya da yayımlayanlara had bildirmek ya da o kurumsal mesajda kullanılan rengin fontunu belirlemek gibi.
-Bunların en "prestijli" olanlarını 8 Mart'ta yayınlayacakları mesajlarda görürsünüz. Kadın çalışanlarına gebelik ve süt izni vermez, "bu bekar yakında evlenir gider" diye iş vermez, kadınlara daha ucuz maaş verir, ama 8 Mart'ta ünlü birkaç kişi ile poz ve mesaj verirler.
-Yani olayın özüyle bu ayın bir ilgisi yok. Zaten bu ayda sevinebilmek biraz da nasip işi, o apayrı bir şey. Heman Mevlam cümlemize selamet versin, mal ve iş sahiplerini bu C-level'ların şerrinden halas eylesin. 
+Digital counting of tissue cells for molecular analysis: the QuANTUM pipeline [https://link.springer.com/article/10.1007/s00428-024-03794-9](https://link.springer.com/article/10.1007/s00428-024-03794-9)
 
+The National Pathology Imaging Co-operative (NPIC) have created an open source public register of AI based pathology tools to support the implementation of AI in diagnostic services. [https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html](https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html)
 
+Public evidence on AI products for digital pathology [https://www.nature.com/articles/s41746-024-01294-3](https://www.nature.com/articles/s41746-024-01294-3)
 
+Register of AI products for digital pathology https://osf.io/ypajd
 
-Digital counting of tissue cells for molecular analysis: the QuANTUM pipeline [https://link.springer.com/article/10.1007/s00428-024-03794-9](https://link.springer.com/article/10.1007/s00428-024-03794-9)&#x20;
+Blueprints from plane to space: outlook of next-generation three-dimensional histopathology [https://onlinelibrary.wiley.com/doi/10.1111/cas.16095](https://onlinelibrary.wiley.com/doi/10.1111/cas.16095)
 
-
-
-The National Pathology Imaging Co-operative (NPIC) have created an open source public register of AI based pathology tools to support the implementation of AI in diagnostic services. [https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html](https://www.rcpath.org/discover-pathology/news/firstofitskindcentralresourceofaibasedpathologytoolslaunched.html)&#x20;
-
-Public evidence on AI products for digital pathology [https://www.nature.com/articles/s41746-024-01294-3](https://www.nature.com/articles/s41746-024-01294-3)&#x20;
-
-Register of AI products for digital pathology https://osf.io/ypajd&#x20;
-
-
-
-
-
-
-
-
-
-
-
-
-
-Blueprints from plane to space: outlook of next-generation three-dimensional histopathology [https://onlinelibrary.wiley.com/doi/10.1111/cas.16095](https://onlinelibrary.wiley.com/doi/10.1111/cas.16095)&#x20;
-
-CUBIC pathology: three-dimensional imaging for pathological diagnosis [https://www.nature.com/articles/s41598-017-09117-0](https://www.nature.com/articles/s41598-017-09117-0)&#x20;
-
-
-
-
+CUBIC pathology: three-dimensional imaging for pathological diagnosis [https://www.nature.com/articles/s41598-017-09117-0](https://www.nature.com/articles/s41598-017-09117-0)
 
 Foundation Models in Pathology: A Major Leap Forward [https://www.linkedin.com/posts/mohsinbilal\_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/](https://www.linkedin.com/posts/mohsinbilal_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/)
 
+Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact [https://arxiv.org/abs/2502.08333](https://arxiv.org/abs/2502.08333)
 
+Introduction to Artificial Intelligence and Machine Learning in Pathology and Medicine: Generative and Nongenerative Artificial Intelligence Basics [https://www.modernpathology.org/article/S0893-3952(24)00268-0/fulltext](https://www.modernpathology.org/article/S0893-3952\(24\)00268-0/fulltext)
 
-Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact [https://arxiv.org/abs/2502.08333](https://arxiv.org/abs/2502.08333)&#x20;
-
-
-
-
-
-
-
-Introduction to Artificial Intelligence and Machine Learning in Pathology and Medicine: Generative and Nongenerative Artificial Intelligence Basics [https://www.modernpathology.org/article/S0893-3952(24)00268-0/fulltext](https://www.modernpathology.org/article/S0893-3952\(24\)00268-0/fulltext)&#x20;
-
-
-
-AI-Driven Spatial Transcriptomics Unlocks Large-Scale Breast Cancer Biomarker Discovery from Histopathology [https://www.biorxiv.org/content/10.1101/2024.10.16.618609v2](https://www.biorxiv.org/content/10.1101/2024.10.16.618609v2)&#x20;
-
-
+AI-Driven Spatial Transcriptomics Unlocks Large-Scale Breast Cancer Biomarker Discovery from Histopathology [https://www.biorxiv.org/content/10.1101/2024.10.16.618609v2](https://www.biorxiv.org/content/10.1101/2024.10.16.618609v2)
 
 Annotation Practices in Computational Pathology: A European Society of Digital and Integrative Pathology (ESDIP) Survey Study [https://doi.org/10.1016/j.labinv.2024.102203](https://doi.org/10.1016/j.labinv.2024.102203)
 
-
-
 The tumour histopathology “glossary” for AI developers https://doi.org/10.1371/journal.pcbi.1012708
 
-
-
 An international study of stain variability in histopathology using qualitative and quantitative analysis [https://www.sciencedirect.com/science/article/pii/S2153353925000057](https://www.sciencedirect.com/science/article/pii/S2153353925000057)
-
-
 
 {% embed url="https://x.com/AI4Pathology/status/1889713583321190819" %}
 
 [https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)
 
+Artificial intelligence in digital pathology — time for a reality check [https://www.nature.com/articles/s41571-025-00991-6](https://www.nature.com/articles/s41571-025-00991-6)
 
-
-Artificial intelligence in digital pathology — time for a reality check [https://www.nature.com/articles/s41571-025-00991-6](https://www.nature.com/articles/s41571-025-00991-6)&#x20;
-
-
-
-When Doctors With A.I. Are Outperformed by A.I. Alone [https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed](https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed)&#x20;
-
-
+When Doctors With A.I. Are Outperformed by A.I. Alone [https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed](https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed)
 
 Current Pathology Foundation Models are unrobust to Medical Center Differences [https://arxiv.org/abs/2501.18055](https://arxiv.org/abs/2501.18055)
-
-
 
 qupath-extension-gncnn [https://github.com/UCLM-VISILAB/qupath-extension-gncnn](https://github.com/UCLM-VISILAB/qupath-extension-gncnn)
 
 GNCnn: A QuPath extension for glomerulosclerosis and glomerulonephritis characterization based on deep learning [https://www.sciencedirect.com/science/article/pii/S2001037024004197](https://www.sciencedirect.com/science/article/pii/S2001037024004197)
 
-
-
 Frontiers in Computational Pathology [https://sites.google.com/view/miua2025-fcpath/](https://sites.google.com/view/miua2025-fcpath/)
 
-
-
 A comprehensive evaluation of histopathology foundation models for ovarian cancer subtype classification [https://www.nature.com/articles/s41698-025-00799-8](https://www.nature.com/articles/s41698-025-00799-8)
-
-
 
 [https://www.youtube.com/watch?v=984Jz2QCvng](https://www.youtube.com/watch?v=984Jz2QCvng)
 
 {% embed url="https://www.youtube.com/watch?v=984Jz2QCvng" %}
 
-
-
-
-
-Developing an AI tool for renal pathology: case Galileo [https://www.aiforia.com/webinar-galileo-ai-tool-for-renal-pathology](https://www.aiforia.com/webinar-galileo-ai-tool-for-renal-pathology)&#x20;
-
-
+Developing an AI tool for renal pathology: case Galileo [https://www.aiforia.com/webinar-galileo-ai-tool-for-renal-pathology](https://www.aiforia.com/webinar-galileo-ai-tool-for-renal-pathology)
 
 Paige PanCancer Detect: A Milestone Achieved in Computational Pathology! [https://www.linkedin.com/pulse/paige-pancancer-detect-milestone-achieved-pathology-siqi-liu-mgume/](https://www.linkedin.com/pulse/paige-pancancer-detect-milestone-achieved-pathology-siqi-liu-mgume/?trackingId=4IZGVrpdn%2F9%2F9DNGTE7p%2FA%3D%3D)
 
+Overcoming Challenges in Implementing Digital Pathology and AI at Scale: Lessons from the Field [https://www.linkedin.com/pulse/overcoming-challenges-implementing-digital-pathology-ai-singh-md-nd4se/](https://www.linkedin.com/pulse/overcoming-challenges-implementing-digital-pathology-ai-singh-md-nd4se/)
 
-
-Overcoming Challenges in Implementing Digital Pathology and AI at Scale: Lessons from the Field [https://www.linkedin.com/pulse/overcoming-challenges-implementing-digital-pathology-ai-singh-md-nd4se/](https://www.linkedin.com/pulse/overcoming-challenges-implementing-digital-pathology-ai-singh-md-nd4se/)&#x20;
-
-
-
-
-
-Modella AI’s Generative AI Co-Pilot PathChat Receives FDA Breakthrough Device Designation [https://www.businesswire.com/news/home/20250128288933/en/Modella-AI%E2%80%99s-Generative-AI-Co-Pilot-PathChat-Receives-FDA-Breakthrough-Device-Designation](https://www.businesswire.com/news/home/20250128288933/en/Modella-AI%E2%80%99s-Generative-AI-Co-Pilot-PathChat-Receives-FDA-Breakthrough-Device-Designation)&#x20;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Modella AI’s Generative AI Co-Pilot PathChat Receives FDA Breakthrough Device Designation [https://www.businesswire.com/news/home/20250128288933/en/Modella-AI%E2%80%99s-Generative-AI-Co-Pilot-PathChat-Receives-FDA-Breakthrough-Device-Designation](https://www.businesswire.com/news/home/20250128288933/en/Modella-AI%E2%80%99s-Generative-AI-Co-Pilot-PathChat-Receives-FDA-Breakthrough-Device-Designation)
 
 Artificial Intelligence–Based Classification of Renal Oncocytic Neoplasms [https://allen.silverchair-cdn.com/allen/content\_public/journal/aplm/pap/10.5858\_arpa.2024-0374-oa/3/10.5858\_arpa.2024-0374-oa.pdf?Expires=1743260269\&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~~BUFrtUAAA~~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~~exxNkHxwnEJ23o~~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ\_\_\&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA](https://allen.silverchair-cdn.com/allen/content_public/journal/aplm/pap/10.5858_arpa.2024-0374-oa/3/10.5858_arpa.2024-0374-oa.pdf?Expires=1743260269\&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~BUFrtUAAA~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~exxNkHxwnEJ23o~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ__\&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
-
-
 
 [https://x.com/Vik\_deshpandeMD/status/1556064583915393026](https://x.com/Vik_deshpandeMD/status/1556064583915393026)
 
@@ -252,7 +174,6 @@ Accelerating Data Processing and Benchmarking of AI Models for Pathology [https:
 [https://agentlaboratory.github.io/](https://agentlaboratory.github.io/)
 
 https://github.com/microsoft/data-formulator
-
 
 A new vision in Pathology: From clinical implementation of Digital Pathology to algorithm development in Computational Pathology https://repositorio-aberto.up.pt/handle/10216/165284
 
