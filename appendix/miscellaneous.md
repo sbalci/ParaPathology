@@ -11,62 +11,56 @@ description: >-
 
 
 
+Hastaların %53'ü müdavi hekiminden daha önce patoloji raporlarına ulaşmış.\
+Bunun sıkıntılı yanları da var.\
+\- Az görülen tümörlerde klinisyenin kendini hazırlamaya, patologla istişare etmeye vakti olmalı. Bazen bu şekilde yaptığımız mini klinikopatolojik değerlendirmeler ile raporları ayrıntılandırdığımız ya da düzenlediğimiz oluyor. Hastaya son kararın tek seferde bildirilmesi daha iyi olabiliyor.\
+\- Bazı kavramlar hastalarda gereksiz anksiyeteye neden olabiliyor. "Dev hücre" gibi. Google hekimliği bitti, şimdi yapay zekadan raporu analiz ettirmeye başladılar.\
+\- Raporda geçen teknik terimler "takibe alındı", "yeni parça", "yeni kesit" bağlamından koparılınca yanlış anlaşılabiliyor.\
+[https://www.linkedin.com/posts/jason-wasserman-7a9ba8250\_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share\&utm_medium=member_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)\
+[https://pubmed.ncbi.nlm.nih.gov/40015956/](https://pubmed.ncbi.nlm.nih.gov/40015956/)
+
+{% embed url="https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg" %}
+
+
+
+
+
+
+
+2023 Classic Lectures in Pathology: What You Need to Know: Lung Pathology - A CME Teaching Activity [https://www.youtube.com/watch?v=du7Y6nfKwd8](https://www.youtube.com/watch?v=du7Y6nfKwd8)
+
+{% embed url="https://www.youtube.com/watch?v=du7Y6nfKwd8" %}
+
+
+
 
 
 Pathology in the artificial intelligence era: Guiding innovation and implementation to preserve human insight [https://www.sciencedirect.com/science/article/pii/S2374289525000089](https://www.sciencedirect.com/science/article/pii/S2374289525000089)
 
-
-
-
 Multimodal histopathologic models stratify hormone receptor-positive early breast cancer https://www.nature.com/articles/s41467-025-57283-x
-
-
 
 On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation [https://arxiv.org/abs/2502.19285](https://arxiv.org/abs/2502.19285)
 
-
-
 Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions [https://arxiv.org/abs/2502.19293](https://arxiv.org/abs/2502.19293)
 
-
- GrandQC - A comprehensive solution to quality control in digital pathology: Zhilong Weng, 03/03/25 [https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick)
-
-
+GrandQC - A comprehensive solution to quality control in digital pathology: Zhilong Weng, 03/03/25 [https://www.youtube.com/watch?v=eWO2gujT7Sw\&ab\_channel=TIAWarwick](https://www.youtube.com/watch?v=eWO2gujT7Sw\&ab_channel=TIAWarwick)
 
 {% embed url="https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick" %}
 
-
-
-Adam daha retikülini oturtamamış, bana PD-L1 için app kullanın daha rahat cut-off tespit edersiniz diyor.&#x20;
-
-
+Adam daha retikülini oturtamamış, bana PD-L1 için app kullanın daha rahat cut-off tespit edersiniz diyor.
 
 A pathologist's guide for the diagnostic workup of paediatric central nervous system tumours [https://pubmed.ncbi.nlm.nih.gov/39658395/](https://pubmed.ncbi.nlm.nih.gov/39658395/) [https://www.pathologyjournal.rcpa.edu.au/action/showPdf?pii=S0031-3025%2824%2900290-3](https://www.pathologyjournal.rcpa.edu.au/action/showPdf?pii=S0031-3025%2824%2900290-3)
 
-
-
 Foundation Models -- A Panacea for Artificial Intelligence in Pathology? [https://arxiv.org/abs/2502.21264](https://arxiv.org/abs/2502.21264)
 
-
-
- A bottom-up initiated digital external quality assessment scheme for the state-of-the-art pathology in Sweden: reduced variability between pathology departments [https://link.springer.com/article/10.1007/s00428-025-04059-9](https://link.springer.com/article/10.1007/s00428-025-04059-9)
-
+A bottom-up initiated digital external quality assessment scheme for the state-of-the-art pathology in Sweden: reduced variability between pathology departments [https://link.springer.com/article/10.1007/s00428-025-04059-9](https://link.springer.com/article/10.1007/s00428-025-04059-9)
 
 Microsoft Dragon Copilot provides the healthcare industry’s first unified voice AI assistant that enables clinicians to streamline clinical documentation, surface information and automate tasks [https://news.microsoft.com/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/](https://news.microsoft.com/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/)
-
-
-
-
-
 
 AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips\
 [https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab\_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists)
 
-
-
 {% embed url="https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists" %}
-
-
 
 2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. https://github.com/sbalci/bibliometrics Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
 
