@@ -11,6 +11,16 @@ description: >-
 
 
 
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
 Hastaların %53'ü müdavi hekiminden daha önce patoloji raporlarına ulaşmış.\
 Bunun sıkıntılı yanları da var.\
 \- Az görülen tümörlerde klinisyenin kendini hazırlamaya, patologla istişare etmeye vakti olmalı. Bazen bu şekilde yaptığımız mini klinikopatolojik değerlendirmeler ile raporları ayrıntılandırdığımız ya da düzenlediğimiz oluyor. Hastaya son kararın tek seferde bildirilmesi daha iyi olabiliyor.\
