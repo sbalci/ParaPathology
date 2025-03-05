@@ -11,6 +11,44 @@ description: >-
 
 
 
+Generative Artificial Intelligence in Anatomic Pathology [https://pubmed.ncbi.nlm.nih.gov/39836377/](https://pubmed.ncbi.nlm.nih.gov/39836377/)
+
+
+
+Reproducible image-based profiling with Pycytominer [https://www.nature.com/articles/s41592-025-02611-8](https://www.nature.com/articles/s41592-025-02611-8)
+
+
+
+
+
+ggplot2 extenders [https://ggplot2-extenders.github.io/ggplot-extension-club/meetings.html](https://ggplot2-extenders.github.io/ggplot-extension-club/meetings.html) [https://github.com/ggplot2-extenders/ggplot-extension-club/discussions](https://github.com/ggplot2-extenders/ggplot-extension-club/discussions)&#x20;
+
+
+
+
+
+Multimodal histopathologic models stratify hormone receptor-positive early breast cancer [https://www.nature.com/articles/s41467-025-57283-x](https://www.nature.com/articles/s41467-025-57283-x)&#x20;
+
+
+
+SPIDER (Supervised Pathology Image-DEscription Repository)\
+[https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm_source=share\&utm_medium=member_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)\
+[https://github.com/HistAI/SPIDER](https://github.com/HistAI/SPIDER)\
+[https://huggingface.co/histai](https://huggingface.co/histai)\
+[https://arxiv.org/abs/2503.02876](https://arxiv.org/abs/2503.02876)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
