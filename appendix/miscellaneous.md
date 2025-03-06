@@ -41,7 +41,7 @@ SPIDER (Supervised Pathology Image-DEscription Repository)\
 
 
 
-
+[https://www.cancergrandchallenges.org/ai-human-collaborations-in-cancer](https://www.cancergrandchallenges.org/ai-human-collaborations-in-cancer)
 
 
 
