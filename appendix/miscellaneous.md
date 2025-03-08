@@ -11,6 +11,13 @@ description: >-
 
 
 
+
+8 Mart 2025 A persistent gender pay gap among faculty in a public university system [https://www.nature.com/articles/s41598-024-72871-5](https://www.nature.com/articles/s41598-024-72871-5)
+
+
+
+
+
 Generative Artificial Intelligence in Anatomic Pathology [https://pubmed.ncbi.nlm.nih.gov/39836377/](https://pubmed.ncbi.nlm.nih.gov/39836377/)
 
 
@@ -298,3 +305,11 @@ Your Operating System ｜Eukaryotic Transcription [https://www.youtube.com/watch
 What can men do against such reckless hate [https://www.youtube.com/watch?v=t6qQSll7InQ](https://www.youtube.com/watch?v=t6qQSll7InQ)
 
 {% embed url="https://www.youtube.com/watch?v=t6qQSll7InQ" %}
+
+
+
+
+
+Bu federasyonun yeni çalışması https://turkpath.org.tr/files/pdf/rehber.pdf PBYS için önerilen özelliklere bakın. 
+bu ise benim notlarımın bulunduğu sayfa https://www.parapathology.com/laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri zamanında ben bu şartnameyi hazırlamıştım. 2011 olmalı. O sırada kalite komisyonundaydım. Bir örneğini vermiştim komisyona. Çok da bir ilerleme kaydedememişler görünen o ki. Bari referans verselerdi.
+
