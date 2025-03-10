@@ -19,6 +19,12 @@ EScoP Course on Genitourinary Pathology [https://esp-pathology.glueup.com/event/
 
 
 
+{% embed url="https://www.linkedin.com/feed/update/urn:li:activity:7304135835178745856?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7304135835178745856%2C7304664702091943936%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287304664702091943936%2Curn%3Ali%3Aactivity%3A7304135835178745856%29" %}
+
+{% embed url="https://www.youtube.com/watch?v=2A-7oQeO9sQ" %}
+
+
+
 15 Mart Cumartesi günü Koç Üniversitesi hastanesi RMK AIMES Merkezinde gerçekleştirilecek “HPB Cerrahları için Pankreas Patolojisi” Kursu E-AHPBA tarafında “Silver Seal Endorsement” desteği almıştır. Toplantı E-AHPBA tarafından da yayınlanacak olup sunumlar İngilizce gerçekleşecektir. Bölgesel toplantılarda olduğu gibi Zoom ve Youtube üzerinden yayınlanacak canlı yayın ülke genelinde takip edilebilecektir. Toplantı programı ve linklerine web sayfamızdan da ([www.hpb.org.tr](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fwww.hpb.org.tr\&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df\&rct=1741587629\&auth=a3e20052f9fde9378fdee7a16f59737fae102408-a99827047c97aa905012f74caacf306e2497d1c1)) ulaşabilirsiniz. Gündelik pratiğimizde pankreas hastalıklarının tanısında deneyimlediğimiz tüm güçlükleri patolojik, endoskopik, radyolojik ve cerrahi açıdan derinlemesine tartışma imkanı bulacağımız bu toplantıya yüz yüze katılma imkanı olan üyelerimizin [gtellioglu@kuh.ku.edu.tr](mailto:gtellioglu@kuh.ku.edu.tr) adresine mail atmasını rica ediyoruz. Toplantıya katılım ücretsizdir. Toplantı başlığı cerrahlar için olsa da pankreas alanında multidisipliner çalışma zorunluluğu nedeniyle radyolog, endoskopist ve patolog meslektaşlarımızın katılımı ile daha üretken bir toplantı olabileceği inancındayız.\
 Saygılarımızla.\
 Gürkan Tellioğlu\
