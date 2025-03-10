@@ -9,6 +9,16 @@ description: >-
 
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
 
+
+
+[https://compreps.wiki/](https://compreps.wiki/)&#x20;
+
+
+
+The Future of Immunohistochemistry [https://isimm.org/education/isimm-webinars/the-future-of-immunohistochemistry/](https://isimm.org/education/isimm-webinars/the-future-of-immunohistochemistry/)
+
+
+
 ISIMM Webinar - Clinical Implementation of Multiplex IHC/IF with Real World Diagnostic and Predictive Applications with Sanjay Patel [https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159\&id=8a9149050a\&e=01f46d65a4](https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159\&id=8a9149050a\&e=01f46d65a4)&#x20;
 
 
