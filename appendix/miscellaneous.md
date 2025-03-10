@@ -9,34 +9,40 @@ description: >-
 
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
 
+ISIMM Webinar - Clinical Implementation of Multiplex IHC/IF with Real World Diagnostic and Predictive Applications with Sanjay Patel [https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159\&id=8a9149050a\&e=01f46d65a4](https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159\&id=8a9149050a\&e=01f46d65a4)&#x20;
 
 
 
-8 Mart 2025 A persistent gender pay gap among faculty in a public university system [https://www.nature.com/articles/s41598-024-72871-5](https://www.nature.com/articles/s41598-024-72871-5)
+15 Mart Cumartesi günü Koç Üniversitesi hastanesi RMK AIMES Merkezinde gerçekleştirilecek “HPB Cerrahları için Pankreas Patolojisi” Kursu E-AHPBA tarafında “Silver Seal Endorsement” desteği almıştır. Toplantı E-AHPBA tarafından da yayınlanacak olup sunumlar İngilizce gerçekleşecektir. Bölgesel toplantılarda olduğu gibi Zoom ve Youtube üzerinden yayınlanacak canlı yayın ülke genelinde takip edilebilecektir. Toplantı programı ve linklerine web sayfamızdan da ([www.hpb.org.tr](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fwww.hpb.org.tr\&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df\&rct=1741587629\&auth=a3e20052f9fde9378fdee7a16f59737fae102408-a99827047c97aa905012f74caacf306e2497d1c1)) ulaşabilirsiniz. Gündelik pratiğimizde pankreas hastalıklarının tanısında deneyimlediğimiz tüm güçlükleri patolojik, endoskopik, radyolojik ve cerrahi açıdan derinlemesine tartışma imkanı bulacağımız bu toplantıya yüz yüze katılma imkanı olan üyelerimizin [gtellioglu@kuh.ku.edu.tr](mailto:gtellioglu@kuh.ku.edu.tr) adresine mail atmasını rica ediyoruz. Toplantıya katılım ücretsizdir. Toplantı başlığı cerrahlar için olsa da pankreas alanında multidisipliner çalışma zorunluluğu nedeniyle radyolog, endoskopist ve patolog meslektaşlarımızın katılımı ile daha üretken bir toplantı olabileceği inancındayız.\
+Saygılarımızla.\
+Gürkan Tellioğlu\
+Türk HPB Cerrahi Derneği\
+Genel Sekreteri [TOPLANTI PROGRAMI](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.hpb.org.tr%2fUploads%2fEditor%2ffiles%2fPancreas%2520pathology%2520for%2520HPB%2520surgeons%2520Program%2520son%25281%2529.pdf\&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df\&rct=1741587629\&auth=a3e20052f9fde9378fdee7a16f59737fae102408-05b341f8e693b4bcadeba5cf9f19bc4dba7fd813)
+
+Toplantı linkleri:Zoom link: [https://us02web.zoom.us/j/84663332415](https://us02web.zoom.us/j/84663332415) \
+YouTube link: [https://youtube.com/live/hK\_zUh-ZgCM?feature=share](https://youtube.com/live/hK_zUh-ZgCM?feature=share)
 
 
 
 
+
+
+
+
+
+
+
+
+
+A persistent gender pay gap among faculty in a public university system [https://www.nature.com/articles/s41598-024-72871-5](https://www.nature.com/articles/s41598-024-72871-5)
 
 Generative Artificial Intelligence in Anatomic Pathology [https://pubmed.ncbi.nlm.nih.gov/39836377/](https://pubmed.ncbi.nlm.nih.gov/39836377/)
 
-
-
 Reproducible image-based profiling with Pycytominer [https://www.nature.com/articles/s41592-025-02611-8](https://www.nature.com/articles/s41592-025-02611-8)
 
+ggplot2 extenders [https://ggplot2-extenders.github.io/ggplot-extension-club/meetings.html](https://ggplot2-extenders.github.io/ggplot-extension-club/meetings.html) [https://github.com/ggplot2-extenders/ggplot-extension-club/discussions](https://github.com/ggplot2-extenders/ggplot-extension-club/discussions)
 
-
-
-
-ggplot2 extenders [https://ggplot2-extenders.github.io/ggplot-extension-club/meetings.html](https://ggplot2-extenders.github.io/ggplot-extension-club/meetings.html) [https://github.com/ggplot2-extenders/ggplot-extension-club/discussions](https://github.com/ggplot2-extenders/ggplot-extension-club/discussions)&#x20;
-
-
-
-
-
-Multimodal histopathologic models stratify hormone receptor-positive early breast cancer [https://www.nature.com/articles/s41467-025-57283-x](https://www.nature.com/articles/s41467-025-57283-x)&#x20;
-
-
+Multimodal histopathologic models stratify hormone receptor-positive early breast cancer [https://www.nature.com/articles/s41467-025-57283-x](https://www.nature.com/articles/s41467-025-57283-x)
 
 SPIDER (Supervised Pathology Image-DEscription Repository)\
 [https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm_source=share\&utm_medium=member_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)\
@@ -44,27 +50,9 @@ SPIDER (Supervised Pathology Image-DEscription Repository)\
 [https://huggingface.co/histai](https://huggingface.co/histai)\
 [https://arxiv.org/abs/2503.02876](https://arxiv.org/abs/2503.02876)
 
-
-
-
-
 [https://www.cancergrandchallenges.org/ai-human-collaborations-in-cancer](https://www.cancergrandchallenges.org/ai-human-collaborations-in-cancer)
 
-
-
-
-
-
-
-
-
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 Hastaların %53'ü müdavi hekiminden daha önce patoloji raporlarına ulaşmış.\
 Bunun sıkıntılı yanları da var.\
@@ -76,19 +64,9 @@ Bunun sıkıntılı yanları da var.\
 
 {% embed url="https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg" %}
 
-
-
-
-
-
-
 2023 Classic Lectures in Pathology: What You Need to Know: Lung Pathology - A CME Teaching Activity [https://www.youtube.com/watch?v=du7Y6nfKwd8](https://www.youtube.com/watch?v=du7Y6nfKwd8)
 
 {% embed url="https://www.youtube.com/watch?v=du7Y6nfKwd8" %}
-
-
-
-
 
 Pathology in the artificial intelligence era: Guiding innovation and implementation to preserve human insight [https://www.sciencedirect.com/science/article/pii/S2374289525000089](https://www.sciencedirect.com/science/article/pii/S2374289525000089)
 
@@ -306,10 +284,4 @@ What can men do against such reckless hate [https://www.youtube.com/watch?v=t6qQ
 
 {% embed url="https://www.youtube.com/watch?v=t6qQSll7InQ" %}
 
-
-
-
-
-Bu federasyonun yeni çalışması https://turkpath.org.tr/files/pdf/rehber.pdf PBYS için önerilen özelliklere bakın. 
-bu ise benim notlarımın bulunduğu sayfa https://www.parapathology.com/laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri zamanında ben bu şartnameyi hazırlamıştım. 2011 olmalı. O sırada kalite komisyonundaydım. Bir örneğini vermiştim komisyona. Çok da bir ilerleme kaydedememişler görünen o ki. Bari referans verselerdi.
-
+Bu federasyonun yeni çalışması https://turkpath.org.tr/files/pdf/rehber.pdf PBYS için önerilen özelliklere bakın. bu ise benim notlarımın bulunduğu sayfa https://www.parapathology.com/laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri zamanında ben bu şartnameyi hazırlamıştım. 2011 olmalı. O sırada kalite komisyonundaydım. Bir örneğini vermiştim komisyona. Çok da bir ilerleme kaydedememişler görünen o ki. Bari referans verselerdi.
