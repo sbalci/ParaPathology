@@ -11,6 +11,34 @@ description: >-
 
 
 
+Digital mapping of resected cancer specimens: The visual pathology report [https://www.sciencedirect.com/science/article/pii/S2153353924000385](https://www.sciencedirect.com/science/article/pii/S2153353924000385)&#x20;
+
+{% embed url="https://www.sciencedirect.com/science/article/pii/S2153353924000385" %}
+
+
+
+Implementing digital pathology: qualitative and financial insights from eight leading European laboratories [https://link.springer.com/article/10.1007/s00428-025-04064-y](https://link.springer.com/article/10.1007/s00428-025-04064-y)&#x20;
+
+{% embed url="https://link.springer.com/article/10.1007/s00428-025-04064-y" %}
+
+Robust sensitivity control in digital pathology via tile score distribution matching [https://arxiv.org/abs/2502.20144](https://arxiv.org/abs/2502.20144)&#x20;
+
+
+
+Distilling foundation models for robust and efficient models in digital pathology [https://arxiv.org/abs/2501.16239](https://arxiv.org/abs/2501.16239)&#x20;
+
+
+
+
+
+
+
+
+
+
+
+
+
 [https://compreps.wiki/](https://compreps.wiki/)&#x20;
 
 
