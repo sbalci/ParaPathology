@@ -11,6 +11,30 @@ description: >-
 
 
 
+
+
+
+
+
+
+<figure><img src="../.gitbook/assets/1742316001172.jpg" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.linkedin.com/posts/patrick-myles-406a4628_yesterdays-webinar-with-rajendra-singh-md-activity-7307802976704729089-JpsB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Digital mapping of resected cancer specimens: The visual pathology report [https://www.sciencedirect.com/science/article/pii/S2153353924000385](https://www.sciencedirect.com/science/article/pii/S2153353924000385)&#x20;
 
 {% embed url="https://www.sciencedirect.com/science/article/pii/S2153353924000385" %}

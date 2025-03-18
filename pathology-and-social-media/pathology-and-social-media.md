@@ -10,19 +10,19 @@
 * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
 * Gross pathology
 
-#Grosspath
+\#Grosspath
 
 * Pathologist selfies at the USCAP annual meeting
 
-#IamUSCAP
+\#IamUSCAP
 
 * USCAP annual meeting live tweet group
 
-#InSituPathologists
+\#InSituPathologists
 
 * Laboratory medicine
 
-#Labmed
+\#Labmed
 
 * Artistic or aesthetically beautiful pathology images #PathArt
 
@@ -32,79 +32,79 @@
 
 * Pearls for pathology board exam studying
 
-#PathBoards
+\#PathBoards
 
 * General pathology hashtag
 
-#Pathologists
+\#Pathologists
 
 * General pathology hashtag
 
-#Pathology
+\#Pathology
 
 * Pathology resident–specific information
 
-#PathResidents
+\#PathResidents
 
 * USCAP interactive microscopy course live tweets
 
-#USCAPInteractive
+\#USCAPInteractive
 
 * Work and personal lives of pathologists
 
-#IlookLikeAPathologist
+\#IlookLikeAPathologist
 
 * Autopsy pathology
 
-#Autopsy
+\#Autopsy
 
 * Blood banking and transfusion medicine
 
-#BloodBank
+\#BloodBank
 
 * Breast pathology
 
-#BreastPath
+\#BreastPath
 
 * Bone and soft tissue pathology
 
-#BSTpath or #BST
+\#BSTpath or #BST
 
 * Cardiovascular pathology
 
-#CardiacPath
+\#CardiacPath
 
 * Clinical pathology
 
-#ClinPath
+\#ClinPath
 
 * Cytopathology
 
-#Cytopath
+\#Cytopath
 
 * Dermatopathology
 
-#Dermpath
+\#Dermpath
 
 * Endocrine pathology
 
-#EndoPath
+\#EndoPath
 
 * Head and neck pathology
 
-#ENTPath
+\#ENTPath
 
 * Ophthalmic pathology
 
-#EyePath
+\#EyePath
 
 * Fine-needle aspirate (FNA) cytopathology
 
-#FNApath
+\#FNApath
 
 * Forensic pathology and forensics
 
-#ForensicPath
+\#ForensicPath
 
 * Gastrointestinal and liver pathology #GIPath
 
@@ -114,23 +114,23 @@
 
 * Genitourinary pathology
 
-#GUPath
+\#GUPath
 
 * Gynecologic pathology
 
-#Gynpath
+\#Gynpath
 
 * Hematopathology
 
-#HemePath
+\#HemePath
 
 * Molecular pathology
 
-#MolDx
+\#MolDx
 
 * Neuropathology
 
-#NeuroPath
+\#NeuroPath
 
 * Oral pathology
 
@@ -138,25 +138,25 @@
 
 [https://twitter.com/search?q=%23oralpath\&src=typd](https://twitter.com/search?q=%23oralpath\&src=typd)
 
-#OralPath
+\#OralPath
 
 * Pathology informatics
 
-#PathInformatics
+\#PathInformatics
 
 * Pediatric pathology
 
-#PediPath
+\#PediPath
 
 * Pulmonary and pleural pathology
 
 [https://twitter.com/i/moments/924606762342342657](https://twitter.com/i/moments/924606762342342657)
 
-#PulmPath
+\#PulmPath
 
 * Renal and medical kidney pathology
 
-#RenalPath #nephropath
+\#RenalPath #nephropath
 
 [https://twitter.com/i/moments/927503682777878530](https://twitter.com/i/moments/927503682777878530)
 
@@ -194,7 +194,7 @@
 
 * Infectious Disease Pathology
 
-#IDpath #pathbugs #crittersontwitter
+\#IDpath #pathbugs #crittersontwitter
 
 [https://twitter.com/i/moments/924595007058796544](https://twitter.com/i/moments/924595007058796544)
 
@@ -202,11 +202,11 @@
 
 [https://twitter.com/i/moments/977912082996826112](https://twitter.com/i/moments/977912082996826112)
 
-* [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
+* [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text\&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
 
 [https://twitter.com/catchthebaby/status/935202907229536256](https://twitter.com/catchthebaby/status/935202907229536256)
 
-* There is a "poison pawn" in [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245368955679) for physicians.
+* There is a "poison pawn" in [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text\&story_id=10155245368955679) for physicians.
 
 It aggravates ones desire to be famous. One starts to comment on things which they are not expert on; retweets diagnosis/ research/ comments that they are not expert on/ knowledgeable enough. Beware again.
 
@@ -232,20 +232,19 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 * HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
-[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf)
+[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
 
 ## Articles
 
 * Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
-[https://www.eu-focus.europeanurology.com/article/S2405-4569(16)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569%2816%2930008-6/fulltext)
+[https://www.eu-focus.europeanurology.com/article/S2405-4569(16)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext)
 
 * Tweets, and Our Obsession with Alt Metrics
 
 [https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/](https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/)
 
-* How to use Twitter to further your research career
-The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
+* How to use Twitter to further your research career The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
 
 [https://www.nature.com/articles/d41586-019-00535-w](https://www.nature.com/articles/d41586-019-00535-w)
 
@@ -263,28 +262,28 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 * Case Reports in the Age of Twitter
 
-[https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343%2819%2930329-8/fulltext)
+[https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext)
 
-* [https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash)
-* [https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash)
-* [https://twitter.com/search?f=tweets&q=%23rstats&src=typd](https://twitter.com/search?f=tweets&q=%23rstats&src=typd)
-* 
-    * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
+* [https://twitter.com/hashtag/computationalpathology?f=tweets\&vertical=default\&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets\&vertical=default\&src=hash)
+* [https://twitter.com/hashtag/digitalpathology?f=tweets\&vertical=default\&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets\&vertical=default\&src=hash)
+* [https://twitter.com/search?f=tweets\&q=%23rstats\&src=typd](https://twitter.com/search?f=tweets\&q=%23rstats\&src=typd)
+*
+  * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
 * Gross pathology
 
-#Grosspath
+\#Grosspath
 
 * Pathologist selfies at the USCAP annual meeting
 
-#IamUSCAP
+\#IamUSCAP
 
 * USCAP annual meeting live tweet group
 
-#InSituPathologists
+\#InSituPathologists
 
 * Laboratory medicine
 
-#Labmed
+\#Labmed
 
 * Artistic or aesthetically beautiful pathology images #PathArt
 
@@ -294,79 +293,79 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 * Pearls for pathology board exam studying
 
-#PathBoards
+\#PathBoards
 
 * General pathology hashtag
 
-#Pathologists
+\#Pathologists
 
 * General pathology hashtag
 
-#Pathology
+\#Pathology
 
 * Pathology resident–specific information
 
-#PathResidents
+\#PathResidents
 
 * USCAP interactive microscopy course live tweets
 
-#USCAPInteractive
+\#USCAPInteractive
 
 * Work and personal lives of pathologists
 
-#IlookLikeAPathologist
+\#IlookLikeAPathologist
 
 * Autopsy pathology
 
-#Autopsy
+\#Autopsy
 
 * Blood banking and transfusion medicine
 
-#BloodBank
+\#BloodBank
 
 * Breast pathology
 
-#BreastPath
+\#BreastPath
 
 * Bone and soft tissue pathology
 
-#BSTpath or #BST
+\#BSTpath or #BST
 
 * Cardiovascular pathology
 
-#CardiacPath
+\#CardiacPath
 
 * Clinical pathology
 
-#ClinPath
+\#ClinPath
 
 * Cytopathology
 
-#Cytopath
+\#Cytopath
 
 * Dermatopathology
 
-#Dermpath
+\#Dermpath
 
 * Endocrine pathology
 
-#EndoPath
+\#EndoPath
 
 * Head and neck pathology
 
-#ENTPath
+\#ENTPath
 
 * Ophthalmic pathology
 
-#EyePath
+\#EyePath
 
 * Fine-needle aspirate (FNA) cytopathology
 
-#FNApath
+\#FNApath
 
 * Forensic pathology and forensics
 
-#ForensicPath
+\#ForensicPath
 
 * Gastrointestinal and liver pathology #GIPath
 
@@ -376,23 +375,23 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 * Genitourinary pathology
 
-#GUPath
+\#GUPath
 
 * Gynecologic pathology
 
-#Gynpath
+\#Gynpath
 
 * Hematopathology
 
-#HemePath
+\#HemePath
 
 * Molecular pathology
 
-#MolDx
+\#MolDx
 
 * Neuropathology
 
-#NeuroPath
+\#NeuroPath
 
 * Oral pathology
 
@@ -400,25 +399,25 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 [https://twitter.com/search?q=%23oralpath\&src=typd](https://twitter.com/search?q=%23oralpath\&src=typd)
 
-#OralPath
+\#OralPath
 
 * Pathology informatics
 
-#PathInformatics
+\#PathInformatics
 
 * Pediatric pathology
 
-#PediPath
+\#PediPath
 
 * Pulmonary and pleural pathology
 
 [https://twitter.com/i/moments/924606762342342657](https://twitter.com/i/moments/924606762342342657)
 
-#PulmPath
+\#PulmPath
 
 * Renal and medical kidney pathology
 
-#RenalPath #nephropath
+\#RenalPath #nephropath
 
 [https://twitter.com/i/moments/927503682777878530](https://twitter.com/i/moments/927503682777878530)
 
@@ -456,7 +455,7 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 * Infectious Disease Pathology
 
-#IDpath #pathbugs #crittersontwitter
+\#IDpath #pathbugs #crittersontwitter
 
 [https://twitter.com/i/moments/924595007058796544](https://twitter.com/i/moments/924595007058796544)
 
@@ -464,11 +463,11 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 [https://twitter.com/i/moments/977912082996826112](https://twitter.com/i/moments/977912082996826112)
 
-* [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
+* [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text\&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
 
 [https://twitter.com/catchthebaby/status/935202907229536256](https://twitter.com/catchthebaby/status/935202907229536256)
 
-* There is a "poison pawn" in [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245368955679) for physicians.
+* There is a "poison pawn" in [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text\&story_id=10155245368955679) for physicians.
 
 It aggravates ones desire to be famous. One starts to comment on things which they are not expert on; retweets diagnosis/ research/ comments that they are not expert on/ knowledgeable enough. Beware again.
 
@@ -492,18 +491,17 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
-[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf)
+[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
 
 Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
-[https://www.eu-focus.europeanurology.com/article/S2405-4569(16)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569%2816%2930008-6/fulltext)
+[https://www.eu-focus.europeanurology.com/article/S2405-4569(16)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext)
 
 Tweets, and Our Obsession with Alt Metrics
 
 [https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/](https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/)
 
-* How to use Twitter to further your research career
-The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
+* How to use Twitter to further your research career The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
 
 [https://www.nature.com/articles/d41586-019-00535-w](https://www.nature.com/articles/d41586-019-00535-w)
 
@@ -521,30 +519,30 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 * Case Reports in the Age of Twitter
 
-[https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343%2819%2930329-8/fulltext)
+[https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext)
 
-Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=twsrc%5Etfw) \- when you have more twitter followers than you have cumulative citations in the peer reviewed literature\, it’s time to get off of social media and write more papers\! [#KardashianIndex](https://twitter.com/hashtag/KardashianIndex?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LJAsY2dMcc](https://t.co/LJAsY2dMcc)— Philip Payne (@prpayne5) [May 16, 2019](https://twitter.com/prpayne5/status/1129095738003283969?ref_src=twsrc%5Etfw)
+Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash\&ref_src=twsrc%5Etfw) - when you have more twitter followers than you have cumulative citations in the peer reviewed literature, it’s time to get off of social media and write more papers! [#KardashianIndex](https://twitter.com/hashtag/KardashianIndex?src=hash\&ref_src=twsrc%5Etfw) [pic.twitter.com/LJAsY2dMcc](https://t.co/LJAsY2dMcc)— Philip Payne (@prpayne5) [May 16, 2019](https://twitter.com/prpayne5/status/1129095738003283969?ref_src=twsrc%5Etfw)
 
-* [https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets&vertical=default&src=hash)
-* [https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets&vertical=default&src=hash)
-* [https://twitter.com/search?f=tweets&q=%23rstats&src=typd](https://twitter.com/search?f=tweets&q=%23rstats&src=typd)
-* 
-    * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
+* [https://twitter.com/hashtag/computationalpathology?f=tweets\&vertical=default\&src=hash](https://twitter.com/hashtag/computationalpathology?f=tweets\&vertical=default\&src=hash)
+* [https://twitter.com/hashtag/digitalpathology?f=tweets\&vertical=default\&src=hash](https://twitter.com/hashtag/digitalpathology?f=tweets\&vertical=default\&src=hash)
+* [https://twitter.com/search?f=tweets\&q=%23rstats\&src=typd](https://twitter.com/search?f=tweets\&q=%23rstats\&src=typd)
+*
+  * [http://www.symplur.com/healthcare-hashtags/ontology/pathology/](http://www.symplur.com/healthcare-hashtags/ontology/pathology/)
 * Gross pathology
 
-#Grosspath
+\#Grosspath
 
 * Pathologist selfies at the USCAP annual meeting
 
-#IamUSCAP
+\#IamUSCAP
 
 * USCAP annual meeting live tweet group
 
-#InSituPathologists
+\#InSituPathologists
 
 * Laboratory medicine
 
-#Labmed
+\#Labmed
 
 * Artistic or aesthetically beautiful pathology images #PathArt
 
@@ -554,79 +552,79 @@ Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=tw
 
 * Pearls for pathology board exam studying
 
-#PathBoards
+\#PathBoards
 
 * General pathology hashtag
 
-#Pathologists
+\#Pathologists
 
 * General pathology hashtag
 
-#Pathology
+\#Pathology
 
 * Pathology resident–specific information
 
-#PathResidents
+\#PathResidents
 
 * USCAP interactive microscopy course live tweets
 
-#USCAPInteractive
+\#USCAPInteractive
 
 * Work and personal lives of pathologists
 
-#IlookLikeAPathologist
+\#IlookLikeAPathologist
 
 * Autopsy pathology
 
-#Autopsy
+\#Autopsy
 
 * Blood banking and transfusion medicine
 
-#BloodBank
+\#BloodBank
 
 * Breast pathology
 
-#BreastPath
+\#BreastPath
 
 * Bone and soft tissue pathology
 
-#BSTpath or #BST
+\#BSTpath or #BST
 
 * Cardiovascular pathology
 
-#CardiacPath
+\#CardiacPath
 
 * Clinical pathology
 
-#ClinPath
+\#ClinPath
 
 * Cytopathology
 
-#Cytopath
+\#Cytopath
 
 * Dermatopathology
 
-#Dermpath
+\#Dermpath
 
 * Endocrine pathology
 
-#EndoPath
+\#EndoPath
 
 * Head and neck pathology
 
-#ENTPath
+\#ENTPath
 
 * Ophthalmic pathology
 
-#EyePath
+\#EyePath
 
 * Fine-needle aspirate (FNA) cytopathology
 
-#FNApath
+\#FNApath
 
 * Forensic pathology and forensics
 
-#ForensicPath
+\#ForensicPath
 
 * Gastrointestinal and liver pathology #GIPath
 
@@ -636,23 +634,23 @@ Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=tw
 
 * Genitourinary pathology
 
-#GUPath
+\#GUPath
 
 * Gynecologic pathology
 
-#Gynpath
+\#Gynpath
 
 * Hematopathology
 
-#HemePath
+\#HemePath
 
 * Molecular pathology
 
-#MolDx
+\#MolDx
 
 * Neuropathology
 
-#NeuroPath
+\#NeuroPath
 
 * Oral pathology
 
@@ -660,25 +658,25 @@ Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=tw
 
 [https://twitter.com/search?q=%23oralpath\&src=typd](https://twitter.com/search?q=%23oralpath\&src=typd)
 
-#OralPath
+\#OralPath
 
 * Pathology informatics
 
-#PathInformatics
+\#PathInformatics
 
 * Pediatric pathology
 
-#PediPath
+\#PediPath
 
 * Pulmonary and pleural pathology
 
 [https://twitter.com/i/moments/924606762342342657](https://twitter.com/i/moments/924606762342342657)
 
-#PulmPath
+\#PulmPath
 
 * Renal and medical kidney pathology
 
-#RenalPath #nephropath
+\#RenalPath #nephropath
 
 [https://twitter.com/i/moments/927503682777878530](https://twitter.com/i/moments/927503682777878530)
 
@@ -716,7 +714,7 @@ Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=tw
 
 * Infectious Disease Pathology
 
-#IDpath #pathbugs #crittersontwitter
+\#IDpath #pathbugs #crittersontwitter
 
 [https://twitter.com/i/moments/924595007058796544](https://twitter.com/i/moments/924595007058796544)
 
@@ -724,11 +722,11 @@ Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash&ref_src=tw
 
 [https://twitter.com/i/moments/977912082996826112](https://twitter.com/i/moments/977912082996826112)
 
-* [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
+* [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text\&story_id=10155245253385679) is being used by charlatans claiming to be physicians/ scientists/ experts. Beware
 
 [https://twitter.com/catchthebaby/status/935202907229536256](https://twitter.com/catchthebaby/status/935202907229536256)
 
-* There is a "poison pawn" in [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text&story_id=10155245368955679) for physicians.
+* There is a "poison pawn" in [#SoMe](https://www.facebook.com/hashtag/some?source=feed_text\&story_id=10155245368955679) for physicians.
 
 It aggravates ones desire to be famous. One starts to comment on things which they are not expert on; retweets diagnosis/ research/ comments that they are not expert on/ knowledgeable enough. Beware again.
 
@@ -752,18 +750,17 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 HEKİMLER İLE SAĞLIK KURUM VE KURULUŞLARININ ELEKTRONİK ORTAMLARDAKİ PAYLAŞIMLARINA İLİŞKİN KILAVUZ
 
-[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf)
+[http://www.ttb.org.tr/images/stories/haberler/file/etik\_ihlaller\_kilavuzu.pdf](http://www.ttb.org.tr/images/stories/haberler/file/etik_ihlaller_kilavuzu.pdf)
 
 Introducing the Twitter Impact Factor: An Objective Measure of Urology's Academic Impact on Twitter
 
-[https://www.eu-focus.europeanurology.com/article/S2405-4569(16)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569%2816%2930008-6/fulltext)
+[https://www.eu-focus.europeanurology.com/article/S2405-4569(16)30008-6/fulltext](https://www.eu-focus.europeanurology.com/article/S2405-4569\(16\)30008-6/fulltext)
 
 Tweets, and Our Obsession with Alt Metrics
 
 [https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/](https://scholarlykitchen.sspnet.org/2012/01/04/tweets-and-our-obsession-with-alt-metrics/)
 
-* How to use Twitter to further your research career
-The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
+* How to use Twitter to further your research career The social-media platform is often a tool for procrastination, says Jet-Sing M. Lee. But what else can it be?
 
 [https://www.nature.com/articles/d41586-019-00535-w](https://www.nature.com/articles/d41586-019-00535-w)
 
@@ -781,4 +778,4 @@ The social-media platform is often a tool for procrastination, says Jet-Sing M. 
 
 * Case Reports in the Age of Twitter
 
-[https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343%2819%2930329-8/fulltext)
+[https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext)
