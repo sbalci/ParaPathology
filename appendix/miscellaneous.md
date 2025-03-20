@@ -11,6 +11,18 @@ description: >-
 
 
 
+Malatya’dan Boston’a bilim köprüsü [https://vimeo.com/880168375](https://vimeo.com/880168375)
+
+{% embed url="https://vimeo.com/880168375" %}
+
+[https://www.tayfunsonmez.net/](https://www.tayfunsonmez.net/)
+
+
+
+{% embed url="https://www.tayfunsonmez.net/" %}
+
+
+
 
 
 
