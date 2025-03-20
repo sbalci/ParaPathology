@@ -11,6 +11,28 @@ description: >-
 
 
 
+
+
+
+
+[https://github.com/Slicer/Slicer](https://github.com/Slicer/Slicer)
+
+[https://github.com/gaoyi/SlicerBigImage](https://github.com/gaoyi/SlicerBigImage)
+
+[https://slicerscope.github.io/documents.html](https://slicerscope.github.io/documents.html)
+
+[https://www.youtube.com/watch?v=oHwHXa\_ROqs](https://www.youtube.com/watch?v=oHwHXa_ROqs)
+
+{% embed url="https://www.youtube.com/watch?v=oHwHXa_ROqs" %}
+
+
+
+
+
+
+
+
+
 Malatya’dan Boston’a bilim köprüsü [https://vimeo.com/880168375](https://vimeo.com/880168375)
 
 {% embed url="https://vimeo.com/880168375" %}
