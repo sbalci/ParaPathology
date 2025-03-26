@@ -15,6 +15,22 @@ description: >-
 
 
 
+
+
+
+
+
+
+***
+
+Adenomyoma/adenomyomatosis-associated mural intracholecystic neoplasms: analysis of clinico-pathologic, imaging, and molecular features of a consecutive case series [https://link.springer.com/article/10.1007/s00428-025-04077-7](https://link.springer.com/article/10.1007/s00428-025-04077-7)&#x20;
+
+***
+
+Multiplex Immunohistochemistry and Immunofluorescence: A Practical Update for Pathologists [https://www.modernpathology.org/article/S0893-3952(23)00102-3/fulltext](https://www.modernpathology.org/article/S0893-3952\(23\)00102-3/fulltext)
+
+***
+
 [https://github.com/Slicer/Slicer](https://github.com/Slicer/Slicer)
 
 [https://github.com/gaoyi/SlicerBigImage](https://github.com/gaoyi/SlicerBigImage)
