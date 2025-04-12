@@ -15,9 +15,17 @@ description: >-
 
 
 
+***
 
+When reading slides this is the nightmare of the pathologist.&#x20;
 
+<figure><img src="../.gitbook/assets/when-the-eyes-and-brain-are-disconnected.png" alt=""><figcaption></figcaption></figure>
 
+***
+
+Klinik korelasyon önerilir: [https://www.instagram.com/reel/DITA4YzocA8/](https://www.instagram.com/reel/DITA4YzocA8/)
+
+{% embed url="https://www.instagram.com/reel/DITA4YzocA8/" %}
 
 
 
