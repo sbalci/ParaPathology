@@ -17,6 +17,12 @@ description: >-
 
 ***
 
+[https://www.instagram.com/p/DIl8X6IuUIX/](https://www.instagram.com/p/DIl8X6IuUIX/)
+
+{% embed url="https://www.instagram.com/p/DIl8X6IuUIX/" %}
+
+***
+
 When reading slides this is the nightmare of the pathologist.&#x20;
 
 <figure><img src="../.gitbook/assets/when-the-eyes-and-brain-are-disconnected.png" alt=""><figcaption></figcaption></figure>
