@@ -19,7 +19,11 @@ description: >-
 
 
 
+***
 
+Annotating for Artificial Intelligence Applications in Digital Pathology: A Practical Guide for Pathologists and Researchers [https://pubmed.ncbi.nlm.nih.gov/36788085/](https://pubmed.ncbi.nlm.nih.gov/36788085/) [https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0](https://linkinghub.elsevier.com/retrieve/pii/S0893-3952\(22\)05526-0)&#x20;
+
+{% embed url="https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0" %}
 
 
 
