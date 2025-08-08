@@ -12,6 +12,16 @@ description: >-
 
 
 
+son IT toplantısı sonrası projeler için görüntü alabilme sürecinin özeti: https://x.com/reha37/status/1953387798607581439 
+
+{% embed url="https://x.com/reha37/status/1953387798607581439" %}
+
+
+
+
+
+
+
 8 Mart 2025 A persistent gender pay gap among faculty in a public university system [https://www.nature.com/articles/s41598-024-72871-5](https://www.nature.com/articles/s41598-024-72871-5)
 
 
