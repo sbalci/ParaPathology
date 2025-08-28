@@ -14,6 +14,39 @@ description: >-
 
 ***
 
+
+
+While observing the #digitalpathology AI ecosystem is changing, while the world is getting close to verse 2/30 :( 
+
+I am getting help for code documentation and error fixing in my #jamovi jamovi module development. 
+
+I have tried #vibecoding also but it made me feeling detached from the product.
+
+Recently I started learning using slash command of claude CLI Claude Anthropic  
+
+Ironically I found OpenAI chatGPT more helpful in developing the commands than the claude itself.
+
+Anyway. One of the recent commands I use is review-article-stats
+
+https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/.claude/commands/review-article-stats.md
+
+
+If I give an article pdf or md file as an argument, it reviews the article, extracts the statistical methods, make critics on them, then compares whisch of these methods are possible to be done via jamovi module. It generates a report
+
+
+https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/literature/s13000-025-01708-0-citation-review.md 
+
+
+identify gaps in jamovi module and suggests additions or enhancements to the functions. 
+
+If only I could combine these with an n8n/LangGraph workflow to recently published articles :) 
+
+
+
+
+
+***
+
 son IT toplantısı sonrası projeler için görüntü alabilme sürecinin özeti: https://x.com/reha37/status/1953387798607581439 
 
 {% embed url="https://x.com/reha37/status/1953387798607581439" %}
