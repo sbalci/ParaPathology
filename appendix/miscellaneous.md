@@ -12,6 +12,13 @@ description: >-
 
 
 
+
+***
+
+On delusional personalities in pathology
+[https://link.springer.com/article/10.1007/s00428-025-04037-1](https://link.springer.com/article/10.1007/s00428-025-04037-1)
+
+
 ***
 
 
