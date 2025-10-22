@@ -435,7 +435,7 @@ A deep-learning framework to predict cancer treatment response from histopatholo
 
 {% embed url="https://www.youtube.com/watch?v=HFEN9C20ceQ" %}
 
-**GI Path 2nd Opinion Club** will meet on 2/11 at 8AM EST. Please bring any GI/panc/liver case which you'd like to get opinions about. All cases are welcome. There is no expectation that the cases be "interesting." Please forward to anyone who may be interested. [https://zoom.us/j/91358942539?pwd=gs1A5c2Ln3K8d90qV4kRAGjCv1X3T7.1](https://zoom.us/j/91358942539?pwd=gs1A5c2Ln3K8d90qV4kRAGjCv1X3T7.1)
+
 
 **Artificial intelligence in digital pathology — time for a reality check**
 
