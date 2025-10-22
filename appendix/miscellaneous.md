@@ -10,6 +10,21 @@ description: >-
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
 
 
+---
+
+Whenever I read a #pathology methylation study, that perfectly classifies tumors, I recall this scene from The Matrix:
+
+> Tank: Here you go, buddy; "Breakfast of Champions."
+> Mouse: If you close your eyes, it almost feels like you're eating runny eggs.
+> Apoc: Yeah, or a bowl of snot.
+> Mouse: Do you know what it really reminds me of? Tasty Wheat. Did you ever eat Tasty Wheat?
+> Switch: No, but technically, neither did you.
+> Mouse: That's exactly my point. Exactly. Because you have to wonder: how do the machines know what Tasty Wheat tasted like? Maybe they got it wrong. Maybe what I think Tasty Wheat tasted like actually tasted like oatmeal, or tuna fish. That makes you wonder about a lot of things. You take chicken, for example: maybe they couldn't figure out what to make chicken taste like, which is why chicken tastes like everything.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2oEnJfZ9joY?si=8LIDZTViBRaTFvsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ***
 
