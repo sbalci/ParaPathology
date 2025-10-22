@@ -9,6 +9,14 @@ description: >-
 
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
 
+---
+
+Health care in the USA: money has become the mission https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From a new <a href="https://twitter.com/TheLancet?ref_src=twsrc%5Etfw">@TheLancet</a> article today entitled &quot;Health care in the USA: money has become the mission&quot; <a href="https://t.co/jAjrsgJ5Zn">https://t.co/jAjrsgJ5Zn</a> <a href="https://t.co/pCi21zDzpL">pic.twitter.com/pCi21zDzpL</a></p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1980768183012516330?ref_src=twsrc%5Etfw">October 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
 
 ---
 
