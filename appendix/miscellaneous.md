@@ -11,6 +11,13 @@ description: >-
 
 
 
+***
+
+Biomedical Natural Language Processing in the Era of Large Language Models   
+
+[https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-103123-095406](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-103123-095406)
+
+
 
 
 ***
