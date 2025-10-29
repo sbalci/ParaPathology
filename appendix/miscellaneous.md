@@ -20,6 +20,12 @@ Unbiased AI: Addressing Bias in Computational Pathology
 
 ---
 
+Health care in the USA: money has become the mission <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From a new <a href="https://twitter.com/TheLancet?ref_src=twsrc%5Etfw">@TheLancet</a> article today entitled &quot;Health care in the USA: money has become the mission&quot; <a href="https://t.co/jAjrsgJ5Zn">https://t.co/jAjrsgJ5Zn</a> <a href="https://t.co/pCi21zDzpL">pic.twitter.com/pCi21zDzpL</a></p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1980768183012516330?ref_src=twsrc%5Etfw">October 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 Whenever I read a #pathology methylation study, that perfectly classifies tumors, I recall this scene from The Matrix:
 
 > Tank: Here you go, buddy; "Breakfast of Champions."
@@ -33,7 +39,11 @@ Whenever I read a #pathology methylation study, that perfectly classifies tumors
 
 ---
 
-***
+Biomedical Natural Language Processing in the Era of Large Language Models
+
+[https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-103123-095406](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-103123-095406)
+
+---
 
 On delusional personalities in pathology
 [https://link.springer.com/article/10.1007/s00428-025-04037-1](https://link.springer.com/article/10.1007/s00428-025-04037-1)
@@ -334,8 +344,6 @@ A deep-learning framework to predict cancer treatment response from histopatholo
 **Panik Tanı** [https://www.youtube.com/watch?v=HFEN9C20ceQ](https://www.youtube.com/watch?v=HFEN9C20ceQ)
 
 {% embed url="<https://www.youtube.com/watch?v=HFEN9C20ceQ>" %}
-
-**GI Path 2nd Opinion Club** will meet on 2/11 at 8AM EST. Please bring any GI/panc/liver case which you'd like to get opinions about. All cases are welcome. There is no expectation that the cases be "interesting." Please forward to anyone who may be interested. [https://zoom.us/j/91358942539?pwd=gs1A5c2Ln3K8d90qV4kRAGjCv1X3T7.1](https://zoom.us/j/91358942539?pwd=gs1A5c2Ln3K8d90qV4kRAGjCv1X3T7.1)
 
 **Artificial intelligence in digital pathology — time for a reality check**
 
