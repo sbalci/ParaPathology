@@ -11,25 +11,24 @@ description: >-
 
 ---
 
-Digital Slide Archive  
-https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr  
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CZfZhaKr_eoEOEri&amp;list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+Digital Immunophenotyping of Lung Atypical Carcinoids and Large Cell Neuroendocrine Carcinomas Identifies Three Subtypes With Specific Tumor-Immune Microenvironment Features  
+<https://link.springer.com/article/10.1007/s12022-025-09886-9>  
 
 ---
 
+Digital Slide Archive  
+<https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr>  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CZfZhaKr_eoEOEri&amp;list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 HistomicsTK  
-https://www.youtube.com/playlist?list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx  
+<https://www.youtube.com/playlist?list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx>  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=39HVItBNjyj3k6M2&amp;list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-
-
 
 Deep Learning-Based Segmentation of Lung Adenocarcinoma Whole Slide Images for Objective Grading, STAS Identification, and Mutation Prediction  
 <https://www.modernpathology.org/article/S0893-3952(25)00205-4/abstract>  
