@@ -11,6 +11,16 @@ description: >-
 
 ---
 
+Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer   
+https://www.nature.com/articles/s41467-025-64712-4  
+https://github.com/DBO-DKFZ/GleasonXAI  
+
+
+
+---
+
+
+
 Digital Slide Archive  
 https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr  
 
