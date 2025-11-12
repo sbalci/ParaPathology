@@ -11,6 +11,14 @@ description: >-
 
 ---
 
+Aerogenous Dissemination of DEK::AFF2 Carcinoma  
+A Prototype of a Previously Underrecognized Pattern of Endobronchial Metastasis From Extrathoracic Malignancies  
+The American Journal of Surgical Pathology ():10.1097/PAS.0000000000002479, November 10, 2025. | DOI: 10.1097/PAS.0000000000002479  
+https://journals.lww.com/ajsp/abstract/9900/aerogenous_dissemination_of_dek__aff2_carcinoma__a.590.aspx  
+
+
+---
+
 Digital Immunophenotyping of Lung Atypical Carcinoids and Large Cell Neuroendocrine Carcinomas Identifies Three Subtypes With Specific Tumor-Immune Microenvironment Features  
 <https://link.springer.com/article/10.1007/s12022-025-09886-9>  
 Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer   
