@@ -11,6 +11,16 @@ description: >-
 
 ---
 
+
+Top 5 Breakthroughs in Microscopy Image Analysis
+
+https://www.youtube.com/watch?v=GNc3-PnupaU
+
+
+
+
+---
+
 Aerogenous Dissemination of DEK::AFF2 Carcinoma  
 A Prototype of a Previously Underrecognized Pattern of Endobronchial Metastasis From Extrathoracic Malignancies  
 The American Journal of Surgical Pathology ():10.1097/PAS.0000000000002479, November 10, 2025. | DOI: 10.1097/PAS.0000000000002479  
