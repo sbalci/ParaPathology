@@ -141,15 +141,9 @@ https://www.mdpi.com/1999-4893/17/6/254
 
 Digital slide scanning at scale: Comparison of whole slide imaging devices in a clinical setting  
 https://www.sciencedirect.com/science/article/pii/S2153353925000318
-
-
----
-
-
-
-
-
-
+https://www.cell.com/cell/fulltext/S0092-8674(25)01312-1  
+https://huggingface.co/prov-gigatime/GigaTIME  
+https://github.com/prov-gigatime/GigaTIME  
 
 
 ---
