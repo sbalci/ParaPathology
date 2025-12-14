@@ -12,6 +12,125 @@ description: >-
 
 ---
 
+How to Train a State-of-the-Art Pathology Foundation Model with $1.6k  
+https://sophont.med/blog/openmidnight#introduction  
+
+
+SophontAI/OpenMidnight  
+https://huggingface.co/SophontAI/OpenMidnight  
+
+BreakHis Breast Cancer Classification  
+https://huggingface.co/spaces/SophontAI/OpenMidnightDemo  
+
+MedARC-AI/OpenMidnight/  
+https://github.com/MedARC-AI/OpenMidnight/  
+
+
+---
+
+Orthanc for WSI  
+https://orthanc.uclouvain.be/wsi/  
+
+
+---
+
+SlideRunner is a tool for massive cell annotations in whole slide images  
+https://github.com/DeepMicroscopy/SlideRunner  
+
+
+---
+
+Annotating for Artificial Intelligence Applications in Digital Pathology: A Practical Guide for Pathologists and Researchers  
+https://www.modernpathology.org/article/S0893-3952(22)05526-0/fulltext  
+https://www.sciencedirect.com/science/article/pii/S0893395222055260  
+
+---
+
+Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis  
+https://www.modernpathology.org/article/S0893-3952(23)00202-8/fulltext  
+https://www.sciencedirect.com/science/article/pii/S0893395223002028  
+
+
+---
+
+AI is quicker and more accurate than pathologists at SNOMED coding pathology reports  
+https://jcp.bmj.com/content/early/2025/10/13/jcp-2025-210320  
+
+
+---
+
+Development of a national pathology training system using digital pathology and SNOMED-CT  
+https://www.sciencedirect.com/science/article/pii/S2153353925000410  
+
+---
+
+An open-source platform for structured annotation and computational workflows in digital pathology research  
+https://www.nature.com/articles/s41598-025-13546-7  
+https://crs4.github.io/DigitalPathologyPlatform/  
+
+
+
+---
+
+
+
+Development of a national pathology training system using digital pathology and SNOMED-CT  
+https://pubmed.ncbi.nlm.nih.gov/40688393/  
+
+
+---
+
+Annotation Practices in Computational Pathology: A European Society of Digital and Integrative Pathology (ESDIP) Survey Study  
+https://www.laboratoryinvestigation.org/article/S0023-6837(24)01881-6/pdf  
+
+
+---
+
+
+Using Systemised Nomenclature of Medicine (SNOMED) codes to select digital pathology whole slide images for long-term archiving  
+https://pubmed.ncbi.nlm.nih.gov/36109157/  
+
+
+---
+
+
+Renal cell tumours with papillary architecture: evolving concepts, classification and new emerging entities  
+https://onlinelibrary.wiley.com/doi/ftr/10.1111/his.70008  
+
+
+---
+
+Molecularly defined renal cell carcinomas: practical approaches for surgical pathologists
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/his.70039 
+
+
+---
+
+
+Clear Cell Tumors of Kidney by Dr Sean R. Williamson, M.D  
+https://www.youtube.com/live/NTDB_GxQKC4  
+
+
+---
+
+OnSight Pathology A Real-Time platform-agnostic Pathology Companion. Bring AI Insights Directly To Your Workflow.  
+https://onsightpathology.github.io/#features  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 
 A deployment safety case for AI-assisted prostate cancer diagnosis  
 https://www.sciencedirect.com/science/article/pii/S0010482525005888  
