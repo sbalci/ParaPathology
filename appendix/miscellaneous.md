@@ -43,8 +43,42 @@ https://www.bbc.com/news/articles/ckgmy90z991o
 
 ---
 
+Gastric glomus tumour with positive DOG1 and synaptophysin expression: a diagnostic challenge  
+https://www.sciencedirect.com/science/article/pii/S1756231725001902  
+
+
+
+---
+
+
+
+Top 5 Breakthroughs in Microscopy Image Analysis
+
+https://www.youtube.com/watch?v=GNc3-PnupaU
+
+Histologic Features of Tacrolimus-induced Colonic Injury 
+https://pubmed.ncbi.nlm.nih.gov/34138798/
+
+
+
+---
+
+
+Aerogenous Dissemination of DEK::AFF2 Carcinoma  
+A Prototype of a Previously Underrecognized Pattern of Endobronchial Metastasis From Extrathoracic Malignancies  
+The American Journal of Surgical Pathology ():10.1097/PAS.0000000000002479, November 10, 2025. | DOI: 10.1097/PAS.0000000000002479  
+https://journals.lww.com/ajsp/abstract/9900/aerogenous_dissemination_of_dek__aff2_carcinoma__a.590.aspx  
+
+
+---
+
 Digital Immunophenotyping of Lung Atypical Carcinoids and Large Cell Neuroendocrine Carcinomas Identifies Three Subtypes With Specific Tumor-Immune Microenvironment Features  
 <https://link.springer.com/article/10.1007/s12022-025-09886-9>  
+
+
+---
+
+
 Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer   
 https://www.nature.com/articles/s41467-025-64712-4  
 https://github.com/DBO-DKFZ/GleasonXAI  
