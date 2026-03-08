@@ -12,6 +12,22 @@ description: >-
 
 ---
 
+AI cancer tools risk “shortcut learning” rather than detecting true biology  
+https://warwick.ac.uk/news/pressreleases/ai-cancer-tools-risk-shortcut-learning/
+
+Confounding factors and biases abound when predicting molecular biomarkers from histological images  
+https://www.nature.com/articles/s41551-026-01616-8
+
+
+---
+
+
+
+
+
+
+---
+
 How to Train a State-of-the-Art Pathology Foundation Model with $1.6k  
 https://sophont.med/blog/openmidnight#introduction  
 
