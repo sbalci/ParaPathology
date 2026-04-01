@@ -4,13 +4,13 @@
 
 {% embed url="https://www.youtube.com/watch?v=8U5qL4-Kf7w" %}
 
-#### [Bugs, sprue, drugs and more: adventures in the small intestine](https://www.youtube.com/watch?v=oZNH8z9-\_fU)
+#### [Bugs, sprue, drugs and more: adventures in the small intestine](https://www.youtube.com/watch?v=oZNH8z9-_fU)
 
 {% embed url="https://www.youtube.com/watch?v=oZNH8z9-_fU" %}
 
 #### Differential Diagnosis of the Flat Duodenal Biopsy
 
-![](<../../.gitbook/assets/ekran-resmi-2017-11-29-00.14.42 (2) (2) (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/ekran-resmi-2017-11-29-00.14.42 (2) (2) (2) (1).png>)
 
 #### \*\*\*\*
 

@@ -14,7 +14,7 @@
 
 * augmented reality
 
-[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister\_Crow/status/933000138552901632)
+[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister_Crow/status/933000138552901632)
 
 * For science illustration
 
@@ -26,7 +26,7 @@
 
 * Interesting Figures
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1) (1) (2).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1).png>)
 
 * For science illustration
 
@@ -34,11 +34,11 @@
 
 *
 
-[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister\_Crow/status/933000138552901632)
+[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister_Crow/status/933000138552901632)
 
 * Interesting Figures
 
-![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/ekran-resmi-2018-01-14-21.46.34 (2) (2) (2) (1).png>)
 
 * For science illustration
 

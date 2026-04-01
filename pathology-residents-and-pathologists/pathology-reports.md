@@ -36,13 +36,13 @@
   * Change thyoid tumor names (NIFTP)
 * **Patoloji Raporunda Yer Alan Tanılar Tekrarlanabilir mi? Are the Pathologic Diagnosis reproducible?**
 
-[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf)
+[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf_3.pdf)
 
 * **Hasta'ya açıklama içeren patoloji raporu**
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (1) (2).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -54,7 +54,7 @@ The FAQ initiative explaining pathology reports to patients
 
 ## The Complete Surgical Pathology Report
 
-[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11)
+[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
 
 ## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
@@ -112,13 +112,13 @@ The FAQ initiative explaining pathology reports to patients
   * Change thyoid tumor names (NIFTP)
 * **Patoloji Raporunda Yer Alan Tanılar Tekrarlanabilir mi? Are the Pathologic Diagnosis reproducible?**
 
-[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf)
+[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf_3.pdf)
 
 * **Hasta'ya açıklama içeren patoloji raporu**
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (1) (1).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -130,7 +130,7 @@ The FAQ initiative explaining pathology reports to patients
 
 ## The Complete Surgical Pathology Report
 
-[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11)
+[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
 
 ## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
@@ -190,13 +190,13 @@ The FAQ initiative explaining pathology reports to patients
   * Change thyoid tumor names (NIFTP)
 * **Patoloji Raporunda Yer Alan Tanılar Tekrarlanabilir mi? Are the Pathologic Diagnosis reproducible?**
 
-[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf)
+[http://guncelpatoloji.org/uploads/pdf/pdf\_3.pdf](http://guncelpatoloji.org/uploads/pdf/pdf_3.pdf)
 
 * **Hasta'ya açıklama içeren patoloji raporu**
 
 [https://twitter.com/TeamCaptainJohn/status/908456197740793856](https://twitter.com/TeamCaptainJohn/status/908456197740793856)
 
-![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1) (1) (2).jpg>)
+![](<../.gitbook/assets/ekran-resmi-2017-09-15-17.51.03 (2) (2) (2) (1).jpg>)
 
 The FAQ initiative explaining pathology reports to patients
 
@@ -208,7 +208,7 @@ The FAQ initiative explaining pathology reports to patients
 
 ## The Complete Surgical Pathology Report
 
-[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11)
+[https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7\_11](https://link.springer.com/chapter/10.1007%2F978-1-4939-2339-7_11)
 
 ## Pathologist Brings Patients Into the Lab to See Their Cancer Close-Up
 
@@ -236,8 +236,6 @@ The FAQ initiative explaining pathology reports to patients
 
 [https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5](https://www.forbes.com/sites/ritarubin/2017/12/29/patients-want-web-access-to-test-results-but-dont-want-to-have-to-be-a-doctor-to-understand-them/2/#4bd5717e3db5)
 
-
 ## Data set for the reporting of lung cancer: recommendations from the International Collaboration on Cancer Reporting (ICCR)
 
 https://onlinelibrary.wiley.com/doi/10.1111/his.15313
-
