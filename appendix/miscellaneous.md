@@ -17,6 +17,54 @@ description: >-
 352 Histological Diagnoses After Cholecystectomy for Benign Disease: Interim Results from the Feasibility of Predicting Incidental Gallbladder Cancer (fP-iGBC) Study  
 https://academic.oup.com/bjs/article/112/Supplement_17/znaf270.015/8406565  
 
+Using Consensus-Based Reasoning and Large Language Models to Extract Structured Data From Surgical Pathology Reports  
+
+https://www.laboratoryinvestigation.org/article/S0023-6837(25)00183-7/fulltext  
+
+
+
+
+
+
+
+
+
+---
+
+
+Tumor Deposits in Staging of Colorectal Cancer: Implications for Treatment Strategies  
+https://www.modernpathology.org/article/S0893-3952(26)00012-8/fulltext  
+
+
+
+
+
+
+
+---
+
+Color standardization in whole slide imaging: a method to reduce color variability  
+https://www.tandfonline.com/doi/full/10.1080/01478885.2026.2636401
+
+
+
+
+
+
+
+---
+
+AI cancer tools risk “shortcut learning” rather than detecting true biology  
+https://warwick.ac.uk/news/pressreleases/ai-cancer-tools-risk-shortcut-learning/
+
+Confounding factors and biases abound when predicting molecular biomarkers from histological images  
+https://www.nature.com/articles/s41551-026-01616-8
+
+
+---
+
+
+
 
 
 

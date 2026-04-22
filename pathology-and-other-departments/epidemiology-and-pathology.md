@@ -14,7 +14,7 @@
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
 * **Cancer Death Rates Decrease in Men, Women, and Children**
 
@@ -22,7 +22,7 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **References:**
 * [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
+* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm_content=sf39202571\&utm_medium=spredfast\&utm_source=twitter\&utm_campaign=National+Cancer+Institute\&cid=tw_NCIMain_nci_overdiagnosis_sf39202571)
 * [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
@@ -56,9 +56,9 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (1) (1) (2).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1) (1) (2).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg_large (2) (2) (2) (1).jpg>)
 * Automated Cancer Registry Notifications: Validation of a Medical Text Analytics System for Identifying Patients with Cancer from a State-Wide Pathology Repository.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/28269893](https://www.ncbi.nlm.nih.gov/pubmed/28269893)
@@ -69,7 +69,7 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
 * **Cancer Death Rates Decrease in Men, Women, and Children**
 
@@ -77,7 +77,7 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **References:**
 * [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
+* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm_content=sf39202571\&utm_medium=spredfast\&utm_source=twitter\&utm_campaign=National+Cancer+Institute\&cid=tw_NCIMain_nci_overdiagnosis_sf39202571)
 * [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
@@ -111,11 +111,11 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1).png>)
 
 *
 
-![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1) (2).jpg>)
+![](<../.gitbook/assets/dqztsbvuiaenskm.jpg_large (2) (2) (2) (1).jpg>)
 
 ## Epidemiology and Pathology
 
@@ -129,7 +129,7 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * Classification of Cancer-related Death Certificates using Machine Learning
 
-[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning)
+[https://www.researchgate.net/publication/237071357\_Classification\_of\_Cancer-related\_Death\_Certificates\_using\_Machine\_Learning](https://www.researchgate.net/publication/237071357_Classification_of_Cancer-related_Death_Certificates_using_Machine_Learning)
 
 * **Cancer Death Rates Decrease in Men, Women, and Children**
 
@@ -137,7 +137,7 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **References:**
 * [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571)
+* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm_content=sf39202571\&utm_medium=spredfast\&utm_source=twitter\&utm_campaign=National+Cancer+Institute\&cid=tw_NCIMain_nci_overdiagnosis_sf39202571)
 * [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
@@ -171,6 +171,6 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 [https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030](https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djx030)
 
-![](<../.gitbook/assets/980x (2) (2) (2) (1) (1) (1) (2).png>)
+![](<../.gitbook/assets/980x (2) (2) (2) (1).png>)
 
-* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg\_large (2) (2) (2) (1) (1) (1) (1).jpg>)
+* ![](<../.gitbook/assets/dqztsbvuiaenskm.jpg_large (2) (2) (2) (1).jpg>)
