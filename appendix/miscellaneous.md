@@ -10,6 +10,16 @@ description: >-
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
 
 
+
+
+---
+
+352 Histological Diagnoses After Cholecystectomy for Benign Disease: Interim Results from the Feasibility of Predicting Incidental Gallbladder Cancer (fP-iGBC) Study  
+https://academic.oup.com/bjs/article/112/Supplement_17/znaf270.015/8406565  
+
+
+
+
 ---
 
 How to Train a State-of-the-Art Pathology Foundation Model with $1.6k  
