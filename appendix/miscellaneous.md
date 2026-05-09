@@ -16,6 +16,13 @@ description: >-
 
 352 Histological Diagnoses After Cholecystectomy for Benign Disease: Interim Results from the Feasibility of Predicting Incidental Gallbladder Cancer (fP-iGBC) Study  
 https://academic.oup.com/bjs/article/112/Supplement_17/znaf270.015/8406565  
+https://www.canirun.ai/
+
+
+
+
+---
+
 
 Using Consensus-Based Reasoning and Large Language Models to Extract Structured Data From Surgical Pathology Reports  
 
