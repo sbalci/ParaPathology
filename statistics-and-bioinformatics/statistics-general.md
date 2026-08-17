@@ -1,9 +1,5 @@
 # Statistics General
 
-## Statistics General
-
-## Statistics General
-
 * More problematic sexual attraction research, this time with high heels
 
 [http://steamtraen.blogspot.com.tr/2017/12/more-problematic-sexual-attraction.html](http://steamtraen.blogspot.com.tr/2017/12/more-problematic-sexual-attraction.html)

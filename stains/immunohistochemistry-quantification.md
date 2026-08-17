@@ -1,9 +1,5 @@
 # Immunohistochemistry Quantification
 
-## Immunohistochemistry Quantification
-
-## Immunohistochemistry Quantification
-
 ## Immunohistochemistry quantification by a digital computer-assisted method compared to semiquantitative analysis.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/17072439](https://www.ncbi.nlm.nih.gov/pubmed/17072439)
@@ -37,4 +33,3 @@ Quantification of protein expression in cells and cellular subcompartments on im
 * **Evolution of Quality Assurance for Clinical Immunohistochemistry in the Era of Precision Medicine: Part 1: Fit-for-Purpose Approach to Classification of Clinical Immunohistochemistry Biomarkers.**
 
 [Appl Immunohistochem Mol Morphol.](https://www.ncbi.nlm.nih.gov/pubmed/27922482#) 2017 Jan;25\(1\):4-11. PMID: 27922482 DOI: [10.1097/PAI.0000000000000451](https://doi.org/10.1097/PAI.0000000000000451) [https://www.ncbi.nlm.nih.gov/pubmed/27922482](https://www.ncbi.nlm.nih.gov/pubmed/27922482)
-

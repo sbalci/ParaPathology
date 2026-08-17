@@ -1,7 +1,5 @@
 # Satranç
 
-## Satranç
-
 ## Chess
 
 ### AlphaZero vs. Stockfish
