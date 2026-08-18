@@ -127,8 +127,19 @@
 
 ## Pathology Tweets
 
-* [Pathology Tweets](pathology-tweets/pathology-tweets/README.md)
-  * [Pathology Tweets](pathology-tweets/pathology-tweets/pathtweets.md)
+* [Pathology Tweets](pathology-tweets/pathtweets.md)
+  * [TweetsForAutopsy1](pathology-tweets/tweetsForAutopsy1.md)
+  * [TweetsForAutopsy2](pathology-tweets/tweetsForAutopsy2.md)
+  * [TweetsForGrossPath8](pathology-tweets/tweetsForGrossPath8.md)
+  * [TweetsForGrossPath22](pathology-tweets/tweetsForGrossPath22.md)
+  * [TweetsForGrossPath31](pathology-tweets/tweetsForGrossPath31.md)
+  * [TweetsForGrossPath33](pathology-tweets/tweetsForGrossPath33.md)
+  * [TweetsForGrossPath46](pathology-tweets/tweetsForGrossPath46.md)
+  * [TweetsForGrossPath47](pathology-tweets/tweetsForGrossPath47.md)
+  * [TweetsForGrossPath49](pathology-tweets/tweetsForGrossPath49.md)
+  * [TweetsForOralPath14](pathology-tweets/tweetsForOralPath14.md)
+  * [TweetsForOralPath20](pathology-tweets/tweetsForOralPath20.md)
+  * [TweetsForOralPath21](pathology-tweets/tweetsForOralPath21.md)
 
 ## Taxonomy and Classification of Diseases
 
@@ -405,6 +416,16 @@
   * [Satranç](games/chess/satranc.md)
   * [Videos](games/chess/videos.md)
 
+## Theories and Frameworks
+
+* [Theories and Frameworks for Understanding Pathology Practice](theories/Theories%20and%20Frameworks%20for%20Understanding%20Pathology%20Practice.md)
+* [Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map](theories/Theoretical%20Frameworks%20for%20Understanding%20Pathology%20Practice.md)
+* [Pathology AI Integration: A Systems View](theories/Pathology%20AI%20Integration_%20A%20Systems%20View.md)
+
+## Social Topics
+
+* [Patoloji Pesrevi](social-topics/patoloji-pesrevi.md)
+
 ## Appendix
 
 * [Courses and MOOCs](appendix/courses-and-moocs.md)
@@ -416,4 +437,13 @@
 * [Yazmayıp da beslese miydik](appendix/yazmayip-da-beslese-miydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 * [Clippings](Clippings.md)
+  * [Artificial intelligence in digital pathology — time for a reality check - Nature Reviews Clinical Oncology](Clippings/Artificial%20intelligence%20in%20digital%20pathology%20%E2%80%94%20time%20for%20a%20reality%20check%20-%20Nature%20Reviews%20Clinical%20Oncology.md)
+  * [Digital and Computational Pathology Applications in Bladder Cancer: Novel Tools Addressing Clinically Pressing Needs](Clippings/Digital%20and%20Computational%20Pathology%20Applications%20in%20Bladder%20Cancer%20Novel%20Tools%20Addressing%20Clinically%20Pressing%20Needs.md)
+  * [Immunohistochemistry in the Differential Diagnosis of... : Applied Immunohistochemistry & Molecular Morphology](Clippings/Immunohistochemistry%20in%20the%20Differential%20Diagnosis%20of...%20%20Applied%20Immunohistochemistry%20%26%20Molecular%20Morphology.md)
+  * [Introduction to Cell Profiler: A beginner’s guide to segmentation - YouTube](Clippings/Introduction%20to%20Cell%20Profiler%20A%20beginner%E2%80%99s%20guide%20to%20segmentation%20-%20YouTube.md)
+  * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Clippings/Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
+  * [Regression modeling of competing risk using R: an in depth guide for clinicians - Bone Marrow Transplantation](Clippings/Regression%20modeling%20of%20competing%20risk%20using%20R%20an%20in%20depth%20guide%20for%20clinicians%20-%20Bone%20Marrow%20Transplantation.md)
+  * [Seeds or Parasites Clinical and Histopathological](Clippings/Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
+  * [Solving Unpopular Problems: The QuPath Story](Clippings/Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
+  * [The hallmarks of cancer immune evasion](Clippings/The%20hallmarks%20of%20cancer%20immune%20evasion.md)
 * [miscellaneous](appendix/miscellaneous.md)
