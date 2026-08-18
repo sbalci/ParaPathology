@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Python
 
 [http://biopython.org/](http://biopython.org/)

@@ -1,4 +1,5 @@
 ---
+related_to: "[[Laboratory Information Systems]]"
 description: Eski bir şartnameden
 ---
 

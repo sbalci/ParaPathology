@@ -1,3 +1,8 @@
+---
+type: Topic
+related_to: "[[Systemic Pathology]]"
+---
+
 # Neuropathology
 
 * The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary.

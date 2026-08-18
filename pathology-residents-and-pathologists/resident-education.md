@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Resident Education
 
 * Perceptions of Unprofessional Attitudes and Behaviors: Implications for Faculty Role Modeling and Teaching Professionalism During Pathology Residency.

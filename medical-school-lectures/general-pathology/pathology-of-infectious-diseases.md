@@ -1,3 +1,7 @@
+---
+related_to: "[[General Pathology]]"
+---
+
 # Pathology of Infectious Diseases
 
 {% embed url="https://twitter.com/EricMadPatho/status/1741988271435972686" %}

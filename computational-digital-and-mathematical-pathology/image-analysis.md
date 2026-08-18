@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Digital Pathology]]"
+---
+
 # Image Analysis
 
 [Training deep AI pipelines with Biodock](https://www.youtube.com/watch?v=yUNyonBgBIs\&ab\_channel=MichaelLee)

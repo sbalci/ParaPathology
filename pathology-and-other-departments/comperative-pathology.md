@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology and Other Departments]]"
+---
+
 # Comperative Pathology
 
 * **Atlas of Laboratory Mouse Histology**

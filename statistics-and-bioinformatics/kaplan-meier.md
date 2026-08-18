@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Kaplan Meier
 
 * Survival Analysis with R

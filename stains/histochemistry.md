@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Stains]]"
+---
+
 # Histochemistry
 
 ## Aberrant staining with Grocott's methenamine silver: utility beyond fungal organisms

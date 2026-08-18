@@ -1,3 +1,7 @@
+---
+related_to: "[[Computers]]"
+---
+
 # Git GitHub
 
 ## Git GitHub

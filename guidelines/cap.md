@@ -1,3 +1,7 @@
+---
+related_to: "[[Guidelines]]"
+---
+
 # CAP
 
 ## CAP Cancer Protocols

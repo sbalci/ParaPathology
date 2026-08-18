@@ -1,3 +1,7 @@
+---
+related_to: "[[Science]]"
+---
+
 # Academics
 
 ## [AKADEMİNİN DEĞERSİZLEŞMESİ ÜZERİNE](http://www.anayasa.gen.tr/degersizlesme.htm)

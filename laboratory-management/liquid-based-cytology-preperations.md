@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Liquid Based Cytology Preperations
 
 ## Liquid Based Cytology Preperations

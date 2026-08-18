@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Acreditation
 
 * Patoloji'de akreditasyona gazetecilerin katkısı

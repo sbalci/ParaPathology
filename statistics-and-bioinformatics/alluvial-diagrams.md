@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Alluvial Diagrams
 
 [http://datavizproject.com/data-type/alluvial-diagram/](http://datavizproject.com/data-type/alluvial-diagram/)

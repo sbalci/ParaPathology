@@ -1,5 +1,7 @@
 ---
-type: Note
+type: Reference
+related_to:
+  - "[[Digital Pathology]]"
 ---
 # Hugging Face Digital Pathology
 

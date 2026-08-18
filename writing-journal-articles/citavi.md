@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Citavi
 
 ## Citavi in a Nutshell

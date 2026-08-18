@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Treatment
 
 Bu makalede "Kanser tedavisinde daha iyi teknoloji mi daha iyi bakım mı?" konusu tartışılıyor:  

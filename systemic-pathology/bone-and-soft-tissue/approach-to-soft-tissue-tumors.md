@@ -1,3 +1,7 @@
+---
+related_to: "[[Bone and Soft Tissue]]"
+---
+
 # Approach to Soft Tissue Tumors
 
 ## USCAP: Jason Hornick's Deep Soft Tissue Tumors, Spindle Cell Tumors

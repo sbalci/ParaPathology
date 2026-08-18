@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Pathology and Social Media
 
 ## Social Media

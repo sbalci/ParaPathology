@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Immunohistochemistry]]"
+---
+
 # Immunohistochemistry Quantification
 
 ## Immunohistochemistry quantification by a digital computer-assisted method compared to semiquantitative analysis.

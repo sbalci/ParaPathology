@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab Hemodynamic Disorders
 
 Last updated:

@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Statistics and Bioinformatics
 
 ## Statistics and Pathology

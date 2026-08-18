@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Statistics General
 
 * More problematic sexual attraction research, this time with high heels

@@ -1,4 +1,5 @@
 ---
+related_to: "[[Introduction]]"
 description: Quick List For Pathology Pages
 ---
 

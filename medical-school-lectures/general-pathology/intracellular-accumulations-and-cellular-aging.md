@@ -1,3 +1,7 @@
+---
+related_to: "[[General Pathology]]"
+---
+
 # Intracellular Accumulations and Cellular Aging
 
 Required Prior Knowledge:

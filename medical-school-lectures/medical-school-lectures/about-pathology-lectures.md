@@ -1,3 +1,7 @@
+---
+related_to: "[[Medical School Lectures]]"
+---
+
 # About Pathology Lectures
 
 ## About Pathology Lectures

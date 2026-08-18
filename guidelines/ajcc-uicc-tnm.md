@@ -1,3 +1,7 @@
+---
+related_to: "[[Guidelines]]"
+---
+
 # AJCC, UICC, TNM
 
 [http://www.uicc.org/sites/main/files/atoms/files/TNM\_Classification\_of\_Malignant\_ Tumours\_8th\_edition\_NEW\_updated\_0.pptx](http://www.uicc.org/sites/main/files/atoms/files/TNM_Classification_of_Malignant_%20Tumours_8th_edition_NEW_updated_0.pptx)

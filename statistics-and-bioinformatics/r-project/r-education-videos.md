@@ -1,3 +1,7 @@
+---
+related_to: "[[R-project]]"
+---
+
 # R Education Videos
 
 * Using R with David Gerbing

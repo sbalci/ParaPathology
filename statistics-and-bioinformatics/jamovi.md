@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Jamovi
 
 * jamovi for R: Easy but Controversial

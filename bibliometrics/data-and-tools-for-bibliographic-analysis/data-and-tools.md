@@ -1,3 +1,7 @@
+---
+related_to: "[[Data And Tools For Bibliographic Analysis]]"
+---
+
 # Data and Tools
 
 * Open Citations

@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Digital Pathology]]"
+---
+
 # Digital Pathology Software
 
 ### [Cytomine](https://cytomine.be/)

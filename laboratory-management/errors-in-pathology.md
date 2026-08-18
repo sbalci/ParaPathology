@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Errors in Pathology
 
 \*\*\*\*\[**The Kaiser's case**\]\([https://en.wikipedia.org/wiki/Rudolf_Virchow\#The_Kaiser's_case\)\*\*\*\*](https://en.wikipedia.org/wiki/Rudolf_Virchow#The_Kaiser's_case%29****)

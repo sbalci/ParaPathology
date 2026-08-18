@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics, Bioinformatics, and Pathology]]"
+---
+
 # Patologlarla istatistikçilerin potansiyel ortak çalışma alanları
 
 ## Patologlarla istatistikçilerin potansiyel ortak çalışma alanları

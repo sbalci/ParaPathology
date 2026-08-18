@@ -1,3 +1,7 @@
+---
+related_to: "[[Treatment]]"
+---
+
 # Prognostic, Predictive and Therapeutic Factors
 
 * Mismatch-repair deficiency predicts response of solid tumors to PD-1 blockade.

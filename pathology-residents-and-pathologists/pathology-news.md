@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Pathology News
 
 * Fake pathologist for Germanwings air crash victims on trial

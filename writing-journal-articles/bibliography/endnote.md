@@ -1,3 +1,7 @@
+---
+related_to: "[[Bibliography]]"
+---
+
 # EndNote
 
 ## EndNote

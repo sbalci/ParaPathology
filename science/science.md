@@ -1,2 +1,6 @@
+---
+type: Topic
+---
+
 # Science
 

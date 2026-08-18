@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Computers
 
 ## set PYTHONPATH for npm

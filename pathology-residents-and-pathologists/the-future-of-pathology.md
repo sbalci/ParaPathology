@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # The Future of Pathology
 
 ### [Maude Abbott Lecture 2018: The Pathologist and Individualized Cancer Therapy by Stanley R. Hamilton, M.D.](https://www.pathlms.com/uscap/courses/7026)

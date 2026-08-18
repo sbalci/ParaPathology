@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Photography
 
 Smartphone Microscopic Photography - The Morrison Technique: Free Hand, No Adapter

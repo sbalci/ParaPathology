@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Research Lab
 
 ## The automated lab

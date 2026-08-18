@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab: Diseases and Tumors of Respiratory System-2
 
 Adenocarcinoma of Lung

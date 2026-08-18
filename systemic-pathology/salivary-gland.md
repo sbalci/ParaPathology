@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Salivary Gland
 
 #### [The Milan System for Reporting Salivary Gland](http://milansystem.org/)

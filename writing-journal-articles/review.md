@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Review
 
 * **Let’s End Reviewer Fraud**

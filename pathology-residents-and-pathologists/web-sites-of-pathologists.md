@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Web sites of Pathologists
 
 [http://www.pathologystudent.com/](http://www.pathologystudent.com/)

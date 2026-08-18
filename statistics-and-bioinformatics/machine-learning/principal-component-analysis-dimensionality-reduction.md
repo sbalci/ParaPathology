@@ -1,3 +1,7 @@
+---
+related_to: "[[Machine Learning]]"
+---
+
 # Principal Component Analysis
 
 ## Principal Component Analysis \(Dimensionality Reduction\)

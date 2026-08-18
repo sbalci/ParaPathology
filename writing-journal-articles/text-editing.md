@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Text Editing
 
 * Replace with a Subscript

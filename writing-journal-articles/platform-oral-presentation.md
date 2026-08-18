@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Platform / Oral Presentation
 
 * THE DAVID ATTENBOROUGH STYLE OF SCIENTIFIC PRESENTATION

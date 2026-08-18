@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Kappa
 
 Kappa testi gözlemciler arası uyumu belirlemek için kullanılıyor ve patolojide en çok kullanılan analiz yöntemlerinden birisi.

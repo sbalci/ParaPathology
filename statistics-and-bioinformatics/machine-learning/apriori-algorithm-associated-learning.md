@@ -1,3 +1,7 @@
+---
+related_to: "[[Machine Learning]]"
+---
+
 # Apriori Algorithm
 
 ## Apriori Algorithm \(Associated Learning\)

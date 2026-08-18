@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Statistics and Bioinformatics Education
 
 * OpenIntro Statistics

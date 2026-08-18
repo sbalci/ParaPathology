@@ -1,3 +1,7 @@
+---
+related_to: "[[Databases and Pathology]]"
+---
+
 # PubMed
 
 ## Selecting a Heading

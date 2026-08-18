@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Statistics, Bioinformatics, and Pathology
 
 * More problematic sexual attraction research, this time with high heels

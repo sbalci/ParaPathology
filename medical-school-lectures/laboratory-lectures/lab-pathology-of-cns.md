@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab: Pathology of CNS
 
 Last updated:01/04/2015

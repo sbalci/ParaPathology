@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Resume
 
 * How to tailor your Academic CV for Data Science roles

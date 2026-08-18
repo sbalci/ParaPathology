@@ -1,3 +1,7 @@
+---
+related_to: "[[Macroscopy]]"
+---
+
 # Whipple Macroscopy
 
 ## JHU Educational Web site

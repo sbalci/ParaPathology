@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Digital Pathology]]"
+---
+
 # Analysis
 
 

@@ -1,3 +1,7 @@
+---
+related_to: "[[Taxonomy and Classification of Diseases]]"
+---
+
 # Tumor Classification
 
 ## Tumor Classification

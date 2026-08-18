@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Breast Pathology
 
 ## Breast Cancer Residual Cancer Burden

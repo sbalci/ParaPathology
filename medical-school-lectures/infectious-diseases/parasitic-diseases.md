@@ -1,3 +1,7 @@
+---
+related_to: "[[Infectious Diseases]]"
+---
+
 # Parasitic Diseases
 
 {% embed url="https://www.nejm.org/doi/full/10.1056/NEJMicm2303713" %}

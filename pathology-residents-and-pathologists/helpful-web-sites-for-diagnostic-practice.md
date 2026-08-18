@@ -1,4 +1,5 @@
 ---
+related_to: "[[Pathologist]]"
 description: Helpful Web Sites for Diagnostic Practice
 ---
 

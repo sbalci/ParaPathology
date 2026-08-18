@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Digital Pathology]]"
+---
+
 # Mathematical Pathology
 
 ## Integrative mathematical oncology

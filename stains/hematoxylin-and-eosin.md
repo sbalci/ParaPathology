@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Stains]]"
+---
+
 # Hematoxylin and Eosin
 
 ## Hematoxylin: Mesoamerica's Gift to Histopathology. Palo de Campeche \(Logwood Tree\), Pirates' Most Desired Treasure, and Irreplaceable Tissue Stain.

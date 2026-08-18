@@ -1,3 +1,7 @@
+---
+related_to: "[[Treatment]]"
+---
+
 # Immunotherapy
 
 * Tumor Mutational Burden and Response Rate to PD-1 Inhibition

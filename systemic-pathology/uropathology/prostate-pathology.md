@@ -1,3 +1,7 @@
+---
+related_to: "[[Uropathology]]"
+---
+
 # Prostate Pathology
 
 * A NEW CONTEMPORARY PROSTATE CANCER GRADING SYSTEM

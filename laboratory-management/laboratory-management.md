@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Laboratory Management
 
 ## Routine Histology Laboratory

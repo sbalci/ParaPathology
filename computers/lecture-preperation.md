@@ -1,3 +1,7 @@
+---
+related_to: "[[Computers]]"
+---
+
 # Lecture Preperation
 
 * How to turn your powerpoint presentation into a video and upload to YouTube

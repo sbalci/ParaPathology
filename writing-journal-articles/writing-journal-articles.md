@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Writing Journal Articles
 
 ## [SCIgen - An Automatic CS Paper Generator](https://pdos.csail.mit.edu/archive/scigen/)

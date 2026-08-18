@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # googleVis
 
 * Introduction to googleVis 0.6.2

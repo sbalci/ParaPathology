@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Selecting A Journal
 
 ## Master Journal List Beta

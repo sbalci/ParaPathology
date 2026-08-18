@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Autopsy
 
 ## Autopsy Lecture Notes

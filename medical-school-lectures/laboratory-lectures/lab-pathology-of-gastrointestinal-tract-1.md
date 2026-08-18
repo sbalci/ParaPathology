@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab: Pathology of Gastrointestinal Tract-1
 
 Last updated:

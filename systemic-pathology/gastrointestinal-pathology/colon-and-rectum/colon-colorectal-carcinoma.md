@@ -1,3 +1,7 @@
+---
+related_to: "[[Colon and Rectum]]"
+---
+
 # Colon Colorectal Carcinoma
 
 ## Molecular Pathology of Colorectal Cancer

@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Digital Pathology]]"
+---
+
 # About the Usage of Digital Pathology
 
 

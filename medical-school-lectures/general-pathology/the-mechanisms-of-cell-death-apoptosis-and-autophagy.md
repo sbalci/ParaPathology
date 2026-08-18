@@ -1,3 +1,7 @@
+---
+related_to: "[[General Pathology]]"
+---
+
 # The Mechanisms of Cell Death, Apoptosis, and Autophagy
 
 Required Prior Knowledge:

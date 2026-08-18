@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # General Resources For Residents
 
 * Asistan eğitim programı

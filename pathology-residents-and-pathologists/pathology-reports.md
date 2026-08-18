@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Pathology Reports
 
 {% embed url="https://www.facebook.com/permalink.php?story_fbid=pfbid0cMCPjNqNRDTdv1yiCSy3ewiGXAVYoHkUW7NVP4pViuERytXpoWQiQkEqvDvHLxJdl&id=100064505328169" %}

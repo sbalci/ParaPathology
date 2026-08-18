@@ -1,3 +1,7 @@
+---
+related_to: "[[Games]]"
+---
+
 # Go
 
 ### AlphaGo Teach

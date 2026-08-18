@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab: Diseases and Tumors of Respiratory System-1
 
 Emphysema

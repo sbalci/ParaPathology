@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics, Bioinformatics, and Pathology]]"
+---
+
 # Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
 
 ## Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?

@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology and Other Departments]]"
+---
+
 # Rotations of Residents to Pathology from Other Departments
 
 * \[What Surgeons Need to Know About the Histopathological Processing of a Specimen\]

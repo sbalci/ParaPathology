@@ -1,3 +1,7 @@
+---
+related_to: "[[Gastrointestinal Pathology]]"
+---
+
 # Polyps
 
 {% embed url="https://twitter.com/Vik_deshpandeMD/status/1487556902972239876" %}

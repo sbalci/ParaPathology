@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Lean
 
 * Improving Histopathology Laboratory Productivity: Process Consultancy and A3 Problem Solving

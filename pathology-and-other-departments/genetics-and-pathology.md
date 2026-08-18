@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology and Other Departments]]"
+---
+
 # Genetics and Pathology
 
 * Interphase Chromosome Profiling A Method for Conventional Banded Chromosome Analysis Using Interphase Nuclei

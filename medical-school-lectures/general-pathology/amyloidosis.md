@@ -1,3 +1,7 @@
+---
+related_to: "[[General Pathology]]"
+---
+
 # Amyloidosis
 
 #### [Cryo-EM structure and polymorphism of Aβ amyloid fibrils purified from Alzheimer’s brain tissue](https://www.nature.com/articles/s41467-019-12683-8)

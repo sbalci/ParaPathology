@@ -1,4 +1,5 @@
 ---
+related_to: "[[Pathologist]]"
 description: It happens / I have seen that before / Olur öyle
 ---
 

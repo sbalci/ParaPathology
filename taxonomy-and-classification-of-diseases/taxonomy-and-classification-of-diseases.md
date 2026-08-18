@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Taxonomy and Classification of Diseases
 
 ## Taxonomy and Classification of Diseases

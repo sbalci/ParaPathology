@@ -1,3 +1,7 @@
+---
+related_to: "[[Bibliometrics]]"
+---
+
 # Bibliography, Impact Factor, and Citations
 
 

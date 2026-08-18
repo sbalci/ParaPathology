@@ -1,3 +1,7 @@
+---
+related_to: "[[General Pathology]]"
+---
+
 # Chronic Inflammation
 
 Required Prior Knowledge:

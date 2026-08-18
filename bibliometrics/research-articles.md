@@ -1,3 +1,7 @@
+---
+related_to: "[[Bibliometrics]]"
+---
+
 # Research Articles
 
 #### [Identifying Meaningful Citations](https://www.semanticscholar.org/paper/Identifying-Meaningful-Citations-Valenzuela-Ha/d5641d684df3a9e7c357923d109421fe4304ffa8?tab=abstract)

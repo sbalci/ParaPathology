@@ -1,3 +1,7 @@
+---
+related_to: "[[General Pathology]]"
+---
+
 # Cellular Pathology
 
 {% embed url="https://biochemical-pathways.com/" %}

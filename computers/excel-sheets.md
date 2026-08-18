@@ -1,3 +1,7 @@
+---
+related_to: "[[Computers]]"
+---
+
 # Excel, Sheets
 
 [https://spreadsheets.datacamp.com/courses/data-analysis-with-spreadsheets/](https://spreadsheets.datacamp.com/courses/data-analysis-with-spreadsheets/)

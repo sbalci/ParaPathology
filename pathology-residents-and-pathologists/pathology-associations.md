@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Pathology Associations
 
 * Association of Directors of Anatomic and Surgical Pathology (ADASP)

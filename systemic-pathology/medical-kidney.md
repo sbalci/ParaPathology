@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Medical Kidney
 
 * Pathology Insights - Medical Kidney Pathology with Leal Herlitz, MD

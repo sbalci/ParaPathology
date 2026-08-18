@@ -1,3 +1,7 @@
+---
+related_to: "[[Macroscopy]]"
+---
+
 # Macrocopy Videos
 
 * Macroscopic Sampling of Appendectomy Specimen

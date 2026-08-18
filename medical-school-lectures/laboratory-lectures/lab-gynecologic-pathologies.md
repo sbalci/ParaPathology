@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab: Gynecologic pathologies
 
 CERVİX: Transformation Zone, Squamocolumnar Junction And Squamous Metaplasia

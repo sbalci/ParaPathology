@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Orange
 
 ## Analysis of Covid-19 Epidemics: Part 1

@@ -1,3 +1,7 @@
+---
+related_to: "[[Data And Tools For Bibliographic Analysis]]"
+---
+
 # VOSviewer
 
 * Centre for Science and Technology Studies

@@ -1,3 +1,8 @@
+---
+type: Topic
+related_to: "[[Systemic Pathology]]"
+---
+
 # Gynecological Pathology
 
 {% embed url="https://www.behance.net/gallery/82752197/The-Menstrual-Cycle-Scientific-American" %}

@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Visual Abstracts
 
 ## Visual Abstracts

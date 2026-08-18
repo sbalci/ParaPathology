@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Immunohistochemistry]]"
+---
+
 # The use of immunohistochemistry for diagnosis
 
 ## Immunohistochemistry, carcinomas of unknown primary, and incidence rates

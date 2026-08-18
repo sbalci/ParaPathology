@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Lectures]]"
+---
+
 # Lab Acute and Chronic Inflammation
 
 Required Prior Knowledge:

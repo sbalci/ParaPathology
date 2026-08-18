@@ -1,3 +1,8 @@
+---
+type: Topic
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Machine Learning
 
 ## Machine Learning

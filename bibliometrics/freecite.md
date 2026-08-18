@@ -1,3 +1,7 @@
+---
+related_to: "[[Bibliometrics]]"
+---
+
 # Freecite
 
 ## Reference Parsing

@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Lung
 
 ## [6 patterns of pulmonary pathology](https://www.6patterns.org/)

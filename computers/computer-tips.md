@@ -1,3 +1,7 @@
+---
+related_to: "[[Computers]]"
+---
+
 # Computer Tips
 
 * How to reset the password on a Mac

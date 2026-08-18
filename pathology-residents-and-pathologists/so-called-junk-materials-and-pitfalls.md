@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # So Called Junk Materials & Pitfalls
 
 #### So Called Junk Materials & Pitfalls

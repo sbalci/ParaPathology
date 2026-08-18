@@ -1,3 +1,7 @@
+---
+related_to: "[[R-project]]"
+---
+
 # Using multiple R versions
 
 #### Backup

@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Bibliometrics
 
 #### [**Citation Performance Indicators — A Very Short Introduction**](https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/)

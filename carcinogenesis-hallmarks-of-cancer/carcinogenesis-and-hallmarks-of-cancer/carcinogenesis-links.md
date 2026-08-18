@@ -1,3 +1,7 @@
+---
+related_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
+---
+
 # Carcinogenesis
 
 {% embed url="https://www.youtube.com/watch?v=zFhYJRqz_xk" %}

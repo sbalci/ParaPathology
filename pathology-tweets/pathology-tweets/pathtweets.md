@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology Tweets]]"
+---
+
 # Pathology Tweets
 
 * [pathtweets/tweetsForAutopsy1](https://github.com/sbalci/ParaPathology/tree/a1878b4df09cec328a952ae6c924377955a66508/pathology-tweets/tweetsForAutopsy1.md)\

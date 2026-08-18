@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology and Other Departments]]"
+---
+
 # Turnaround Time
 
 * I was trolled by this :\) Calling Pathologists Multiple Times Does Not Expedite Reports

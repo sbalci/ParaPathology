@@ -1,3 +1,7 @@
+---
+related_to: "[[Bibliometrics]]"
+---
+
 # Problems in Bibliometric Analysis
 
 * **Chinese reviewers: sign up for unique IDs, please**

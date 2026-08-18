@@ -147,6 +147,7 @@
   * [HPV](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/hpv.md)
   * [Tumor Immunology](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/tumor-immunology.md)
   * [Metastasis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/metastasis.md)
+  * [What is Cancer?](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/what-is-cancer.md)
 
 ## Computational, Digital & Mathematical Pathology
 
@@ -161,6 +162,7 @@
 * [Articles on computational, digital, and mathematical pathology](computational-digital-and-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
 * [Mathematical Pathology](computational-digital-and-mathematical-pathology/mathematical-pathology.md)
 * [Image Analysis](computational-digital-and-mathematical-pathology/image-analysis.md)
+* [Hugging Face Digital Pathology](hugging-face-digital-pathology.md)
 
 ## Macroscopy
 
@@ -213,6 +215,8 @@
 * [Hematoxylin and Eosin](stains/hematoxylin-and-eosin.md)
 * [Histochemistry](stains/histochemistry.md)
 * [Immunohistochemistry](stains/immunohistochemistry.md)
+* [Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory](stains/antibody-list.md)
+  * [Supplement: Orphan-Disease, Rare-Tumor & Cutting-Edge IHC](stains/ihc-supplement-orphan-rare-cutting-edge.md)
 * [Immunohistochemistry Quantification](stains/immunohistochemistry-quantification.md)
 * [The use of immunohistochemistry for diagnosis](stains/the-use-of-immunohistochemistry-for-diagnosis.md)
 
@@ -321,6 +325,7 @@
 * [Health Data](statistics-and-bioinformatics/health-data.md)
 * [Python](statistics-and-bioinformatics/python.md)
 * [Reproducible Reports](statistics-and-bioinformatics/reproducible-reports.md)
+* [Lavaan](lavaan.md)
 
 ## Writing Journal Articles
 

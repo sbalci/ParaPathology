@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Regression
 
 * Visualization of regression coefficients \(in R\)

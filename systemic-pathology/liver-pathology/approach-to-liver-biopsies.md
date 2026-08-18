@@ -1,3 +1,7 @@
+---
+related_to: "[[Liver Pathology]]"
+---
+
 # Approach to Liver Biopsies
 
 #### [USCAP: Wendy Frankel's Gastrointestinal and Liver Pathology](https://www.youtube.com/watch?v=rGC1RcAEqiY)

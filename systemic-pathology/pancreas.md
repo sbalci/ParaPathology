@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Pancreas
 
 {% embed url="https://twitter.com/SaeedAsiry/status/1766230278388043858" %}

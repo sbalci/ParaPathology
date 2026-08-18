@@ -1,3 +1,8 @@
+---
+type: Topic
+related_to: "[[Laboratory Management]]"
+---
+
 # Laboratory Information Systems
 
 ## Feature notes

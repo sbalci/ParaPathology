@@ -1,3 +1,7 @@
+---
+related_to: "[[Text Mining]]"
+---
+
 # Text Mining Blog Posts Examples
 
 * A wordcloud comparison of the 2011 and 2012 \#SOTU

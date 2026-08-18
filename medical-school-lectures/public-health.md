@@ -1,3 +1,7 @@
+---
+related_to: "[[Medical School Lectures]]"
+---
+
 # Public Health
 
 #### [Can the Power of Prayer Alone Stop a Pandemic like the Coronavirus? Even the Prophet Muhammad Thought Otherwise | Opinion](https://www.newsweek.com/prophet-prayer-muhammad-covid-19-coronavirus-1492798?amp=1)

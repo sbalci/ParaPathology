@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Digital Pathology
 
 {% embed url="https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s" %}

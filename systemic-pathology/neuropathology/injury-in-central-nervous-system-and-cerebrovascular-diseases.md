@@ -1,3 +1,7 @@
+---
+related_to: "[[Neuropathology]]"
+---
+
 # Injury in central nervous system and cerebrovascular diseases
 
 Name of the Lecture:

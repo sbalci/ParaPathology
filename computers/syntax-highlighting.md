@@ -1,3 +1,7 @@
+---
+related_to: "[[Computers]]"
+---
+
 # Syntax Highlighting
 
 ## Syntax highlight for R

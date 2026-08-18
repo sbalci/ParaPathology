@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Endocrine Pathology
 
 ## Adrenal Bez Hastalıkları

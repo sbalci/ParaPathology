@@ -1,4 +1,5 @@
 ---
+related_to: "[[Pathologist]]"
 description: Pathology jargon
 ---
 

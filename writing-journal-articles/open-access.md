@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Open Access
 
 ## [GreeneLab](https://greenelab.github.io/scihub/)

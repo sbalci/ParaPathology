@@ -1,0 +1,12 @@
+name: Digital Pathology
+icon: null
+color: null
+sort: "modified:desc"
+filters:
+  any:
+    - field: related_to
+      op: contains
+      value: "[[Digital Pathology]]"
+    - field: belongs_to
+      op: contains
+      value: "[[Digital Pathology]]"

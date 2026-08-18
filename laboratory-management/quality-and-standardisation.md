@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Quality And Standardisation
 
 Are quality and standardisation regulations necessary?

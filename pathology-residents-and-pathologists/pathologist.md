@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Pathologist
 
 #### Attributes of a Pathologist

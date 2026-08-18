@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology and Other Departments]]"
+---
+
 # Surgery and Pathology
 
 * **Stanford Surgical Pathology Criteria**

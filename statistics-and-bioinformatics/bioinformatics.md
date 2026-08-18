@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Bioinformatics
 
 **Are there regions in the genome that are not covered by DNA sequencing?**

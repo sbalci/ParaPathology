@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # SPSS
 
 * **Paired Samples t-test - SPSS**

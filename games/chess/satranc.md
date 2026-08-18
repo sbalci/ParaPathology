@@ -1,3 +1,7 @@
+---
+related_to: "[[Chess]]"
+---
+
 # Satranç
 
 ## Chess

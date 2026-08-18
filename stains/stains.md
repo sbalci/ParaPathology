@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Stains
 
 [https://en.wikipedia.org/wiki/Category:Staining](https://en.wikipedia.org/wiki/Category:Staining)

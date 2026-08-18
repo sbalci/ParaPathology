@@ -1,3 +1,7 @@
+---
+related_to: "[[Systemic Pathology]]"
+---
+
 # Gallbladder
 
 {% embed url="https://twitter.com/drkeithsiau/status/1657761787024924673?s=20" %}

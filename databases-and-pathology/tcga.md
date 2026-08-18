@@ -1,3 +1,7 @@
+---
+related_to: "[[Databases and Pathology]]"
+---
+
 # TCGA
 
 * TCGA: A Different Kind of Data

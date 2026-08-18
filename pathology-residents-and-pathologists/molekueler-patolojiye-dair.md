@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Moleküler Patoloji'ye Dair
 
 {% embed url="https://docs.google.com/document/d/e/2PACX-1vTuzRH89K-bLaWOHKTF8xvUxGCbfO72BXGVf8D97heKeifA_DZ_UAj2dKzuBR4R7ukcQCRGUsCv0XPz/pub" %}

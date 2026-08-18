@@ -1,3 +1,7 @@
+---
+related_to: "[[Science]]"
+---
+
 # Genetics
 
 #### The Cell Documentary

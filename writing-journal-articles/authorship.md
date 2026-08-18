@@ -1,3 +1,7 @@
+---
+related_to: "[[Writing Journal Articles]]"
+---
+
 # Authorship
 
 * Patologların makalelere otör olarak yazılmaması konusunda tartışmalar:

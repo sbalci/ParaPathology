@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Stains]]"
+---
+
 # Immunohistochemistry
 
 {% embed url="https://nordiqc.org/recommended.php" %}

@@ -1,3 +1,7 @@
+---
+related_to: "[[Machine Learning]]"
+---
+
 # Support Vector Machine
 
 ## Support Vector Machine \(SVM\)

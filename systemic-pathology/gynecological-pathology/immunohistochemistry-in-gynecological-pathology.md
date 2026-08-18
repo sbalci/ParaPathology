@@ -1,3 +1,7 @@
+---
+related_to: "[[Gynecological Pathology]]"
+---
+
 # Immunohistochemistry in Gynecological Pathology
 
 ## Immunohistochemistry in Gynecological Pathology

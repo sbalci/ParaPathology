@@ -1,3 +1,8 @@
+---
+type: Topic
+related_to: "[[Systemic Pathology]]"
+---
+
 # Gastrointestinal Pathology
 
 

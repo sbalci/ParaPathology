@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Pathology as a Career
 
 * To be or not to be ...a Pathologist

@@ -1,3 +1,7 @@
+---
+related_to: "[[Patients and Pathology]]"
+---
+
 # Informing Patients About Pathology
 
 ## Informing Patients About Pathology

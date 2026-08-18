@@ -1,3 +1,8 @@
+---
+related_to:
+  - "[[Digital Pathology]]"
+---
+
 # Articles on computational, digital, and mathematical pathology
 
 #### The benefits of building and working with interactive simulations Interactive simulations for better model intuition

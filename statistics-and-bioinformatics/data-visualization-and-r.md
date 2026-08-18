@@ -1,3 +1,7 @@
+---
+related_to: "[[Statistics and Bioinformatics]]"
+---
+
 # Data Visualization and R
 
 * Data Visualization and R, part 1, Outline

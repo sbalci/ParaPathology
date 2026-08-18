@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Diagnosis, accuracy, interobserver and intraobserver reliability
 
 * Pathologists’ diagnosis of invasive melanoma and melanocytic proliferations: observer accuracy and reproducibility study

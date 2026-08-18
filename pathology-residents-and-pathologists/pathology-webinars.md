@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathologist]]"
+---
+
 # Pathology Webinars
 
 * University of Pittsburgh Pathology Conference

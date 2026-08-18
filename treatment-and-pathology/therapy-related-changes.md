@@ -1,3 +1,7 @@
+---
+related_to: "[[Treatment]]"
+---
+
 # Therapy related changes
 
 {% embed url="https://twitter.com/JZRenalPath/status/1267969080343977986?s=20" %}

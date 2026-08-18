@@ -1,3 +1,7 @@
+---
+related_to: "[[Pathology Meetings]]"
+---
+
 # Organization Of Meetings
 
 #### [A year without conferences? How the coronavirus pandemic could change research](https://www.nature.com/articles/d41586-020-00786-y)

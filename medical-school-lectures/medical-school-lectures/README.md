@@ -1,3 +1,7 @@
+---
+type: Topic
+---
+
 # Medical School Lectures
 
 ## [Patoloji Notları](http://www.google.com/url?q=http%3A%2F%2Fwww.patolojinotlari.com\&sa=D\&sntz=1\&usg=AFQjCNFoF2fQ1y54Xo4W5\_qSbwXcvRUqmw)

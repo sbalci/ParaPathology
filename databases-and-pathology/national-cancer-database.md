@@ -1,3 +1,7 @@
+---
+related_to: "[[Databases and Pathology]]"
+---
+
 # National Cancer Database
 
 * The National Cancer Database (NCDB)&#x20;

@@ -1,3 +1,7 @@
+---
+related_to: "[[R-project]]"
+---
+
 # R-project veri yüklemek neden zor?
 
 R-project veri yüklemek neden zor?

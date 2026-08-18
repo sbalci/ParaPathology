@@ -1,3 +1,7 @@
+---
+related_to: "[[Laboratory Management]]"
+---
+
 # Health Risks
 
 > **7. Histotechnologists and histologic technicians**

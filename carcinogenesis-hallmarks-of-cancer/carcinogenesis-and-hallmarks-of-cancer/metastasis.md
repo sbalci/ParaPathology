@@ -1,3 +1,7 @@
+---
+related_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
+---
+
 # Metastasis
 
 #### [L1CAM links regeneration to metastasis](https://www.nature.com/articles/s43018-019-0014-x)

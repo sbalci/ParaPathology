@@ -1,3 +1,7 @@
+---
+related_to: "[[Machine Learning]]"
+---
+
 # Decision Tree
 
 ## Decision Tree \(CART\)
