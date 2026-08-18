@@ -1,4 +1,7 @@
 ---
+type: Reference
+status: Evergreen
+language: en
 related_to: "[[Bibliometrics]]"
 ---
 

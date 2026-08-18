@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Developing
+language: en
 title: "Introduction to Cell Profiler: A beginner’s guide to segmentation - YouTube"
 source: https://www.youtube.com/watch?v=YR89Xg_FdFc&t=11s
 author: 

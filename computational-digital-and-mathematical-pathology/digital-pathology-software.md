@@ -1,4 +1,7 @@
 ---
+type: Reference
+status: Developing
+language: en
 related_to:
   - "[[Digital Pathology]]"
 ---

@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Stub
+language: en
 title: "Digital and Computational Pathology Applications in Bladder Cancer: Novel Tools Addressing Clinically Pressing Needs"
 source: https://www.modernpathology.org/article/S0893-3952(24)00211-4/abstract
 author:

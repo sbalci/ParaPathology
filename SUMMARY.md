@@ -15,6 +15,7 @@
 
 * [Medical School Lectures](medical-school-lectures/medical-school-lectures/README.md)
   * [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
+  * [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/medical-school-lectures/patoloji-laboratuvari-nasil-calisir.md)
 * [General Pathology](medical-school-lectures/general-pathology/README.md)
   * [General Pathology Links](medical-school-lectures/general-pathology/general-pathology-links.md)
   * [Introduction to Pathology](medical-school-lectures/general-pathology/introduction-to-pathology.md)
@@ -416,12 +417,3 @@
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
 * [Clippings](Clippings.md)
 * [miscellaneous](appendix/miscellaneous.md)
-
-## Pathology and Social Media <a href="#pathology-and-social-media-1" id="pathology-and-social-media-1"></a>
-
-* [Pathology and Social Media](pathology-and-social-media-1/pathology-and-social-media.md)
-
-## Pathology Tweets <a href="#pathology-tweets-1" id="pathology-tweets-1"></a>
-
-* [Pathology Tweets](pathology-tweets-1/pathology-tweets/README.md)
-  * [Pathology Tweets](pathology-tweets-1/pathology-tweets/pathology-tweets.md)

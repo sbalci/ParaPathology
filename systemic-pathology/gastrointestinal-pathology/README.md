@@ -1,4 +1,6 @@
 ---
+status: Stub
+language: en
 type: Topic
 related_to: "[[Systemic Pathology]]"
 ---

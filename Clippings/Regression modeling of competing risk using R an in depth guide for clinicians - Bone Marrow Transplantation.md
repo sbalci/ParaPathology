@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Evergreen
+language: en
 title: "Regression modeling of competing risk using R: an in depth guide for clinicians - Bone Marrow Transplantation"
 source: https://www.nature.com/articles/bmt2009359
 author:

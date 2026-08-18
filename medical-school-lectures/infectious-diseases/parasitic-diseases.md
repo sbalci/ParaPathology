@@ -1,4 +1,7 @@
 ---
+type: Lecture
+status: Stub
+language: en
 related_to: "[[Infectious Diseases]]"
 ---
 

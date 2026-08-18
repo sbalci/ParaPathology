@@ -1,3 +1,9 @@
+---
+type: Reference
+status: Developing
+language: bilingual
+---
+
 # Books
 
 ## Appendix : Suggested Books

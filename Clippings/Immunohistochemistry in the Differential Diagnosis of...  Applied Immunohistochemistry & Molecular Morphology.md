@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Stub
+language: en
 title: "Immunohistochemistry in the Differential Diagnosis of... : Applied Immunohistochemistry & Molecular Morphology"
 source: https://journals.lww.com/appliedimmunohist/abstract/2024/11000/immunohistochemistry_in_the_differential_diagnosis.3.aspx
 author:

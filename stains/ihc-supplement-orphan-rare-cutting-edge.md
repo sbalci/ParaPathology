@@ -1,4 +1,6 @@
 ---
+status: Evergreen
+language: en
 type: Reference
 related_to:
   - "[[Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory]]"

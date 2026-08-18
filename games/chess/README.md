@@ -1,4 +1,5 @@
 ---
+status: Stub
 type: Topic
 related_to: "[[Games]]"
 ---

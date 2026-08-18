@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Evergreen
+language: en
 title: "Artificial intelligence in digital pathology — time for a reality check - Nature Reviews Clinical Oncology"
 source: "https://www.nature.com/articles/s41571-025-00991-6"
 author:

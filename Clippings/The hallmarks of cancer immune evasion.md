@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Evergreen
+language: en
 title: "The hallmarks of cancer immune evasion"
 source: "https://www.cell.com/cancer-cell/fulltext/S1535-6108(24)00358-1?rss=yes&utm_source=dlvr.it&utm_medium=twitter"
 author:

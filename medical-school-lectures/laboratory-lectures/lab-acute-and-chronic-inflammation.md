@@ -1,4 +1,7 @@
 ---
+type: Lecture
+status: Developing
+language: en
 related_to: "[[Laboratory Lectures]]"
 ---
 

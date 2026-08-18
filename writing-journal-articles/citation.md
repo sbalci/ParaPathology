@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Stub
+language: tr
 related_to: "[[Writing Journal Articles]]"
 ---
 

@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Evergreen
+language: en
 related_to: "[[Laboratory Management]]"
 ---
 

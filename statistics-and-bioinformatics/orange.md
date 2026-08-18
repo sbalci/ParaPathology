@@ -1,4 +1,7 @@
 ---
+type: Tool
+status: Evergreen
+language: en
 related_to: "[[Statistics and Bioinformatics]]"
 ---
 

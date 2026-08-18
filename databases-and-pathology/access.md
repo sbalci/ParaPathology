@@ -1,4 +1,7 @@
 ---
+type: Tool
+status: Stub
+language: en
 related_to: "[[Databases and Pathology]]"
 ---
 

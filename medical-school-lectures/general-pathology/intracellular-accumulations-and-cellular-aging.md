@@ -1,4 +1,7 @@
 ---
+type: Lecture
+status: Developing
+language: bilingual
 related_to: "[[General Pathology]]"
 ---
 

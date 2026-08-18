@@ -1,3 +1,9 @@
+---
+type: Note
+status: Stub
+language: en
+---
+
 ParaPathology
 ================
 

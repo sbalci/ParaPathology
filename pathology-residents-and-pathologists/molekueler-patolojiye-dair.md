@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Evergreen
+language: tr
 related_to: "[[Pathologist]]"
 ---
 

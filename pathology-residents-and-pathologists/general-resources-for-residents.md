@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Developing
+language: tr
 related_to: "[[Pathologist]]"
 ---
 

@@ -1,8 +1,7 @@
 ---
+status: Evergreen
+language: en
 type: Note
-relationships:
-  Type:
-    - "[[note]]"
 related_to:
   - "[[r-project]]"
   - "[[kaplan-meier]]"

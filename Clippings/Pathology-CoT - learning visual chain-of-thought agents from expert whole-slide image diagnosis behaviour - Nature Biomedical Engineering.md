@@ -1,4 +1,7 @@
 ---
+type: Clipping
+status: Evergreen
+language: en
 title: "Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour"
 source: "https://doi.org/10.1038/s41551-026-01739-y"
 author:

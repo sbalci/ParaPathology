@@ -1,4 +1,7 @@
 ---
+type: Reference
+status: Evergreen
+language: bilingual
 description: >-
   Miscellaneous links to be organised. Ordan burdan derlenmiş ama düzenlenmemiş
   güncel patoloji içerikleri.

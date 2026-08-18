@@ -1,3 +1,9 @@
+---
+type: Note
+status: Evergreen
+language: en
+---
+
 # Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map
 
 ## TL;DR

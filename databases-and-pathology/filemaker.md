@@ -1,4 +1,7 @@
 ---
+type: Tool
+status: Developing
+language: en
 related_to: "[[Databases and Pathology]]"
 ---
 

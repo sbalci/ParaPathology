@@ -1,3 +1,9 @@
+---
+type: Note
+status: Evergreen
+language: en
+---
+
 # Theories and Frameworks for Understanding Pathology Practice
 
 ## Executive summary

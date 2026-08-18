@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Developing
+language: en
 related_to:
   - "[[Immunohistochemistry]]"
 ---

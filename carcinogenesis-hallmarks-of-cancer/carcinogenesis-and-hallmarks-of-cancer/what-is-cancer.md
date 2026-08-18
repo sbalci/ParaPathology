@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Evergreen
+language: bilingual
 related_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
 title: What is Cancer?
 author: "[Serdar Balcı, MD, Pathologist](https://sbalci.github.io/)"

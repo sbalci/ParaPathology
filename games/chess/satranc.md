@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Stub
+language: en
 related_to: "[[Chess]]"
 ---
 

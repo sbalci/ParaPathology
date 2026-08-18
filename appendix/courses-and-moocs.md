@@ -1,3 +1,9 @@
+---
+type: Reference
+status: Evergreen
+language: en
+---
+
 # Courses and MOOCs
 
 * This list contains the MOOCs that I find useful.

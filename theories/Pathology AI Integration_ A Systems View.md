@@ -1,3 +1,9 @@
+---
+type: Note
+status: Evergreen
+language: en
+---
+
 # **Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**
 
 The integration of artificial intelligence (AI) and digital imaging into the diagnostic pathology laboratory represents an unparalleled sociotechnical transformation. However, as articulated in contemporary critiques of the digitization process, AI companies entering the field of pathology are not merely providing a software upgrade; they are intruding upon a century-old clinical ecosystem. This ecosystem has stabilized over generations around hematoxylin and eosin (H\&E) workflows, glass slides, and the physical microscope.1 Since the inception of modern histopathology, practitioners have forged collaborative networks through peer-reviewed journals, reference texts, multidisciplinary tumor boards, and rigorous medical training paradigms. Together, these elements have cultivated a dominant "attractor state," a systemic equilibrium whose primary purpose is to maintain clinical stability, ensure diagnostic integrity, and inspire unwavering confidence in the broader healthcare apparatus.  

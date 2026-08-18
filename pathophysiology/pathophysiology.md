@@ -1,12 +1,10 @@
 ---
+status: Stub
+language: en
 type: Topic
 ---
 
 # Pathophysiology
-
-## Pathophysiology
-
-## Pathophysiology
 
 ## GI Motility online
 
@@ -15,6 +13,3 @@ type: Topic
 ## The Moving Gut by Hans Jörg Ehrlein and Michael Schemann
 
 [http://humanbiology.wzw.tum.de/index.php?id=22&L=1](http://humanbiology.wzw.tum.de/index.php?id=22&L=1)
-
-## Pathophysiology
-

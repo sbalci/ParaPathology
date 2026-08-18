@@ -1,3 +1,9 @@
+---
+type: Reference
+status: Evergreen
+language: en
+---
+
 # GitHub Repositories
 
 {% embed url="https://github.com/sbalci" %}
@@ -21,6 +27,8 @@
 {% embed url="https://github.com/sbalci/DeutschLernen" %}
 
 {% embed url="https://github.com/sbalci/Kotu-Veri-Kilavuzu" %}
+
+{% embed url="https://github.com/sbalci/jsurvival" %}
 
 {% embed url="https://github.com/bibliometrics" %}
 

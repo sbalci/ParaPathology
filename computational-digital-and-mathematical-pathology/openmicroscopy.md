@@ -1,4 +1,7 @@
 ---
+type: Tool
+status: Stub
+language: en
 related_to:
   - "[[Digital Pathology]]"
 ---

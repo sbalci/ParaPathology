@@ -1,12 +1,11 @@
 ---
+type: Note
+status: Developing
+language: en
 related_to: "[[Taxonomy and Classification of Diseases]]"
 ---
 
 # Tumor Classification
-
-## Tumor Classification
-
-## Tumor Classification
 
 Recent trends on classification of tumors based on therapy response and molecular features, but not morphology
 
@@ -31,4 +30,3 @@ Nature Reviews Gastroenterology & Hepatology \(2017\) doi:10.1038/nrgastro.2017.
 * **Tumor classification: molecular analysis meets Aristotle**
 
 [https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-4-10](https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-4-10)
-

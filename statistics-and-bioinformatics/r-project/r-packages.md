@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Developing
+language: bilingual
 related_to: "[[R-project]]"
 ---
 

@@ -1,0 +1,5 @@
+---
+type: Clipping
+status: Stub
+---
+

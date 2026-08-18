@@ -1,4 +1,7 @@
 ---
+type: Lecture
+status: Evergreen
+language: tr
 related_to: "[[Laboratory Lectures]]"
 ---
 

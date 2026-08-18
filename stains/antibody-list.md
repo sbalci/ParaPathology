@@ -1,4 +1,6 @@
 ---
+status: Evergreen
+language: en
 type: Reference
 related_to:
   - "[[Immunohistochemistry]]"

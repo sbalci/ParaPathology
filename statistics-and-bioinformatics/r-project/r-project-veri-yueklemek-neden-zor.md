@@ -1,4 +1,7 @@
 ---
+type: Note
+status: Evergreen
+language: bilingual
 related_to: "[[R-project]]"
 ---
 

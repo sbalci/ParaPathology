@@ -1,4 +1,6 @@
 ---
+type: Clipping
+status: Stub
 title: Seeds or Parasites Clinical and Histopathological
 source: https://turkjpath.org/uploads/pdf/pdf_TPD_2022.pdf
 author: 
