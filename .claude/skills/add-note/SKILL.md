@@ -29,9 +29,13 @@ its close rather than duplicating them.
 
 Read the note first.
 
-- **Empty / H1-only / a near-empty landing page** → do not fabricate a body or force a status.
-  Report it as a stub needing a human, and stop. (These are the `und` pages `validate-vault`
-  leaves language-less.)
+- **Empty / H1-only note that is NOT a folder landing** → do not fabricate a body or force a
+  status. Report it as a stub needing a human, and stop. (These are the `und` pages
+  `validate-vault` leaves language-less.)
+- **Empty / H1-only folder-landing README** → still publish it. A folder's `README.md` (or a
+  non-redirect `index.md`) is its natural GitBook landing, so an empty one is expected, not a
+  blocker: give it an H1 matching the folder if missing, then wire it as the section lead via
+  `update-index` §1. Only a `"See gitbook here →"` redirect / export stub stays out.
 - **PHI check** (this vault is a public GitBook): no patient names, MRNs, accession numbers,
   dates of birth, or identifiable case detail. If present, stop and ask.
 - **Already typed?** If the note already has `type` frontmatter, this is a re-triage — only fill

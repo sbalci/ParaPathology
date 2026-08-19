@@ -127,7 +127,8 @@
 
 ## Pathology Tweets
 
-* [Pathology Tweets](pathology-tweets/pathtweets.md)
+* [Pathology Tweets](pathology-tweets/README.md)
+* [Pathtweets Index](pathology-tweets/pathtweets.md)
   * [TweetsForAutopsy1](pathology-tweets/tweetsForAutopsy1.md)
   * [TweetsForAutopsy2](pathology-tweets/tweetsForAutopsy2.md)
   * [TweetsForGrossPath8](pathology-tweets/tweetsForGrossPath8.md)
@@ -446,4 +447,5 @@
   * [Seeds or Parasites Clinical and Histopathological](Clippings/Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
   * [Solving Unpopular Problems: The QuPath Story](Clippings/Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
   * [The hallmarks of cancer immune evasion](Clippings/The%20hallmarks%20of%20cancer%20immune%20evasion.md)
+* [Clippings (Folder)](appendix/clippings/README.md)
 * [miscellaneous](appendix/miscellaneous.md)
