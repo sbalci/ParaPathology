@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Rotations of Pathology Residents"
 ---
 
 # Rotations of Pathology Residents

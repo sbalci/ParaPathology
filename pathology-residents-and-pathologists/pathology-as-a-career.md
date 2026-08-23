@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Pathology as a Career"
 ---
 
 # Pathology as a Career

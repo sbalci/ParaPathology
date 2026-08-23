@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: en
-related_to: "[[Data And Tools For Bibliographic Analysis]]"
+belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
+aliases:
+  - "R for PubMed"
 ---
 
 # R for PubMed

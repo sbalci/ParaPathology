@@ -2,7 +2,9 @@
 type: Lecture
 status: Evergreen
 language: bilingual
-related_to: "[[General Pathology]]"
+belongs_to: "[[General Pathology]]"
+aliases:
+  - "Introduction to Pathology"
 ---
 
 # Introduction to Pathology

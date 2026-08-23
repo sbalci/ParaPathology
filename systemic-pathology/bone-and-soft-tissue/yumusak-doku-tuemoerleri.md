@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: tr
-related_to: "[[Bone and Soft Tissue]]"
+belongs_to: "[[Bone and Soft Tissue]]"
+aliases:
+  - "Yumuşak doku tümörleri"
 ---
 
 # Yumuşak doku tümörleri

@@ -2,6 +2,8 @@
 status: Stub
 language: en
 type: Topic
+aliases:
+  - "Taxonomy and Classification of Diseases"
 ---
 
 # Taxonomy and Classification of Diseases

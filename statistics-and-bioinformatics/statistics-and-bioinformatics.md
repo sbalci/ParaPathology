@@ -2,6 +2,8 @@
 status: Developing
 language: en
 type: Topic
+aliases:
+  - "Statistics and Bioinformatics"
 ---
 
 # Statistics and Bioinformatics

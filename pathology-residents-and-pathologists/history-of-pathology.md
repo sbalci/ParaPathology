@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "History of Pathology"
 ---
 
 # History of Pathology

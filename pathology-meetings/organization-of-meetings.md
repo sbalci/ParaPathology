@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Pathology Meetings]]"
+belongs_to: "[[Pathology Meetings]]"
+aliases:
+  - "Organization Of Meetings"
 ---
 
 # Organization Of Meetings

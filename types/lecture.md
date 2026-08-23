@@ -8,7 +8,7 @@ _list_properties_display:
   - status
 status:
 language:
-related_to:
+belongs_to:
 ---
 
 # Lecture

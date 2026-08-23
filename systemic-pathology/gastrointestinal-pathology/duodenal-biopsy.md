@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Gastrointestinal Pathology]]"
+belongs_to: "[[Gastrointestinal Pathology]]"
+aliases:
+  - "Duodenal Biopsy"
 ---
 
 # Duodenal Biopsy

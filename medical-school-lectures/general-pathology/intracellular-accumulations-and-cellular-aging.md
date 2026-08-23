@@ -2,7 +2,9 @@
 type: Lecture
 status: Developing
 language: bilingual
-related_to: "[[General Pathology]]"
+belongs_to: "[[General Pathology]]"
+aliases:
+  - "Intracellular Accumulations and Cellular Aging"
 ---
 
 # Intracellular Accumulations and Cellular Aging

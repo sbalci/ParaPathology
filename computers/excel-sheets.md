@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Computers]]"
+belongs_to: "[[Computers]]"
+aliases:
+  - "Excel, Sheets"
 ---
 
 # Excel, Sheets

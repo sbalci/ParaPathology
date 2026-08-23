@@ -2,7 +2,7 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Systemic Pathology]]"
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Pancreas

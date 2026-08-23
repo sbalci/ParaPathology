@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[R-project]]"
+belongs_to: "[[R-project]]"
+aliases:
+  - "Online R Books"
 ---
 
 # Online R Books

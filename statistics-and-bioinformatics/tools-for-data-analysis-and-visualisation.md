@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
+aliases:
+  - "Tools for Data Analysis and Visualisation"
 ---
 
 # Tools for Data Analysis and Visualisation

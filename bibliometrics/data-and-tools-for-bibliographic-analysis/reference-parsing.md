@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Data And Tools For Bibliographic Analysis]]"
+belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
+aliases:
+  - "Reference Parsing"
 ---
 
 # Reference Parsing

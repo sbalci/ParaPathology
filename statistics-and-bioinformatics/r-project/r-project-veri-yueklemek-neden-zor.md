@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: bilingual
-related_to: "[[R-project]]"
+belongs_to: "[[R-project]]"
+aliases:
+  - "R-project veri yüklemek neden zor?"
 ---
 
 # R-project veri yüklemek neden zor?

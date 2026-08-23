@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Text Mining]]"
+belongs_to: "[[Text Mining]]"
+aliases:
+  - "Text Mining Orange"
 ---
 
 # Text Mining Orange

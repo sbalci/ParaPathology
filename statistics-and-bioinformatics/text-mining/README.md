@@ -1,7 +1,9 @@
 ---
 status: Stub
 type: Topic
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
+aliases:
+  - "Text Mining"
 ---
 
 # Text Mining

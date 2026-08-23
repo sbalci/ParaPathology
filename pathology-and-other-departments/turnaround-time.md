@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Pathology and Other Departments]]"
+belongs_to: "[[Pathology and Other Departments]]"
+aliases:
+  - "Turnaround Time"
 ---
 
 # Turnaround Time

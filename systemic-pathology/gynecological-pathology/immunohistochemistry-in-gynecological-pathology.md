@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Gynecological Pathology]]"
+belongs_to: "[[Gynecological Pathology]]"
+aliases:
+  - "Immunohistochemistry in Gynecological Pathology"
 ---
 
 # Immunohistochemistry in Gynecological Pathology

@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Systemic Pathology]]"
+belongs_to: "[[Systemic Pathology]]"
+aliases:
+  - "Unnecessary Thyroid FNAC"
 ---
 
 # Unnecessary Thyroid FNAC

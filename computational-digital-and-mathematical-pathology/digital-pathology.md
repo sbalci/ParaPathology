@@ -2,6 +2,8 @@
 status: Evergreen
 language: bilingual
 type: Topic
+aliases:
+  - "Digital Pathology"
 ---
 
 # Digital Pathology

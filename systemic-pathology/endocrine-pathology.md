@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: tr
-related_to: "[[Systemic Pathology]]"
+belongs_to: "[[Systemic Pathology]]"
+aliases:
+  - "Endocrine Pathology"
 ---
 
 # Endocrine Pathology

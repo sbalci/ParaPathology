@@ -2,6 +2,8 @@
 status: Evergreen
 language: en
 type: Topic
+aliases:
+  - "Pathology and Social Media"
 ---
 
 # Pathology and Social Media

@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Diagnosis, accuracy, interobserver and intraobserver reliability"
 ---
 
 # Diagnosis, accuracy, interobserver and intraobserver reliability

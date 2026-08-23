@@ -2,6 +2,8 @@
 status: Developing
 language: tr
 type: Topic
+aliases:
+  - "Laboratory Management"
 ---
 
 # Laboratory Management

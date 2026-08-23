@@ -3,6 +3,8 @@ type: Reference
 status: Evergreen
 language: en
 description: 'Appendix : Suggested Web Pages'
+aliases:
+  - "Web Pages"
 ---
 
 # Web Pages

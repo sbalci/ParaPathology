@@ -2,7 +2,7 @@
 type: Tool
 status: Evergreen
 language: en
-related_to:
+belongs_to:
   - "[[Digital Pathology]]"
   - "[[Image Analysis]]"
 url: https://micro-manager.org/
@@ -22,7 +22,7 @@ Open-source software for **control and automation of microscope hardware** (µMa
 
 - **Multi-dimensional acquisition**: time-lapse, multi-channel, z-stacks, multi-position (XY tiling), and any combination — the core workflow for automated scanning.
 - **Broad hardware support**: microscopes from all four major manufacturers (Leica, Nikon, Olympus, Zeiss), most scientific-grade cameras, and a long, community-grown list of stages and peripherals via an open device-adapter interface. A Hardware Configuration Wizard builds a config file for your specific setup; a demo mode lets you explore without hardware.
-- **ImageJ integration**: the GUI (MMStudio) runs on top of ImageJ, so acquisition and image processing (including Fiji workflows already covered in [[Image Analysis]]) live in one environment.
+- **ImageJ integration**: the GUI (MMStudio) runs on top of ImageJ, so acquisition and image processing (including Fiji workflows already covered in [Image Analysis](image-analysis.md)) live in one environment.
 - **Scripting and APIs**: Beanshell scripting console in the GUI; programmatic control from Java, C++, MATLAB, and Python (the companion Pycro-Manager project exposes the full API to Python) for acquisitions the GUI can't express.
 - **Cross-platform and free**: Windows, Mac, and Linux, distributed under an open-source license at no cost — in deliberate contrast to closed vendor acquisition packages that lock you to supported devices.
 
@@ -36,5 +36,5 @@ Standard citations: Edelstein et al., *Curr Protoc Mol Biol* 2010 ("Computer con
 
 - **DIY whole-slide imaging**: Micro-Manager is the de facto control layer for building low-cost slide scanners — it automates motorized-stage tile scanning (multi-position + z) and hands tiles to ImageJ/Fiji for stitching. Directly relevant to the DIY WSI effort in the research vault.
 - **Live remote microscopy / telepathology**: scriptable stage-and-camera control is the foundation for remotely driven microscopes.
-- **Reproducible acquisition**: configuration files and scripts document exactly how images were acquired, which matters when image-analysis results (see [[Image Analysis]], [[Digital Pathology]]) depend on acquisition settings.
-- Complements [[Openmicroscopy]] (OME): Micro-Manager handles *acquisition*, OME handles *data management* — together they form an open-source pipeline from microscope to archive.
+- **Reproducible acquisition**: configuration files and scripts document exactly how images were acquired, which matters when image-analysis results (see [Image Analysis](image-analysis.md), [Digital Pathology](digital-pathology.md)) depend on acquisition settings.
+- Complements [Openmicroscopy](openmicroscopy.md) (OME): Micro-Manager handles *acquisition*, OME handles *data management* — together they form an open-source pipeline from microscope to archive.

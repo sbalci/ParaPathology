@@ -2,6 +2,8 @@
 type: Reference
 status: Stub
 language: en
+aliases:
+  - "Deutsche Artikel"
 ---
 
 # Deutsche Artikel

@@ -2,7 +2,7 @@
 type: Tool
 status: Developing
 language: en
-related_to: "[[Bibliometrics]]"
+belongs_to: "[[Bibliometrics]]"
 ---
 
 # Freecite

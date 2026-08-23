@@ -2,7 +2,7 @@
 type: Tool
 status: Developing
 language: en
-related_to: "[[Bibliography]]"
+belongs_to: "[[Bibliography]]"
 ---
 
 # EndNote

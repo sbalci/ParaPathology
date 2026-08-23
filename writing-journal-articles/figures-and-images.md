@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
+aliases:
+  - "Figures and Images"
 ---
 
 # Figures and Images

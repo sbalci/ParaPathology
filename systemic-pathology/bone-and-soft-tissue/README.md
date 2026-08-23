@@ -2,7 +2,9 @@
 status: Stub
 language: tr
 type: Topic
-related_to: "[[Systemic Pathology]]"
+belongs_to: "[[Systemic Pathology]]"
+aliases:
+  - "Bone and Soft Tissue"
 ---
 
 # Bone and Soft Tissue

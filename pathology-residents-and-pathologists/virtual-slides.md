@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Virtual Slides"
 ---
 
 # Virtual Slides

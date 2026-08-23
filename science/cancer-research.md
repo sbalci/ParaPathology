@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Science]]"
+belongs_to: "[[Science]]"
+aliases:
+  - "Cancer Research"
 ---
 
 # Cancer Research

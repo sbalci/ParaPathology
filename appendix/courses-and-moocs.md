@@ -2,6 +2,8 @@
 type: Reference
 status: Evergreen
 language: en
+aliases:
+  - "Courses and MOOCs"
 ---
 
 # Courses and MOOCs

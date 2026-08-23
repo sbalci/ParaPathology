@@ -2,7 +2,7 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # IRB

@@ -2,7 +2,7 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Guidelines]]"
+belongs_to: "[[Guidelines]]"
 ---
 
 # CAP

@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: tr
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
+aliases:
+  - "Power Analysis"
 ---
 
 # Power Analysis

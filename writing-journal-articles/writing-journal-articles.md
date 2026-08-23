@@ -2,6 +2,8 @@
 status: Stub
 language: en
 type: Topic
+aliases:
+  - "Writing Journal Articles"
 ---
 
 # Writing Journal Articles

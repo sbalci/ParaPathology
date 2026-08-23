@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "The Future of Pathology"
 ---
 
 # The Future of Pathology

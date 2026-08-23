@@ -5,13 +5,12 @@
   "h1": "Preface",
   "bom": false,
   "crlf": 0,
-  "lf": 43,
-  "has_aliases": false,
+  "lf": 45,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": null
+  "body_wikilinks": []
  },
  {
   "path": "GEMINI.md",
@@ -24,8 +23,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings.md",
@@ -38,24 +36,22 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "hugging-face-digital-pathology.md",
   "stem": "hugging-face-digital-pathology",
   "h1": "Hugging Face Digital Pathology",
   "bom": false,
-  "crlf": 202,
+  "crlf": 204,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "lavaan.md",
@@ -66,15 +62,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "r-project"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [
-   "Kaplan Meier",
-   "Regression modeling of competing risk using R: an in depth guide for clinicians - Bone Marrow Transplantation"
-  ],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/books.md",
@@ -87,64 +79,59 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/computer-programs-and-applications.md",
   "stem": "computer-programs-and-applications",
   "h1": "Computer Programs and Applications",
   "bom": false,
-  "crlf": 46,
+  "crlf": 48,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/courses-and-moocs.md",
   "stem": "courses-and-moocs",
   "h1": "Courses and MOOCs",
   "bom": false,
-  "crlf": 145,
+  "crlf": 147,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/deutsche-artikel.md",
   "stem": "deutsche-artikel",
   "h1": "Deutsche Artikel",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/github-repositories.md",
   "stem": "github-repositories",
   "h1": "GitHub Repositories",
   "bom": false,
-  "crlf": 49,
+  "crlf": 51,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/miscellaneous.md",
@@ -157,8 +144,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/videos.md",
@@ -171,66 +157,61 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/web-pages.md",
   "stem": "web-pages",
   "h1": "Web Pages",
   "bom": false,
-  "crlf": 258,
+  "crlf": 260,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/yazmayip-da-beslese-miydik.md",
   "stem": "yazmayip-da-beslese-miydik",
   "h1": "Yazmayıp da beslese miydik",
   "bom": false,
-  "crlf": 7,
+  "crlf": 9,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "appendix/clippings/README.md",
   "stem": "README",
   "h1": "Clippings (Folder)",
   "bom": false,
-  "crlf": 6,
+  "crlf": 8,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "autopsy/autopsy-articles.md",
   "stem": "autopsy-articles",
   "h1": "Autopsy Articles",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Autopsy"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "autopsy/autopsy.md",
@@ -243,24 +224,22 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/bibliography-impact-factor-and-citations.md",
   "stem": "bibliography-impact-factor-and-citations",
   "h1": "Bibliography, Impact Factor, and Citations",
   "bom": false,
-  "crlf": 161,
+  "crlf": 163,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bibliometrics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/bibliometrics.md",
@@ -273,8 +252,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/freecite.md",
@@ -285,60 +263,56 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bibliometrics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/problems-in-bibliometric-analysis.md",
   "stem": "problems-in-bibliometric-analysis",
   "h1": "Problems in Bibliometric Analysis",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bibliometrics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/research-articles.md",
   "stem": "research-articles",
   "h1": "Research Articles",
   "bom": false,
-  "crlf": 27,
+  "crlf": 29,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bibliometrics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/README.md",
   "stem": "README",
   "h1": "Data And Tools For Bibliographic Analysis",
   "bom": false,
-  "crlf": 9,
+  "crlf": 11,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bibliometrics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/citespace.md",
@@ -349,12 +323,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/citnetexplorer.md",
@@ -365,60 +338,56 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/data-and-tools.md",
   "stem": "data-and-tools",
   "h1": "Data and Tools",
   "bom": false,
-  "crlf": 552,
+  "crlf": 554,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/r-for-pubmed.md",
   "stem": "r-for-pubmed",
   "h1": "R for PubMed",
   "bom": false,
-  "crlf": 60,
+  "crlf": 62,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/reference-parsing.md",
   "stem": "reference-parsing",
   "h1": "Reference Parsing",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/sci2tool.md",
@@ -429,12 +398,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "bibliometrics/data-and-tools-for-bibliographic-analysis/vosviewer.md",
@@ -445,42 +413,39 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Data And Tools For Bibliographic Analysis"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/README.md",
   "stem": "README",
   "h1": "Carcinogenesis & Hallmarks of Cancer",
   "bom": false,
-  "crlf": 7,
+  "crlf": 9,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/carcinogenesis-links.md",
   "stem": "carcinogenesis-links",
   "h1": "Carcinogenesis",
   "bom": false,
-  "crlf": 80,
+  "crlf": 82,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Carcinogenesis & Hallmarks of Cancer"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/hpv.md",
@@ -491,12 +456,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Carcinogenesis & Hallmarks of Cancer"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/metastasis.md",
@@ -507,44 +471,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Carcinogenesis & Hallmarks of Cancer"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/tumor-immunology.md",
   "stem": "tumor-immunology",
   "h1": "Tumor Immunology",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Carcinogenesis & Hallmarks of Cancer"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/what-is-cancer.md",
   "stem": "what-is-cancer",
   "h1": "What is Cancer?",
   "bom": false,
-  "crlf": 1009,
+  "crlf": 1011,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Carcinogenesis & Hallmarks of Cancer"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Artificial intelligence in digital pathology — time for a reality check - Nature Reviews Clinical Oncology.md",
@@ -557,8 +518,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Digital and Computational Pathology Applications in Bladder Cancer Novel Tools Addressing Clinically Pressing Needs.md",
@@ -571,8 +531,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Immunohistochemistry in the Differential Diagnosis of...  Applied Immunohistochemistry & Molecular Morphology.md",
@@ -585,8 +544,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Introduction to Cell Profiler A beginner’s guide to segmentation - YouTube.md",
@@ -599,8 +557,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Pathology-CoT - learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour - Nature Biomedical Engineering.md",
@@ -611,12 +568,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Regression modeling of competing risk using R an in depth guide for clinicians - Bone Marrow Transplantation.md",
@@ -629,8 +585,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Seeds or Parasites Clinical and Histopathological.md",
@@ -643,8 +598,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/Solving Unpopular Problems - The QuPath Story - The Pathologist.md",
@@ -655,12 +609,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "Clippings/The hallmarks of cancer immune evasion.md",
@@ -673,24 +626,22 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Clipping"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md",
   "stem": "about-the-usage-of-digital-pathology",
   "h1": "About the Usage of Digital Pathology",
   "bom": false,
-  "crlf": 20,
+  "crlf": 22,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/analysis.md",
@@ -701,12 +652,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/cytomine.md",
@@ -717,74 +667,69 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/digital-pathology.md",
   "stem": "digital-pathology",
   "h1": "Digital Pathology",
   "bom": false,
-  "crlf": 165,
+  "crlf": 167,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/dijital-patolojiye-dair.md",
   "stem": "dijital-patolojiye-dair",
   "h1": "Dijital Patoloji'ye Dair",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/image-analysis.md",
   "stem": "image-analysis",
   "h1": "Image Analysis",
   "bom": false,
-  "crlf": 39,
+  "crlf": 41,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/mathematical-pathology.md",
   "stem": "mathematical-pathology",
   "h1": "Mathematical Pathology",
   "bom": false,
-  "crlf": 21,
+  "crlf": 23,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/openmicroscopy.md",
@@ -795,12 +740,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/telepathology.md",
@@ -811,12 +755,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/weakly-supervised-mil-histopathological-tumor-segmentation.md",
@@ -824,15 +767,29 @@
   "h1": "Weakly supervised MIL histopathological tumor segmentation",
   "bom": false,
   "crlf": 0,
-  "lf": 52,
-  "has_aliases": false,
+  "lf": 54,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
+ },
+ {
+  "path": "computational-digital-and-mathematical-pathology/tumor-budding-t-cell-graphs-pt1-colorectal-cancer.md",
+  "stem": "tumor-budding-t-cell-graphs-pt1-colorectal-cancer",
+  "h1": "Tumor budding T-cell graphs for pT1 colorectal cancer",
+  "bom": false,
+  "crlf": 0,
+  "lf": 54,
+  "has_aliases": true,
+  "has_fm": true,
+  "related_to": [],
+  "belongs_to": [
+   "Digital Pathology"
+  ],
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/micro-manager.md",
@@ -843,86 +800,56 @@
   "lf": 40,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [
-   "Image Analysis",
-   "Image Analysis",
-   "Digital Pathology",
-   "Openmicroscopy"
-  ],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/digital-pathology-software.md",
   "stem": "digital-pathology-software",
   "h1": "Digital Pathology Software",
   "bom": false,
-  "crlf": 30,
+  "crlf": 32,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [
-   "Micro-Manager"
-  ],
-  "type": "Reference"
- },
- {
-  "path": "computational-digital-and-mathematical-pathology/tumor-budding-t-cell-graphs-pt1-colorectal-cancer.md",
-  "stem": "tumor-budding-t-cell-graphs-pt1-colorectal-cancer",
-  "h1": "Tumor budding T-cell graphs for pT1 colorectal cancer",
-  "bom": false,
-  "crlf": 0,
-  "lf": 52,
-  "has_aliases": false,
-  "has_fm": true,
-  "related_to": [
-   "Digital Pathology"
-  ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computational-digital-and-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md",
   "stem": "articles-on-computational-digital-and-mathematical-pathology",
   "h1": "Articles on computational, digital, and mathematical pathology",
   "bom": false,
-  "crlf": 57,
+  "crlf": 59,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Digital Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [
-   "Weakly supervised MIL histopathological tumor segmentation",
-   "Tumor budding T-cell graphs for pT1 colorectal cancer"
-  ],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/computer-tips.md",
   "stem": "computer-tips",
   "h1": "Computer Tips",
   "bom": false,
-  "crlf": 119,
+  "crlf": 121,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/computers.md",
@@ -935,72 +862,67 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "computers/excel-sheets.md",
   "stem": "excel-sheets",
   "h1": "Excel, Sheets",
   "bom": false,
-  "crlf": 46,
+  "crlf": 48,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/git-github.md",
   "stem": "git-github",
   "h1": "Git GitHub",
   "bom": false,
-  "crlf": 204,
+  "crlf": 206,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/gitbook-plugins.md",
   "stem": "gitbook-plugins",
   "h1": "GitBook Plugins",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/lecture-preperation.md",
   "stem": "lecture-preperation",
   "h1": "Lecture Preperation",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/links.md",
@@ -1011,28 +933,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "computers/syntax-highlighting.md",
   "stem": "syntax-highlighting",
   "h1": "Syntax Highlighting",
   "bom": false,
-  "crlf": 79,
+  "crlf": 81,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Computers"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/access.md",
@@ -1043,26 +963,24 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/databases-and-pathology.md",
   "stem": "databases-and-pathology",
   "h1": "Databases and Pathology",
   "bom": false,
-  "crlf": 7,
+  "crlf": 9,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/filemaker.md",
@@ -1073,12 +991,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/globocan.md",
@@ -1089,12 +1006,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/mesh.md",
@@ -1105,28 +1021,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/national-cancer-database.md",
   "stem": "national-cancer-database",
   "h1": "National Cancer Database",
   "bom": false,
-  "crlf": 26,
+  "crlf": 28,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/pubmed.md",
@@ -1137,12 +1051,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/seer.md",
@@ -1153,12 +1066,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "databases-and-pathology/tcga.md",
@@ -1169,12 +1081,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Databases and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "docs/index.md",
@@ -1187,8 +1098,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "games/eyewire.md",
@@ -1199,12 +1109,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Games"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "games/games.md",
@@ -1217,8 +1126,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "games/go.md",
@@ -1229,60 +1137,56 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Games"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "games/chess/README.md",
   "stem": "README",
   "h1": "Chess",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Games"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "games/chess/satranc.md",
   "stem": "satranc",
   "h1": "Satranç",
   "bom": false,
-  "crlf": 27,
+  "crlf": 29,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Chess"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "games/chess/videos.md",
   "stem": "videos",
-  "h1": "Videos",
+  "h1": "Chess Videos",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Chess"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "guidelines/aapa.md",
@@ -1293,28 +1197,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Guidelines"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "guidelines/ajcc-uicc-tnm.md",
   "stem": "ajcc-uicc-tnm",
   "h1": "AJCC, UICC, TNM",
   "bom": false,
-  "crlf": 36,
+  "crlf": 38,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Guidelines"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "guidelines/cap.md",
@@ -1325,12 +1227,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Guidelines"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "guidelines/guidelines.md",
@@ -1343,24 +1244,22 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "introduction/edit-here.md",
   "stem": "edit-here",
   "h1": "Edit Here",
   "bom": false,
-  "crlf": 11,
+  "crlf": 13,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Introduction"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "introduction/introduction.md",
@@ -1373,24 +1272,22 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "introduction/pathology-pages.md",
   "stem": "pathology-pages",
   "h1": "Pathology Pages",
   "bom": false,
-  "crlf": 21,
+  "crlf": 23,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Introduction"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/acreditation.md",
@@ -1401,74 +1298,69 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/critical-diagnoses.md",
   "stem": "critical-diagnoses",
   "h1": "Critical Diagnoses",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/errors-in-pathology.md",
   "stem": "errors-in-pathology",
   "h1": "Errors in Pathology",
   "bom": false,
-  "crlf": 54,
+  "crlf": 56,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/health-risks.md",
   "stem": "health-risks",
   "h1": "Health Risks",
   "bom": false,
-  "crlf": 22,
+  "crlf": 24,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/laboratory-management.md",
   "stem": "laboratory-management",
   "h1": "Laboratory Management",
   "bom": false,
-  "crlf": 57,
+  "crlf": 59,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/lean.md",
@@ -1479,28 +1371,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/liquid-based-cytology-preperations.md",
   "stem": "liquid-based-cytology-preperations",
   "h1": "Liquid Based Cytology Preperations",
   "bom": false,
-  "crlf": 19,
+  "crlf": 21,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/microscopy.md",
@@ -1511,60 +1401,56 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/quality-and-standardisation.md",
   "stem": "quality-and-standardisation",
   "h1": "Quality And Standardisation",
   "bom": false,
-  "crlf": 22,
+  "crlf": 24,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/research-lab.md",
   "stem": "research-lab",
   "h1": "Research Lab",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/routine-histology-laboratory.md",
   "stem": "routine-histology-laboratory",
   "h1": "Routine Histology Laboratory",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/staff.md",
@@ -1575,12 +1461,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/resume.md",
@@ -1591,92 +1476,86 @@
   "lf": 40,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/laboratory-information-systems/README.md",
   "stem": "README",
   "h1": "Laboratory Information Systems",
   "bom": false,
-  "crlf": 45,
+  "crlf": 47,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Management"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri.md",
   "stem": "patoloji-moduelue-oezellikleri",
   "h1": "Patoloji Modülü Özellikleri",
   "bom": false,
-  "crlf": 75,
+  "crlf": 77,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Information Systems"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "macroscopy/macrocopy-videos.md",
   "stem": "macrocopy-videos",
   "h1": "Macrocopy Videos",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Macroscopy"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "macroscopy/macroscopic-photography.md",
   "stem": "macroscopic-photography",
   "h1": "Macroscopic Photography",
   "bom": false,
-  "crlf": 41,
+  "crlf": 43,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Macroscopy"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "macroscopy/macroscopy-articles-and-guidelines.md",
   "stem": "macroscopy-articles-and-guidelines",
   "h1": "Macroscopy Articles & Guidelines",
   "bom": false,
-  "crlf": 17,
+  "crlf": 19,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Macroscopy"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "macroscopy/macroscopy.md",
@@ -1689,56 +1568,52 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "macroscopy/whipple-macroscopy.md",
   "stem": "whipple-macroscopy",
   "h1": "Whipple Macroscopy",
   "bom": false,
-  "crlf": 23,
+  "crlf": 25,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Macroscopy"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/public-health.md",
   "stem": "public-health",
   "h1": "Public Health",
   "bom": false,
-  "crlf": 33,
+  "crlf": 35,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Medical School Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/README.md",
   "stem": "README",
   "h1": "General Pathology",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Medical School Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/amyloidosis.md",
@@ -1749,188 +1624,176 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/cellular-pathology.md",
   "stem": "cellular-pathology",
   "h1": "Cellular Pathology",
   "bom": false,
-  "crlf": 39,
+  "crlf": 41,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/chronic-inflammation.md",
   "stem": "chronic-inflammation",
   "h1": "Chronic Inflammation",
   "bom": false,
-  "crlf": 55,
+  "crlf": 57,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/general-pathology-links.md",
   "stem": "general-pathology-links",
   "h1": "General Pathology Links",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/intracellular-accumulations-and-cellular-aging.md",
   "stem": "intracellular-accumulations-and-cellular-aging",
   "h1": "Intracellular Accumulations and Cellular Aging",
   "bom": false,
-  "crlf": 102,
+  "crlf": 104,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/introduction-to-pathology.md",
   "stem": "introduction-to-pathology",
   "h1": "Introduction to Pathology",
   "bom": false,
-  "crlf": 171,
+  "crlf": 173,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/pathology-of-infectious-diseases.md",
   "stem": "pathology-of-infectious-diseases",
   "h1": "Pathology of Infectious Diseases",
   "bom": false,
-  "crlf": 18,
+  "crlf": 20,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/the-mechanisms-of-cell-death-apoptosis-and-autophagy.md",
   "stem": "the-mechanisms-of-cell-death-apoptosis-and-autophagy",
   "h1": "The Mechanisms of Cell Death, Apoptosis, and Autophagy",
   "bom": false,
-  "crlf": 92,
+  "crlf": 94,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/general-pathology/wound-healing.md",
   "stem": "wound-healing",
   "h1": "Wound Healing",
   "bom": false,
-  "crlf": 11,
+  "crlf": 13,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "General Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/infectious-diseases/README.md",
   "stem": "README",
   "h1": "Infectious Diseases",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Medical School Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/infectious-diseases/fungal-diseases.md",
   "stem": "fungal-diseases",
   "h1": "Fungal Diseases",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Infectious Diseases"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/infectious-diseases/parasitic-diseases.md",
   "stem": "parasitic-diseases",
   "h1": "Parasitic Diseases",
   "bom": false,
-  "crlf": 18,
+  "crlf": 20,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Infectious Diseases"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/infectious-diseases/vaccination.md",
@@ -1941,692 +1804,648 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Infectious Diseases"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/README.md",
   "stem": "README",
   "h1": "Laboratory Lectures",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Medical School Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-acute-and-chronic-inflammation.md",
   "stem": "lab-acute-and-chronic-inflammation",
   "h1": "Lab Acute and Chronic Inflammation",
   "bom": false,
-  "crlf": 34,
+  "crlf": 36,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-basic-tumor-pathology-1.md",
   "stem": "lab-basic-tumor-pathology-1",
   "h1": "Lab: Basic Tumor Pathology-1",
   "bom": false,
-  "crlf": 34,
+  "crlf": 36,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-basic-tumor-pathology-2.md",
   "stem": "lab-basic-tumor-pathology-2",
   "h1": "Lab: Basic Tumor Pathology-2",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-cellular-injury.md",
   "stem": "lab-cellular-injury",
   "h1": "Lab Cellular Injury",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-diseases-and-tumors-of-respiratory-system-1.md",
   "stem": "lab-diseases-and-tumors-of-respiratory-system-1",
   "h1": "Lab: Diseases and Tumors of Respiratory System-1",
   "bom": false,
-  "crlf": 22,
+  "crlf": 24,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-diseases-and-tumors-of-respiratory-system-2.md",
   "stem": "lab-diseases-and-tumors-of-respiratory-system-2",
   "h1": "Lab: Diseases and Tumors of Respiratory System-2",
   "bom": false,
-  "crlf": 18,
+  "crlf": 20,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-glomerular-diseases.md",
   "stem": "lab-glomerular-diseases",
   "h1": "Lab: Glomerular Diseases",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-gynecologic-pathologies.md",
   "stem": "lab-gynecologic-pathologies",
   "h1": "Lab: Gynecologic pathologies",
   "bom": false,
-  "crlf": 30,
+  "crlf": 32,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-hemodynamic-disorders.md",
   "stem": "lab-hemodynamic-disorders",
   "h1": "Lab Hemodynamic Disorders",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-infectious-agents-in-tissues.md",
   "stem": "lab-infectious-agents-in-tissues",
   "h1": "Lab: Infectious agents in tissues",
   "bom": false,
-  "crlf": 40,
+  "crlf": 42,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-breast.md",
   "stem": "lab-pathology-of-breast",
   "h1": "Lab: Pathology of Breast",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-cns.md",
   "stem": "lab-pathology-of-cns",
   "h1": "Lab: Pathology of CNS",
   "bom": false,
-  "crlf": 78,
+  "crlf": 80,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-endocrine-system-1.md",
   "stem": "lab-pathology-of-endocrine-system-1",
   "h1": "Lab: Pathology of Endocrine System-1",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-endocrine-system-2.md",
   "stem": "lab-pathology-of-endocrine-system-2",
   "h1": "Lab: Pathology of Endocrine System-2",
   "bom": false,
-  "crlf": 28,
+  "crlf": 30,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-gastrointestinal-tract-1.md",
   "stem": "lab-pathology-of-gastrointestinal-tract-1",
   "h1": "Lab: Pathology of Gastrointestinal Tract-1",
   "bom": false,
-  "crlf": 34,
+  "crlf": 36,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-gastrointestinal-tract-2.md",
   "stem": "lab-pathology-of-gastrointestinal-tract-2",
   "h1": "Lab: Pathology of Gastrointestinal Tract-2",
   "bom": false,
-  "crlf": 40,
+  "crlf": 42,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/laboratory-lectures/lab-pathology-of-heart-and-vascular-diseases.md",
   "stem": "lab-pathology-of-heart-and-vascular-diseases",
   "h1": "Lab: Pathology of Heart and Vascular Diseases",
   "bom": false,
-  "crlf": 60,
+  "crlf": 62,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Laboratory Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/medical-school-lectures/README.md",
   "stem": "README",
   "h1": "Medical School Lectures",
   "bom": false,
-  "crlf": 30,
+  "crlf": 32,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/medical-school-lectures/about-pathology-lectures.md",
   "stem": "about-pathology-lectures",
   "h1": "About Pathology Lectures",
   "bom": false,
-  "crlf": 394,
+  "crlf": 396,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Medical School Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "medical-school-lectures/medical-school-lectures/patoloji-laboratuvari-nasil-calisir.md",
   "stem": "patoloji-laboratuvari-nasil-calisir",
   "h1": "Patoloji Laboratuvarı Nasıl Çalışır",
   "bom": false,
-  "crlf": 114,
+  "crlf": 116,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Medical School Lectures"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Lecture"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/comperative-pathology.md",
   "stem": "comperative-pathology",
   "h1": "Comperative Pathology",
   "bom": false,
-  "crlf": 36,
+  "crlf": 38,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/endoscopy-and-pathology.md",
   "stem": "endoscopy-and-pathology",
   "h1": "Endoscopy and Pathology",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/epidemiology-and-pathology.md",
   "stem": "epidemiology-and-pathology",
   "h1": "Epidemiology and Pathology",
   "bom": false,
-  "crlf": 64,
+  "crlf": 66,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/genetics-and-pathology.md",
   "stem": "genetics-and-pathology",
   "h1": "Genetics and Pathology",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/inadequate-specimen-or-pathologist-or-laboratory.md",
   "stem": "inadequate-specimen-or-pathologist-or-laboratory",
   "h1": "Inadequate specimen? OR pathologist? OR laboratory?",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/oncology-and-pathology.md",
   "stem": "oncology-and-pathology",
   "h1": "Oncology and Pathology",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/pathology-and-other-departments.md",
   "stem": "pathology-and-other-departments",
   "h1": "Pathology and Other Departments",
   "bom": false,
-  "crlf": 7,
+  "crlf": 9,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/radiology-and-pathology.md",
   "stem": "radiology-and-pathology",
   "h1": "Radiology and Pathology",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/research-collaboration.md",
   "stem": "research-collaboration",
   "h1": "Research Collaboration",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/rotations-of-residents-to-pathology-from-other-departments.md",
   "stem": "rotations-of-residents-to-pathology-from-other-departments",
   "h1": "Rotations of Residents to Pathology from Other Departments",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/surgery-and-pathology.md",
   "stem": "surgery-and-pathology",
   "h1": "Surgery and Pathology",
   "bom": false,
-  "crlf": 24,
+  "crlf": 26,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-other-departments/turnaround-time.md",
   "stem": "turnaround-time",
   "h1": "Turnaround Time",
   "bom": false,
-  "crlf": 20,
+  "crlf": 22,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology and Other Departments"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-and-social-media/pathology-and-social-media.md",
   "stem": "pathology-and-social-media",
   "h1": "Pathology and Social Media",
   "bom": false,
-  "crlf": 273,
+  "crlf": 275,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-meetings/organization-of-meetings.md",
   "stem": "organization-of-meetings",
   "h1": "Organization Of Meetings",
   "bom": false,
-  "crlf": 47,
+  "crlf": 49,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathology Meetings"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-meetings/pathology-meetings.md",
   "stem": "pathology-meetings",
   "h1": "Pathology Meetings",
   "bom": false,
-  "crlf": 7,
+  "crlf": 9,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/academic-accounts.md",
   "stem": "academic-accounts",
   "h1": "Academic Accounts",
   "bom": false,
-  "crlf": 44,
+  "crlf": 46,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/academic-tools.md",
   "stem": "academic-tools",
   "h1": "Academic Tools",
   "bom": false,
-  "crlf": 11,
+  "crlf": 13,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/diagnosis-accuracy-interobserver-and-intraobserver-reliability.md",
   "stem": "diagnosis-accuracy-interobserver-and-intraobserver-reliability",
   "h1": "Diagnosis, accuracy, interobserver and intraobserver reliability",
   "bom": false,
-  "crlf": 18,
+  "crlf": 20,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/general-resources-for-residents.md",
   "stem": "general-resources-for-residents",
   "h1": "General Resources For Residents",
   "bom": false,
-  "crlf": 108,
+  "crlf": 110,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/helpful-web-sites-for-diagnostic-practice.md",
   "stem": "helpful-web-sites-for-diagnostic-practice",
   "h1": "Helpful Web Sites for Diagnostic Practice",
   "bom": false,
-  "crlf": 26,
+  "crlf": 28,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/history-of-pathology.md",
   "stem": "history-of-pathology",
   "h1": "History of Pathology",
   "bom": false,
-  "crlf": 38,
+  "crlf": 40,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oeyle.md",
   "stem": "it-happens-i-have-seen-that-before-olur-oeyle",
   "h1": "It happens / I have seen that before / Olur öyle",
   "bom": false,
-  "crlf": 22,
+  "crlf": 24,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/jargon.md",
@@ -2637,12 +2456,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/mitosis.md",
@@ -2653,28 +2471,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/molekueler-patolojiye-dair.md",
   "stem": "molekueler-patolojiye-dair",
   "h1": "Moleküler Patoloji'ye Dair",
   "bom": false,
-  "crlf": 108,
+  "crlf": 110,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/pathologist.md",
@@ -2687,88 +2503,82 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/pathology-as-a-career.md",
   "stem": "pathology-as-a-career",
   "h1": "Pathology as a Career",
   "bom": false,
-  "crlf": 55,
+  "crlf": 57,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/pathology-associations.md",
   "stem": "pathology-associations",
   "h1": "Pathology Associations",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/pathology-news.md",
   "stem": "pathology-news",
   "h1": "Pathology News",
   "bom": false,
-  "crlf": 36,
+  "crlf": 38,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/pathology-reports.md",
   "stem": "pathology-reports",
   "h1": "Pathology Reports",
   "bom": false,
-  "crlf": 94,
+  "crlf": 96,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/pathology-webinars.md",
   "stem": "pathology-webinars",
   "h1": "Pathology Webinars",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/photography.md",
@@ -2779,76 +2589,71 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/resident-education.md",
   "stem": "resident-education",
   "h1": "Resident Education",
   "bom": false,
-  "crlf": 40,
+  "crlf": 42,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/rotations-of-pathology-residents.md",
   "stem": "rotations-of-pathology-residents",
   "h1": "Rotations of Pathology Residents",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/so-called-junk-materials-and-pitfalls.md",
   "stem": "so-called-junk-materials-and-pitfalls",
   "h1": "So Called Junk Materials & Pitfalls",
   "bom": false,
-  "crlf": 214,
+  "crlf": 216,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/the-future-of-pathology.md",
   "stem": "the-future-of-pathology",
   "h1": "The Future of Pathology",
   "bom": false,
-  "crlf": 91,
+  "crlf": 93,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/unknowns.md",
@@ -2859,58 +2664,54 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/virtual-slides.md",
   "stem": "virtual-slides",
   "h1": "Virtual Slides",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-residents-and-pathologists/web-sites-of-pathologists.md",
   "stem": "web-sites-of-pathologists",
   "h1": "Web sites of Pathologists",
   "bom": false,
-  "crlf": 99,
+  "crlf": 101,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Pathologist"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/README.md",
   "stem": "README",
   "h1": "Pathology Tweets",
   "bom": false,
-  "crlf": 6,
+  "crlf": 8,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/pathtweets.md",
@@ -2923,8 +2724,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForAutopsy1.md",
@@ -2937,8 +2737,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForAutopsy2.md",
@@ -2951,8 +2750,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath22.md",
@@ -2965,8 +2763,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath31.md",
@@ -2979,8 +2776,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath33.md",
@@ -2993,8 +2789,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath46.md",
@@ -3007,8 +2802,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath47.md",
@@ -3021,8 +2815,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath49.md",
@@ -3035,8 +2828,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForGrossPath8.md",
@@ -3049,8 +2841,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForOralPath14.md",
@@ -3063,8 +2854,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForOralPath20.md",
@@ -3077,8 +2867,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathology-tweets/tweetsForOralPath21.md",
@@ -3091,8 +2880,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "pathophysiology/pathophysiology.md",
@@ -3105,38 +2893,35 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "patients-and-pathology/informing-patients-about-pathology.md",
   "stem": "informing-patients-about-pathology",
   "h1": "Informing Patients About Pathology",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Patients and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "patients-and-pathology/patients-and-pathology.md",
   "stem": "patients-and-pathology",
   "h1": "Patients and Pathology",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "patoloji-hakkinda/index.md",
@@ -3149,8 +2934,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/academics.md",
@@ -3161,28 +2945,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/cancer-research.md",
   "stem": "cancer-research",
   "h1": "Cancer Research",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/genetics.md",
@@ -3193,28 +2975,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/mathematics-and-geometry.md",
   "stem": "mathematics-and-geometry",
   "h1": "Mathematics & Geometry",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/medicine.md",
@@ -3225,12 +3005,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/neuroscience.md",
@@ -3241,12 +3020,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/physics.md",
@@ -3257,12 +3035,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Science"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "science/science.md",
@@ -3275,8 +3052,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "social-topics/kanserde-esma-tecellisi.md",
@@ -3289,8 +3065,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "social-topics/patoloji-pesrevi.md",
@@ -3303,40 +3078,37 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "stains/antibody-list.md",
   "stem": "antibody-list",
   "h1": "Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory",
   "bom": false,
-  "crlf": 598,
+  "crlf": 600,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Immunohistochemistry"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "stains/hematoxylin-and-eosin.md",
   "stem": "hematoxylin-and-eosin",
   "h1": "Hematoxylin and Eosin",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Stains"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "stains/histochemistry.md",
@@ -3347,44 +3119,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Stains"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "stains/ihc-supplement-orphan-rare-cutting-edge.md",
   "stem": "ihc-supplement-orphan-rare-cutting-edge",
   "h1": "Supplement: Orphan-Disease, Rare-Tumor & Cutting-Edge IHC",
   "bom": false,
-  "crlf": 207,
+  "crlf": 209,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Reference"
+  "body_wikilinks": []
  },
  {
   "path": "stains/immunohistochemistry-quantification.md",
   "stem": "immunohistochemistry-quantification",
   "h1": "Immunohistochemistry Quantification",
   "bom": false,
-  "crlf": 43,
+  "crlf": 45,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Immunohistochemistry"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "stains/immunohistochemistry.md",
@@ -3395,12 +3164,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Stains"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "stains/stains.md",
@@ -3413,40 +3181,37 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "stains/the-use-of-immunohistochemistry-for-diagnosis.md",
   "stem": "the-use-of-immunohistochemistry-for-diagnosis",
   "h1": "The use of immunohistochemistry for diagnosis",
   "bom": false,
-  "crlf": 17,
+  "crlf": 19,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Immunohistochemistry"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/alluvial-diagrams.md",
   "stem": "alluvial-diagrams",
   "h1": "Alluvial Diagrams",
   "bom": false,
-  "crlf": 20,
+  "crlf": 22,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/bioconductor.md",
@@ -3457,12 +3222,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/bioinformatics.md",
@@ -3473,28 +3237,26 @@
   "lf": 5,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/data-visualization-and-r.md",
   "stem": "data-visualization-and-r",
   "h1": "Data Visualization and R",
   "bom": false,
-  "crlf": 60,
+  "crlf": 62,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/googlevis.md",
@@ -3505,28 +3267,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/health-data.md",
   "stem": "health-data",
   "h1": "Health Data",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/jamovi.md",
@@ -3537,12 +3297,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/jasp.md",
@@ -3553,28 +3312,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/kaplan-meier.md",
   "stem": "kaplan-meier",
   "h1": "Kaplan Meier",
   "bom": false,
-  "crlf": 95,
+  "crlf": 97,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/kappa.md",
@@ -3585,28 +3342,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/mathematic-tools.md",
   "stem": "mathematic-tools",
   "h1": "Mathematic Tools",
   "bom": false,
-  "crlf": 20,
+  "crlf": 22,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/medcalc.md",
@@ -3617,44 +3372,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/missing-values.md",
   "stem": "missing-values",
   "h1": "Missing Values",
   "bom": false,
-  "crlf": 44,
+  "crlf": 46,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/neural-network.md",
   "stem": "neural-network",
   "h1": "Neural Network",
   "bom": false,
-  "crlf": 21,
+  "crlf": 23,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/orange.md",
@@ -3665,44 +3417,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/p-value.md",
   "stem": "p-value",
   "h1": "P Value",
   "bom": false,
-  "crlf": 85,
+  "crlf": 87,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/power-analysis.md",
   "stem": "power-analysis",
   "h1": "Power Analysis",
   "bom": false,
-  "crlf": 110,
+  "crlf": 112,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/pspp.md",
@@ -3713,12 +3462,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/python.md",
@@ -3729,12 +3477,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/regression.md",
@@ -3745,44 +3492,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/reproducible-reports.md",
   "stem": "reproducible-reports",
   "h1": "Reproducible Reports",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/roc-analysis.md",
   "stem": "roc-analysis",
   "h1": "ROC analysis",
   "bom": false,
-  "crlf": 56,
+  "crlf": 58,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/sas.md",
@@ -3793,28 +3537,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/sensitivity-specificity-predictive-values-and-decision-making.md",
   "stem": "sensitivity-specificity-predictive-values-and-decision-making",
   "h1": "Sensitivity, Specificity, Predictive Values & Decision Making",
   "bom": false,
-  "crlf": 9,
+  "crlf": 11,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/spss.md",
@@ -3825,696 +3567,637 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/statistics-and-bioinformatics-education.md",
   "stem": "statistics-and-bioinformatics-education",
   "h1": "Statistics and Bioinformatics Education",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/statistics-and-bioinformatics.md",
   "stem": "statistics-and-bioinformatics",
   "h1": "Statistics and Bioinformatics",
   "bom": false,
-  "crlf": 51,
+  "crlf": 53,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/statistics-general.md",
   "stem": "statistics-general",
   "h1": "Statistics General",
   "bom": false,
-  "crlf": 42,
+  "crlf": 44,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/survival-analysis.md",
   "stem": "survival-analysis",
   "h1": "Survival Analysis",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation.md",
   "stem": "tools-for-data-analysis-and-visualisation",
   "h1": "Tools for Data Analysis and Visualisation",
   "bom": false,
-  "crlf": 178,
+  "crlf": 180,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/README.md",
   "stem": "README",
   "h1": "Machine Learning",
   "bom": false,
-  "crlf": 57,
+  "crlf": 59,
   "lf": 12,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/apriori-algorithm-associated-learning.md",
   "stem": "apriori-algorithm-associated-learning",
   "h1": "Apriori Algorithm",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/artificial-neural-networks.md",
   "stem": "artificial-neural-networks",
   "h1": "Artificial Neural Networks",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/association-rules.md",
   "stem": "association-rules",
   "h1": "Association Rules",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/cluster-analysis.md",
   "stem": "cluster-analysis",
   "h1": "Cluster Analysis",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/convolutional-neural-networks.md",
   "stem": "convolutional-neural-networks",
   "h1": "Convolutional Neural Networks",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/decision-tree-cart.md",
   "stem": "decision-tree-cart",
   "h1": "Decision Tree",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/k-nearest-neighbors.md",
   "stem": "k-nearest-neighbors",
   "h1": "K - Nearest Neighbors",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/linear-discriminant-analysis.md",
   "stem": "linear-discriminant-analysis",
   "h1": "Linear Discriminant Analysis",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/linear-regression.md",
   "stem": "linear-regression",
   "h1": "Linear Regression",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/logistic-regression.md",
   "stem": "logistic-regression",
   "h1": "Logistic Regression",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/naive-bayes-classifier.md",
   "stem": "naive-bayes-classifier",
   "h1": "Naïve Bayes Classifier",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/principal-component-analysis-dimensionality-reduction.md",
   "stem": "principal-component-analysis-dimensionality-reduction",
   "h1": "Principal Component Analysis",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/random-forest.md",
   "stem": "random-forest",
   "h1": "Random Forest",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/recurrent-neural-networks.md",
   "stem": "recurrent-neural-networks",
   "h1": "Recurrent Neural Networks",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/machine-learning/support-vector-machine-svm.md",
   "stem": "support-vector-machine-svm",
   "h1": "Support Vector Machine",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Machine Learning"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/r-project/README.md",
   "stem": "README",
   "h1": "R-project",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/r-project/online-r-books.md",
   "stem": "online-r-books",
   "h1": "Online R Books",
   "bom": false,
-  "crlf": 24,
+  "crlf": 26,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "R-project"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/r-project/r-education-videos.md",
   "stem": "r-education-videos",
   "h1": "R Education Videos",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "R-project"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/r-project/r-packages.md",
   "stem": "r-packages",
   "h1": "R packages",
   "bom": false,
-  "crlf": 150,
+  "crlf": 152,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "R-project"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/r-project/r-project-veri-yueklemek-neden-zor.md",
   "stem": "r-project-veri-yueklemek-neden-zor",
   "h1": "R-project veri yüklemek neden zor?",
   "bom": false,
-  "crlf": 78,
+  "crlf": 80,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "R-project"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/r-project/using-multiple-r-versions.md",
   "stem": "using-multiple-r-versions",
   "h1": "Using multiple R versions",
   "bom": false,
-  "crlf": 75,
+  "crlf": 77,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "R-project"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/README.md",
   "stem": "README",
   "h1": "Text Mining",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics and Bioinformatics"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-blog-posts-examples.md",
   "stem": "text-mining-blog-posts-examples",
   "h1": "Text Mining Blog Posts Examples",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-courses.md",
   "stem": "text-mining-courses",
   "h1": "Text Mining Courses",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-journal-articles.md",
   "stem": "text-mining-journal-articles",
   "h1": "Text Mining Journal Articles",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-orange.md",
   "stem": "text-mining-orange",
   "h1": "Text Mining Orange",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
- },
- {
-  "path": "statistics-and-bioinformatics/text-mining/text-mining-pubmed-1.md",
-  "stem": "text-mining-pubmed-1",
-  "h1": "Text Mining PubMed",
-  "bom": false,
-  "crlf": 8,
-  "lf": 0,
-  "has_aliases": false,
-  "has_fm": true,
-  "related_to": [
-   "Text Mining"
-  ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-pubmed.md",
   "stem": "text-mining-pubmed",
   "h1": "Text Mining PubMed",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-r.md",
   "stem": "text-mining-r",
   "h1": "Text Mining R",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-related-web-sites.md",
   "stem": "text-mining-related-web-sites",
   "h1": "Text Mining Related Web Sites",
   "bom": false,
-  "crlf": 9,
+  "crlf": 11,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-turkish.md",
   "stem": "text-mining-turkish",
   "h1": "Text Mining Turkish",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-twitter.md",
   "stem": "text-mining-twitter",
   "h1": "Text Mining Twitter",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-and-bioinformatics/text-mining/text-mining-videos.md",
   "stem": "text-mining-videos",
   "h1": "Text Mining Videos",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Text Mining"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-bioinformatics-and-pathology/histopatoloji-calismalarinda-istatistik-icin-nasil-veri-hazirlanir.md",
   "stem": "histopatoloji-calismalarinda-istatistik-icin-nasil-veri-hazirlanir",
   "h1": "Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?",
   "bom": false,
-  "crlf": 170,
+  "crlf": 172,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics, Bioinformatics, and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-bioinformatics-and-pathology/patologlarla-istatistikcilerin-potansiyel-ortak-calisma-alanlari.md",
   "stem": "patologlarla-istatistikcilerin-potansiyel-ortak-calisma-alanlari",
   "h1": "Patologlarla istatistikçilerin potansiyel ortak çalışma alanları",
   "bom": false,
-  "crlf": 70,
+  "crlf": 72,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics, Bioinformatics, and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-bioinformatics-and-pathology/statistical-terms.md",
   "stem": "statistical-terms",
   "h1": "Statistical Terms",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Statistics, Bioinformatics, and Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "statistics-bioinformatics-and-pathology/statistics-bioinformatics-and-pathology.md",
   "stem": "statistics-bioinformatics-and-pathology",
   "h1": "Statistics, Bioinformatics, and Pathology",
   "bom": false,
-  "crlf": 37,
+  "crlf": 39,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/adrenal.md",
@@ -4525,12 +4208,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/bone.md",
@@ -4541,28 +4223,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/breast-pathology.md",
   "stem": "breast-pathology",
   "h1": "Breast Pathology",
   "bom": false,
-  "crlf": 33,
+  "crlf": 35,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/dermatopathology.md",
@@ -4573,28 +4253,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/endocrine-pathology.md",
   "stem": "endocrine-pathology",
   "h1": "Endocrine Pathology",
   "bom": false,
-  "crlf": 15,
+  "crlf": 17,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gallbladder.md",
@@ -4605,44 +4283,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/head-and-neck.md",
   "stem": "head-and-neck",
   "h1": "Head and Neck",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/immune-system.md",
   "stem": "immune-system",
   "h1": "Immune System",
   "bom": false,
-  "crlf": 15,
+  "crlf": 17,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/lung.md",
@@ -4653,44 +4328,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/medical-kidney.md",
   "stem": "medical-kidney",
   "h1": "Medical Kidney",
   "bom": false,
-  "crlf": 25,
+  "crlf": 27,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/organ-independent-pathology.md",
   "stem": "organ-independent-pathology",
   "h1": "Organ Independent Pathology",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/pancreas.md",
@@ -4701,58 +4373,54 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/salivary-gland.md",
   "stem": "salivary-gland",
   "h1": "Salivary Gland",
   "bom": false,
-  "crlf": 15,
+  "crlf": 17,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/soft-tissue.md",
   "stem": "soft-tissue",
   "h1": "Soft Tissue",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/systemic-pathology.md",
   "stem": "systemic-pathology",
   "h1": "Systemic Pathology",
   "bom": false,
-  "crlf": 7,
+  "crlf": 9,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/thymus.md",
@@ -4763,156 +4431,146 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/transplantation-pathology.md",
   "stem": "transplantation-pathology",
   "h1": "Transplantation Pathology",
   "bom": false,
-  "crlf": 15,
+  "crlf": 17,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/unnecessary-thyroid-fnac.md",
   "stem": "unnecessary-thyroid-fnac",
   "h1": "Unnecessary Thyroid FNAC",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/bone-and-soft-tissue/README.md",
   "stem": "README",
   "h1": "Bone and Soft Tissue",
   "bom": false,
-  "crlf": 15,
+  "crlf": 17,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/bone-and-soft-tissue/approach-to-soft-tissue-tumors.md",
   "stem": "approach-to-soft-tissue-tumors",
   "h1": "Approach to Soft Tissue Tumors",
   "bom": false,
-  "crlf": 18,
+  "crlf": 20,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bone and Soft Tissue"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/bone-and-soft-tissue/bone.md",
   "stem": "bone",
   "h1": "Bone Pathology",
   "bom": false,
-  "crlf": 17,
+  "crlf": 19,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bone and Soft Tissue"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/bone-and-soft-tissue/yumusak-doku-tuemoerleri.md",
   "stem": "yumusak-doku-tuemoerleri",
   "h1": "Yumuşak doku tümörleri",
   "bom": false,
-  "crlf": 15,
+  "crlf": 17,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bone and Soft Tissue"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/README.md",
   "stem": "README",
   "h1": "Gastrointestinal Pathology",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/duodenal-biopsy.md",
   "stem": "duodenal-biopsy",
   "h1": "Duodenal Biopsy",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gastrointestinal Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/esophagus-pathology.md",
   "stem": "esophagus-pathology",
   "h1": "Esophagus Pathology",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gastrointestinal Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/polyps.md",
@@ -4923,188 +4581,176 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gastrointestinal Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/stomach-biopsy.md",
   "stem": "stomach-biopsy",
   "h1": "Stomach",
   "bom": false,
-  "crlf": 10,
+  "crlf": 12,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gastrointestinal Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/colon-and-rectum/README.md",
   "stem": "README",
   "h1": "Colon and Rectum",
   "bom": false,
-  "crlf": 17,
+  "crlf": 19,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gastrointestinal Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/colon-and-rectum/colon-colorectal-carcinoma.md",
   "stem": "colon-colorectal-carcinoma",
   "h1": "Colon Colorectal Carcinoma",
   "bom": false,
-  "crlf": 39,
+  "crlf": 41,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Colon and Rectum"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gastrointestinal-pathology/colon-and-rectum/malignant-colorectal-polyps.md",
   "stem": "malignant-colorectal-polyps",
   "h1": "Malignant Colorectal Polyps",
   "bom": false,
-  "crlf": 25,
+  "crlf": 27,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Colon and Rectum"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gynecological-pathology/README.md",
   "stem": "README",
   "h1": "Gynecological Pathology",
   "bom": false,
-  "crlf": 17,
+  "crlf": 19,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gynecological-pathology/approach-to-endometrial-biopsies.md",
   "stem": "approach-to-endometrial-biopsies",
   "h1": "Approach to Endometrial Biopsies",
   "bom": false,
-  "crlf": 11,
+  "crlf": 13,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gynecological Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/gynecological-pathology/immunohistochemistry-in-gynecological-pathology.md",
   "stem": "immunohistochemistry-in-gynecological-pathology",
   "h1": "Immunohistochemistry in Gynecological Pathology",
   "bom": false,
-  "crlf": 17,
+  "crlf": 19,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Gynecological Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/liver-pathology/README.md",
   "stem": "README",
   "h1": "Liver Pathology",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/liver-pathology/approach-to-liver-biopsies.md",
   "stem": "approach-to-liver-biopsies",
   "h1": "Approach to Liver Biopsies",
   "bom": false,
-  "crlf": 23,
+  "crlf": 25,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Liver Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/liver-pathology/hepatitis-c.md",
   "stem": "hepatitis-c",
   "h1": "Hepatitis C",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Liver Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/neuropathology/README.md",
   "stem": "README",
   "h1": "Neuropathology",
   "bom": false,
-  "crlf": 20,
+  "crlf": 22,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/neuropathology/gliomlar.md",
@@ -5115,122 +4761,114 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Neuropathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/neuropathology/injury-in-central-nervous-system-and-cerebrovascular-diseases.md",
   "stem": "injury-in-central-nervous-system-and-cerebrovascular-diseases",
   "h1": "Injury in central nervous system and cerebrovascular diseases",
   "bom": false,
-  "crlf": 70,
+  "crlf": 72,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Neuropathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/uropathology/README.md",
   "stem": "README",
   "h1": "Uropathology",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Systemic Pathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "systemic-pathology/uropathology/prostate-pathology.md",
   "stem": "prostate-pathology",
   "h1": "Prostate Pathology",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Uropathology"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "taxonomy-and-classification-of-diseases/chaos-theory-and-uncertainity.md",
   "stem": "chaos-theory-and-uncertainity",
   "h1": "Chaos Theory and Uncertainity",
   "bom": false,
-  "crlf": 47,
+  "crlf": 49,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Taxonomy and Classification of Diseases"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "taxonomy-and-classification-of-diseases/classification-theory.md",
   "stem": "classification-theory",
   "h1": "Classification Theory",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Taxonomy and Classification of Diseases"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "taxonomy-and-classification-of-diseases/taxonomy-and-classification-of-diseases.md",
   "stem": "taxonomy-and-classification-of-diseases",
   "h1": "Taxonomy and Classification of Diseases",
   "bom": false,
-  "crlf": 19,
+  "crlf": 21,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "taxonomy-and-classification-of-diseases/tumor-classification.md",
   "stem": "tumor-classification",
   "h1": "Tumor Classification",
   "bom": false,
-  "crlf": 32,
+  "crlf": 34,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Taxonomy and Classification of Diseases"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "treatment-and-pathology/immunotherapy.md",
@@ -5241,44 +4879,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Treatment"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "treatment-and-pathology/prognostic-predictive-and-therapeutic-factors.md",
   "stem": "prognostic-predictive-and-therapeutic-factors",
   "h1": "Prognostic, Predictive and Therapeutic Factors",
   "bom": false,
-  "crlf": 13,
+  "crlf": 15,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Treatment"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "treatment-and-pathology/therapy-related-changes.md",
   "stem": "therapy-related-changes",
   "h1": "Therapy related changes",
   "bom": false,
-  "crlf": 35,
+  "crlf": 37,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Treatment"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "treatment-and-pathology/treatment.md",
@@ -5291,8 +4926,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/authorship.md",
@@ -5303,12 +4937,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/citation.md",
@@ -5319,12 +4952,11 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/citavi.md",
@@ -5335,44 +4967,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/figures-and-images.md",
   "stem": "figures-and-images",
   "h1": "Figures and Images",
   "bom": false,
-  "crlf": 61,
+  "crlf": 63,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/finding-relevant-articles.md",
   "stem": "finding-relevant-articles",
   "h1": "Finding Relevant Articles",
   "bom": false,
-  "crlf": 100,
+  "crlf": 102,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/irb.md",
@@ -5383,28 +5012,26 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/open-access.md",
   "stem": "open-access",
   "h1": "Open Access",
   "bom": false,
-  "crlf": 24,
+  "crlf": 26,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/plagiarism.md",
@@ -5415,60 +5042,56 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/platform-oral-presentation.md",
   "stem": "platform-oral-presentation",
   "h1": "Platform / Oral Presentation",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/publishing-general.md",
   "stem": "publishing-general",
   "h1": "Publishing General",
   "bom": false,
-  "crlf": 12,
+  "crlf": 14,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/rephrasing-and-synonyms.md",
   "stem": "rephrasing-and-synonyms",
   "h1": "Rephrasing & Synonyms",
   "bom": false,
-  "crlf": 16,
+  "crlf": 18,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/reproducibility.md",
@@ -5479,44 +5102,41 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/research-planning.md",
   "stem": "research-planning",
   "h1": "Research Planning",
   "bom": false,
-  "crlf": 36,
+  "crlf": 38,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/research-quality.md",
   "stem": "research-quality",
   "h1": "Research Quality",
   "bom": false,
-  "crlf": 14,
+  "crlf": 16,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/review.md",
@@ -5527,106 +5147,99 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/selecting-a-journal.md",
   "stem": "selecting-a-journal",
   "h1": "Selecting A Journal",
   "bom": false,
-  "crlf": 631,
+  "crlf": 633,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/text-editing.md",
   "stem": "text-editing",
   "h1": "Text Editing",
   "bom": false,
-  "crlf": 181,
+  "crlf": 183,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/visual-abstracts.md",
   "stem": "visual-abstracts",
   "h1": "Visual Abstracts",
   "bom": false,
-  "crlf": 47,
+  "crlf": 49,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
- },
- {
-  "path": "writing-journal-articles/writing-journal-articles-1.md",
-  "stem": "writing-journal-articles-1",
-  "h1": "Writing Journal Articles",
-  "bom": false,
-  "crlf": 29,
-  "lf": 0,
-  "has_aliases": false,
-  "has_fm": true,
-  "related_to": [
-   "Writing Journal Articles"
-  ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/writing-journal-articles.md",
   "stem": "writing-journal-articles",
   "h1": "Writing Journal Articles",
   "bom": false,
-  "crlf": 20,
+  "crlf": 22,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
+ },
+ {
+  "path": "writing-journal-articles/writing-journal-articles-1.md",
+  "stem": "writing-journal-articles-1",
+  "h1": "Manuscript Writing and Publishing Guides",
+  "bom": false,
+  "crlf": 31,
+  "lf": 0,
+  "has_aliases": true,
+  "has_fm": true,
+  "related_to": [],
+  "belongs_to": [
+   "Writing Journal Articles"
+  ],
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/bibliography/README.md",
   "stem": "README",
   "h1": "Bibliography",
   "bom": false,
-  "crlf": 8,
+  "crlf": 10,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Writing Journal Articles"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Topic"
+  "body_wikilinks": []
  },
  {
   "path": "writing-journal-articles/bibliography/endnote.md",
@@ -5637,40 +5250,37 @@
   "lf": 0,
   "has_aliases": false,
   "has_fm": true,
-  "related_to": [
+  "related_to": [],
+  "belongs_to": [
    "Bibliography"
   ],
-  "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Tool"
+  "body_wikilinks": []
  },
  {
   "path": "theories/Pathology AI Integration_ A Systems View.md",
   "stem": "Pathology AI Integration_ A Systems View",
   "h1": "**Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**",
   "bom": false,
-  "crlf": 244,
+  "crlf": 246,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "theories/Theoretical Frameworks for Understanding Pathology Practice.md",
   "stem": "Theoretical Frameworks for Understanding Pathology Practice",
   "h1": "Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map",
   "bom": false,
-  "crlf": 136,
+  "crlf": 138,
   "lf": 0,
-  "has_aliases": false,
+  "has_aliases": true,
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "theories/Theories and Frameworks for Understanding Pathology Practice.md",
@@ -5683,8 +5293,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Note"
+  "body_wikilinks": []
  },
  {
   "path": "types/clipping.md",
@@ -5697,8 +5306,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Type"
+  "body_wikilinks": []
  },
  {
   "path": "types/lecture.md",
@@ -5711,8 +5319,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Type"
+  "body_wikilinks": []
  },
  {
   "path": "types/note.md",
@@ -5725,8 +5332,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Type"
+  "body_wikilinks": []
  },
  {
   "path": "types/reference.md",
@@ -5739,8 +5345,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Type"
+  "body_wikilinks": []
  },
  {
   "path": "types/tool.md",
@@ -5753,8 +5358,7 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Type"
+  "body_wikilinks": []
  },
  {
   "path": "types/topic.md",
@@ -5767,7 +5371,6 @@
   "has_fm": true,
   "related_to": [],
   "belongs_to": [],
-  "body_wikilinks": [],
-  "type": "Type"
+  "body_wikilinks": []
  }
 ]

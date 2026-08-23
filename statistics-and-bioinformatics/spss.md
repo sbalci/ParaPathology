@@ -2,7 +2,7 @@
 type: Tool
 status: Evergreen
 language: tr
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # SPSS

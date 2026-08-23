@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Text Mining]]"
+belongs_to: "[[Text Mining]]"
+aliases:
+  - "Text Mining Turkish"
 ---
 
 # Text Mining Turkish

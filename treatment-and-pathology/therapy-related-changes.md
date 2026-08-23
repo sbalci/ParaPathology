@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Treatment]]"
+belongs_to: "[[Treatment]]"
+aliases:
+  - "Therapy related changes"
 ---
 
 # Therapy related changes

@@ -2,7 +2,9 @@
 status: Developing
 language: en
 type: Topic
-related_to: "[[Laboratory Management]]"
+belongs_to: "[[Laboratory Management]]"
+aliases:
+  - "Laboratory Information Systems"
 ---
 
 # Laboratory Information Systems

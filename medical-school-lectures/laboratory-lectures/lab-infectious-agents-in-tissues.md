@@ -2,7 +2,9 @@
 type: Lecture
 status: Developing
 language: en
-related_to: "[[Laboratory Lectures]]"
+belongs_to: "[[Laboratory Lectures]]"
+aliases:
+  - "Lab: Infectious agents in tissues"
 ---
 
 # Lab: Infectious agents in tissues

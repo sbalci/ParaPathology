@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Pathology and Other Departments]]"
+belongs_to: "[[Pathology and Other Departments]]"
+aliases:
+  - "Research Collaboration"
 ---
 
 # Research Collaboration

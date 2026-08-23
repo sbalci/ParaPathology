@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Statistics, Bioinformatics, and Pathology]]"
+belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
+aliases:
+  - "Statistical Terms"
 ---
 
 # Statistical Terms

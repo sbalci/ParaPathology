@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: tr
-related_to: "[[Pathology and Other Departments]]"
+belongs_to: "[[Pathology and Other Departments]]"
+aliases:
+  - "Rotations of Residents to Pathology from Other Departments"
 ---
 
 # Rotations of Residents to Pathology from Other Departments

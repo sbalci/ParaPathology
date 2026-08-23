@@ -2,8 +2,10 @@
 type: Note
 status: Stub
 language: en
-related_to:
+belongs_to:
   - "[[Immunohistochemistry]]"
+aliases:
+  - "The use of immunohistochemistry for diagnosis"
 ---
 
 # The use of immunohistochemistry for diagnosis

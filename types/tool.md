@@ -8,7 +8,7 @@ _list_properties_display:
   - status
   - url
 status:
-related_to:
+belongs_to:
 url:
 ---
 

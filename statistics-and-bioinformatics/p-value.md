@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: bilingual
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
+aliases:
+  - "P Value"
 ---
 
 # P Value

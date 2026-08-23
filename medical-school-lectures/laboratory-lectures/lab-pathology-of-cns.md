@@ -2,7 +2,9 @@
 type: Lecture
 status: Evergreen
 language: tr
-related_to: "[[Laboratory Lectures]]"
+belongs_to: "[[Laboratory Lectures]]"
+aliases:
+  - "Lab: Pathology of CNS"
 ---
 
 # Lab: Pathology of CNS

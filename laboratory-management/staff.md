@@ -2,7 +2,7 @@
 type: Note
 status: Developing
 language: bilingual
-related_to: "[[Laboratory Management]]"
+belongs_to: "[[Laboratory Management]]"
 ---
 
 # Staff

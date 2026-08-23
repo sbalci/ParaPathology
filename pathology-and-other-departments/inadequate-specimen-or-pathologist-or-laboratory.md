@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Pathology and Other Departments]]"
+belongs_to: "[[Pathology and Other Departments]]"
+aliases:
+  - "Inadequate specimen? OR pathologist? OR laboratory?"
 ---
 
 # Inadequate specimen? OR pathologist? OR laboratory?

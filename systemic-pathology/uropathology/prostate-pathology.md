@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Uropathology]]"
+belongs_to: "[[Uropathology]]"
+aliases:
+  - "Prostate Pathology"
 ---
 
 # Prostate Pathology

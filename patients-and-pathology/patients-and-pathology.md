@@ -2,6 +2,8 @@
 status: Stub
 language: en
 type: Topic
+aliases:
+  - "Patients and Pathology"
 ---
 
 # Patients and Pathology

@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Liver Pathology]]"
+belongs_to: "[[Liver Pathology]]"
+aliases:
+  - "Hepatitis C"
 ---
 
 # Hepatitis C

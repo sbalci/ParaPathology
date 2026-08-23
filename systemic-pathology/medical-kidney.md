@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Systemic Pathology]]"
+belongs_to: "[[Systemic Pathology]]"
+aliases:
+  - "Medical Kidney"
 ---
 
 # Medical Kidney

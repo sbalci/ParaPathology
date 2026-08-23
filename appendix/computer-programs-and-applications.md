@@ -2,6 +2,8 @@
 type: Reference
 status: Developing
 language: en
+aliases:
+  - "Computer Programs and Applications"
 ---
 
 # Computer Programs and Applications

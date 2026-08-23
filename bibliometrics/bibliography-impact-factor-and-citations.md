@@ -2,7 +2,9 @@
 type: Reference
 status: Evergreen
 language: en
-related_to: "[[Bibliometrics]]"
+belongs_to: "[[Bibliometrics]]"
+aliases:
+  - "Bibliography, Impact Factor, and Citations"
 ---
 
 # Bibliography, Impact Factor, and Citations

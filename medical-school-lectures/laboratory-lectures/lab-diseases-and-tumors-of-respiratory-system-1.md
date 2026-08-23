@@ -2,7 +2,9 @@
 type: Lecture
 status: Stub
 language: en
-related_to: "[[Laboratory Lectures]]"
+belongs_to: "[[Laboratory Lectures]]"
+aliases:
+  - "Lab: Diseases and Tumors of Respiratory System-1"
 ---
 
 # Lab: Diseases and Tumors of Respiratory System-1

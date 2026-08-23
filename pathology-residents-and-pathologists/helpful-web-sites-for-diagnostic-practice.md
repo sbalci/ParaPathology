@@ -2,8 +2,10 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
 description: Helpful Web Sites for Diagnostic Practice
+aliases:
+  - "Helpful Web Sites for Diagnostic Practice"
 ---
 
 # Helpful Web Sites for Diagnostic Practice

@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Computers]]"
+belongs_to: "[[Computers]]"
+aliases:
+  - "GitBook Plugins"
 ---
 
 # GitBook Plugins

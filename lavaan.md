@@ -2,7 +2,7 @@
 status: Evergreen
 language: en
 type: Note
-related_to:
+belongs_to:
   - "[[r-project]]"
   - "[[kaplan-meier]]"
 ---
@@ -125,7 +125,7 @@ summary(fit, fit.measures = TRUE, standardized = TRUE, ci = TRUE)
 ## When **not** to use lavaan
 
 - Single binary outcome with predictors → logistic regression / penalized regression / ML classifier. Worked example: Lasocki et al. (*AJNR* 2018, n=69, 21 codeleted) and Yan et al. (*Lab Invest* 2022, n=555, ResNet-34) — both predict 1p/19q co-deletion from MRI. lavaan/WLSMV *can* handle the binary/ordinal indicators in these data; the binding constraint for Lasocki is sample size, and for both papers there is a deeper definitional-circularity problem (covered two sections below) that no estimator fixes.
-- Time-to-event with one outcome → Cox model. (See [[Kaplan Meier]] and [[Regression modeling of competing risk using R: an in depth guide for clinicians - Bone Marrow Transplantation|competing-risk regression]].)
+- Time-to-event with one outcome → Cox model. (See [Kaplan Meier](statistics-and-bioinformatics/kaplan-meier.md) and [competing-risk regression](Clippings/Regression%20modeling%20of%20competing%20risk%20using%20R%20an%20in%20depth%20guide%20for%20clinicians%20-%20Bone%20Marrow%20Transplantation.md).)
 - n < 100 with many indicators → underpowered; consider a simpler composite score or partial least squares (`plspm`, `cSEM`).
 - Pure prediction without theoretical structure → SEM is a confirmatory tool, not a feature-selection method.
 

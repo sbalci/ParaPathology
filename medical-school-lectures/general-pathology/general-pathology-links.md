@@ -2,7 +2,9 @@
 type: Lecture
 status: Stub
 language: tr
-related_to: "[[General Pathology]]"
+belongs_to: "[[General Pathology]]"
+aliases:
+  - "General Pathology Links"
 ---
 
 # General Pathology Links

@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Neuropathology]]"
+belongs_to: "[[Neuropathology]]"
+aliases:
+  - "Injury in central nervous system and cerebrovascular diseases"
 ---
 
 # Injury in central nervous system and cerebrovascular diseases

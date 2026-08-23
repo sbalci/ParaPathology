@@ -2,7 +2,9 @@
 type: Lecture
 status: Evergreen
 language: bilingual
-related_to: "[[Medical School Lectures]]"
+belongs_to: "[[Medical School Lectures]]"
+aliases:
+  - "Patoloji Laboratuvarı Nasıl Çalışır"
 ---
 
 # Patoloji Laboratuvarı Nasıl Çalışır

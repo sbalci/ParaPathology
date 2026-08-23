@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
+aliases:
+  - "Research Planning"
 ---
 
 # Research Planning

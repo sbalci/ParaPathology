@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: bilingual
-related_to: "[[R-project]]"
+belongs_to: "[[R-project]]"
+aliases:
+  - "R packages"
 ---
 
 # R packages

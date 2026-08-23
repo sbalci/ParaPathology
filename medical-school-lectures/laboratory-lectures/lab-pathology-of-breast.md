@@ -2,7 +2,9 @@
 type: Lecture
 status: Stub
 language: en
-related_to: "[[Laboratory Lectures]]"
+belongs_to: "[[Laboratory Lectures]]"
+aliases:
+  - "Lab: Pathology of Breast"
 ---
 
 # Lab: Pathology of Breast

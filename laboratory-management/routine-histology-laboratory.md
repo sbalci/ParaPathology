@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Laboratory Management]]"
+belongs_to: "[[Laboratory Management]]"
+aliases:
+  - "Routine Histology Laboratory"
 ---
 
 # Routine Histology Laboratory

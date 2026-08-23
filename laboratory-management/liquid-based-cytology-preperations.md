@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Laboratory Management]]"
+belongs_to: "[[Laboratory Management]]"
+aliases:
+  - "Liquid Based Cytology Preperations"
 ---
 
 # Liquid Based Cytology Preperations

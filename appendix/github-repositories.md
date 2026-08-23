@@ -2,6 +2,8 @@
 type: Reference
 status: Evergreen
 language: en
+aliases:
+  - "GitHub Repositories"
 ---
 
 # GitHub Repositories

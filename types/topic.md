@@ -7,7 +7,7 @@ _list_properties_display:
   - related_to
   - status
 status:
-related_to:
+belongs_to:
 ---
 
 # Topic

@@ -2,7 +2,7 @@
 type: Lecture
 status: Stub
 language: en
-related_to: "[[Infectious Diseases]]"
+belongs_to: "[[Infectious Diseases]]"
 ---
 
 # Vaccination

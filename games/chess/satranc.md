@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Chess]]"
+belongs_to: "[[Chess]]"
+aliases:
+  - "Satranç"
 ---
 
 # Satranç

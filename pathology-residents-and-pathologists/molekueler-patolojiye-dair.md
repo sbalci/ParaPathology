@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: tr
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Moleküler Patoloji'ye Dair"
 ---
 
 # Moleküler Patoloji'ye Dair

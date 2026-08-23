@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Web sites of Pathologists"
 ---
 
 # Web sites of Pathologists

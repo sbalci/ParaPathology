@@ -2,8 +2,10 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Introduction]]"
+belongs_to: "[[Introduction]]"
 description: https://app.gitbook.com/
+aliases:
+  - "Edit Here"
 ---
 
 # Edit Here

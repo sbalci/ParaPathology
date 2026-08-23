@@ -2,7 +2,7 @@
 type: Note
 status: Stub
 language: tr
-related_to: "[[Laboratory Management]]"
+belongs_to: "[[Laboratory Management]]"
 ---
 
 # Acreditation

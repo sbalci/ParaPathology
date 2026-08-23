@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: bilingual
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
+aliases:
+  - "Selecting A Journal"
 ---
 
 # Selecting A Journal

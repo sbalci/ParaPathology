@@ -2,6 +2,8 @@
 description: >-
   The (Para) Pathology Notes for myself and those who are interested in
   Pathology
+aliases:
+  - "Preface"
 ---
 
 # Preface

@@ -2,8 +2,10 @@
 type: Note
 status: Stub
 language: tr
-related_to:
+belongs_to:
   - "[[Digital Pathology]]"
+aliases:
+  - "Dijital Patoloji'ye Dair"
 ---
 
 # Dijital Patoloji'ye Dair

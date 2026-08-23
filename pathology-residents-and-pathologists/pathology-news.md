@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: bilingual
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Pathology News"
 ---
 
 # Pathology News

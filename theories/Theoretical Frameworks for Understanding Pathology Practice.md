@@ -2,6 +2,8 @@
 type: Note
 status: Evergreen
 language: en
+aliases:
+  - "Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map"
 ---
 
 # Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map

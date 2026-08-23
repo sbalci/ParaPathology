@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Academic Accounts"
 ---
 
 # Academic Accounts

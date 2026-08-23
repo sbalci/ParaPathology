@@ -2,8 +2,10 @@
 status: Evergreen
 language: en
 type: Reference
-related_to:
+belongs_to:
   - "[[Immunohistochemistry]]"
+aliases:
+  - "Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory"
 ---
 
 # Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory

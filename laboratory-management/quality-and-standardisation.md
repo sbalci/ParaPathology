@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: en
-related_to: "[[Laboratory Management]]"
+belongs_to: "[[Laboratory Management]]"
+aliases:
+  - "Quality And Standardisation"
 ---
 
 # Quality And Standardisation

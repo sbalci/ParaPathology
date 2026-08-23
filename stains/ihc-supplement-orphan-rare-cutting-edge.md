@@ -2,8 +2,10 @@
 status: Evergreen
 language: en
 type: Reference
-related_to:
+belongs_to:
   - "[[Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory]]"
+aliases:
+  - "Supplement: Orphan-Disease, Rare-Tumor & Cutting-Edge IHC"
 ---
 
 # Supplement: Orphan-Disease, Rare-Tumor & Cutting-Edge IHC

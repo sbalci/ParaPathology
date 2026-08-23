@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
+aliases:
+  - "Health Data"
 ---
 
 # Health Data

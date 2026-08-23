@@ -2,7 +2,7 @@
 type: Tool
 status: Stub
 language: en
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Citavi

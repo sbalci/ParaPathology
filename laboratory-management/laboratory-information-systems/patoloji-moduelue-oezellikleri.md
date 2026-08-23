@@ -2,8 +2,10 @@
 type: Note
 status: Evergreen
 language: tr
-related_to: "[[Laboratory Information Systems]]"
+belongs_to: "[[Laboratory Information Systems]]"
 description: Eski bir şartnameden
+aliases:
+  - "Patoloji Modülü Özellikleri"
 ---
 
 # Patoloji Modülü Özellikleri

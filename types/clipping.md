@@ -12,7 +12,7 @@ published:
 created:
 description:
 tags:
-related_to:
+belongs_to:
 ---
 
 # Clipping

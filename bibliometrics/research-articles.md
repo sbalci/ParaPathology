@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Bibliometrics]]"
+belongs_to: "[[Bibliometrics]]"
+aliases:
+  - "Research Articles"
 ---
 
 # Research Articles

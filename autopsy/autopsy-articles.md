@@ -1,7 +1,9 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Autopsy]]"
+belongs_to: "[[Autopsy]]"
+aliases:
+  - "Autopsy Articles"
 ---
 
 # Autopsy Articles

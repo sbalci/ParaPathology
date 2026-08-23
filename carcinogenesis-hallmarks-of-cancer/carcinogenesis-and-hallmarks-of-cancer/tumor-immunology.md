@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
+belongs_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
+aliases:
+  - "Tumor Immunology"
 ---
 
 # Tumor Immunology

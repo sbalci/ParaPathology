@@ -1,7 +1,9 @@
 ---
 status: Stub
 type: Topic
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
+aliases:
+  - "Bibliography"
 ---
 
 # Bibliography

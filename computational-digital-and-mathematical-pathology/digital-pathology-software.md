@@ -2,8 +2,10 @@
 type: Reference
 status: Developing
 language: en
-related_to:
+belongs_to:
   - "[[Digital Pathology]]"
+aliases:
+  - "Digital Pathology Software"
 ---
 
 # Digital Pathology Software
@@ -22,7 +24,7 @@ related_to:
 
 ### [Micro-Manager](https://micro-manager.org/)
 
-Open-source microscope control and acquisition automation, integrated with ImageJ — see [[Micro-Manager]].
+Open-source microscope control and acquisition automation, integrated with ImageJ — see [Micro-Manager](micro-manager.md).
 
 {% embed url="https://micro-manager.org/" %}
 

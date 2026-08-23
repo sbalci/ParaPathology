@@ -2,6 +2,8 @@
 type: Note
 status: Evergreen
 language: en
+aliases:
+  - "**Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**"
 ---
 
 # **Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**

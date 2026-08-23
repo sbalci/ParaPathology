@@ -1,7 +1,9 @@
 ---
 type: Reference
 status: Stub
-related_to: "[[Chess]]"
+belongs_to: "[[Chess]]"
+aliases:
+  - "Chess Videos"
 ---
 
 # Chess Videos

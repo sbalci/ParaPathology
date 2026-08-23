@@ -1,7 +1,9 @@
 ---
 status: Stub
 type: Topic
-related_to: "[[Medical School Lectures]]"
+belongs_to: "[[Medical School Lectures]]"
+aliases:
+  - "General Pathology"
 ---
 
 # General Pathology

@@ -2,6 +2,8 @@
 status: Developing
 language: en
 type: Topic
+aliases:
+  - "Medical School Lectures"
 ---
 
 # Medical School Lectures

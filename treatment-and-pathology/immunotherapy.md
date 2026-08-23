@@ -2,7 +2,7 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Treatment]]"
+belongs_to: "[[Treatment]]"
 ---
 
 # Immunotherapy

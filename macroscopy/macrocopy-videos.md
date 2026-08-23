@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: tr
-related_to: "[[Macroscopy]]"
+belongs_to: "[[Macroscopy]]"
+aliases:
+  - "Macrocopy Videos"
 ---
 
 # Macrocopy Videos

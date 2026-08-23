@@ -2,7 +2,9 @@
 type: Lecture
 status: Developing
 language: bilingual
-related_to: "[[Laboratory Lectures]]"
+belongs_to: "[[Laboratory Lectures]]"
+aliases:
+  - "Lab: Pathology of Heart and Vascular Diseases"
 ---
 
 # Lab: Pathology of Heart and Vascular Diseases

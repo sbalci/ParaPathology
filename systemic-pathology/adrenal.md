@@ -2,7 +2,7 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Systemic Pathology]]"
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Adrenal

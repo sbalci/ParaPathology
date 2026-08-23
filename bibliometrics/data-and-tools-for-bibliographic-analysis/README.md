@@ -2,7 +2,9 @@
 status: Stub
 language: en
 type: Topic
-related_to: "[[Bibliometrics]]"
+belongs_to: "[[Bibliometrics]]"
+aliases:
+  - "Data And Tools For Bibliographic Analysis"
 ---
 
 # Data And Tools For Bibliographic Analysis

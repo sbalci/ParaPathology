@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: en
-related_to: "[[Writing Journal Articles]]"
+belongs_to: "[[Writing Journal Articles]]"
+aliases:
+  - "Text Editing"
 ---
 
 # Text Editing

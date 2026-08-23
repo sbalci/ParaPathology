@@ -1,7 +1,7 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Databases and Pathology]]"
+belongs_to: "[[Databases and Pathology]]"
 ---
 
 # SEER

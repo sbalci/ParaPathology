@@ -2,7 +2,7 @@
 type: Tool
 status: Developing
 language: en
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Python

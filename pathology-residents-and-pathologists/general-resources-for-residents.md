@@ -2,7 +2,9 @@
 type: Note
 status: Developing
 language: tr
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "General Resources For Residents"
 ---
 
 # General Resources For Residents

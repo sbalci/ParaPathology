@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Text Mining]]"
+belongs_to: "[[Text Mining]]"
+aliases:
+  - "Text Mining Blog Posts Examples"
 ---
 
 # Text Mining Blog Posts Examples

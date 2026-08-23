@@ -2,7 +2,9 @@
 type: Lecture
 status: Developing
 language: tr
-related_to: "[[Laboratory Lectures]]"
+belongs_to: "[[Laboratory Lectures]]"
+aliases:
+  - "Lab: Basic Tumor Pathology-1"
 ---
 
 # Lab: Basic Tumor Pathology-1

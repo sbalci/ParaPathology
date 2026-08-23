@@ -2,7 +2,7 @@
 type: Tool
 status: Stub
 language: en
-related_to: "[[Data And Tools For Bibliographic Analysis]]"
+belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 ---
 
 # Sci2Tool

@@ -1,7 +1,7 @@
 ---
 type: Note
 status: Stub
-related_to: "[[Science]]"
+belongs_to: "[[Science]]"
 ---
 
 # Medicine

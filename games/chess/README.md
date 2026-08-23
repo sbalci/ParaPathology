@@ -1,7 +1,9 @@
 ---
 status: Stub
 type: Topic
-related_to: "[[Games]]"
+belongs_to: "[[Games]]"
+aliases:
+  - "Chess"
 ---
 
 # Chess

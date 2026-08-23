@@ -2,7 +2,9 @@
 status: Developing
 language: en
 type: Topic
-related_to: "[[Statistics and Bioinformatics]]"
+belongs_to: "[[Statistics and Bioinformatics]]"
+aliases:
+  - "Machine Learning"
 ---
 
 # Machine Learning

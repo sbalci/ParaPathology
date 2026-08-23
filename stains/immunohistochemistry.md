@@ -2,7 +2,7 @@
 type: Note
 status: Developing
 language: en
-related_to:
+belongs_to:
   - "[[Stains]]"
 ---
 

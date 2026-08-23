@@ -2,7 +2,9 @@
 type: Note
 status: Evergreen
 language: en
-related_to: "[[Computers]]"
+belongs_to: "[[Computers]]"
+aliases:
+  - "Git GitHub"
 ---
 
 # Git GitHub

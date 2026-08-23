@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-related_to: "[[Pathologist]]"
+belongs_to: "[[Pathologist]]"
+aliases:
+  - "Academic Tools"
 ---
 
 # Academic Tools
