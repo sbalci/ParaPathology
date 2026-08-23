@@ -8,6 +8,10 @@ related_to:
 
 # Articles on computational, digital, and mathematical pathology
 
+#### Weakly supervised multiple instance learning histopathological tumor segmentation
+
+Reviewed in [[Weakly supervised MIL histopathological tumor segmentation]] — MIL tumor segmentation from slide-level labels only (Lerousseau et al., MICCAI 2020), with code and 6,481 released TCGA tumor maps at [MarvinLer/tcga_segmentation](https://github.com/MarvinLer/tcga_segmentation).
+
 #### The benefits of building and working with interactive simulations Interactive simulations for better model intuition
 
 {% embed url="http://blog.mathematical-oncology.org/benefits-of-building-interactive-simulations.html" %}
