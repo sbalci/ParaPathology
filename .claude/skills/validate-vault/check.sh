@@ -24,18 +24,26 @@ except Exception:
     HAVE_YAML = False
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "."
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 TYPE_VOCAB   = {"Topic", "Reference", "Tool", "Clipping", "Lecture", "Note"}
 STATUS_VOCAB = {"Stub", "Developing", "Evergreen"}
 LANG_VOCAB   = {"en", "tr", "bilingual"}
 
-# Directories and files that are not content notes
-SKIP_DIRS  = {".git", ".claude", "attachments", "views", "node_modules", "_book", ".obsidian"}
+# Directories and files that are not content notes.
+# docs/ and patoloji-hakkinda/ are GitHub Action build output, not notes.
+SKIP_DIRS  = {".git", ".github", ".gitbook", ".claude", ".remember", ".obsidian",
+              ".idea", "attachments", "views", "node_modules", "_book",
+              "docs", "patoloji-hakkinda", "libs", "_bookdown_files"}
 SKIP_NAMES = {"SUMMARY.md", "AGENTS.md", "CLAUDE.md", "GEMINI.md", "MEMORY.md"}
 # Body-wikilink leaks that are intentional (AGENTS.md documents the syntax)
 LEAK_EXEMPT = {"AGENTS.md"}
 
 WIKILINK = re.compile(r"\[\[([^\]]+)\]\]")
+
+def slugify(v):
+    return re.sub(r"[^a-z0-9]+", "-", v.lower()).strip("-")
 
 def is_root_readme(rel):
     return rel.lower() == "readme.md"
@@ -127,11 +135,15 @@ def iter_wikilinks(data, fm):
 # ---- per-note checks ------------------------------------------------------
 untyped, bad_type, bad_status, bad_lang = [], [], [], []
 double_block, invalid_yaml, leaks = [], [], []
+alias_missing, multi_parent, root_notes = [], [], []
 wikilink_targets = []          # (rel, key, target)
 census = {t: 0 for t in TYPE_VOCAB}
 census_other = 0
 
 for rel, ap, text in notes:
+    # every content note lives in a folder; the root is for README/SUMMARY/agent files
+    if "/" not in rel:
+        root_notes.append(rel)
     fm, body, nblocks, closed = split_frontmatter(text)
     if fm is None:
         untyped.append(rel)          # no frontmatter at all => no type
@@ -168,6 +180,24 @@ for rel, ap, text in notes:
     lang = data.get("language")
     if lang is not None and lang not in LANG_VOCAB:
         bad_lang.append(f"{rel} -> {lang!r}")
+
+    # aliases: Obsidian resolves [[Title]] against the FILENAME, Tolaria against the H1.
+    # Where they differ the H1 must be an alias or the edge dangles in Obsidian.
+    h1 = h1_of(body)
+    stem = os.path.splitext(os.path.basename(rel))[0]
+    if h1 and slugify(h1) != slugify(stem):
+        al = data.get("aliases") or []
+        if isinstance(al, str):
+            al = [al]
+        if not any(slugify(str(a)) == slugify(h1) for a in al):
+            alias_missing.append(f"{rel} -> {h1!r}")
+
+    # hierarchy is singular: exactly one belongs_to
+    bt = data.get("belongs_to")
+    if bt is not None:
+        bt_links = WIKILINK.findall(bt if isinstance(bt, str) else " ".join(map(str, bt)))
+        if len(bt_links) > 1:
+            multi_parent.append(f"{rel} -> {bt_links}")
 
     # relationship wikilinks live in frontmatter -- keyed so we can bucket them
     for key, tgt in iter_wikilinks(data, fm):
@@ -214,7 +244,7 @@ unused_typedoc  = sorted(d for d in typedoc_stems if d.capitalize() not in used_
 total = len(notes)
 typed = sum(census.values())
 fails = (bad_type or bad_status or bad_lang or double_block or invalid_yaml
-         or leaks or missing_typedoc)
+         or leaks or missing_typedoc or alias_missing or multi_parent or root_notes)
 
 def show(label, items, limit=15):
     n = len(items)
@@ -232,6 +262,9 @@ show("status out-of-vocab", bad_status)
 show("language out-of-vocab", bad_lang)
 show("double frontmatter", double_block)
 show("invalid YAML", invalid_yaml)
+show("missing alias (H1 != file)", alias_missing)
+show("multiple belongs_to", multi_parent)
+show("root-level content notes", root_notes)
 show("unresolved (should resolve)", unresolved)
 show("attribution stubs (info)", attrib_stubs)
 show("NEW body-wikilink leaks", leaks)
