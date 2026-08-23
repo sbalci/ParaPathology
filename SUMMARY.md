@@ -13,9 +13,9 @@
 
 ## Medical School Lectures
 
-* [Medical School Lectures](medical-school-lectures/medical-school-lectures/README.md)
-* [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
-* [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/medical-school-lectures/patoloji-laboratuvari-nasil-calisir.md)
+* [Medical School Lectures](medical-school-lectures/README.md)
+* [About Pathology Lectures](medical-school-lectures/about-pathology-lectures.md)
+* [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/patoloji-laboratuvari-nasil-calisir.md)
 * [General Pathology](medical-school-lectures/general-pathology/README.md)
   * [General Pathology Links](medical-school-lectures/general-pathology/general-pathology-links.md)
   * [Introduction to Pathology](medical-school-lectures/general-pathology/introduction-to-pathology.md)
@@ -156,12 +156,12 @@
 
 ## Carcinogenesis, Hallmarks of Cancer
 
-* [Carcinogenesis & Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/README.md)
-* [Carcinogenesis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/carcinogenesis-links.md)
-* [HPV](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/hpv.md)
-* [Tumor Immunology](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/tumor-immunology.md)
-* [Metastasis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/metastasis.md)
-* [What is Cancer?](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/what-is-cancer.md)
+* [Carcinogenesis & Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/README.md)
+* [Carcinogenesis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-links.md)
+* [HPV](carcinogenesis-hallmarks-of-cancer/hpv.md)
+* [Tumor Immunology](carcinogenesis-hallmarks-of-cancer/tumor-immunology.md)
+* [Metastasis](carcinogenesis-hallmarks-of-cancer/metastasis.md)
+* [What is Cancer?](carcinogenesis-hallmarks-of-cancer/what-is-cancer.md)
 
 ## Computational, Digital & Mathematical Pathology
 
@@ -176,7 +176,7 @@
 * [Articles on computational, digital, and mathematical pathology](computational-digital-and-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
 * [Mathematical Pathology](computational-digital-and-mathematical-pathology/mathematical-pathology.md)
 * [Image Analysis](computational-digital-and-mathematical-pathology/image-analysis.md)
-* [Hugging Face Digital Pathology](hugging-face-digital-pathology.md)
+* [Hugging Face Digital Pathology](computational-digital-and-mathematical-pathology/hugging-face-digital-pathology.md)
 
 ## Macroscopy
 
@@ -338,7 +338,7 @@
 * [Health Data](statistics-and-bioinformatics/health-data.md)
 * [Python](statistics-and-bioinformatics/python.md)
 * [Reproducible Reports](statistics-and-bioinformatics/reproducible-reports.md)
-* [Lavaan](lavaan.md)
+* [Lavaan](statistics-and-bioinformatics/lavaan.md)
 
 ## Writing Journal Articles
 
@@ -440,12 +440,11 @@
 * [GitHub Repositories](appendix/github-repositories.md)
 * [Yazmayıp da beslese miydik](appendix/yazmayip-da-beslese-miydik.md)
 * [Deutsche Artikel](appendix/deutsche-artikel.md)
-* [Clippings](Clippings.md)
+* [Clippings](Clippings/README.md)
   * [Digital and Computational Pathology Applications in Bladder Cancer: Novel Tools Addressing Clinically Pressing Needs](Clippings/Digital%20and%20Computational%20Pathology%20Applications%20in%20Bladder%20Cancer%20Novel%20Tools%20Addressing%20Clinically%20Pressing%20Needs.md)
   * [Immunohistochemistry in the Differential Diagnosis of... : Applied Immunohistochemistry & Molecular Morphology](Clippings/Immunohistochemistry%20in%20the%20Differential%20Diagnosis%20of...%20%20Applied%20Immunohistochemistry%20%26%20Molecular%20Morphology.md)
   * [Introduction to Cell Profiler: A beginner’s guide to segmentation - YouTube](Clippings/Introduction%20to%20Cell%20Profiler%20A%20beginner%E2%80%99s%20guide%20to%20segmentation%20-%20YouTube.md)
   * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Clippings/Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
   * [Seeds or Parasites Clinical and Histopathological](Clippings/Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
   * [Solving Unpopular Problems: The QuPath Story](Clippings/Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
-* [Clippings (Folder)](appendix/clippings/README.md)
 * [miscellaneous](appendix/miscellaneous.md)

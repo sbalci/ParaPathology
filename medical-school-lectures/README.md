@@ -35,9 +35,9 @@ order: 10
 
 * [About Pathology Lectures](about-pathology-lectures.md)
 * [Patoloji Laboratuvarı Nasıl Çalışır](patoloji-laboratuvari-nasil-calisir.md)
-* [General Pathology](../general-pathology/README.md)
-* [Laboratory Lectures](../laboratory-lectures/README.md)
-* [Public Health](../public-health.md)
-* [Infectious Diseases](../infectious-diseases/README.md)
+* [General Pathology](general-pathology/README.md)
+* [Laboratory Lectures](laboratory-lectures/README.md)
+* [Public Health](public-health.md)
+* [Infectious Diseases](infectious-diseases/README.md)
 
 <!-- tolaria:children:end -->

@@ -22,8 +22,7 @@ General reference collections that support the whole vault rather than a single 
 * [GitHub Repositories](github-repositories.md)
 * [Yazmayıp da beslese miydik](yazmayip-da-beslese-miydik.md)
 * [Deutsche Artikel](deutsche-artikel.md)
-* [Clippings](../Clippings.md)
-* [Clippings (Folder)](clippings/README.md)
+* [Clippings](../Clippings/README.md)
 * [miscellaneous](miscellaneous.md)
 
 <!-- tolaria:children:end -->

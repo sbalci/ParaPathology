@@ -91,6 +91,6 @@ The quantitative toolbox: statistical concepts (power, ROC, survival, kappa, reg
 * [Health Data](health-data.md)
 * [Python](python.md)
 * [Reproducible Reports](reproducible-reports.md)
-* [Lavaan](../lavaan.md)
+* [Lavaan](lavaan.md)
 
 <!-- tolaria:children:end -->

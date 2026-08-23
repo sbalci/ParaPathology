@@ -183,6 +183,6 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 * [Articles on computational, digital, and mathematical pathology](articles-on-computational-digital-and-mathematical-pathology.md)
 * [Mathematical Pathology](mathematical-pathology.md)
 * [Image Analysis](image-analysis.md)
-* [Hugging Face Digital Pathology](../hugging-face-digital-pathology.md)
+* [Hugging Face Digital Pathology](hugging-face-digital-pathology.md)
 
 <!-- tolaria:children:end -->
