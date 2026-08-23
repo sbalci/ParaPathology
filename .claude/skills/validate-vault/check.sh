@@ -3,8 +3,11 @@
 # validate-vault/check.sh
 #
 # GitBook/Tolaria vault frontmatter health-check for ParaPathology.
-# The Vault-Safe, GitBook-safe adaptation of a knowledge orchestrator's
-# vault.validate + health-check. Read-only: it reports, it never repairs.
+# Read-only: it reports, it never repairs.
+#
+# Covers the frontmatter schema (type/status/language/aliases), singular
+# hierarchy, GitBook body-wikilink safety, and note placement. The
+# navigation graph is checked by:  python tools/generate_summary.py check
 #
 # Run from the vault root:   bash .claude/skills/validate-vault/check.sh
 # Optional arg: a subtree to scan (default: whole vault).

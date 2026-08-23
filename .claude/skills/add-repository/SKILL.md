@@ -37,7 +37,7 @@ behaviour: entry points, argument parsers, function signatures, `setup.py`/`pypr
 the licence file, the actual example outputs. Where README and code disagree, the code is what
 runs — say so, because that discrepancy is itself a finding.
 
-Under Vault-Safe there's no clone step. Read the rendered repo, the raw source files, releases,
+There is no clone step here. Read the rendered repo, the raw source files, releases,
 and issues through their web URLs. If you genuinely cannot see the source (only the README),
 say so and mark conclusions `[unverified]` rather than repeating documentation as fact.
 

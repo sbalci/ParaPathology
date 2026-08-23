@@ -41,7 +41,7 @@ One-line summary of what this project does.
 Derived from: repository read YYYY-MM-DD — <which files / pages>.
 ```
 
-`repo:` is the durable identifier. There is no `local_path` here — Vault-Safe means no clone.
+`repo:` is the durable identifier. There is no `local_path` here — nothing is cloned locally.
 
 ---
 
