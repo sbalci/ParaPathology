@@ -20,5 +20,11 @@ related_to:
 
 {% embed url="https://www.orbit.bio/" %}
 
+### [Micro-Manager](https://micro-manager.org/)
+
+Open-source microscope control and acquisition automation, integrated with ImageJ — see [[Micro-Manager]].
+
+{% embed url="https://micro-manager.org/" %}
+
 
 
