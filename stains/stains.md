@@ -16,3 +16,16 @@ order: 10
 [http://www.tandfonline.com/doi/abs/10.1179/his.2009.32.1.9](http://www.tandfonline.com/doi/abs/10.1179/his.2009.32.1.9)
 
 [http://dx.doi.org/10.1179/his.2009.32.1.9](http://dx.doi.org/10.1179/his.2009.32.1.9)
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Hematoxylin and Eosin](hematoxylin-and-eosin.md)
+* [Histochemistry](histochemistry.md)
+* [Immunohistochemistry](immunohistochemistry.md)
+* [Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory](antibody-list.md)
+* [Immunohistochemistry Quantification](immunohistochemistry-quantification.md)
+* [The use of immunohistochemistry for diagnosis](the-use-of-immunohistochemistry-for-diagnosis.md)
+
+<!-- tolaria:children:end -->

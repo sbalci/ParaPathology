@@ -46,3 +46,11 @@ belongs_to: "[[Laboratory Management]]"
 ## Laboratory Management
 
 During pathology residency we are not having enough education for laboratory management. Consequences of this appears when one first faces with a problem in the daily routine process.
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Patoloji Modülü Özellikleri](patoloji-moduelue-oezellikleri.md)
+
+<!-- tolaria:children:end -->

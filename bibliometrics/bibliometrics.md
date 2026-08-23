@@ -289,3 +289,15 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 * Medical Journals: A Sluggish Form of Twitter?
 
 [https://www.medpagetoday.com/blogs/revolutionandrevelation/79274](https://www.medpagetoday.com/blogs/revolutionandrevelation/79274)
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Bibliography, Impact Factor, and Citations](bibliography-impact-factor-and-citations.md)
+* [Research Articles](research-articles.md)
+* [Data And Tools For Bibliographic Analysis](data-and-tools-for-bibliographic-analysis/README.md)
+* [Problems in Bibliometric Analysis](problems-in-bibliometric-analysis.md)
+* [Freecite](freecite.md)
+
+<!-- tolaria:children:end -->

@@ -17,3 +17,12 @@ belongs_to: "[[Systemic Pathology]]"
 {% embed url="https://twitter.com/drkeithsiau/status/1741378346569605364" %}
 
 {% embed url="https://twitter.com/sumeyra_md/status/1526277910956474376" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Approach to Liver Biopsies](approach-to-liver-biopsies.md)
+* [Hepatitis C](hepatitis-c.md)
+
+<!-- tolaria:children:end -->

@@ -58,3 +58,23 @@ Dibazik sodyum fosfat 6.5 gr
 Semin Diagn Pathol. 2019 Sep;36(5):293. doi: 10.1053/j.semdp.2019.06.007. Epub 2019 Jun 28. Preface: Selected technical problems in anatomic pathology.
 
 [https://www.ncbi.nlm.nih.gov/pubmed/31277981](https://www.ncbi.nlm.nih.gov/pubmed/31277981)
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Lean](lean.md)
+* [Laboratory Information Systems](laboratory-information-systems/README.md)
+* [Routine Histology Laboratory](routine-histology-laboratory.md)
+* [Liquid Based Cytology Preperations](liquid-based-cytology-preperations.md)
+* [Research Lab](research-lab.md)
+* [Errors in Pathology](errors-in-pathology.md)
+* [Microscopy](microscopy.md)
+* [Health Risks](health-risks.md)
+* [Critical Diagnoses](critical-diagnoses.md)
+* [Staff](staff.md)
+* [Quality And Standardisation](quality-and-standardisation.md)
+* [Resume](resume.md)
+* [Acreditation](acreditation.md)
+
+<!-- tolaria:children:end -->

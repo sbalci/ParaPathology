@@ -119,3 +119,12 @@ Below are my web pages and social media accounts
 {% embed url="https://twitter.com/serdarbalci/status/1269671183114526722" %}
 
 {% embed url="https://twitter.com/serdarbalci/status/1284186187205312514" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Edit Here](edit-here.md)
+* [Pathology Pages](pathology-pages.md)
+
+<!-- tolaria:children:end -->

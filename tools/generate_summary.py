@@ -86,9 +86,16 @@ class Note(object):
 
     @property
     def h1(self):
+        """Display title: H1, else frontmatter title, else alias, else filename."""
         for ln in self.lines:
             if ln.startswith("# "):
-                return ln[2:].strip()
+                return ln[2:].strip().strip("*_").strip()
+        t = self.scalar("title")
+        if t:
+            return t.strip('"').strip("'")
+        al = self.fm.get("aliases")
+        if isinstance(al, list) and al:
+            return al[0].strip("*_").strip()
         return os.path.splitext(os.path.basename(self.rel))[0]
 
     def replace_keys(self, drop, add_lines):

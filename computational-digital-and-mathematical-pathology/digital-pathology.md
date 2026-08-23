@@ -166,3 +166,21 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 ***
 
 {% embed url="https://www.youtube.com/watch?v=zNRxF-TqUnI" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Dijital Patoloji'ye Dair](dijital-patolojiye-dair.md)
+* [About the Usage of Digital Pathology](about-the-usage-of-digital-pathology.md)
+* [Digital Pathology Software](digital-pathology-software.md)
+* [Analysis](analysis.md)
+* [Telepathology](telepathology.md)
+* [Cytomine](cytomine.md)
+* [Openmicroscopy](openmicroscopy.md)
+* [Articles on computational, digital, and mathematical pathology](articles-on-computational-digital-and-mathematical-pathology.md)
+* [Mathematical Pathology](mathematical-pathology.md)
+* [Image Analysis](image-analysis.md)
+* [Hugging Face Digital Pathology](../hugging-face-digital-pathology.md)
+
+<!-- tolaria:children:end -->

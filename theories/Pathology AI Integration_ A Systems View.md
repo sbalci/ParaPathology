@@ -3,12 +3,14 @@ type: Note
 status: Evergreen
 language: en
 aliases:
-  - "**Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**"
+  - "Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory"
 order: 30
 belongs_to: "[[Theories and Frameworks]]"
 ---
 
-# **Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**
+# Pathology AI Integration: A Systems View
+
+**Theoretical Frameworks in Digital Pathology: AI Integration, Complex Adaptive Systems, and the Cognitive Ecology of the Laboratory**
 
 The integration of artificial intelligence (AI) and digital imaging into the diagnostic pathology laboratory represents an unparalleled sociotechnical transformation. However, as articulated in contemporary critiques of the digitization process, AI companies entering the field of pathology are not merely providing a software upgrade; they are intruding upon a century-old clinical ecosystem. This ecosystem has stabilized over generations around hematoxylin and eosin (H\&E) workflows, glass slides, and the physical microscope.1 Since the inception of modern histopathology, practitioners have forged collaborative networks through peer-reviewed journals, reference texts, multidisciplinary tumor boards, and rigorous medical training paradigms. Together, these elements have cultivated a dominant "attractor state," a systemic equilibrium whose primary purpose is to maintain clinical stability, ensure diagnostic integrity, and inspire unwavering confidence in the broader healthcare apparatus.  
 Introducing algorithmic diagnostic tools into this highly calibrated environment triggers a profound structural disturbance. The pathology laboratory operates as an embedded Complex Adaptive System (CAS) equipped with inherent stabilizing mechanisms. Consequently, when digital pathology and AI initiatives fail, it is rarely due to a deficiency in computational power or algorithmic accuracy. Rather, these failures occur because the CAS is functioning exactly as designed: it is protecting itself against an unprepared and poorly executed perturbation.3 The original, analog attractor state remains dominant, and the digital intrusion is systematically rejected when workflow friction increases and human trust becomes detached. To banish this perturbation, the system restores its historical operational stability.  

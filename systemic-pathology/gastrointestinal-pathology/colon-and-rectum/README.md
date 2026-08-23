@@ -18,3 +18,11 @@ belongs_to: "[[Gastrointestinal Pathology]]"
 ### Sampling and Reporting of Inflammatory Bowel Disease
 https://journals.lww.com/anatomicpathology/abstract/2022/01000/sampling_and_reporting_of_inflammatory_bowel.4.aspx 
 
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Colon Colorectal Carcinoma](colon-colorectal-carcinoma.md)
+* [Malignant Colorectal Polyps](malignant-colorectal-polyps.md)
+
+<!-- tolaria:children:end -->

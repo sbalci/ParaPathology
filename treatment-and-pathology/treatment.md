@@ -51,3 +51,13 @@ Nature Reviews Gastroenterology & Hepatology \(2017\) doi:10.1038/nrgastro.2017.
 * **Tumor classification: molecular analysis meets Aristotle**
 
 [https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-4-10](https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-4-10)
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Therapy related changes](therapy-related-changes.md)
+* [Immunotherapy](immunotherapy.md)
+* [Prognostic, Predictive and Therapeutic Factors](prognostic-predictive-and-therapeutic-factors.md)
+
+<!-- tolaria:children:end -->

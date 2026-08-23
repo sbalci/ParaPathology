@@ -140,3 +140,16 @@ Convert PowerPoint Slides to xaringan $remark.js$ Slides
 
 [https://regex101.com/](https://regex101.com/){target="_blank"}
 
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Computer Tips](computer-tips.md)
+* [Syntax Highlighting](syntax-highlighting.md)
+* [Excel, Sheets](excel-sheets.md)
+* [GitBook Plugins](gitbook-plugins.md)
+* [Git GitHub](git-github.md)
+* [Lecture Preperation](lecture-preperation.md)
+* [Links](links.md)
+
+<!-- tolaria:children:end -->

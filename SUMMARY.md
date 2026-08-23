@@ -14,8 +14,8 @@
 ## Medical School Lectures
 
 * [Medical School Lectures](medical-school-lectures/medical-school-lectures/README.md)
-  * [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
-  * [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/medical-school-lectures/patoloji-laboratuvari-nasil-calisir.md)
+* [About Pathology Lectures](medical-school-lectures/medical-school-lectures/about-pathology-lectures.md)
+* [Patoloji Laboratuvarı Nasıl Çalışır](medical-school-lectures/medical-school-lectures/patoloji-laboratuvari-nasil-calisir.md)
 * [General Pathology](medical-school-lectures/general-pathology/README.md)
   * [General Pathology Links](medical-school-lectures/general-pathology/general-pathology-links.md)
   * [Introduction to Pathology](medical-school-lectures/general-pathology/introduction-to-pathology.md)
@@ -96,6 +96,7 @@
 
 ## Pathology Residents & Pathologists
 
+* [Pathology Residents and Pathologists](pathology-residents-and-pathologists/README.md)
 * [Pathologist](pathology-residents-and-pathologists/pathologist.md)
 * [So Called Junk Materials & Pitfalls](pathology-residents-and-pathologists/so-called-junk-materials-and-pitfalls.md)
 * [It happens / I have seen that before / Olur öyle](pathology-residents-and-pathologists/it-happens-i-have-seen-that-before-olur-oeyle.md)
@@ -128,7 +129,7 @@
 ## Pathology Tweets
 
 * [Pathology Tweets](pathology-tweets/README.md)
-* [Pathtweets Index](pathology-tweets/pathtweets.md)
+* [Pathtweets](pathology-tweets/pathtweets.md)
   * [TweetsForAutopsy1](pathology-tweets/tweetsForAutopsy1.md)
   * [TweetsForAutopsy2](pathology-tweets/tweetsForAutopsy2.md)
   * [TweetsForGrossPath8](pathology-tweets/tweetsForGrossPath8.md)
@@ -156,11 +157,11 @@
 ## Carcinogenesis, Hallmarks of Cancer
 
 * [Carcinogenesis & Hallmarks of Cancer](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/README.md)
-  * [Carcinogenesis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/carcinogenesis-links.md)
-  * [HPV](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/hpv.md)
-  * [Tumor Immunology](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/tumor-immunology.md)
-  * [Metastasis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/metastasis.md)
-  * [What is Cancer?](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/what-is-cancer.md)
+* [Carcinogenesis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/carcinogenesis-links.md)
+* [HPV](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/hpv.md)
+* [Tumor Immunology](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/tumor-immunology.md)
+* [Metastasis](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/metastasis.md)
+* [What is Cancer?](carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/what-is-cancer.md)
 
 ## Computational, Digital & Mathematical Pathology
 
@@ -418,16 +419,19 @@
 
 ## Theories and Frameworks
 
+* [Theories and Frameworks](theories/README.md)
 * [Theories and Frameworks for Understanding Pathology Practice](theories/Theories%20and%20Frameworks%20for%20Understanding%20Pathology%20Practice.md)
 * [Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map](theories/Theoretical%20Frameworks%20for%20Understanding%20Pathology%20Practice.md)
 * [Pathology AI Integration: A Systems View](theories/Pathology%20AI%20Integration_%20A%20Systems%20View.md)
 
 ## Social Topics
 
+* [Social Topics](social-topics/README.md)
 * [Patoloji Pesrevi](social-topics/patoloji-pesrevi.md)
 
 ## Appendix
 
+* [Appendix](appendix/README.md)
 * [Courses and MOOCs](appendix/courses-and-moocs.md)
 * [Computer Programs and Applications](appendix/computer-programs-and-applications.md)
 * [Books](appendix/books.md)

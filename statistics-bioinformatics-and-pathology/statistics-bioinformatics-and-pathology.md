@@ -38,3 +38,13 @@ order: 10
 {% embed url="https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c" %}
 
 {% embed url="https://www.youtube.com/watch?v=AZ0SsHCxbqc&ab_channel=DRdoubleB" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?](histopatoloji-calismalarinda-istatistik-icin-nasil-veri-hazirlanir.md)
+* [Statistical Terms](statistical-terms.md)
+* [Patologlarla istatistikçilerin potansiyel ortak çalışma alanları](patologlarla-istatistikcilerin-potansiyel-ortak-calisma-alanlari.md)
+
+<!-- tolaria:children:end -->

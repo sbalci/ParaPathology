@@ -600,3 +600,11 @@ This places the menu squarely in the ~300–500 range expected of a comprehensiv
 - Emerging theranostic markers (TROP2, DLL3, HER3, NECTIN-4) **lack validated FDA companion-diagnostic IHC assays** — treat as investigational and do not use for treatment selection outside trials.
 - Polyclonal antibodies remain field standard where no monoclonal RTU exists (PLA2R, THSD7A, DNAJB9, claudin-4, several infectious-disease markers) but require careful specificity validation.
 - Clone vendor-sourcing shifts over time (e.g., HHV8 13B10 moved Leica→Cell Marque; C4d available as both SP91 mAb and polyclonal) — verify current availability and validate the specific lot/product locally.
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Supplement: Orphan-Disease, Rare-Tumor & Cutting-Edge IHC](ihc-supplement-orphan-rare-cutting-edge.md)
+
+<!-- tolaria:children:end -->

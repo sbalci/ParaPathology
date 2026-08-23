@@ -21,3 +21,12 @@ belongs_to: "[[Systemic Pathology]]"
 ## Surgical Neuropathology Pearls - Dr. Fausto Rodriguez
 
 {% embed url="https://www.youtube.com/watch?v=2gNjnwlwQ20" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Injury in central nervous system and cerebrovascular diseases](injury-in-central-nervous-system-and-cerebrovascular-diseases.md)
+* [Gliomlar](gliomlar.md)
+
+<!-- tolaria:children:end -->

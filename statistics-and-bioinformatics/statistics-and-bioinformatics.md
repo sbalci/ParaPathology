@@ -52,3 +52,43 @@ order: 10
 [https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/b60b30a885934cd5971b6fc620a41657/](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/b60b30a885934cd5971b6fc620a41657/)
 
 [https://www.rstudio.com/resources/webinars/reproducible-reporting/](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Orange](orange.md)
+* [R-project](r-project/README.md)
+* [SPSS](spss.md)
+* [PSPP](pspp.md)
+* [Text Mining](text-mining/README.md)
+* [Bioinformatics](bioinformatics.md)
+* [Bioconductor](bioconductor.md)
+* [Tools for Data Analysis and Visualisation](tools-for-data-analysis-and-visualisation.md)
+* [googleVis](googlevis.md)
+* [Data Visualization and R](data-visualization-and-r.md)
+* [P Value](p-value.md)
+* [MedCalc](medcalc.md)
+* [Power Analysis](power-analysis.md)
+* [ROC analysis](roc-analysis.md)
+* [Survival Analysis](survival-analysis.md)
+* [Kaplan Meier](kaplan-meier.md)
+* [JASP](jasp.md)
+* [Jamovi](jamovi.md)
+* [SAS](sas.md)
+* [Statistics and Bioinformatics Education](statistics-and-bioinformatics-education.md)
+* [Neural Network](neural-network.md)
+* [Sensitivity, Specificity, Predictive Values & Decision Making](sensitivity-specificity-predictive-values-and-decision-making.md)
+* [Alluvial Diagrams](alluvial-diagrams.md)
+* [Machine Learning](machine-learning/README.md)
+* [Statistics General](statistics-general.md)
+* [Mathematic Tools](mathematic-tools.md)
+* [Kappa](kappa.md)
+* [Regression](regression.md)
+* [Missing Values](missing-values.md)
+* [Health Data](health-data.md)
+* [Python](python.md)
+* [Reproducible Reports](reproducible-reports.md)
+* [Lavaan](../lavaan.md)
+
+<!-- tolaria:children:end -->

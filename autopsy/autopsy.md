@@ -28,3 +28,11 @@ order: 10
 ## Can low autopsy rates be increased? Yes, we can! Should postmortem examinations in oncology be performed? Yes, we should! A postmortem analysis of oncological cases
 
 {% embed url="https://pubmed.ncbi.nlm.nih.gov/32651729/" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Autopsy Articles](autopsy-articles.md)
+
+<!-- tolaria:children:end -->

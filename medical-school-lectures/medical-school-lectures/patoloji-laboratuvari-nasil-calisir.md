@@ -4,7 +4,7 @@ status: Evergreen
 language: bilingual
 aliases:
   - "Patoloji Laboratuvarı Nasıl Çalışır"
-order: 20
+order: 12
 belongs_to: "[[Medical School Lectures]]"
 ---
 

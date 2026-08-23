@@ -29,5 +29,15 @@ order: 10
 
 {% embed url="https://www.ncbi.nlm.nih.gov/pubmed/31439711" %}
 
+<!-- tolaria:children:start -->
 
+## In this section
 
+* [About Pathology Lectures](about-pathology-lectures.md)
+* [Patoloji Laboratuvarı Nasıl Çalışır](patoloji-laboratuvari-nasil-calisir.md)
+* [General Pathology](../general-pathology/README.md)
+* [Laboratory Lectures](../laboratory-lectures/README.md)
+* [Public Health](../public-health.md)
+* [Infectious Diseases](../infectious-diseases/README.md)
+
+<!-- tolaria:children:end -->
