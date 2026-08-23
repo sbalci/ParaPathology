@@ -9,8 +9,8 @@ Two cases live here: a first-time "add" and a "refresh project X". The default o
 **one `{% embed %}` line** in `appendix/github-repositories.md`. A full note is the exception,
 earned only when the reading produced something later work will need to cite.
 
-Vault-Safe: Read / Write / Edit / Grep / Glob only — no git clone, no shell, no Node, no Quarto.
-So "read the source" here means fetching/reading what you can *without* a local clone.
+No clone step: "read the source" means fetching and reading what you can through the web. The
+shell is used only at the close, to rebuild navigation with `tools/generate_summary.py`.
 
 ---
 
@@ -92,10 +92,12 @@ cluster). Then decide the output shape — the default is a **line, not a note**
 ## §6 Write the note (only if it earned one)
 
 Use `references/page-template.md` in this skill directory for both frontmatter shapes and the
-body skeleton. Three things are easy to get subtly backwards:
+body skeleton. Four things are easy to get subtly backwards:
 
-- **`title:` is required.** Tolaria uses the first H1 as the title and the frontmatter `title:`
-  for wikilink display; without it, links fall back to the bare slug.
+- **The vault frontmatter contract applies.** A repository note is a note: `type` (`Tool` for a
+  single program, `Note` for a project write-up), `status`, `language`, `aliases` carrying the H1
+  when it differs from the kebab-case filename, one `belongs_to` parent, and an `order`. The
+  repo-specific keys (`repo:`, `upstream:`, `license:`, `last_reviewed:`) sit alongside them.
 - **`status:` and `upstream:` point in different directions.** `status:` describes *the user's*
   engagement (`active` = live candidate/in use, `archived` = evaluated and closed here).
   `upstream:` describes the *tool's* own maintenance state. A dormant tool can still be worth
@@ -110,8 +112,15 @@ End with a `Derived from:` line naming which URLs/files you read and the date.
 
 ## §7 Close (one closeout per run)
 
-1. If a full note was created, add it to `SUMMARY.md` in the right section — or hand that to
-   **update-index**. A line added to an already-listed note needs no `SUMMARY.md` change.
+1. If a full note was created, give it `belongs_to` + `order` and rebuild — `SUMMARY.md` is
+   generated, never hand-edited:
+
+   ```bash
+   python tools/generate_summary.py check && python tools/generate_summary.py generate
+   python tools/generate_summary.py hubs
+   ```
+
+   A line appended to an already-published note needs no rebuild. See **update-index**.
 2. Write the verdict back to the topic note whose decision this informs.
 3. Report what the reading produced — including "nothing new", which is itself worth recording.
 

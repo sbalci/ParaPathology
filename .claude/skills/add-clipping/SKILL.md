@@ -1,74 +1,92 @@
 ---
 name: add-clipping
-description: Use when an article, paper, review, or web page should be captured in full into this GitBook pathology vault — "clip this", "save this article", "add this paper to Clippings", or a URL the user wants preserved with its abstract, author, and text rather than just bookmarked. Files a note under Clippings/ matching the vault's existing Obsidian-Web-Clipper frontmatter schema. For a bare pointer with no need to preserve content, use add-link instead; for a code repository, use add-repository.
+description: Use when an article, paper, review, or web page should be captured into this GitBook/Tolaria vault — "clip this", "save this article", "add this paper to Clippings", or a URL the user wants preserved with its abstract, author, and text rather than just bookmarked. Files a note under Clippings/ in the Obsidian-Web-Clipper schema plus the vault's own frontmatter layer (type/status/language/belongs_to/order), decides publish vs publish:false on copyright grounds, and rebuilds SUMMARY.md. For a bare pointer, use add-link; for a code repository, use add-repository.
 ---
 
 # Adding a clipping
 
-The vault's `Clippings/` folder holds full-text captures of articles and papers, created with the
-Obsidian Web Clipper. This skill files a new one **in the exact schema the existing clippings
-use**, so the collection stays uniform.
+`Clippings/` holds captures of articles and papers, created with the Obsidian Web Clipper. This
+skill files a new one in the schema the existing clippings use, so the collection stays uniform —
+and wires it into the vault graph like any other note.
 
-Vault-Safe: Read / Write / Edit / Grep / Glob only. No shell, git, or Node.
-
----
-
-## §0 Content-safety gate (do this first)
-
-This vault is **public** (a live GitBook). Before writing anything, confirm the source contains
-no PHI — no patient names, MRNs, accession numbers, dates of birth, or identifiable case details.
-A published article is fine. A screenshot of a case, a report, or a slide label is not. If in
-doubt, stop and ask.
+Clippings are **living documents** here, not frozen sources. A capture may be annotated, pruned,
+and rewritten in place until it becomes your own synthesis; at that point retype it to `Note` or
+`Reference`. `type` records where it came from, `status` records how far it has been taken.
 
 ---
 
-## §1 Match the existing schema exactly
+## §0 Two gates, before writing anything
 
-Read one or two existing `Clippings/*.md` notes first and copy their frontmatter shape. The
-schema in use (Obsidian Web Clipper) is:
+**PHI.** This vault is a public GitBook. No patient names, MRNs, accession numbers, dates of
+birth, or identifiable case detail. A published article is fine; a case screenshot, report, or
+slide label is not. In doubt, stop and ask.
+
+**Copyright.** A verbatim full-text capture of someone else's article must not be published.
+Decide now which of the two shapes this clipping is:
+
+| The capture is… | Then |
+|---|---|
+| The article's **full text**, copied | `publish: false`. It stays in the vault for private use, out of the book. |
+| Your **own-words digest** with a citation and a link to the source | Publish it. |
+
+Either is welcome in the vault; only one is publishable. When a private capture is later rewritten
+in your own words, drop `publish: false` and rerun the generator.
+
+---
+
+## §1 Frontmatter — the clipper schema plus the vault layer
+
+Read one or two existing `Clippings/*.md` notes and copy their shape. The full frontmatter:
 
 ```yaml
 ---
+type: Clipping
+status: Developing
+language: en
 title: "Full Article Title"
 source: "https://the-canonical-url"
 author:
   - "[[Author or Journal Name]]"
-published:
+published: YYYY-MM-DD
 created: YYYY-MM-DD
 description: "The article's own abstract or blurb, verbatim."
 tags:
   - "clippings"
+order: 80
+belongs_to: "[[Clippings]]"
+related_to:
+  - "[[Topic This Informs]]"
+publish: false          # only for verbatim full-text captures
 ---
 ```
 
-Notes:
-- **`author:` is a YAML list of quoted wikilinks.** This is the one place wikilinks appear — and
-  it's in *frontmatter*, so GitBook ignores it and Tolaria reads it as a relationship. That's
-  safe. Do **not** put `[[wikilinks]]` in the body.
-- **`created:`** is the capture date (today: fill from the current date).
-- **`published:`** may be left empty if unknown — the existing notes do.
-- **`tags:`** always includes `clippings`; add topical tags only if the existing notes do.
-- **`source:`** is the canonical article URL, quoted.
+- **`title:`** carries the human title; the filename does too, so no `aliases:` entry is needed
+  unless you shorten one of them.
+- **`author:`** is a YAML list of quoted wikilinks. These are *attribution* edges — they point at
+  people and journals that intentionally have no note, and `validate-vault` reports them as info,
+  never as unresolved links.
+- **`belongs_to: "[[Clippings]]"`** — the `Clippings/README.md` hub. `order` positions it there.
+- **`related_to:`** is where a clipping earns its keep: link the topic notes it informs.
+- **`created:`** is the capture date; **`published:`** may be left empty if unknown.
 
-Use `references/clipping-template.md` in this skill directory as the starting shape.
+Use `references/clipping-template.md` as the starting shape.
 
 ---
 
-## §2 Body: the H1, then the captured content
+## §2 Body: summary first, then the capture
 
-- Start the body with `## Summary` (or the article's own abstract heading) — the existing
-  clippings lead with `## Summary` / `## Keywords`, not a repeated H1. Tolaria takes the title
-  from frontmatter; GitBook shows the file. Follow the pattern the existing notes use.
+- Lead with `## Summary` (or the article's own abstract heading) — the existing clippings do, and
+  Tolaria takes the title from the H1 or frontmatter, so a repeated H1 is noise.
 - Preserve the article's real structure (Summary, Keywords, sections) and its own links as plain
-  Markdown. Keep any figures as standard `![](url)` references.
-- **No body `[[wikilinks]]`.** Cross-connection is expressed via the `author:` frontmatter and,
-  if useful, a `related_to:` frontmatter line — never in prose.
+  Markdown. Keep figures as standard `![](url)` references.
+- **No body `[[wikilinks]]`** — GitBook renders them as raw brackets. Cross-connection lives in
+  `author:` and `related_to:` frontmatter.
 
 ---
 
 ## §3 Filename and placement
 
-- Save as `Clippings/<Article Title>.md` — the existing notes use the human title as the filename
+- Save as `Clippings/<Article Title>.md`. The existing notes use the human title as the filename
   (spaces allowed), so match that rather than forcing kebab-case here.
 - If a clipping with that title already exists, **don't overwrite** — report it and stop.
 
@@ -76,17 +94,30 @@ Use `references/clipping-template.md` in this skill directory as the starting sh
 
 ## §4 Reconstruct faithfully; never fabricate
 
-- Take the `description:` from the article's own abstract, verbatim. If there is none, write a
-  one-line factual summary and mark it plainly — don't invent an abstract.
+- Take `description:` from the article's own abstract, verbatim. If there is none, write a
+  one-line factual summary and say plainly that it is yours — don't invent an abstract.
 - If a field can't be determined (no clear author, no date), leave it empty as the schema allows
   rather than guessing. Mark anything uncertain `[unverified]`.
 - Never silently drop sections you captured. If the source was paywalled and only the abstract is
   available, capture the abstract and say so.
+- Watch for scraped page furniture — cookie banners, "Tell us what you think… 12345" feedback
+  widgets, navigation crumbs. Strip them; they have been mistaken for content here before.
 
 ---
 
-## §5 Close
+## §5 Close — publish or keep private, then rebuild
 
-Clippings are **not** in `SUMMARY.md` (the folder isn't part of the GitBook TOC), so no TOC edit
-is needed — filing the note is the whole job. When run inside a batch, **add-batch** owns the
-single closeout; report the new note's path and stop.
+Published clippings appear in `SUMMARY.md` as children of the `[[Clippings]]` hub, so filing the
+note is *not* the whole job any more:
+
+```bash
+python tools/generate_summary.py check
+python tools/generate_summary.py generate
+python tools/generate_summary.py hubs
+```
+
+A clipping carrying `publish: false` is skipped by both — it stays in the vault, and in Tolaria
+and Obsidian, but never reaches the book.
+
+Report the new note's path, the publish decision and its reason, and any `[unverified]` field.
+When run inside a batch, **add-batch** owns the single closeout — file the note and stop.
