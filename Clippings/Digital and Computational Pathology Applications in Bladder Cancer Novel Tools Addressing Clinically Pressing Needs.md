@@ -12,6 +12,8 @@ description: Bladder cancer (BC) remains a major disease burden in terms of inci
 tags:
   - articles
   - Pathology
+order: 20
+belongs_to: "[[Clippings]]"
 ---
 ## Tell us what you think
 

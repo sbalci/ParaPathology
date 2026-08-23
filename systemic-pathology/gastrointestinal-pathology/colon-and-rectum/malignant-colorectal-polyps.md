@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Colon and Rectum]]"
 aliases:
   - "Malignant Colorectal Polyps"
+order: 20
+belongs_to: "[[Colon and Rectum]]"
 ---
 
 # Malignant Colorectal Polyps

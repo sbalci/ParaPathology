@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab Cellular Injury"
+order: 150
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab Cellular Injury

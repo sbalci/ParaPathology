@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Bibliometrics]]"
 aliases:
   - "Research Articles"
+order: 30
+belongs_to: "[[Bibliometrics]]"
 ---
 
 # Research Articles

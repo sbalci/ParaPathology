@@ -2,10 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
 aliases:
   - "Image Analysis"
+order: 110
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Image Analysis

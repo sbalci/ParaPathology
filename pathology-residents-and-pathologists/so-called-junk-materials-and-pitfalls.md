@@ -2,9 +2,11 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "So Called Junk Materials & Pitfalls"
+order: 20
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # So Called Junk Materials & Pitfalls

@@ -2,9 +2,10 @@
 type: Lecture
 status: Evergreen
 language: bilingual
-belongs_to: "[[Medical School Lectures]]"
 aliases:
   - "Patoloji Laboratuvarı Nasıl Çalışır"
+order: 20
+belongs_to: "[[Medical School Lectures]]"
 ---
 
 # Patoloji Laboratuvarı Nasıl Çalışır

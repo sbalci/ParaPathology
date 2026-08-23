@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[Medical School Lectures]]"
 aliases:
   - "Public Health"
+order: 40
+belongs_to: "[[Medical School Lectures]]"
 ---
 
 # Public Health

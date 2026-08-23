@@ -2,6 +2,7 @@
 type: Lecture
 status: Stub
 language: en
+order: 10
 belongs_to: "[[Infectious Diseases]]"
 ---
 

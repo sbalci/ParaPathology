@@ -2,9 +2,11 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Web sites of Pathologists"
+order: 130
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Web sites of Pathologists

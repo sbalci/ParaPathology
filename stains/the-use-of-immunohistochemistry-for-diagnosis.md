@@ -2,10 +2,11 @@
 type: Note
 status: Stub
 language: en
-belongs_to:
-  - "[[Immunohistochemistry]]"
 aliases:
   - "The use of immunohistochemistry for diagnosis"
+order: 70
+belongs_to: "[[Stains]]"
+related_to: "[[Immunohistochemistry]]"
 ---
 
 # The use of immunohistochemistry for diagnosis

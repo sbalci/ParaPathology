@@ -2,8 +2,8 @@
 type: Note
 status: Developing
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
+order: 50
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Analysis

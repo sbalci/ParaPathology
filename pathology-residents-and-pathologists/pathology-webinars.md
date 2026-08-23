@@ -2,9 +2,11 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Pathology Webinars"
+order: 170
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Pathology Webinars

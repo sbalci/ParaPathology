@@ -2,6 +2,8 @@
 status: Evergreen
 language: en
 type: Topic
+order: 10
+belongs_to: "[[Pathology Residents and Pathologists]]"
 ---
 
 # Pathologist

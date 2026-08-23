@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: tr
-belongs_to: "[[Macroscopy]]"
 aliases:
   - "Macrocopy Videos"
+order: 40
+belongs_to: "[[Macroscopy]]"
 ---
 
 # Macrocopy Videos

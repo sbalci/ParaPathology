@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: bilingual
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Selecting A Journal"
+order: 30
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Selecting A Journal

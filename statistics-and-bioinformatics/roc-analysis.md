@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "ROC analysis"
+order: 150
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # ROC analysis

@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Text Mining]]"
 aliases:
   - "Text Mining Videos"
+order: 10
+belongs_to: "[[Text Mining]]"
 ---
 
 # Text Mining Videos

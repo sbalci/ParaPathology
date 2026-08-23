@@ -2,10 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
 aliases:
   - "About the Usage of Digital Pathology"
+order: 30
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # About the Usage of Digital Pathology

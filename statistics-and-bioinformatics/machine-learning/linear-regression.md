@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Linear Regression"
+order: 10
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Linear Regression

@@ -2,9 +2,11 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "The Future of Pathology"
+order: 100
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # The Future of Pathology

@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathology and Other Departments]]"
 aliases:
   - "Epidemiology and Pathology"
+order: 110
+belongs_to: "[[Pathology and Other Departments]]"
 ---
 
 # Epidemiology and Pathology

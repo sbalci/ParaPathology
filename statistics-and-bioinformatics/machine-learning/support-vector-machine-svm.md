@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Support Vector Machine"
+order: 60
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Support Vector Machine

@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: en
+order: 70
 belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 

@@ -2,9 +2,11 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Pathology Reports"
+order: 80
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Pathology Reports

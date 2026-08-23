@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Macroscopy]]"
 aliases:
   - "Whipple Macroscopy"
+order: 20
+belongs_to: "[[Macroscopy]]"
 ---
 
 # Whipple Macroscopy

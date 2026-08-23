@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathology and Other Departments]]"
 aliases:
   - "Turnaround Time"
+order: 90
+belongs_to: "[[Pathology and Other Departments]]"
 ---
 
 # Turnaround Time

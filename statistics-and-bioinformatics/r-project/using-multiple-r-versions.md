@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[R-project]]"
 aliases:
   - "Using multiple R versions"
+order: 50
+belongs_to: "[[R-project]]"
 ---
 
 # Using multiple R versions

@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: tr
-belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 aliases:
   - "Patologlarla istatistikçilerin potansiyel ortak çalışma alanları"
+order: 40
+belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 ---
 
 # Patologlarla istatistikçilerin potansiyel ortak çalışma alanları

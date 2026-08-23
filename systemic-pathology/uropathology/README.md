@@ -2,9 +2,10 @@
 status: Developing
 language: en
 type: Topic
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Uropathology"
+order: 190
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Uropathology

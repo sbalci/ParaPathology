@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Macroscopy]]"
 aliases:
   - "Macroscopy Articles & Guidelines"
+order: 50
+belongs_to: "[[Macroscopy]]"
 ---
 
 # Macroscopy Articles & Guidelines

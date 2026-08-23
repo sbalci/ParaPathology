@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Immune System"
+order: 170
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Immune System

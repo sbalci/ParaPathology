@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Transplantation Pathology"
+order: 160
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Transplantation Pathology

@@ -2,10 +2,11 @@
 type: Note
 status: Developing
 language: en
-belongs_to:
-  - "[[Immunohistochemistry]]"
 aliases:
   - "Immunohistochemistry Quantification"
+order: 60
+belongs_to: "[[Stains]]"
+related_to: "[[Immunohistochemistry]]"
 ---
 
 # Immunohistochemistry Quantification

@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Infectious Diseases]]"
 aliases:
   - "Fungal Diseases"
+order: 20
+belongs_to: "[[Infectious Diseases]]"
 ---
 
 # Fungal Diseases

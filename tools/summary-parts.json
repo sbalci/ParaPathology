@@ -1,0 +1,168 @@
+{
+  "preface": "README.md",
+  "parts": [
+    {
+      "title": "Introduction",
+      "lead": "introduction/introduction.md",
+      "externals": [
+        {
+          "text": "GitBook Manual",
+          "url": "https://docs.gitbook.com"
+        },
+        {
+          "text": "Patoloji Notları",
+          "url": "http://www.patolojinotlari.com"
+        },
+        {
+          "text": "Patoloji Atlası",
+          "url": "https://www.patolojiatlasi.com"
+        }
+      ]
+    },
+    {
+      "title": "Medical School Lectures",
+      "lead": "medical-school-lectures/medical-school-lectures/README.md",
+      "externals": []
+    },
+    {
+      "title": "Systemic Pathology",
+      "lead": "systemic-pathology/systemic-pathology.md",
+      "externals": []
+    },
+    {
+      "title": "Pathology Residents & Pathologists",
+      "lead": "pathology-residents-and-pathologists/README.md",
+      "externals": []
+    },
+    {
+      "title": "Pathology and Social Media",
+      "lead": "pathology-and-social-media/pathology-and-social-media.md",
+      "externals": []
+    },
+    {
+      "title": "Pathology Tweets",
+      "lead": "pathology-tweets/README.md",
+      "externals": []
+    },
+    {
+      "title": "Taxonomy and Classification of Diseases",
+      "lead": "taxonomy-and-classification-of-diseases/taxonomy-and-classification-of-diseases.md",
+      "externals": []
+    },
+    {
+      "title": "Pathophysiology",
+      "lead": "pathophysiology/pathophysiology.md",
+      "externals": []
+    },
+    {
+      "title": "Carcinogenesis, Hallmarks of Cancer",
+      "lead": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/README.md",
+      "externals": []
+    },
+    {
+      "title": "Computational, Digital & Mathematical Pathology",
+      "lead": "computational-digital-and-mathematical-pathology/digital-pathology.md",
+      "externals": []
+    },
+    {
+      "title": "Macroscopy",
+      "lead": "macroscopy/macroscopy.md",
+      "externals": []
+    },
+    {
+      "title": "Autopsy",
+      "lead": "autopsy/autopsy.md",
+      "externals": []
+    },
+    {
+      "title": "Guidelines",
+      "lead": "guidelines/guidelines.md",
+      "externals": []
+    },
+    {
+      "title": "Treatment and Pathology",
+      "lead": "treatment-and-pathology/treatment.md",
+      "externals": []
+    },
+    {
+      "title": "Laboratory Management",
+      "lead": "laboratory-management/laboratory-management.md",
+      "externals": []
+    },
+    {
+      "title": "Stains",
+      "lead": "stains/stains.md",
+      "externals": []
+    },
+    {
+      "title": "Databases and Pathology",
+      "lead": "databases-and-pathology/databases-and-pathology.md",
+      "externals": []
+    },
+    {
+      "title": "Pathology and Other Departments",
+      "lead": "pathology-and-other-departments/pathology-and-other-departments.md",
+      "externals": []
+    },
+    {
+      "title": "Patients and Pathology",
+      "lead": "patients-and-pathology/patients-and-pathology.md",
+      "externals": []
+    },
+    {
+      "title": "Statistics, Bioinformatics, and Pathology",
+      "lead": "statistics-bioinformatics-and-pathology/statistics-bioinformatics-and-pathology.md",
+      "externals": []
+    },
+    {
+      "title": "Statistics and Bioinformatics",
+      "lead": "statistics-and-bioinformatics/statistics-and-bioinformatics.md",
+      "externals": []
+    },
+    {
+      "title": "Writing Journal Articles",
+      "lead": "writing-journal-articles/writing-journal-articles.md",
+      "externals": []
+    },
+    {
+      "title": "Bibliometrics",
+      "lead": "bibliometrics/bibliometrics.md",
+      "externals": []
+    },
+    {
+      "title": "Pathology Meetings",
+      "lead": "pathology-meetings/pathology-meetings.md",
+      "externals": []
+    },
+    {
+      "title": "Science",
+      "lead": "science/science.md",
+      "externals": []
+    },
+    {
+      "title": "Computers",
+      "lead": "computers/computers.md",
+      "externals": []
+    },
+    {
+      "title": "Games",
+      "lead": "games/games.md",
+      "externals": []
+    },
+    {
+      "title": "Theories and Frameworks",
+      "lead": "theories/README.md",
+      "externals": []
+    },
+    {
+      "title": "Social Topics",
+      "lead": "social-topics/README.md",
+      "externals": []
+    },
+    {
+      "title": "Appendix",
+      "lead": "appendix/README.md",
+      "externals": []
+    }
+  ]
+}

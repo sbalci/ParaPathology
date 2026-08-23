@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Macroscopy]]"
 aliases:
   - "Macroscopic Photography"
+order: 30
+belongs_to: "[[Macroscopy]]"
 ---
 
 # Macroscopic Photography

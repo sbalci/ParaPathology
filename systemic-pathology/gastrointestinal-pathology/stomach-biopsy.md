@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Gastrointestinal Pathology]]"
 aliases:
   - "Stomach"
+order: 20
+belongs_to: "[[Gastrointestinal Pathology]]"
 ---
 
 # Stomach

@@ -2,9 +2,10 @@
 status: Stub
 language: en
 type: Topic
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Liver Pathology"
+order: 60
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Liver Pathology

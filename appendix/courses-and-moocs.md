@@ -4,6 +4,8 @@ status: Evergreen
 language: en
 aliases:
   - "Courses and MOOCs"
+order: 10
+belongs_to: "[[Appendix]]"
 ---
 
 # Courses and MOOCs

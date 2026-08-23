@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Recurrent Neural Networks"
+order: 150
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Recurrent Neural Networks

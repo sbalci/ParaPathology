@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab Acute and Chronic Inflammation"
+order: 140
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab Acute and Chronic Inflammation

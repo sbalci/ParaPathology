@@ -2,6 +2,7 @@
 type: Tool
 status: Evergreen
 language: en
+order: 20
 belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 

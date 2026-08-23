@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Linear Discriminant Analysis"
+order: 130
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Linear Discriminant Analysis

@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Colon and Rectum]]"
 aliases:
   - "Colon Colorectal Carcinoma"
+order: 10
+belongs_to: "[[Colon and Rectum]]"
 ---
 
 # Colon Colorectal Carcinoma

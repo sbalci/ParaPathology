@@ -2,9 +2,11 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Academic Tools"
+order: 220
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Academic Tools

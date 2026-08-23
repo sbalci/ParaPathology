@@ -9,6 +9,7 @@ _list_properties_display:
 status:
 belongs_to:
 url:
+publish: false
 ---
 
 # Reference

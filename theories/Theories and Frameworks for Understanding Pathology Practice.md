@@ -2,6 +2,8 @@
 type: Note
 status: Evergreen
 language: en
+order: 10
+belongs_to: "[[Theories and Frameworks]]"
 ---
 
 # Theories and Frameworks for Understanding Pathology Practice

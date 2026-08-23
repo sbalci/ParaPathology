@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Laboratory Management]]"
 aliases:
   - "Health Risks"
+order: 90
+belongs_to: "[[Laboratory Management]]"
 ---
 
 # Health Risks

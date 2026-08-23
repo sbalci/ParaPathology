@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Publishing General"
+order: 150
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Publishing General

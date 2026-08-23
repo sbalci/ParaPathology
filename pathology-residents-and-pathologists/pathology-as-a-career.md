@@ -2,9 +2,11 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Pathology as a Career"
+order: 180
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Pathology as a Career

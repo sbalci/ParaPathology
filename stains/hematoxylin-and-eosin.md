@@ -2,10 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to:
-  - "[[Stains]]"
 aliases:
   - "Hematoxylin and Eosin"
+order: 20
+belongs_to: "[[Stains]]"
 ---
 
 # Hematoxylin and Eosin

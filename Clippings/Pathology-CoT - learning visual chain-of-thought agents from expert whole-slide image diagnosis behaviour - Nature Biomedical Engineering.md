@@ -24,7 +24,9 @@ created: 2026-08-18
 description: "Diagnosing a whole-slide image is an interactive, multistage process, yet practical agentic systems that navigate fields, adjust magnification and deliver explainable diagnoses remain lacking, largely because the tacit, experience-based viewing behaviour of expert pathologists is absent from model training data. Here we introduce Pathology-CoT, a framework that converts expert viewing chain-of-thought behaviour into scalable agent supervision through three contributions. First, an artificial intelligence session recorder unobtrusively captures routine navigation in standard whole-slide image viewers and converts raw logs into standardized behavioural commands and bounding boxes. Second, a human-in-the-loop review pipeline turns artificial intelligence-drafted rationales into paired 'where to look' and 'why it matters' supervision, enabling sixfold faster labelling. Third, using these data, we built Pathology-o3, a two-stage agent that proposes regions of interest and performs behaviour-guided reasoning. On gastrointestinal lymph node metastasis detection, Pathology-o3 outperformed state-of-the-art vision-language models, showed consistent gains across multiple vision-language model backbones and maintained strong performance on an independent external validation cohort."
 tags:
   - "clippings"
-belongs_to:
+order: 50
+belongs_to: "[[Clippings]]"
+related_to:
   - "[[Digital Pathology]]"
   - "[[Artificial Neural Networks]]"
 ---

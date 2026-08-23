@@ -2,9 +2,11 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Virtual Slides"
+order: 50
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Virtual Slides

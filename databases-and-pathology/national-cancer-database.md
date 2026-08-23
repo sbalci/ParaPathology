@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Databases and Pathology]]"
 aliases:
   - "National Cancer Database"
+order: 90
+belongs_to: "[[Databases and Pathology]]"
 ---
 
 # National Cancer Database

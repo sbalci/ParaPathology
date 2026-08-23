@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 aliases:
   - "Statistical Terms"
+order: 30
+belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 ---
 
 # Statistical Terms

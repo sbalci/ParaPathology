@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Statistics and Bioinformatics"
+order: 10
 ---
 
 # Statistics and Bioinformatics

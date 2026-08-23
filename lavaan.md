@@ -2,7 +2,9 @@
 status: Evergreen
 language: en
 type: Note
-belongs_to:
+order: 340
+belongs_to: "[[Statistics and Bioinformatics]]"
+related_to:
   - "[[r-project]]"
   - "[[kaplan-meier]]"
 ---

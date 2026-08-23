@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: en
+order: 40
 belongs_to: "[[Gastrointestinal Pathology]]"
 ---
 

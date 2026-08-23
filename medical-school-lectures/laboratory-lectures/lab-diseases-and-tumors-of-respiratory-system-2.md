@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Diseases and Tumors of Respiratory System-2"
+order: 110
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Diseases and Tumors of Respiratory System-2

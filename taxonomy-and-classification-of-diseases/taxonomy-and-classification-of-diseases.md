@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Taxonomy and Classification of Diseases"
+order: 10
 ---
 
 # Taxonomy and Classification of Diseases

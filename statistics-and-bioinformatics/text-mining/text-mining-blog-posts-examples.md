@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Text Mining]]"
 aliases:
   - "Text Mining Blog Posts Examples"
+order: 60
+belongs_to: "[[Text Mining]]"
 ---
 
 # Text Mining Blog Posts Examples

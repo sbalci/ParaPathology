@@ -2,8 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
 description: Pathology jargon
+order: 240
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # jargon

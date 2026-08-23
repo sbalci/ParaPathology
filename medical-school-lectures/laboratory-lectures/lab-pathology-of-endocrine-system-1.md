@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Pathology of Endocrine System-1"
+order: 40
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Pathology of Endocrine System-1

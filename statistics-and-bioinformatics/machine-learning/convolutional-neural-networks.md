@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Convolutional Neural Networks"
+order: 140
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Convolutional Neural Networks

@@ -2,6 +2,7 @@
 type: Note
 status: Developing
 language: en
+order: 70
 belongs_to: "[[Systemic Pathology]]"
 ---
 

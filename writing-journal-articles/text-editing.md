@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Text Editing"
+order: 90
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Text Editing

@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Salivary Gland"
+order: 120
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Salivary Gland

@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Breast Pathology"
+order: 150
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Breast Pathology

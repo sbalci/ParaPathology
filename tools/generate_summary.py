@@ -194,6 +194,9 @@ def cmd_check(notes, idx):
     problems = 0
     entries = parse_summary()
     targets = {e["target"] for e in entries if not e["external"]}
+    if os.path.exists(CONFIG):
+        cfg = json.load(open(CONFIG, encoding="utf-8"))
+        targets |= {p["lead"] for p in cfg["parts"]}
     for e in entries:
         if not e["external"] and e["target"] != "README.md" and e["target"] not in notes:
             print("MISSING FILE in SUMMARY:", e["target"]); problems += 1
@@ -251,7 +254,7 @@ def cmd_seed(notes, idx):
             return 1
 
     counters = {}   # scope -> next order
-    changed = 0
+    dirty = set()
     for e in entries:
         if e["external"] or e["target"] not in notes:
             continue
@@ -286,7 +289,7 @@ def cmd_seed(notes, idx):
                 add.append("related_to:")
                 add.extend('  - "[[%s]]"' % t for t in related)
         if n.replace_keys({"order", "belongs_to", "related_to"}, add):
-            changed += 1
+            dirty.add(e["target"])
 
     in_summary = {e["target"] for e in entries if not e["external"]}
     for lead in LEAD_OVERRIDES.values():
@@ -294,16 +297,16 @@ def cmd_seed(notes, idx):
     for rel, n in notes.items():
         if rel not in in_summary and n.scalar("publish") != "false":
             if n.replace_keys({"publish"}, ["publish: false"]):
-                changed += 1
+                dirty.add(rel)
                 print("seed: publish: false ->", rel)
 
-    for rel, n in notes.items():
+    for rel in dirty:
         with open(os.path.join(VAULT, rel), "wb") as fh:
-            fh.write(n.text.encode("utf-8"))
+            fh.write(notes[rel].text.encode("utf-8"))
     with open(CONFIG, "w", encoding="utf-8") as fh:
         json.dump({"preface": "README.md", "parts": parts}, fh,
                   ensure_ascii=False, indent=2)
-    print("seed: %d notes updated, %d parts -> %s" % (changed, len(parts), CONFIG))
+    print("seed: %d notes updated, %d parts -> %s" % (len(dirty), len(parts), CONFIG))
     return 0
 
 
@@ -389,6 +392,8 @@ def cmd_hubs(notes, idx):
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     mode = sys.argv[1] if len(sys.argv) > 1 else "check"
     notes = load_notes()
     idx = title_index(notes)

@@ -2,6 +2,7 @@
 status: Evergreen
 language: en
 type: Topic
+order: 10
 ---
 
 # Bibliometrics

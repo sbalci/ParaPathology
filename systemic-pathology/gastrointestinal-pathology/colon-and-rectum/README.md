@@ -2,9 +2,10 @@
 status: Stub
 language: en
 type: Topic
-belongs_to: "[[Gastrointestinal Pathology]]"
 aliases:
   - "Colon and Rectum"
+order: 50
+belongs_to: "[[Gastrointestinal Pathology]]"
 ---
 
 # Colon and Rectum

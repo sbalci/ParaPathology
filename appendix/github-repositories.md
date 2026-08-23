@@ -4,6 +4,8 @@ status: Evergreen
 language: en
 aliases:
   - "GitHub Repositories"
+order: 60
+belongs_to: "[[Appendix]]"
 ---
 
 # GitHub Repositories

@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Unnecessary Thyroid FNAC"
+order: 110
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Unnecessary Thyroid FNAC

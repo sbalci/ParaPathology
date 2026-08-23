@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Neural Network"
+order: 220
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Neural Network

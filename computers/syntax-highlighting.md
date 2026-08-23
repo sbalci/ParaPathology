@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Computers]]"
 aliases:
   - "Syntax Highlighting"
+order: 30
+belongs_to: "[[Computers]]"
 ---
 
 # Syntax Highlighting

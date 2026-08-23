@@ -2,6 +2,7 @@
 type: Note
 status: Developing
 language: en
+order: 100
 belongs_to: "[[Writing Journal Articles]]"
 ---
 

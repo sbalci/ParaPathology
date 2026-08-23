@@ -2,12 +2,12 @@
 type: Tool
 status: Evergreen
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
-  - "[[Image Analysis]]"
+belongs_to: "[[Digital Pathology]]"
+related_to: "[[Image Analysis]]"
 url: https://micro-manager.org/
 repository: https://github.com/micro-manager/micro-manager
 documentation: "https://micro-manager.org/Micro-Manager_User's_Guide"
+publish: false
 ---
 
 # Micro-Manager

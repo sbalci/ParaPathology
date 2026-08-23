@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Gynecological Pathology]]"
 aliases:
   - "Approach to Endometrial Biopsies"
+order: 10
+belongs_to: "[[Gynecological Pathology]]"
 ---
 
 # Approach to Endometrial Biopsies

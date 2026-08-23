@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Organ Independent Pathology"
+order: 240
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Organ Independent Pathology

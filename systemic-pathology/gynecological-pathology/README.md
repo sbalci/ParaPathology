@@ -2,9 +2,10 @@
 status: Stub
 language: en
 type: Topic
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Gynecological Pathology"
+order: 220
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Gynecological Pathology

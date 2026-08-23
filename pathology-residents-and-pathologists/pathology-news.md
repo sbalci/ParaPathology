@@ -2,9 +2,11 @@
 type: Note
 status: Developing
 language: bilingual
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Pathology News"
+order: 200
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Pathology News

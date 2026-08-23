@@ -2,10 +2,12 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathologist]]"
 description: It happens / I have seen that before / Olur öyle
 aliases:
   - "It happens / I have seen that before / Olur öyle"
+order: 30
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # It happens / I have seen that before / Olur öyle

@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: tr
+order: 140
 belongs_to: "[[Laboratory Management]]"
 ---
 

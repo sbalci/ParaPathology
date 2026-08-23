@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Principal Component Analysis"
+order: 90
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Principal Component Analysis

@@ -11,6 +11,8 @@ created: 2024-11-13
 description: "Cancer cells often evade the host immune system, challenging the effectiveness ofimmunotherapy. In this comprehensive review, Galassi et al. summarize key mechanismsof immune evasion within the “three Cs” framework—camouflage, coercion, and cytoprotection—anddiscuss promising strategies to target these mechanisms for therapeutic purposes."
 tags:
   - "clippings"
+order: 90
+belongs_to: "[[Clippings]]"
 ---
 ## Summary
 

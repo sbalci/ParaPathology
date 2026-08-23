@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Naïve Bayes Classifier"
+order: 70
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Naïve Bayes Classifier

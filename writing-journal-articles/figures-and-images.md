@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Figures and Images"
+order: 50
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Figures and Images

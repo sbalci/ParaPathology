@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Treatment]]"
 aliases:
   - "Prognostic, Predictive and Therapeutic Factors"
+order: 40
+belongs_to: "[[Treatment]]"
 ---
 
 # Prognostic, Predictive and Therapeutic Factors

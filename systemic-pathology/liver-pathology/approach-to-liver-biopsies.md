@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Liver Pathology]]"
 aliases:
   - "Approach to Liver Biopsies"
+order: 10
+belongs_to: "[[Liver Pathology]]"
 ---
 
 # Approach to Liver Biopsies

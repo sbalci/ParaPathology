@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Rephrasing & Synonyms"
+order: 40
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Rephrasing & Synonyms

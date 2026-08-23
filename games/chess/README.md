@@ -1,9 +1,10 @@
 ---
 status: Stub
 type: Topic
-belongs_to: "[[Games]]"
 aliases:
   - "Chess"
+order: 40
+belongs_to: "[[Games]]"
 ---
 
 # Chess

@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Open Access"
+order: 120
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Open Access

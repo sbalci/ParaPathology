@@ -2,9 +2,11 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "History of Pathology"
+order: 70
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # History of Pathology

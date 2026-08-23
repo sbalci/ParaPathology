@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Decision Tree"
+order: 20
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Decision Tree

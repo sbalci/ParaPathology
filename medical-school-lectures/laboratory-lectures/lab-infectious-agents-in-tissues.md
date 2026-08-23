@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Infectious agents in tissues"
+order: 120
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Infectious agents in tissues

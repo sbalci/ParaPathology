@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Taxonomy and Classification of Diseases]]"
 aliases:
   - "Tumor Classification"
+order: 20
+belongs_to: "[[Taxonomy and Classification of Diseases]]"
 ---
 
 # Tumor Classification

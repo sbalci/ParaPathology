@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 aliases:
   - "Reference Parsing"
+order: 60
+belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 ---
 
 # Reference Parsing

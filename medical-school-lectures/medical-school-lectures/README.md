@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Medical School Lectures"
+order: 10
 ---
 
 # Medical School Lectures

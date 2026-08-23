@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Apriori Algorithm"
+order: 110
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Apriori Algorithm

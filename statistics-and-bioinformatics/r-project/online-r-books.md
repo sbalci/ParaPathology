@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[R-project]]"
 aliases:
   - "Online R Books"
+order: 10
+belongs_to: "[[R-project]]"
 ---
 
 # Online R Books

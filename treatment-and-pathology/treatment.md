@@ -2,6 +2,7 @@
 status: Evergreen
 language: bilingual
 type: Topic
+order: 10
 ---
 
 # Treatment

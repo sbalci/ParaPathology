@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab Hemodynamic Disorders"
+order: 160
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab Hemodynamic Disorders

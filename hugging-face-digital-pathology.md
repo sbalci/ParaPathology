@@ -2,10 +2,10 @@
 status: Evergreen
 language: en
 type: Reference
-belongs_to:
-  - "[[Digital Pathology]]"
 aliases:
   - "Hugging Face Digital Pathology"
+order: 120
+belongs_to: "[[Digital Pathology]]"
 ---
 # Hugging Face Digital Pathology
 

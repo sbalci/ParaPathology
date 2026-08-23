@@ -11,7 +11,9 @@ created: 2026-08-18
 description: "Meet the developer of the open-source digital pathology platform that's transforming image analysis across the globe. An interview with QuPath creator Peter Bankhead (University of Edinburgh) on the software's accidental origins, the fight to make it open-source, its worldwide research impact, and why he deliberately keeps it out of clinical use."
 tags:
   - "clippings"
-belongs_to:
+order: 80
+belongs_to: "[[Clippings]]"
+related_to:
   - "[[Digital Pathology]]"
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"

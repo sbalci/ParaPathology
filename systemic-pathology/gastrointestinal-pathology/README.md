@@ -2,9 +2,10 @@
 status: Stub
 language: en
 type: Topic
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Gastrointestinal Pathology"
+order: 30
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Gastrointestinal Pathology

@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: en
+order: 80
 belongs_to: "[[Writing Journal Articles]]"
 ---
 

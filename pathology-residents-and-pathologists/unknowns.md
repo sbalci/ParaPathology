@@ -2,7 +2,9 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
+order: 140
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Unknowns

@@ -16,6 +16,8 @@ tags:
   - rstats
   - jamovi
   - survival
+order: 60
+belongs_to: "[[Clippings]]"
 ---
 ## Introduction
 

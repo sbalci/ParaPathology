@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Logistic Regression"
+order: 40
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Logistic Regression

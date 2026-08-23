@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Statistics and Bioinformatics Education"
+order: 210
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Statistics and Bioinformatics Education

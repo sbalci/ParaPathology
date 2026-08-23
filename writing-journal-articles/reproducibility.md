@@ -2,6 +2,7 @@
 type: Note
 status: Evergreen
 language: bilingual
+order: 110
 belongs_to: "[[Writing Journal Articles]]"
 ---
 

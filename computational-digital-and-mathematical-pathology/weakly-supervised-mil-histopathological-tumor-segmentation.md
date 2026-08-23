@@ -2,13 +2,13 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
-  - "[[Image Analysis]]"
+belongs_to: "[[Digital Pathology]]"
+related_to: "[[Image Analysis]]"
 url: https://arxiv.org/abs/2004.05024
 repository: https://github.com/MarvinLer/tcga_segmentation
 aliases:
   - "Weakly supervised MIL histopathological tumor segmentation"
+publish: false
 ---
 
 # Weakly supervised MIL histopathological tumor segmentation

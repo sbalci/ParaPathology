@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: en
+order: 30
 belongs_to: "[[Treatment]]"
 ---
 

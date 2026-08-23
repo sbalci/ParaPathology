@@ -2,9 +2,11 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Diagnosis, accuracy, interobserver and intraobserver reliability"
+order: 190
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Diagnosis, accuracy, interobserver and intraobserver reliability

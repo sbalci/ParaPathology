@@ -1,9 +1,10 @@
 ---
 status: Stub
 type: Topic
-belongs_to: "[[Medical School Lectures]]"
 aliases:
   - "Infectious Diseases"
+order: 50
+belongs_to: "[[Medical School Lectures]]"
 ---
 
 # Infectious Diseases

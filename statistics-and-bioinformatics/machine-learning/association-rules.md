@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Association Rules"
+order: 120
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Association Rules

@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Pathology of Gastrointestinal Tract-2"
+order: 60
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Pathology of Gastrointestinal Tract-2

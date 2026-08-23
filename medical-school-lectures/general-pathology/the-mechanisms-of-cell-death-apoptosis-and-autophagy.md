@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: bilingual
-belongs_to: "[[General Pathology]]"
 aliases:
   - "The Mechanisms of Cell Death, Apoptosis, and Autophagy"
+order: 60
+belongs_to: "[[General Pathology]]"
 ---
 
 # The Mechanisms of Cell Death, Apoptosis, and Autophagy

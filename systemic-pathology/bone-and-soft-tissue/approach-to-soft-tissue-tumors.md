@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Bone and Soft Tissue]]"
 aliases:
   - "Approach to Soft Tissue Tumors"
+order: 20
+belongs_to: "[[Bone and Soft Tissue]]"
 ---
 
 # Approach to Soft Tissue Tumors

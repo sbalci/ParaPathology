@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Data Visualization and R"
+order: 110
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Data Visualization and R

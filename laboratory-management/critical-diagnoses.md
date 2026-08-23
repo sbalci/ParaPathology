@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Laboratory Management]]"
 aliases:
   - "Critical Diagnoses"
+order: 100
+belongs_to: "[[Laboratory Management]]"
 ---
 
 # Critical Diagnoses

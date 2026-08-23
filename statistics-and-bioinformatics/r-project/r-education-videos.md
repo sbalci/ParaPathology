@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[R-project]]"
 aliases:
   - "R Education Videos"
+order: 20
+belongs_to: "[[R-project]]"
 ---
 
 # R Education Videos

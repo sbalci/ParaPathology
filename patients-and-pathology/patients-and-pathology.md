@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Patients and Pathology"
+order: 10
 ---
 
 # Patients and Pathology

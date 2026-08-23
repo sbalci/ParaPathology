@@ -11,5 +11,7 @@ created: 2024-11-12
 description: Distinction of metastasis to the breast from a breast primary, particularly high-grade triple-negati
 tags:
   - clippings
+order: 30
+belongs_to: "[[Clippings]]"
 ---
 TRPS1 positivity in HGSC and PAX8 positivity via the MRQ50 clone in TNBC represent potential pitfalls in assessing high-grade carcinoma for which the differential diagnosis includes TNBC and HGSC

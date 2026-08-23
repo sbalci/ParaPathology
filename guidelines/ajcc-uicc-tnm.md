@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Guidelines]]"
 aliases:
   - "AJCC, UICC, TNM"
+order: 20
+belongs_to: "[[Guidelines]]"
 ---
 
 # AJCC, UICC, TNM

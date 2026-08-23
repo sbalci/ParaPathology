@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Bone and Soft Tissue]]"
 aliases:
   - "Bone Pathology"
+order: 30
+belongs_to: "[[Bone and Soft Tissue]]"
 ---
 
 # Bone Pathology

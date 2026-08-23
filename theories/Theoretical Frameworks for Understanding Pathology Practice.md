@@ -4,6 +4,8 @@ status: Evergreen
 language: en
 aliases:
   - "Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map"
+order: 20
+belongs_to: "[[Theories and Frameworks]]"
 ---
 
 # Theoretical Frameworks for Understanding Pathology Practice: A Landscape Map

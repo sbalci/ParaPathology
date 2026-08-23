@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: tr
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Glomerular Diseases"
+order: 20
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Glomerular Diseases

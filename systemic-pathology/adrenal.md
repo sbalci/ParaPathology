@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: en
+order: 180
 belongs_to: "[[Systemic Pathology]]"
 ---
 

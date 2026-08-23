@@ -2,10 +2,12 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathologist]]"
 description: Helpful Web Sites for Diagnostic Practice
 aliases:
   - "Helpful Web Sites for Diagnostic Practice"
+order: 40
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Helpful Web Sites for Diagnostic Practice

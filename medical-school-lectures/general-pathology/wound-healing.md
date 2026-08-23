@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[General Pathology]]"
 aliases:
   - "Wound Healing"
+order: 50
+belongs_to: "[[General Pathology]]"
 ---
 
 # Wound Healing

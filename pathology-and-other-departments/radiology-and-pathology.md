@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Pathology and Other Departments]]"
 aliases:
   - "Radiology and Pathology"
+order: 40
+belongs_to: "[[Pathology and Other Departments]]"
 ---
 
 # Radiology and Pathology

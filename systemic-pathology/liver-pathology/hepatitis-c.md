@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Liver Pathology]]"
 aliases:
   - "Hepatitis C"
+order: 20
+belongs_to: "[[Liver Pathology]]"
 ---
 
 # Hepatitis C

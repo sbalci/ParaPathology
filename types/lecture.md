@@ -9,6 +9,7 @@ _list_properties_display:
 status:
 language:
 belongs_to:
+publish: false
 ---
 
 # Lecture

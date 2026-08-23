@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: bilingual
-belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 aliases:
   - "Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?"
+order: 20
+belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 ---
 
 # Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?

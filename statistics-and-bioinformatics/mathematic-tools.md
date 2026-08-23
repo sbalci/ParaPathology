@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Mathematic Tools"
+order: 270
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Mathematic Tools

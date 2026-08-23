@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Laboratory Management]]"
 aliases:
   - "Errors in Pathology"
+order: 70
+belongs_to: "[[Laboratory Management]]"
 ---
 
 # Errors in Pathology

@@ -4,6 +4,8 @@ status: Stub
 language: en
 aliases:
   - "Deutsche Artikel"
+order: 80
+belongs_to: "[[Appendix]]"
 ---
 
 # Deutsche Artikel

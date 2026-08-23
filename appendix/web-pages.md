@@ -5,6 +5,8 @@ language: en
 description: 'Appendix : Suggested Web Pages'
 aliases:
   - "Web Pages"
+order: 40
+belongs_to: "[[Appendix]]"
 ---
 
 # Web Pages

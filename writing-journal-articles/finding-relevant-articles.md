@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Finding Relevant Articles"
+order: 20
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Finding Relevant Articles

@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Text Mining]]"
 aliases:
   - "Text Mining Courses"
+order: 40
+belongs_to: "[[Text Mining]]"
 ---
 
 # Text Mining Courses

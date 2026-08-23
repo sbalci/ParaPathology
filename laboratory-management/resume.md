@@ -2,6 +2,7 @@
 type: Note
 status: Developing
 language: en
+order: 130
 belongs_to: "[[Laboratory Management]]"
 ---
 

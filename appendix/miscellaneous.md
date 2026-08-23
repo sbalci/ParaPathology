@@ -6,6 +6,8 @@ description: >-
   Miscellaneous links to be organised. Ordan burdan derlenmiş ama düzenlenmemiş
   güncel patoloji içerikleri.
   https://www.parapathology.com/appendix/miscellaneous
+order: 110
+belongs_to: "[[Appendix]]"
 ---
 
 # miscellaneous

@@ -2,8 +2,8 @@
 type: Tool
 status: Stub
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
+order: 80
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Openmicroscopy

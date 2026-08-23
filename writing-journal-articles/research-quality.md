@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Research Quality"
+order: 190
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Research Quality

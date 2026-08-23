@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
 aliases:
   - "Carcinogenesis"
+order: 10
+belongs_to: "[[Carcinogenesis & Hallmarks of Cancer]]"
 ---
 
 # Carcinogenesis

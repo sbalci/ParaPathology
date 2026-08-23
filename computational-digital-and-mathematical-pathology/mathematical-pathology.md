@@ -2,10 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
 aliases:
   - "Mathematical Pathology"
+order: 100
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Mathematical Pathology

@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Pathology of Endocrine System-2"
+order: 50
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Pathology of Endocrine System-2

@@ -2,6 +2,7 @@
 type: Tool
 status: Stub
 language: en
+order: 30
 belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 ---
 

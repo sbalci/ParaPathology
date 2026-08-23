@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Missing Values"
+order: 300
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Missing Values

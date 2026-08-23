@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Computers]]"
 aliases:
   - "GitBook Plugins"
+order: 50
+belongs_to: "[[Computers]]"
 ---
 
 # GitBook Plugins

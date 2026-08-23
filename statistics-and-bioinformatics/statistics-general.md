@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Statistics General"
+order: 260
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Statistics General

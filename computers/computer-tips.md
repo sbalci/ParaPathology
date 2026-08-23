@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Computers]]"
 aliases:
   - "Computer Tips"
+order: 20
+belongs_to: "[[Computers]]"
 ---
 
 # Computer Tips

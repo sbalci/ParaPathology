@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Alluvial Diagrams"
+order: 240
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Alluvial Diagrams

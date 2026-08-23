@@ -8,6 +8,7 @@ _list_properties_display:
   - status
 status:
 belongs_to:
+publish: false
 ---
 
 # Topic

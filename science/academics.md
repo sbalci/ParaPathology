@@ -2,6 +2,7 @@
 type: Note
 status: Stub
 language: tr
+order: 60
 belongs_to: "[[Science]]"
 ---
 

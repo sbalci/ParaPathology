@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Health Data"
+order: 310
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Health Data

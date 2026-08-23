@@ -2,10 +2,11 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Introduction]]"
 description: Quick List For Pathology Pages
 aliases:
   - "Pathology Pages"
+order: 30
+belongs_to: "[[Introduction]]"
 ---
 
 # Pathology Pages

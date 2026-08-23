@@ -2,9 +2,10 @@
 type: Reference
 status: Evergreen
 language: en
-belongs_to: "[[Bibliometrics]]"
 aliases:
   - "Bibliography, Impact Factor, and Citations"
+order: 20
+belongs_to: "[[Bibliometrics]]"
 ---
 
 # Bibliography, Impact Factor, and Citations

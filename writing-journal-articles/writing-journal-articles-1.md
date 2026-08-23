@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Manuscript Writing and Publishing Guides"
+order: 70
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Manuscript Writing and Publishing Guides

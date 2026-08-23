@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathology and Other Departments]]"
 aliases:
   - "Surgery and Pathology"
+order: 30
+belongs_to: "[[Pathology and Other Departments]]"
 ---
 
 # Surgery and Pathology

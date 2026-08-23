@@ -2,9 +2,11 @@
 type: Note
 status: Developing
 language: tr
-belongs_to: "[[Pathologist]]"
 aliases:
   - "General Resources For Residents"
+order: 60
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # General Resources For Residents

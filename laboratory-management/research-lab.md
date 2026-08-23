@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Laboratory Management]]"
 aliases:
   - "Research Lab"
+order: 60
+belongs_to: "[[Laboratory Management]]"
 ---
 
 # Research Lab

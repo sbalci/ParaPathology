@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Computers]]"
 aliases:
   - "Excel, Sheets"
+order: 40
+belongs_to: "[[Computers]]"
 ---
 
 # Excel, Sheets

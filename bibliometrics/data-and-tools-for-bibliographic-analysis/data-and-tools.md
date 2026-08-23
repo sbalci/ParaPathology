@@ -2,9 +2,10 @@
 type: Note
 status: Evergreen
 language: en
-belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 aliases:
   - "Data and Tools"
+order: 10
+belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 ---
 
 # Data and Tools

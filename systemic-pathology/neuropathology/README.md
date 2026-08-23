@@ -2,9 +2,10 @@
 status: Stub
 language: en
 type: Topic
-belongs_to: "[[Systemic Pathology]]"
 aliases:
   - "Neuropathology"
+order: 40
+belongs_to: "[[Systemic Pathology]]"
 ---
 
 # Neuropathology

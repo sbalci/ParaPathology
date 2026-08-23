@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Computers]]"
 aliases:
   - "Lecture Preperation"
+order: 70
+belongs_to: "[[Computers]]"
 ---
 
 # Lecture Preperation

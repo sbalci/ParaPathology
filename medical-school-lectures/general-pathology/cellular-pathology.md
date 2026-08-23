@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[General Pathology]]"
 aliases:
   - "Cellular Pathology"
+order: 30
+belongs_to: "[[General Pathology]]"
 ---
 
 # Cellular Pathology

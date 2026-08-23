@@ -1,9 +1,10 @@
 ---
 type: Reference
 status: Stub
-belongs_to: "[[Chess]]"
 aliases:
   - "Chess Videos"
+order: 20
+belongs_to: "[[Chess]]"
 ---
 
 # Chess Videos

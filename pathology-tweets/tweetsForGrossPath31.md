@@ -2,6 +2,8 @@
 type: Note
 status: Developing
 language: en
+order: 50
+belongs_to: "[[pathtweets]]"
 ---
 
 

@@ -2,9 +2,10 @@
 type: Lecture
 status: Developing
 language: en
-belongs_to: "[[General Pathology]]"
 aliases:
   - "Chronic Inflammation"
+order: 40
+belongs_to: "[[General Pathology]]"
 ---
 
 # Chronic Inflammation

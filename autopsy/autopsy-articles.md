@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Autopsy]]"
 aliases:
   - "Autopsy Articles"
+order: 20
+belongs_to: "[[Autopsy]]"
 ---
 
 # Autopsy Articles

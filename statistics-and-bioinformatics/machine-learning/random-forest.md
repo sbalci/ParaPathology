@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Random Forest"
+order: 30
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Random Forest

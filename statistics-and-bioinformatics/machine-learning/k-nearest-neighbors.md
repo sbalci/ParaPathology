@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "K - Nearest Neighbors"
+order: 50
+belongs_to: "[[Machine Learning]]"
 ---
 
 # K - Nearest Neighbors

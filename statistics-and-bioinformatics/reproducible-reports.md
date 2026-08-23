@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Reproducible Reports"
+order: 330
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Reproducible Reports

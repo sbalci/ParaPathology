@@ -2,6 +2,7 @@
 type: Note
 status: Developing
 language: tr
+order: 280
 belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 

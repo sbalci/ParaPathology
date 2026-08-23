@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Patients and Pathology]]"
 aliases:
   - "Informing Patients About Pathology"
+order: 20
+belongs_to: "[[Patients and Pathology]]"
 ---
 
 # Informing Patients About Pathology

@@ -2,8 +2,8 @@
 type: Note
 status: Stub
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
+order: 60
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Telepathology

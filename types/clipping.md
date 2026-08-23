@@ -13,6 +13,7 @@ created:
 description:
 tags:
 belongs_to:
+publish: false
 ---
 
 # Clipping

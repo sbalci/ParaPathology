@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Laboratory Lectures]]"
 aliases:
   - "Lab: Gynecologic pathologies"
+order: 100
+belongs_to: "[[Laboratory Lectures]]"
 ---
 
 # Lab: Gynecologic pathologies

@@ -4,6 +4,8 @@ status: Developing
 language: en
 aliases:
   - "Computer Programs and Applications"
+order: 20
+belongs_to: "[[Appendix]]"
 ---
 
 # Computer Programs and Applications

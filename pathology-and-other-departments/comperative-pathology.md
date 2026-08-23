@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathology and Other Departments]]"
 aliases:
   - "Comperative Pathology"
+order: 120
+belongs_to: "[[Pathology and Other Departments]]"
 ---
 
 # Comperative Pathology

@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Cluster Analysis"
+order: 80
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Cluster Analysis

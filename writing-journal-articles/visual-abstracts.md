@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Visual Abstracts"
+order: 210
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Visual Abstracts

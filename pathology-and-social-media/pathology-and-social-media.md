@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Pathology and Social Media"
+order: 10
 ---
 
 # Pathology and Social Media

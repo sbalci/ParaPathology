@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Research Planning"
+order: 170
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Research Planning

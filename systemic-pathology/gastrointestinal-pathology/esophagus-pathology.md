@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Gastrointestinal Pathology]]"
 aliases:
   - "Esophagus Pathology"
+order: 10
+belongs_to: "[[Gastrointestinal Pathology]]"
 ---
 
 # Esophagus Pathology

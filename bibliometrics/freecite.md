@@ -2,6 +2,7 @@
 type: Tool
 status: Developing
 language: en
+order: 60
 belongs_to: "[[Bibliometrics]]"
 ---
 

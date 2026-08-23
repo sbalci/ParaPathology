@@ -4,6 +4,7 @@ language: tr
 type: Topic
 aliases:
   - "Laboratory Management"
+order: 10
 ---
 
 # Laboratory Management

@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Taxonomy and Classification of Diseases]]"
 aliases:
   - "Chaos Theory and Uncertainity"
+order: 40
+belongs_to: "[[Taxonomy and Classification of Diseases]]"
 ---
 
 # Chaos Theory and Uncertainity

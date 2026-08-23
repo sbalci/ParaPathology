@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Survival Analysis"
+order: 160
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Survival Analysis

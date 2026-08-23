@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Bibliometrics]]"
 aliases:
   - "Problems in Bibliometric Analysis"
+order: 50
+belongs_to: "[[Bibliometrics]]"
 ---
 
 # Problems in Bibliometric Analysis

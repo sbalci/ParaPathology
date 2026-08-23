@@ -2,10 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
 aliases:
   - "Articles on computational, digital, and mathematical pathology"
+order: 90
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Articles on computational, digital, and mathematical pathology

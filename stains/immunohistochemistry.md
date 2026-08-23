@@ -2,8 +2,8 @@
 type: Note
 status: Developing
 language: en
-belongs_to:
-  - "[[Stains]]"
+order: 40
+belongs_to: "[[Stains]]"
 ---
 
 # Immunohistochemistry

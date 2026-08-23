@@ -2,8 +2,8 @@
 type: Tool
 status: Stub
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
+order: 70
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Cytomine

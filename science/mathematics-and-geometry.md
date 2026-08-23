@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Science]]"
 aliases:
   - "Mathematics & Geometry"
+order: 40
+belongs_to: "[[Science]]"
 ---
 
 # Mathematics & Geometry

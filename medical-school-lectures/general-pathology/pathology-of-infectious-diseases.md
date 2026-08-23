@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[General Pathology]]"
 aliases:
   - "Pathology of Infectious Diseases"
+order: 80
+belongs_to: "[[General Pathology]]"
 ---
 
 # Pathology of Infectious Diseases

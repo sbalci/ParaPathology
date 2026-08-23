@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Statistics, Bioinformatics, and Pathology"
+order: 10
 ---
 
 # Statistics, Bioinformatics, and Pathology

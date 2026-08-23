@@ -2,10 +2,10 @@
 type: Reference
 status: Developing
 language: en
-belongs_to:
-  - "[[Digital Pathology]]"
 aliases:
   - "Digital Pathology Software"
+order: 40
+belongs_to: "[[Digital Pathology]]"
 ---
 
 # Digital Pathology Software

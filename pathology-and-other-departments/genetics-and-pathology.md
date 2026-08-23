@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Pathology and Other Departments]]"
 aliases:
   - "Genetics and Pathology"
+order: 50
+belongs_to: "[[Pathology and Other Departments]]"
 ---
 
 # Genetics and Pathology

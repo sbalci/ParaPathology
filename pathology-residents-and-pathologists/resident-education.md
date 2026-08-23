@@ -2,9 +2,11 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Resident Education"
+order: 110
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Resident Education

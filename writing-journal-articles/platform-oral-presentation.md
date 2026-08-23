@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Writing Journal Articles]]"
 aliases:
   - "Platform / Oral Presentation"
+order: 130
+belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Platform / Oral Presentation

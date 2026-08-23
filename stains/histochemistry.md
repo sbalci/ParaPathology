@@ -2,8 +2,8 @@
 type: Note
 status: Stub
 language: en
-belongs_to:
-  - "[[Stains]]"
+order: 30
+belongs_to: "[[Stains]]"
 ---
 
 # Histochemistry

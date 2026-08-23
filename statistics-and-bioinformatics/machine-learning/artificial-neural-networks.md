@@ -2,9 +2,10 @@
 type: Note
 status: Stub
 language: en
-belongs_to: "[[Machine Learning]]"
 aliases:
   - "Artificial Neural Networks"
+order: 100
+belongs_to: "[[Machine Learning]]"
 ---
 
 # Artificial Neural Networks

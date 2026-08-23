@@ -2,6 +2,7 @@
 type: Lecture
 status: Stub
 language: en
+order: 90
 belongs_to: "[[General Pathology]]"
 ---
 

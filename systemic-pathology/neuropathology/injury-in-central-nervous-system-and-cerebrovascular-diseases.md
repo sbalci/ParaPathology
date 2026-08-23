@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Neuropathology]]"
 aliases:
   - "Injury in central nervous system and cerebrovascular diseases"
+order: 10
+belongs_to: "[[Neuropathology]]"
 ---
 
 # Injury in central nervous system and cerebrovascular diseases

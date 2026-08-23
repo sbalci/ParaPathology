@@ -2,9 +2,11 @@
 type: Note
 status: Evergreen
 language: tr
-belongs_to: "[[Pathologist]]"
 aliases:
   - "Moleküler Patoloji'ye Dair"
+order: 230
+belongs_to: "[[Pathology Residents and Pathologists]]"
+related_to: "[[Pathologist]]"
 ---
 
 # Moleküler Patoloji'ye Dair

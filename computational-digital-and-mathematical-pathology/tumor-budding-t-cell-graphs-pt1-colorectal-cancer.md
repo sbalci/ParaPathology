@@ -1,14 +1,14 @@
 ---
 type: Note
 status: Evergreen
-belongs_to:
-  - "[[Digital Pathology]]"
-  - "[[Image Analysis]]"
+belongs_to: "[[Digital Pathology]]"
+related_to: "[[Image Analysis]]"
 url: https://openreview.net/forum?id=ruaXPgZCk6i
 repository: https://github.com/digitalpathologybern/pT1-HBTG-MIDL2023
 dataset: https://doi.org/10.5281/zenodo.7867085
 aliases:
   - "Tumor budding T-cell graphs for pT1 colorectal cancer"
+publish: false
 ---
 
 # Tumor budding T-cell graphs for pT1 colorectal cancer

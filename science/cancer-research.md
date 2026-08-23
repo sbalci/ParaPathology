@@ -1,9 +1,10 @@
 ---
 type: Note
 status: Stub
-belongs_to: "[[Science]]"
 aliases:
   - "Cancer Research"
+order: 70
+belongs_to: "[[Science]]"
 ---
 
 # Cancer Research

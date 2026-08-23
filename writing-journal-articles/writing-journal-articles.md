@@ -4,6 +4,7 @@ language: en
 type: Topic
 aliases:
   - "Writing Journal Articles"
+order: 10
 ---
 
 # Writing Journal Articles

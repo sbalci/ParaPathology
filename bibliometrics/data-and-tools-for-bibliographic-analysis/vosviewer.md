@@ -2,6 +2,7 @@
 type: Tool
 status: Developing
 language: en
+order: 20
 belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 ---
 

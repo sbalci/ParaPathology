@@ -4,6 +4,7 @@ language: bilingual
 type: Topic
 aliases:
   - "Digital Pathology"
+order: 10
 ---
 
 # Digital Pathology

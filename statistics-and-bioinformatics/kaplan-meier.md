@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: tr
-belongs_to: "[[Statistics and Bioinformatics]]"
 aliases:
   - "Kaplan Meier"
+order: 170
+belongs_to: "[[Statistics and Bioinformatics]]"
 ---
 
 # Kaplan Meier

@@ -2,9 +2,10 @@
 type: Lecture
 status: Stub
 language: en
-belongs_to: "[[Infectious Diseases]]"
 aliases:
   - "Parasitic Diseases"
+order: 30
+belongs_to: "[[Infectious Diseases]]"
 ---
 
 # Parasitic Diseases

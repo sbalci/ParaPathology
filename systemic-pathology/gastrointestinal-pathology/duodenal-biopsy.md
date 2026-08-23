@@ -2,9 +2,10 @@
 type: Note
 status: Developing
 language: en
-belongs_to: "[[Gastrointestinal Pathology]]"
 aliases:
   - "Duodenal Biopsy"
+order: 30
+belongs_to: "[[Gastrointestinal Pathology]]"
 ---
 
 # Duodenal Biopsy

@@ -2,9 +2,10 @@
 type: Lecture
 status: Evergreen
 language: bilingual
-belongs_to: "[[Medical School Lectures]]"
 aliases:
   - "About Pathology Lectures"
+order: 10
+belongs_to: "[[Medical School Lectures]]"
 ---
 
 # About Pathology Lectures
