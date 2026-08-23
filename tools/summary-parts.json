@@ -21,7 +21,7 @@
     },
     {
       "title": "Medical School Lectures",
-      "lead": "medical-school-lectures/medical-school-lectures/README.md",
+      "lead": "medical-school-lectures/README.md",
       "externals": []
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "title": "Carcinogenesis, Hallmarks of Cancer",
-      "lead": "carcinogenesis-hallmarks-of-cancer/carcinogenesis-and-hallmarks-of-cancer/README.md",
+      "lead": "carcinogenesis-hallmarks-of-cancer/README.md",
       "externals": []
     },
     {

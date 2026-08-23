@@ -1,9 +1,23 @@
 ---
-type: Clipping
-status: Stub
+type: Topic
+status: Developing
+language: en
+aliases:
+  - "Clippings"
 order: 90
 belongs_to: "[[Appendix]]"
 ---
+
+# Clippings
+
+Full-text captures of articles, papers, and web pages saved with the Obsidian Web Clipper.
+Each capture keeps its source URL, author, and capture date in frontmatter, and points at the
+topic notes it informs through `related_to`.
+
+Clippings are living notes like everything else in this vault: annotate, prune, and rewrite
+them in place until a capture becomes your own synthesis. Verbatim full-text captures carry
+`publish: false` so they stay out of the public book — drop that flag once a clipping has been
+rewritten in your own words with a citation.
 
 <!-- tolaria:children:start -->
 
