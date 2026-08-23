@@ -34,3 +34,7 @@ related_to: "[[Laboratory Management]]"
 * vmock
 
 [https://www.vmock.com/](https://www.vmock.com/)
+
+* Opifex CV — create a Wikipedia-style online CV
+
+[https://cv.opifex.org/](https://cv.opifex.org/)
