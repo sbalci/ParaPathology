@@ -16,7 +16,7 @@ Algorithms that learn from data, from classical methods (regression, trees, SVM,
 
 * Fun and Easy Machine Learning Course in Keras and Python
 
-[https://keras.io/](/broken/pages/-Ll0S9trKeVQa4y0mtF1)
+[https://keras.io/](https://keras.io/)
 
 [https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp](https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
 
@@ -32,46 +32,6 @@ Algorithms that learn from data, from classical methods (regression, trees, SVM,
 
 * **Taste Skill** — open-source frontend-design skills for AI coding agents: [website](https://www.tasteskill.dev/) · [GitHub repository](https://github.com/Leonxlnx/taste-skill)
 * **Google DeepMind Science Skills** — agent skills for grounded, efficient scientific workflows: [GitHub repository](https://github.com/google-deepmind/science-skills)
-
-* Fun and Easy Machine Learning Course in Keras and Python
-
-https://keras.io/
-
-[https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp](https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
-
-* Machine Learning Glossary
-
-[https://developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
-
-* Fun and Easy Machine Learning Course in Keras and Python
-
-https://keras.io/
-
-[https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp](https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
-
-* Machine Learning Glossary
-
-[https://developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
-
-* Fun and Easy Machine Learning Course in Keras and Python
-
-https://keras.io/
-
-[https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp](https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
-
-* Machine Learning Glossary
-
-[https://developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
-
-* Fun and Easy Machine Learning Course in Keras and Python
-
-https://keras.io/
-
-[https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp](https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
-
-* Machine Learning Glossary
-
-[https://developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
 
 <!-- tolaria:children:start -->
 

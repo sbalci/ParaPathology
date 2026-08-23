@@ -18,6 +18,7 @@ tags:
   - survival
 order: 60
 belongs_to: "[[Clippings]]"
+publish: false
 ---
 ## Introduction
 

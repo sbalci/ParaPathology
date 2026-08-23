@@ -18,6 +18,7 @@ tags:
   - "clippings"
 order: 10
 belongs_to: "[[Clippings]]"
+publish: false
 ---
 ## Introduction
 

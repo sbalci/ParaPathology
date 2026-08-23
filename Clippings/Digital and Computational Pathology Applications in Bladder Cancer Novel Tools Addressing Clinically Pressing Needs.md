@@ -15,10 +15,6 @@ tags:
 order: 20
 belongs_to: "[[Clippings]]"
 ---
-## Tell us what you think
+## Summary
 
-How would you rate your experience using this page?
-
-12345
-
-Leave your feedback below:
+A *Modern Pathology* review of computational and digital pathology tools proposed for bladder cancer management. It surveys the most relevant algorithms aimed at improving diagnostic, staging and grading accuracy and streamlining workflow efficiency, set against the successful therapeutic strategies that followed molecular subtyping of bladder cancer. Source: [Modern Pathology abstract](https://www.modernpathology.org/article/S0893-3952%2824%2900211-4/abstract).

@@ -13,6 +13,7 @@ tags:
   - "clippings"
 order: 90
 belongs_to: "[[Clippings]]"
+publish: false
 ---
 ## Summary
 
