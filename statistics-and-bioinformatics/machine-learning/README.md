@@ -19,6 +19,10 @@ related_to: "[[Statistics and Bioinformatics]]"
 
 [https://developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
 
+## Large Language Models
+
+* [Stanford CS336: Language Modeling from Scratch — Spring 2026 (YouTube playlist)](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)
+
 * Fun and Easy Machine Learning Course in Keras and Python
 
 https://keras.io/
