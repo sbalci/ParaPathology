@@ -23,6 +23,11 @@ related_to: "[[Statistics and Bioinformatics]]"
 
 * [Stanford CS336: Language Modeling from Scratch — Spring 2026 (YouTube playlist)](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV)
 
+## AI Agent Skills
+
+* **Taste Skill** — open-source frontend-design skills for AI coding agents: [website](https://www.tasteskill.dev/) · [GitHub repository](https://github.com/Leonxlnx/taste-skill)
+* **Google DeepMind Science Skills** — agent skills for grounded, efficient scientific workflows: [GitHub repository](https://github.com/google-deepmind/science-skills)
+
 * Fun and Easy Machine Learning Course in Keras and Python
 
 https://keras.io/
