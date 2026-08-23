@@ -12,6 +12,10 @@ related_to:
 
 Reviewed in [[Weakly supervised MIL histopathological tumor segmentation]] — MIL tumor segmentation from slide-level labels only (Lerousseau et al., MICCAI 2020), with code and 6,481 released TCGA tumor maps at [MarvinLer/tcga_segmentation](https://github.com/MarvinLer/tcga_segmentation).
 
+#### Tumor budding T-cell graphs: assessing the need for resection in pT1 colorectal cancer patients
+
+Reviewed in [[Tumor budding T-cell graphs for pT1 colorectal cancer]] — GNNs over tumor-bud/T-cell hotspot graphs raise the specificity of lymph-node-metastasis prediction by ~20 points over guideline stratification at equal sensitivity (Studer et al., MIDL 2023), with the pT1-HBTG dataset on [Zenodo](https://zenodo.org/records/7867085) and code at [digitalpathologybern/pT1-HBTG-MIDL2023](https://github.com/digitalpathologybern/pT1-HBTG-MIDL2023).
+
 #### The benefits of building and working with interactive simulations Interactive simulations for better model intuition
 
 {% embed url="http://blog.mathematical-oncology.org/benefits-of-building-interactive-simulations.html" %}
