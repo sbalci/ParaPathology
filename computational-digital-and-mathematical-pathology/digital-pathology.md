@@ -9,6 +9,8 @@ order: 10
 
 # Digital Pathology
 
+Whole-slide imaging and everything it enables: scanners and viewers, image analysis, AI-assisted diagnosis, and telepathology. This hub collects the vendors, platforms, talks, and articles that map the field; the software itself is catalogued in [Digital Pathology Software](digital-pathology-software.md) and analysis methods in [Image Analysis](image-analysis.md), with the machine-learning foundations in [Machine Learning](../statistics-and-bioinformatics/machine-learning/README.md).
+
 {% embed url="https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s" %}
 
 #### [5 Ways to Make Histopathology Image Models More Robust to Domain Shifts: Exploring a variety of approaches: stain normalization, color augmentation, adversarial domain adaptation, model adaptation, and finetuning](https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html)

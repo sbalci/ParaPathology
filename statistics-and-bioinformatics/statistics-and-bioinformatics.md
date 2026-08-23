@@ -9,6 +9,8 @@ order: 10
 
 # Statistics and Bioinformatics
 
+The quantitative toolbox: statistical concepts (power, ROC, survival, kappa, regression), the software to apply them (R, jamovi, JASP, SPSS, Python), and bioinformatics resources for molecular data. Pathology-specific applications live in [Statistics, Bioinformatics, and Pathology](../statistics-bioinformatics-and-pathology/statistics-bioinformatics-and-pathology.md); machine learning has its own sub-hub in [Machine Learning](machine-learning/README.md).
+
 ## Statistics and Pathology
 
 * [http://www.statsoft.com/Textbook](http://www.statsoft.com/Textbook)

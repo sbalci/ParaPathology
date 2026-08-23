@@ -10,6 +10,8 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 # Machine Learning
 
+Algorithms that learn from data, from classical methods (regression, trees, SVM, clustering) through neural networks to large language models and agent skills. Each child note covers one algorithm family with courses and code; the pathology applications of these methods are collected under [Digital Pathology](../../computational-digital-and-mathematical-pathology/digital-pathology.md) and [Image Analysis](../../computational-digital-and-mathematical-pathology/image-analysis.md).
+
 ## Machine Learning
 
 * Fun and Easy Machine Learning Course in Keras and Python
