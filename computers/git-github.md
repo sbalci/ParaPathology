@@ -21,62 +21,6 @@ belongs_to: "[[Computers]]"
 
 [https://github.com/yihui/travis-blogdown](https://github.com/yihui/travis-blogdown)
 
-* add this to book.json
-
-```
-{
-"plugins": ["youtube", "youtubex", "component", "autosize-iframe"]
-    }
-```
-
-* Gitbook plugin component
-
-[https://plugins.gitbook.com/plugin/component](https://plugins.gitbook.com/plugin/component)
-
-```
-{
-    "plugins": ["component"]
-}
-
-<div data-gb-custom-block data-tag="component">
-
-</div>
-```
-
-* YouTube
-
-```
-<div data-gb-custom-block data-tag="youtube">CR-7blJkNaI</div>
-```
-
-* add this to book.json
-
-```
-{
-"plugins": ["youtube", "youtubex", "component", "autosize-iframe"]
-    }
-```
-
-* Gitbook plugin component
-
-[https://plugins.gitbook.com/plugin/component](https://plugins.gitbook.com/plugin/component)
-
-```
-{
-    "plugins": ["component"]
-}
-
-<div data-gb-custom-block data-tag="component">
-
-</div>
-```
-
-* YouTube
-
-```
-<div data-gb-custom-block data-tag="youtube">CR-7blJkNaI</div>
-```
-
 ### GitBook Plugins
 
 * add this to book.json

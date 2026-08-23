@@ -84,8 +84,6 @@ Creating Dynamic Documents with RMarkdown and Knitr [https://rstudio-pubs-static
 
 [https://open.nasa.gov/explore/](https://open.nasa.gov/explore/)
 
-[https://www.datacamp.com/community/tutorials/r-formula-tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial)
-
 [https://www.dataiku.com/learn/](https://www.dataiku.com/learn/)
 
 [http://imagejdocu.tudor.lu/doku.php?id=video:beginner\_help:imagej\_beginner\_s\_tutorial](http://imagejdocu.tudor.lu/doku.php?id=video:beginner_help:imagej_beginner_s_tutorial)
@@ -112,13 +110,9 @@ Creating Dynamic Documents with RMarkdown and Knitr [https://rstudio-pubs-static
 
 [https://www.rplumber.io/](https://www.rplumber.io/)
 
-[https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
-
 [https://www.datacamp.com/community/blog/titanic-kaggle-live-coding](https://www.datacamp.com/community/blog/titanic-kaggle-live-coding)
 
 [https://analyticsdefined.com/mining-enron-emails/](https://analyticsdefined.com/mining-enron-emails/)
-
-[https://www.datacamp.com/community/tutorials/r-formula-tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial)
 
 [https://rviews.rstudio.com/2017/12/04/how-to-show-r-inline-code-blocks-in-r-markdown/](https://rviews.rstudio.com/2017/12/04/how-to-show-r-inline-code-blocks-in-r-markdown/)
 
