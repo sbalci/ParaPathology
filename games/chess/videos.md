@@ -4,5 +4,5 @@ status: Stub
 related_to: "[[Chess]]"
 ---
 
-# Videos
+# Chess Videos
 

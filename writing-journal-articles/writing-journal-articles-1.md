@@ -5,7 +5,7 @@ language: en
 related_to: "[[Writing Journal Articles]]"
 ---
 
-# Writing Journal Articles
+# Manuscript Writing and Publishing Guides
 
 * Steps to Getting Your Manuscript Published in a High-Quality Medical Journal
 

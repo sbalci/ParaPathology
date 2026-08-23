@@ -295,7 +295,6 @@
   * [Text Mining Orange](statistics-and-bioinformatics/text-mining/text-mining-orange.md)
   * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed.md)
   * [Text Mining Twitter](statistics-and-bioinformatics/text-mining/text-mining-twitter.md)
-  * [Text Mining PubMed](statistics-and-bioinformatics/text-mining/text-mining-pubmed-1.md)
 * [Bioinformatics](statistics-and-bioinformatics/bioinformatics.md)
 * [Bioconductor](statistics-and-bioinformatics/bioconductor.md)
 * [Tools for Data Analysis and Visualisation](statistics-and-bioinformatics/tools-for-data-analysis-and-visualisation.md)
@@ -348,7 +347,7 @@
 * [Rephrasing & Synonyms](writing-journal-articles/rephrasing-and-synonyms.md)
 * [Figures and Images](writing-journal-articles/figures-and-images.md)
 * [Plagiarism](writing-journal-articles/plagiarism.md)
-* [Writing Journal Articles](writing-journal-articles/writing-journal-articles-1.md)
+* [Manuscript Writing and Publishing Guides](writing-journal-articles/writing-journal-articles-1.md)
 * [IRB](writing-journal-articles/irb.md)
 * [Text Editing](writing-journal-articles/text-editing.md)
 * [Review](writing-journal-articles/review.md)
@@ -415,7 +414,7 @@
 * [Go](games/go.md)
 * [Chess](games/chess/README.md)
   * [Satranç](games/chess/satranc.md)
-  * [Videos](games/chess/videos.md)
+  * [Chess Videos](games/chess/videos.md)
 
 ## Theories and Frameworks
 
