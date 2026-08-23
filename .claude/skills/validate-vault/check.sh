@@ -32,8 +32,8 @@ LANG_VOCAB   = {"en", "tr", "bilingual"}
 # Directories and files that are not content notes
 SKIP_DIRS  = {".git", ".claude", "attachments", "views", "node_modules", "_book", ".obsidian"}
 SKIP_NAMES = {"SUMMARY.md", "AGENTS.md", "CLAUDE.md", "GEMINI.md", "MEMORY.md"}
-# Body-wikilink leaks that pre-date this work and are intentional
-LEAK_EXEMPT = {"AGENTS.md", "lavaan.md"}
+# Body-wikilink leaks that are intentional (AGENTS.md documents the syntax)
+LEAK_EXEMPT = {"AGENTS.md"}
 
 WIKILINK = re.compile(r"\[\[([^\]]+)\]\]")
 
