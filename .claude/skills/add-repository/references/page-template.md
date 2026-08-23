@@ -14,12 +14,19 @@ Relationships live in **frontmatter** so GitBook ignores them and Tolaria reads 
 
 ```markdown
 ---
+type: Note                       # Tool for a single program; Note for a project write-up
+status: Developing               # Stub | Developing | Evergreen — the note's maturity
+language: en
 title: "Project Name"            # Title Case; keep acronyms as acronyms (WSI, HER2, IHC, LIS)
-type: Note
+aliases:
+  - "Project Name"               # the H1, when it differs from the kebab-case filename
+order: 120
+belongs_to: "[[Digital Pathology]]"   # exactly one parent — this is what publishes the note
+related_to:
+  - "[[A Genuinely Lateral Note]]"
 repo: https://github.com/sbalci/<name>
-status: active | paused | archived
+engagement: active | paused | archived
 last_reviewed: YYYY-MM-DD
-related_to: "[[Digital Pathology]]"   # optional; frontmatter only, one line on why in the body
 ---
 
 # Project Name
@@ -42,16 +49,23 @@ Derived from: repository read YYYY-MM-DD — <which files / pages>.
 
 ```markdown
 ---
+type: Tool
+status: Developing                  # the NOTE's maturity, in the vault's status vocabulary
+language: en
 title: "Tool Name"
-type: Note
+aliases:
+  - "Tool Name"
+order: 130
+belongs_to: "[[Digital Pathology]]"
+related_to:
+  - "[[Image Analysis]]"
 repo: https://github.com/<owner>/<name>
 external: true
 adopted: false
-status: active | archived           # MY engagement, not the tool's health
+engagement: active | archived       # MY engagement, not the tool's health
 upstream: <maintenance state, with a date>
 license: <as the repo declares it, verbatim, one line — record only, never investigate>
 last_reviewed: YYYY-MM-DD
-related_to: "[[Digital Pathology]]"
 ---
 
 # Tool Name
@@ -66,10 +80,13 @@ One-line summary — what it does and, if the verdict is already clear, the verd
 Derived from: repository source read YYYY-MM-DD — <which files>, `README.md`, `LICENSE`.
 ```
 
-`status:` vs `upstream:` — `status: active` means still a live candidate here; `status: archived`
-means evaluated and closed on this end. `upstream:` describes the tool itself, e.g.
-`dormant since 2024-12-10`. Setting `status: archived` because the *tool* looks dead is the common
-error; they are independent axes.
+`engagement:` vs `upstream:` — `engagement: active` means still a live candidate here;
+`engagement: archived` means evaluated and closed on this end. `upstream:` describes the tool
+itself, e.g. `dormant since 2024-12-10`. Marking it archived because the *tool* looks dead is the
+common error; they are independent axes.
+
+`status:` is reserved for the vault's own `Stub` / `Developing` / `Evergreen` vocabulary — the
+maturity of the note, not of the project. That is why engagement gets its own key here.
 
 ---
 
@@ -87,6 +104,7 @@ error; they are independent axes.
   ```
 
 - **Cross-links carry their reason** — in the body, a plain Markdown link plus one line on *why*
-  they connect. Structural relationships go in frontmatter (`related_to:`), not the body.
+  they connect. Relationships go in frontmatter: `belongs_to` for the one parent, `related_to` for
+  lateral links. Never `[[wikilinks]]` in the body — GitBook renders them as literal text.
 - **Mark what you could not verify.** `[unverified]` keeps the note trustworthy — three honest
   `[unverified]` tags beat one note that reads smoothly and cannot be checked.

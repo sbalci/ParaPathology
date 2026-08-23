@@ -1,15 +1,15 @@
 ---
 name: add-batch
-description: Use when several sources need filing at once into this GitBook pathology vault — "add all these links", "process this list of URLs", "file everything in this folder", or any mix of links, repositories, and articles handed over together. Enumerates the batch, dispatches each item to the right leaf skill (add-link, add-repository, add-clipping) doing steps 1–N only, and runs ONE closeout for the whole run instead of one per item.
+description: Use when several sources need filing at once into this GitBook pathology vault — "add all these links", "process this list of URLs", "file everything in this folder", or any mix of links, repositories, and articles handed over together. Enumerates the batch, dispatches each item to the right leaf skill (add-link, add-repository, add-clipping, add-note) doing steps 1-N only, and runs ONE closeout for the whole run — a single SUMMARY.md rebuild via tools/generate_summary.py, plus a single report — instead of one per item.
 ---
 
 # Adding a batch
 
 This is the dispatcher. It exists so that filing ten items produces **one** closeout, not ten.
-The leaf skills (`add-link`, `add-repository`, `add-clipping`) do the per-item work; this skill
-owns enumeration and the single closeout at the end.
-
-Vault-Safe: Read / Write / Edit / Grep / Glob only. No shell, git, or Node.
+The leaf skills (`add-link`, `add-repository`, `add-clipping`, `add-note`) do the per-item work;
+this skill owns enumeration and the single closeout at the end. Rebuilding `SUMMARY.md` once for
+the whole batch is the main reason it exists — the generator is cheap, but reading thirty
+one-line diffs is not.
 
 ---
 
@@ -22,6 +22,7 @@ Before writing anything, list every item and decide its route:
 | A bookmark / course / homepage / video | **add-link** |
 | A code repository or tool | **add-repository** |
 | An article/paper to capture in full | **add-clipping** |
+| A loose note already written, needing typing and a home | **add-note** |
 
 Produce the plan as a short table (item → route → destination note) and, for anything ambiguous
 or outward-facing, show it to the user before executing. If the batch is "everything in this
@@ -41,6 +42,9 @@ are written to defer their close to this dispatcher — honour that. As you go:
   vault-wide paste-duplication bug — don't reintroduce it.
 - **Keep GitBook features intact** — `{% embed %}`/`{% hint %}` preserved, wikilinks only in
   frontmatter, never in body prose.
+- **Set the navigation keys as you go.** Any new note needs one `belongs_to` and an `order` before
+  the closeout can publish it; a clipping that is a verbatim full-text capture needs
+  `publish: false`.
 
 ---
 
@@ -48,12 +52,21 @@ are written to defer their close to this dispatcher — honour that. As you go:
 
 After every item is processed:
 
-1. **Collect new notes** created this run (repository notes, clippings). Link-list appends to
-   already-listed notes need nothing here.
-2. **Update `SUMMARY.md` once** for any brand-new notes that belong in the GitBook TOC — insert
-   each under the correct section in one pass (or hand the whole set to **update-index**).
+1. **Collect new notes** created this run (repository notes, clippings, triaged notes). Appends
+   to already-published link-lists need nothing here.
+2. **Rebuild navigation once** — `SUMMARY.md` is generated from frontmatter, never hand-edited:
+
+   ```bash
+   python tools/generate_summary.py check
+   python tools/generate_summary.py generate --dry-run
+   python tools/generate_summary.py generate
+   python tools/generate_summary.py hubs
+   ```
+
+   Read the dry-run diff: for a batch it should contain exactly the new notes and nothing else.
 3. **Report a single tally**: what was filed where, what was skipped and why, and any
    `[unverified]` items a human should check. Include the "produced nothing" list — a source that
    yielded nothing is itself worth recording.
 
-Do not run git, do not commit, do not build the GitBook — filing and reporting is the whole job.
+Do not commit and do not build the GitBook (the GitHub Action owns that) — filing, rebuilding the
+index, and reporting is the whole job. Note that Tolaria auto-commits this vault on its own.

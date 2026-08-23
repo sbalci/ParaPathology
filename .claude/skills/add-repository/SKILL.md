@@ -22,8 +22,8 @@ Decide first — it sets the frontmatter shape and whether a verdict is expected
 already points at their repo). On refresh, rewrite the note.
 
 **Third-party** — someone else's tool being evaluated. Frontmatter carries `external: true`,
-`adopted: false`, and an `upstream:` key. May legitimately end in a "do not adopt" verdict —
-that verdict is useful output, not a failure.
+`adopted: false`, `engagement:`, and an `upstream:` key. May legitimately end in a "do not adopt"
+verdict — that verdict is useful output, not a failure.
 
 If refreshing an existing note, read it before touching anything — you need to know what it
 previously claimed to say what changed.
@@ -98,13 +98,15 @@ body skeleton. Four things are easy to get subtly backwards:
   single program, `Note` for a project write-up), `status`, `language`, `aliases` carrying the H1
   when it differs from the kebab-case filename, one `belongs_to` parent, and an `order`. The
   repo-specific keys (`repo:`, `upstream:`, `license:`, `last_reviewed:`) sit alongside them.
-- **`status:` and `upstream:` point in different directions.** `status:` describes *the user's*
-  engagement (`active` = live candidate/in use, `archived` = evaluated and closed here).
-  `upstream:` describes the *tool's* own maintenance state. A dormant tool can still be worth
-  adopting; a maintained one can still be wrong here.
-- **GitBook-safe body.** Relationships go in **frontmatter** (`related_to: "[[Note Title]]"`),
-  never as `[[wikilinks]]` in body prose — GitBook won't render those. In the body, a plain
-  Markdown link with a reason is fine.
+- **`status:` is the vault's vocabulary, not the project's.** `Stub` / `Developing` / `Evergreen`
+  describe the *note's* maturity. Anything else fails `validate-vault`.
+- **`engagement:` and `upstream:` point in different directions.** `engagement:` describes *the
+  user's* stance (`active` = live candidate or in use, `archived` = evaluated and closed here).
+  `upstream:` describes the *tool's* own maintenance state, with the date you read it. A dormant
+  tool can still be worth adopting; a maintained one can still be wrong here.
+- **GitBook-safe body.** Relationships go in **frontmatter** — `belongs_to` for the single parent,
+  `related_to` for lateral links — never as `[[wikilinks]]` in body prose, which GitBook won't
+  render. In the body, a plain Markdown link with a reason is fine.
 
 End with a `Derived from:` line naming which URLs/files you read and the date.
 
