@@ -1,3 +1,6 @@
+---
+_archived: true
+---
 # Table of contents
 
 * [Preface](README.md)
@@ -444,6 +447,7 @@
   * [Digital and Computational Pathology Applications in Bladder Cancer: Novel Tools Addressing Clinically Pressing Needs](Clippings/Digital%20and%20Computational%20Pathology%20Applications%20in%20Bladder%20Cancer%20Novel%20Tools%20Addressing%20Clinically%20Pressing%20Needs.md)
   * [Immunohistochemistry in the Differential Diagnosis of... : Applied Immunohistochemistry & Molecular Morphology](Clippings/Immunohistochemistry%20in%20the%20Differential%20Diagnosis%20of...%20%20Applied%20Immunohistochemistry%20%26%20Molecular%20Morphology.md)
   * [Introduction to Cell Profiler: A beginner’s guide to segmentation - YouTube](Clippings/Introduction%20to%20Cell%20Profiler%20A%20beginner%E2%80%99s%20guide%20to%20segmentation%20-%20YouTube.md)
+  * [Pancreatic ductal adenocarcinoma and its subtypes: clinical relevance of histopathology and molecular characterization, integrating the key updates of the 2026 WHO classification](Clippings/Pancreatic%20ductal%20adenocarcinoma%20and%20its%20subtypes%20-%202026%20WHO%20classification%20-%20Virchows%20Archiv.md)
   * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Clippings/Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
   * [Seeds or Parasites Clinical and Histopathological](Clippings/Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
   * [Solving Unpopular Problems: The QuPath Story](Clippings/Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)

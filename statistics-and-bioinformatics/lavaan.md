@@ -7,6 +7,7 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 related_to:
   - "[[r-project]]"
   - "[[kaplan-meier]]"
+_archived: true
 ---
 
 # Lavaan
