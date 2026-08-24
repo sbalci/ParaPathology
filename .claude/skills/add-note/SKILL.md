@@ -48,10 +48,29 @@ Assign exactly one `type`, from location and role rather than guesswork:
 | A catalog / link-list / resource collection (many links or table rows) | **Reference** |
 | A captured external article (lives under `Clippings/`) | **Clipping** |
 | A med-school lecture (outline, bilingual `Ders adı` / `Başlıklar`) | **Lecture** |
-| Anything else — a prose topic note | **Note** |
+| Anything else — a prose topic note | **Note** (default) |
 
 When two fit — a tool note that is also a catalog of tools — prefer the more specific: a single
 program is `Tool`; a list of programs is `Reference`.
+
+### §1a Opt-in specializations of `Note`
+
+`Note` is a broad bucket. Four **opt-in** types carve it at its natural joints. They are never
+required — `Note` stays the valid default and migration is opportunistic — but when a *new* note is
+clearly one of these, prefer the specific type so the graph and future views can see the joint:
+
+| The prose note is… | type |
+|---|---|
+| A nameable diagnostic entity — a disease, tumor, lesion, or reaction pattern | **Disease** |
+| An explanatory idea or mechanism — the "how" / "why", not a named entity | **Concept** |
+| A method, assay, stain, or computational procedure | **Technique** |
+| A theory, classification system, or analytical lens | **Framework** |
+
+Each of the four has a Type doc in `types/` and is listed in `TYPE_VOCAB`
+(`validate-vault/check.sh`). Choosing one is a per-note call at intake — this is what "add types as
+new notes come" means in practice: you do not migrate the back-catalog, you type each *new* note at
+its natural joint as it arrives. If none fits cleanly, `Note` is correct; never force a
+specialization. To mint a genuinely new type beyond these four, see `validate-vault` §4.
 
 ---
 

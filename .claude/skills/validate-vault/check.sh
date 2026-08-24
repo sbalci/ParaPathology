@@ -30,7 +30,8 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "."
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-TYPE_VOCAB   = {"Topic", "Reference", "Tool", "Clipping", "Lecture", "Note"}
+TYPE_VOCAB   = {"Topic", "Reference", "Tool", "Clipping", "Lecture", "Note",
+                "Disease", "Concept", "Technique", "Framework"}
 STATUS_VOCAB = {"Stub", "Developing", "Evergreen"}
 LANG_VOCAB   = {"en", "tr", "bilingual"}
 
@@ -275,7 +276,8 @@ show("missing Type doc", [f"{t} (types/{t.lower()}.md)" for t in missing_typedoc
 show("unused Type doc", unused_typedoc)
 print("-" * 72)
 print("census:  " + " · ".join(f"{t} {census[t]}" for t in
-      ["Topic","Reference","Tool","Clipping","Lecture","Note"]))
+      ["Topic","Reference","Tool","Clipping","Lecture","Note",
+       "Disease","Concept","Technique","Framework"]))
 print("=" * 72)
 sys.exit(1 if fails else 0)
 PY

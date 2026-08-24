@@ -25,7 +25,7 @@ be done by reading files with Read/Grep/Glob when the shell is unavailable.
 
 ```yaml
 ---
-type: Note                       # Topic | Reference | Tool | Clipping | Lecture | Note
+type: Note                       # Topic | Reference | Tool | Clipping | Lecture | Note | Disease | Concept | Technique | Framework
 status: Developing               # Stub | Developing | Evergreen
 language: en                     # en | tr | bilingual  (absent is valid for near-empty landings)
 aliases:
@@ -39,7 +39,10 @@ publish: false                   # optional; keeps the note out of the public bo
 ```
 
 - **`type`** — exactly one per note, from the vocabulary above, plus `Type` for the docs in
-  `types/`. Every value in use must have a matching Type doc.
+  `types/`. The enforced allow-list is `TYPE_VOCAB` in `check.sh`; `Disease` / `Concept` /
+  `Technique` / `Framework` are **opt-in carve-outs of `Note`** (a note may still be a plain
+  `Note`). Every value in use must have a matching Type doc, and must be in `TYPE_VOCAB` or the
+  note reports `type out-of-vocab`.
 - **`status`** — prose notes derive it from word count; `Reference`/`Tool` catalogs derive it from
   resource count (links + embeds + table rows), so a dense 30-link index is `Evergreen`, not
   `Stub`.
@@ -122,6 +125,25 @@ suggest its properties. For each distinct `type`, confirm `types/<type>.md` exis
 `type: Type` frontmatter. Report any type used without a doc — and any doc no note uses (dead
 schema).
 
+### Adding a type as new notes arrive
+
+The vocabulary is meant to **grow with the content, not ahead of it** — you add a type the first
+time a real note needs it, then adopt it note-by-note. A new type is a three-place contract that
+must stay in sync, and this order keeps the vault at PASS at every step:
+
+1. **`types/<name>.md`** — create the Type doc first (`type: Type`, an `_icon`, a `_color`, an
+   appended `_order`, and any property placeholders). A Type doc that **no note uses yet** is only
+   an informational `unused Type doc` — never a FAIL — so this step is always safe to land alone.
+2. **`TYPE_VOCAB` in `check.sh`** — add the name to the allow-list, and to the census list near the
+   foot of the script. This is the gate that flips the type from *available* to *adoptable*: until
+   it is here, the first note that sets the new `type` fails as `type out-of-vocab`.
+3. **`AGENTS.md`** — extend the frontmatter-contract type list so the human/agent-facing docs match
+   what the checker enforces.
+
+Only then reclassify notes into it, opportunistically. An *unused* type doc is tolerated; an
+*unknown type on a real note* is a hard fail — so always widen the allow-list (steps 1–2) before
+the first note adopts the type, and the validator stays green the whole way.
+
 ---
 
 ## §5 Bulk-pass sanity (when validating right after a batch edit)
@@ -152,6 +174,7 @@ STATUS: PASS | FAIL
   gitbook:     body-wikilink leaks: [...]   root-level content notes: [...]
   types:       missing Type doc: [...]   unused Type doc: [...]
 census: Topic <n> - Reference <n> - Tool <n> - Clipping <n> - Lecture <n> - Note <n>
+        - Disease <n> - Concept <n> - Technique <n> - Framework <n>
 ```
 
 Then hand off: schema fixes are additive and low-risk; deletions, merges, and dedup are
