@@ -38,4 +38,4 @@ to a skill from the descriptions alone.
 
 - **Never hand-edit `SUMMARY.md`.** It is generated from note frontmatter — change the note, then rebuild.
 - **No note is immutable.** Every file, clippings included, is updatable; `type` records origin, `status` records how far it has been taken (`Stub → Developing → Evergreen`).
-- 
+
