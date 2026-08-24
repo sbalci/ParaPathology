@@ -97,7 +97,8 @@ body skeleton. Four things are easy to get subtly backwards:
 - **The vault frontmatter contract applies.** A repository note is a note: `type` (`Tool` for a
   single program, `Note` for a project write-up), `status`, `language`, `aliases` carrying the H1
   when it differs from the kebab-case filename, one `belongs_to` parent, and an `order`. The
-  repo-specific keys (`repo:`, `upstream:`, `license:`, `last_reviewed:`) sit alongside them.
+  repo-specific keys (`repo:`, `upstream:`, `license:`, `last_reviewed:`) sit alongside them, plus
+  `source_type: repository` so the note surfaces in `views/repositories.yml`.
 - **`status:` is the vault's vocabulary, not the project's.** `Stub` / `Developing` / `Evergreen`
   describe the *note's* maturity. Anything else fails `validate-vault`.
 - **`engagement:` and `upstream:` point in different directions.** `engagement:` describes *the

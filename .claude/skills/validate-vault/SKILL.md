@@ -35,6 +35,7 @@ belongs_to: "[[Parent Hub]]"     # exactly one primary parent
 related_to:                      # lateral links only — never the parent
   - "[[Some Other Note]]"
 publish: false                   # optional; keeps the note out of the public book
+source_type: video               # optional; medium of an external item — article|video|repository|link|paper|page
 ---
 ```
 
@@ -54,6 +55,10 @@ publish: false                   # optional; keeps the note out of the public bo
   silently dangles in Obsidian.
 - **`belongs_to` / `order` / `publish`** — the navigation contract, owned by `update-index`.
 - **Relationships** — any frontmatter key whose value holds `[[wikilinks]]`.
+- **`source_type`** — optional medium tag on externally-sourced notes (`article | video |
+  repository | link | paper | page`). A **property, not a type**: it records the medium an item
+  arrived in, orthogonal to `type`, and powers the medium views. Enforced against
+  `SOURCE_TYPE_VOCAB` in `check.sh` — an out-of-vocab value fails like a bad `status`; absence is fine.
 
 Notes here are **living documents**. There is no immutable-source layer: any note, clippings
 included, may be annotated, pruned, and rewritten in place. `type` records where a note came
@@ -74,7 +79,9 @@ For every content note (excluding the root `README.md`, `.claude/`, `attachments
 3. **`type` present and in-vocabulary.**
 4. **`status` in-vocabulary** where present.
 5. **`language` in-vocabulary or absent.**
-6. **`aliases` present wherever the H1 differs from the filename stem**, compared
+6. **`source_type` in-vocabulary** where present — an optional medium tag (`article | video |
+   repository | link | paper | page`) on externally-sourced notes.
+7. **`aliases` present wherever the H1 differs from the filename stem**, compared
    case- and punctuation-insensitively (so `lavaan.md` titled `Lavaan` needs nothing, but
    `appendix/README.md` titled `Appendix` does).
 
@@ -166,6 +173,7 @@ STATUS: PASS | FAIL
   type:        <n typed> / <total>   out-of-vocab: [...]   untyped: [...]
   status:      out-of-vocab: [...]
   language:    out-of-vocab: [...]   (absent is OK)
+  source_type: out-of-vocab: [...]   (absent is OK)
   aliases:     missing where H1 != filename: [...]
   frontmatter: double-block: [...]   invalid-YAML: [...]
   hierarchy:   multiple belongs_to: [...]

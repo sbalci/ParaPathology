@@ -45,6 +45,7 @@ status: Developing
 language: en
 title: "Full Article Title"
 source: "https://the-canonical-url"
+source_type: article    # article for a paper/web page, video for a talk or YouTube capture
 author:
   - "[[Author or Journal Name]]"
 published: YYYY-MM-DD
@@ -68,6 +69,9 @@ publish: false          # only for verbatim full-text captures
 - **`belongs_to: "[[Clippings]]"`** — the `Clippings/README.md` hub. `order` positions it there.
 - **`related_to:`** is where a clipping earns its keep: link the topic notes it informs.
 - **`created:`** is the capture date; **`published:`** may be left empty if unknown.
+- **`source_type:`** records the medium — `article` for a paper or web page, `video` for a talk
+  or YouTube capture. Set it on every capture; it feeds `views/videos.yml`. It is a *property*,
+  not a separate type — the note is still `type: Clipping`.
 
 Use `references/clipping-template.md` as the starting shape.
 

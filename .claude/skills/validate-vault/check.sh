@@ -34,6 +34,7 @@ TYPE_VOCAB   = {"Topic", "Reference", "Tool", "Clipping", "Lecture", "Note",
                 "Disease", "Concept", "Technique", "Framework"}
 STATUS_VOCAB = {"Stub", "Developing", "Evergreen"}
 LANG_VOCAB   = {"en", "tr", "bilingual"}
+SOURCE_TYPE_VOCAB = {"article", "video", "repository", "link", "paper", "page"}
 
 # Directories and files that are not content notes.
 # docs/ and patoloji-hakkinda/ are GitHub Action build output, not notes.
@@ -138,6 +139,8 @@ def iter_wikilinks(data, fm):
 
 # ---- per-note checks ------------------------------------------------------
 untyped, bad_type, bad_status, bad_lang = [], [], [], []
+bad_source_type = []
+src_census = {}
 double_block, invalid_yaml, leaks = [], [], []
 alias_missing, multi_parent, root_notes = [], [], []
 wikilink_targets = []          # (rel, key, target)
@@ -184,6 +187,13 @@ for rel, ap, text in notes:
     lang = data.get("language")
     if lang is not None and lang not in LANG_VOCAB:
         bad_lang.append(f"{rel} -> {lang!r}")
+
+    stype = data.get("source_type")
+    if stype is not None:
+        for one in (stype if isinstance(stype, list) else [stype]):
+            src_census[one] = src_census.get(one, 0) + 1
+            if one not in SOURCE_TYPE_VOCAB:
+                bad_source_type.append(f"{rel} -> {one!r}")
 
     # aliases: Obsidian resolves [[Title]] against the FILENAME, Tolaria against the H1.
     # Where they differ the H1 must be an alias or the edge dangles in Obsidian.
@@ -247,8 +257,9 @@ unused_typedoc  = sorted(d for d in typedoc_stems if d.capitalize() not in used_
 # ---- report ---------------------------------------------------------------
 total = len(notes)
 typed = sum(census.values())
-fails = (bad_type or bad_status or bad_lang or double_block or invalid_yaml
-         or leaks or missing_typedoc or alias_missing or multi_parent or root_notes)
+fails = (bad_type or bad_status or bad_lang or bad_source_type or double_block
+         or invalid_yaml or leaks or missing_typedoc or alias_missing or multi_parent
+         or root_notes)
 
 def show(label, items, limit=15):
     n = len(items)
@@ -264,6 +275,7 @@ show("type out-of-vocab", bad_type)
 show("untyped notes", untyped)
 show("status out-of-vocab", bad_status)
 show("language out-of-vocab", bad_lang)
+show("source_type out-of-vocab", bad_source_type)
 show("double frontmatter", double_block)
 show("invalid YAML", invalid_yaml)
 show("missing alias (H1 != file)", alias_missing)
@@ -278,6 +290,8 @@ print("-" * 72)
 print("census:  " + " · ".join(f"{t} {census[t]}" for t in
       ["Topic","Reference","Tool","Clipping","Lecture","Note",
        "Disease","Concept","Technique","Framework"]))
+if src_census:
+    print("source:  " + " · ".join(f"{k} {src_census[k]}" for k in sorted(src_census)))
 print("=" * 72)
 sys.exit(1 if fails else 0)
 PY

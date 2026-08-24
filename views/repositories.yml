@@ -1,0 +1,9 @@
+name: Repositories
+icon: null
+color: null
+sort: "modified:desc"
+filters:
+  all:
+    - field: source_type
+      op: equals
+      value: repository

@@ -1,0 +1,11 @@
+name: Clippings to Process
+icon: null
+color: null
+sort: "modified:desc"
+filters:
+  all:
+    - field: type
+      op: equals
+      value: Clipping
+    - field: related_to
+      op: is_empty
