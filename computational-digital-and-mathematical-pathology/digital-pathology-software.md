@@ -30,21 +30,41 @@ Open-source microscope control and acquisition automation, integrated with Image
 
 ### [Celldega](https://github.com/broadinstitute/celldega)
 
-Open-source Python + JavaScript library from the Broad Institute (Platform Innovation Lab) for scalable, interactive visualization and analysis of spatial-omics data. Repository, docs, preprint, and a runnable marimo notebook demo.
+Open-source Python + JavaScript library from the Broad Institute (Platform Innovation Lab / Spatial Technology Platform) for scalable, interactive visualization and analysis of spatial-omics and single-cell data.
 
-**Paper:** Fernandez N, Ishar J, Wang H, Ben Saad A, Lipinski M, Farhi SL. *Celldega: Integrated Toolkit for Visualization and Analysis of Spatial Data.* bioRxiv preprint, posted 2026-08-18 (DOI: 10.64898/2026.08.13.744672).
+**Paper:** Fernandez N, Ishar J, Wang H, Ben Saad A, Lipinski M, Farhi SL. *Celldega: Integrated Toolkit for Visualization and Analysis of Spatial Data.* bioRxiv preprint, posted 2026-08-21 (DOI: 10.64898/2026.08.13.744672).
 
-**The problem it addresses.** Spatial transcriptomics pairs high-dimensional single-cell measurements with microscopy to read out cellular states, cell–cell communication, and tissue organization. As datasets have grown, two bottlenecks emerged: computational analysis struggles to keep up, and visualization breaks down — open-source viewers fail to scale past ~1 billion transcripts, while commercial tools are costly, closed-source, and inflexible.
+#### The Challenge in Spatial Pathology
+Spatial-transcriptomics and high-plex spatial proteomics pair high-dimensional molecular measurements with high-resolution microscopy to characterize cellular phenotypes, cell–cell communication, and microenvironmental tissue architecture. However, as spatial technologies have matured, two major computational bottlenecks have emerged:
+1. **Visualization & Scale Limits:** Open-source visualization tools fail to scale past ~1 billion transcripts and millions of segmented cells, suffering severe memory bloat or interface lag.
+2. **Ecosystem & Usability Barriers:** Commercial viewers are costly, closed-source, vendor-locked, and lack integration with custom data pipelines (such as Scanpy, Squidpy, and AnnData/SpatialData).
 
-**What Celldega does.** It combines multi-modal data processing, high-dimensional and spatial analysis, and integrated visualization in one toolkit. Key pieces:
-- A **visualization-specific file format** (DegaFiles, with row-group storage) engineered for fast, scalable rendering.
-- **Neighborhood analysis** and support for custom analyses.
-- **Interactive exploration** in both notebooks and shareable public web galleries, spanning the full lifecycle from quality control to a published gallery.
-- Purpose-built view types — Landscape, Yearbook, CellCloud, NeighborhoodCloud, Clustergram, Composition, Enrich — with worked examples across platforms (10x Xenium / Xenium Prime, NanoString CosMx, Visium HD, Chromium).
+#### Technical Architecture & Engineering Innovations
+Celldega introduces an end-to-end framework combining Python preprocessing, optimized columnar file formats, and high-performance WebGL/WebAssembly frontends:
 
-**Scale demonstrated.** Validated across multiple technologies, tissues, and datasets, including a 3D reconstruction of the developing whole mouse head comprising over four million cells.
+- **DegaFiles & Row Group Storage Mode:**
+  - Traditional tile-based architectures generate 50,000+ individual files (transcripts, cell polygons, gene matrices, and WebP Deep Zoom image tiles), exceeding cloud host limits.
+  - Celldega implements a consolidated **Apache Parquet / GeoParquet** format with an analytical formula-based index (`row_group_index = tile_x * num_tiles_y + tile_y`).
+  - Uses **ParquetWASM** (Rust compiled to WebAssembly) and **Apache Arrow** in-memory structures to execute **HTTP Range Requests** in the browser, streaming only the exact byte ranges required for the visible viewport without downloading entire datasets. Reduces file counts from >50,000 to ~10 consolidated Parquet files.
+- **Hardware-Accelerated Rendering:** Leverages [deck.gl](https://deck.gl/) for GPU-accelerated rendering of multi-channel microscopy image pyramids, polygon segmentation masks, and single-molecule transcript locations.
 
-**Relevance to pathology.** Spatial-omics is moving from research into tissue-based diagnostics; a free, scriptable, browser-based viewer that handles billion-transcript slides and produces shareable galleries lowers the barrier for pathology labs to explore and present spatial data without vendor lock-in.
+#### Specialized Visualization Modes
+Celldega provides an integrated suite of views designed for different spatial analysis workflows:
+- **`Landscape`:** 2D interactive multi-layer tissue canvas displaying pyramidal microscopy (H&E, DAPI, multichannel fluorescence), cell segmentation boundaries, individual transcripts, and spatial neighborhood overlays, complete with real-time gene search and categorical summary histograms.
+- **`Yearbook`:** Synchronized grid of cell "portraits" (configurable rows/cols) centered on individual cells for morphological comparison and rapid phenotyping. Supports stateless browser-side querying (`front_end_query`) or programmatic selection from AnnData.
+- **`CellCloud` & `NeighborhoodCloud`:** 3D orbit-camera views rendering millions of cell centroids and alpha-shape neighborhood polygons across serial sections and thick tissues (with on-demand centroid streaming to maintain 60 FPS).
+- **`Clustergram` & `Composition`:** Hierarchically clustered heatmaps with interactive dendrogram cutting (built on Clustergrammer), bi-directionally linked to spatial views (`spatial_clustergram`) so selecting clusters or genes instantly highlights corresponding cells on the tissue section.
+- **`Enrich`:** Integrated real-time gene-set enrichment widget connecting directly to the [Enrichr](https://maayanlab.cloud/Enrichr/) API (e.g. `CellMarker_2024`, GO) to functionally annotate marker gene lists from selected tissue regions.
+
+#### Validated Platforms & Scale
+- **Supported Technologies:** 10x Genomics Xenium & Xenium Prime, NanoString CosMx SMI, 10x Visium HD, Vizgen MERSCOPE, and single-cell Chromium.
+- **Scale Benchmarks:** Demonstrated on datasets exceeding 1 billion transcripts, multi-slice serial alignment datasets, and a full 3D reconstruction of a developing whole mouse head comprising over **four million cells**.
+- **Cloud & Pipeline Integration:** Integrates with WDL workflows on Terra.bio (`stp_segmentation_wdl`) for reproducible automated preprocessing with Cellpose, InstanSeg, and Starfish.
+
+#### Relevance to Digital & Computational Pathology
+Celldega bridges the gap between raw spatial-omics data processing and diagnostic/translational slide evaluation:
+- Enables lightweight, zero-install, browser-based exploration and public web galleries without demanding dedicated GPU server infrastructure.
+- Empowers pathologists to inspect single-cell morphology, verify segmentation boundaries against histological ground truth, and interrogate local microenvironmental gradients (e.g. tumor-immune interfaces, islet neighborhoods, tertiary lymphoid structures) in a single unified workspace.
 
 {% embed url="https://github.com/broadinstitute/celldega" %}
 
@@ -53,6 +73,7 @@ Open-source Python + JavaScript library from the Broad Institute (Platform Innov
 {% embed url="https://www.biorxiv.org/content/10.64898/2026.08.13.744672v2" %}
 
 {% embed url="https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18" %}
+
 
 
 
