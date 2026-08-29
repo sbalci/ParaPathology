@@ -28,5 +28,17 @@ Open-source microscope control and acquisition automation, integrated with Image
 
 {% embed url="https://micro-manager.org/" %}
 
+### [Celldega](https://github.com/broadinstitute/celldega)
+
+Broad Institute open-source toolkit for interactive visualization of large-scale spatial-omics data. Repository, docs, preprint, and a runnable marimo notebook demo.
+
+{% embed url="https://github.com/broadinstitute/celldega" %}
+
+{% embed url="https://broadinstitute.github.io/celldega/" %}
+
+{% embed url="https://www.biorxiv.org/content/10.64898/2026.08.13.744672v2" %}
+
+{% embed url="https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18" %}
+
 
 
