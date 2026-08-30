@@ -6,7 +6,7 @@ aliases:
   - "Text Mining Turkish"
 order: 50
 belongs_to: "[[Text Mining]]"
-source_type: repository
+source_type: page
 ---
 
 # Text Mining Turkish
