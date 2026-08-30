@@ -51,3 +51,7 @@ belongs_to: "[[Appendix]]"
 {% embed url="https://github.com/seeranalysis" %}
 
 {% embed url="https://github.com/statisticial-modelling-center" %}
+
+## Other Repositories
+
+{% embed url="https://github.com/broadinstitute/celldega" %}

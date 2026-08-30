@@ -180,6 +180,7 @@ _archived: true
 * [Mathematical Pathology](computational-digital-and-mathematical-pathology/mathematical-pathology.md)
 * [Image Analysis](computational-digital-and-mathematical-pathology/image-analysis.md)
 * [Hugging Face Digital Pathology](computational-digital-and-mathematical-pathology/hugging-face-digital-pathology.md)
+* [WSInfer](computational-digital-and-mathematical-pathology/wsinfer.md)
 
 ## Macroscopy
 

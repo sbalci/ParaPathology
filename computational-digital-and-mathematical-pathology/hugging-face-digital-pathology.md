@@ -183,7 +183,7 @@ Many classical sets (TCGA WSIs, CAMELYON16/17, BRACS, MIDOG) still live on their
 
 The HF model is rarely the whole story — these wrap weights into usable WSI pipelines:
 
-- **[WSInfer](https://github.com/SBU-BMI/wsinfer)** (Stony Brook) — runs the kaczmarj patch classifiers on whole slides; the natural deployment path for that family.
+- **[WSInfer](https://github.com/SBU-BMI/wsinfer)** (Stony Brook) — runs the kaczmarj patch classifiers on whole slides; the natural deployment path for that family, but take it through the [QuPath extension](https://github.com/qupath/qupath-extension-wsinfer) rather than the Python package, which has been dormant since July 2024 with its last two fixes unreleased — see [WSInfer](wsinfer.md).
 - **[TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox)** (Warwick) — original home of the colorectal/lymphnode ResNets; full WSI IO + inference + nuclei (HoVer-Net) stack.
 - **[Trident](https://github.com/mahmoodlab/TRIDENT)** / **[CLAM](https://github.com/mahmoodlab/CLAM)** (MahmoodLab) — feature extraction + MIL training pipelines wired for UNI/CONCH/Virchow embeddings.
 - **[Slideflow](https://github.com/jamesdolezal/slideflow)** — end-to-end WSI training/inference; supports HF foundation encoders as backbones.
