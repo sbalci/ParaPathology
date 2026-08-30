@@ -30,3 +30,9 @@ Open-source microscope control and acquisition automation, integrated with Image
 
 
 
+
+### [HistoMetPath](https://github.com/drehsangharib/HistoMetPath)
+
+**Not software to adopt** — a single-author MIL research framework whose models are 30-slide development artefacts (best AUROC 0.68, no external validation). Read instead for its evaluation-governance code: a held-out test set that can be opened exactly once, enforced by checksums, a config-load refusal of the test split, and an execution counter spent before the first pixel is read — see [HistoMetPath](histometpath.md).
+
+{% embed url="https://github.com/drehsangharib/HistoMetPath" %}
