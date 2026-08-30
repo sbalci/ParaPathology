@@ -34,7 +34,7 @@ Turkish-language text-mining resources, and what they offer — or fail to offer
 
 Training sources are UD Turkish BOUN, the org's own Turkish Wiki NER set, PANX/WikiANN, and dbmdz's cased Turkish BERT. `trf` carries no vectors at all (0 keys), which is why the vector packages exist as separate downloads.
 
-**Morphology is the part worth having.** Agglutination is the real obstacle in Turkish report text, and the per-feature scores are strong: Case F 0.954, Number 0.976, Person 0.977, Tense 0.960, Polarity 0.969. Dependency parsing is the weak end — LAS 0.719 at best, and 0.636 on the CPU pipelines.
+**Morphology is the part worth having.** Agglutination is the real obstacle in Turkish report text, and `trf`'s per-feature scores are strong: Case F 0.954, Number 0.976, Person 0.977, Tense 0.960, Polarity 0.969 (the CPU pipelines run a few points lower, e.g. Case 0.936 on `lg`). Dependency parsing is the weak end — LAS 0.719 at best, and 0.636 on the CPU pipelines.
 
 **One per-feature score matters more here than the headline.** `Abbr` scores precision, recall and F of **0.000 — in all three pipelines**. Abbreviations saturate pathology reports, so the feature most likely to be needed is the one feature that is not learned at all.
 
