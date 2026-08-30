@@ -36,6 +36,12 @@ belongs_to: "[[Appendix]]"
 
 [http://datasciencespecialization.github.io/](http://datasciencespecialization.github.io/)
 
+* **KAUST Academy Artificial Intelligence Courses**
+
+[https://github.com/KAUST-Academy/Artificial-Intelligence-Courses](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses)
+
+Open-source repository of 5 university-level AI courses (Computer Vision, Natural Language Processing, Reinforcement Learning, Introduction to AI, and Generative AI) including 64 LaTeX/Beamer lecture slide decks (~4,800 pages), compiled PDFs, and 291 Jupyter lab exercises/solution notebooks.
+
 ## Tutorials
 
 r-statistics.co

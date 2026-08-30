@@ -55,3 +55,5 @@ belongs_to: "[[Appendix]]"
 ## Other Repositories
 
 {% embed url="https://github.com/broadinstitute/celldega" %}
+
+{% embed url="https://github.com/KAUST-Academy/Artificial-Intelligence-Courses" %}
