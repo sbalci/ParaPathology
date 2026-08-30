@@ -91,3 +91,15 @@ Applies an already-trained patch-classification model across a whole slide and r
 {% embed url="https://github.com/SBU-BMI/wsinfer" %}
 
 {% embed url="https://github.com/qupath/qupath-extension-wsinfer" %}
+
+### [nanopath](https://github.com/MedARC-AI/nanopath)
+
+A lean harness from MedARC for **pretraining tile-level pathology foundation models from scratch**, modelled on Karpathy's nanochat: one GPU, 1,000,000 TCGA tile presentations, a 1e18-FLOP cap, then a fixed 12-dataset probe suite (drawn from THUNDER, PathoBench and LEOPARD) covering tile classification, nuclear segmentation, slide-level progression, mutation, survival and robustness. The point is to test a training idea cheaply before spending real compute on it. Apache-2.0; 139 commits since April 2026, essentially one author (Paul Scotti). The 120 GB pre-tiled TCGA parquet set is on Hugging Face as `medarc/nanopath`, so no WSI handling is needed to start — but reproducing the tiling from raw SVS needs the full ~13 TB open-access TCGA slide set.
+
+Its real value here is the **frozen-baseline table**: UNI-2-h, H-optimus-0, Virchow, Prov-GigaPath, Midnight-12K, OpenMidnight, EXAONE-Path-2.5, GenBio-PathFM and three DINOv2 sizes all run through one identical probe suite. On that scale the best community model (0.6676, single GPU) lands above Virchow (0.6591) and GigaPath (0.6456) but below GenBio-PathFM (0.6917), UNI-2-h (0.6782) and H-optimus-0 (0.6763) — with the caveat the maintainers state themselves, that each backbone's native feature width (384-d to 4608-d) feeds the probe heads uncontrolled. The methodological detail worth copying is in `benchmarking/`: every probe carries a **randomised-weight null audit** — 20 seeds of an untrained DINOv2-small pushed through the same path — and the per-dataset notes say plainly which probes fail it. UCLA-Lung progression has a null of 0.692 ± 0.004, above every natural-image DINOv2 checkpoint and level with the current leaderboard leader, and the note calls it "a caution flag" and "not a clean representation-quality readout in isolation". LEOPARD BCR is similar (null 0.633 ± 0.012). Those caveats do not propagate into the headline `mean_probe_score`, which averages all eight probe families equally, so the leaderboard ranking absorbs columns its own authors flag as noise.
+
+{% embed url="https://labless.dev/nano-projects/nanopath" %}
+
+{% embed url="https://github.com/MedARC-AI/nanopath" %}
+
+{% embed url="https://huggingface.co/datasets/medarc/nanopath" %}
