@@ -185,5 +185,6 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 * [Image Analysis](image-analysis.md)
 * [Hugging Face Digital Pathology](hugging-face-digital-pathology.md)
 * [WSInfer](wsinfer.md)
+* [What AI Can and Cannot Do in Pathology](what-ai-can-and-cannot-do-in-pathology.md)
 
 <!-- tolaria:children:end -->

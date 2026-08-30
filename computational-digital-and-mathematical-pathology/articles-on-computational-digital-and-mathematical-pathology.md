@@ -18,6 +18,10 @@ Reviewed in [Weakly supervised MIL histopathological tumor segmentation](weakly-
 
 Reviewed in [Tumor budding T-cell graphs for pT1 colorectal cancer](tumor-budding-t-cell-graphs-pt1-colorectal-cancer.md) — GNNs over tumor-bud/T-cell hotspot graphs raise the specificity of lymph-node-metastasis prediction by ~20 points over guideline stratification at equal sensitivity (Studer et al., MIDL 2023), with the pT1-HBTG dataset on [Zenodo](https://zenodo.org/records/7867085) and code at [digitalpathologybern/pT1-HBTG-MIDL2023](https://github.com/digitalpathologybern/pT1-HBTG-MIDL2023).
 
+#### What AI Can and Cannot Do in Pathology
+
+Reviewed in [What AI Can and Cannot Do in Pathology](what-ai-can-and-cannot-do-in-pathology.md) — Critical evaluation of AI capabilities (pre-analytic QC, objective measurement, screening, draft reporting) vs. boundaries (holistic clinical judgment, diagnostic liability) and pathologist-led governance (Dr. Rajendra Singh, pathCast).
+
 #### The benefits of building and working with interactive simulations Interactive simulations for better model intuition
 
 {% embed url="http://blog.mathematical-oncology.org/benefits-of-building-interactive-simulations.html" %}
