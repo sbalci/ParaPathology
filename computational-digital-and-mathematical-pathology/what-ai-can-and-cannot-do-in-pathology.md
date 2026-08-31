@@ -46,10 +46,10 @@ Everything else is scaffolding for that. The risk he is describing is not techno
 displacement but **disintermediation**: work that begins with the pathologist's tissue ending in a
 report the pathologist never touched.
 
-He closes on the same point in generational terms (~00:38:20): this is “the first generation of
-pathologists and maybe the last” that can change how pathology is practised — “because if we do not
-do it, somebody else will do it for us.” Diagnosis, in his formulation, should be “not the end of our
-work” but the beginning of a larger role.
+He closes on the same point in generational terms (~00:38:20): this is "the first generation of
+pathologists and maybe the last" that can change how pathology is practised — "because if we do not
+do it, somebody else will do it for us." Diagnosis, in his formulation, should be "not the end of our
+work" but the beginning of a larger role.
 
 ---
 
