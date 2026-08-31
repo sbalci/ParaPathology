@@ -17,7 +17,7 @@ publish: false
 # What AI Can and Cannot Do in Pathology
 
 **Speaker:** Dr. Rajendra Singh, MD — Professor of Pathology and Dermatology and Associate Vice-Chair for Digital Pathology, University of Pennsylvania Perelman School of Medicine; founder of PathPresenter
-**Host:** pathCast (interviewer's name not reliably recoverable from the captions)
+**Platform:** pathCast (the interviewer is not reliably identifiable from the captions)
 **Recorded:** 2026-08-18 · **Runtime:** 1h 01m
 **Video:** [YouTube: IvHNQDGiElE](https://www.youtube.com/watch?v=IvHNQDGiElE)
 
@@ -193,7 +193,7 @@ This is the sharper half, and it is not a capability claim — it is a claim abo
 
 ---
 
-## "Invisible, but audited" — the governance principle
+## Invisible, but never unaudited — the governance principle
 
 The most quotable structural idea in the talk (~00:35:39), and the one most directly reusable in
 a departmental AI policy:
@@ -294,8 +294,7 @@ technical step at which the pathology department must be re-involved.
   practical bridge between the governance argument and daily work.
 - **The immediate wins are unglamorous.** QC, triage, context retrieval, coding and error catching
   need no clearance and touch the 40% of the day that is not diagnosis.
-- **The audit requirement is a design constraint, not a policy afterthought.** "Invisible but
-  audited" has to be specified when the system is procured — including the trainee on/off switch.
+- **The audit requirement is a design constraint, not a policy afterthought.** Invisibility with an audit trail has to be specified when the system is procured — including the trainee on/off switch.
 
 ## How it connects
 
