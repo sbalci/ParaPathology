@@ -12,6 +12,7 @@ dataset: https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/
 zenodo: https://doi.org/10.5281/zenodo.20052262
 aliases:
   - "TRICARE"
+  - "TRICARE: Deep-learning triage of 3D pathology datasets"
   - "Deep-learning triage of three-dimensional pathology datasets for comprehensive and efficient pathologist assessments"
 publish: false
 ---
