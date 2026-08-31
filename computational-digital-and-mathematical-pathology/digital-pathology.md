@@ -17,6 +17,12 @@ Whole-slide imaging and everything it enables: scanners and viewers, image analy
 
 {% embed url="https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html" %}
 
+#### [CRoMa: an interactive robustness leaderboard for pathology foundation models](https://clemsgrs.github.io/croma/)
+
+Per-sample robustness distributions, Pareto frontiers and shortcut-susceptibility results for 25 pathology encoders across four multi-centre cohorts. Evaluated in [CRoMa](croma.md).
+
+{% embed url="https://clemsgrs.github.io/croma/" %}
+
 #### **Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis**
 
 [**https://www.youtube.com/watch?v=7pRmonus9iM**](https://www.youtube.com/watch?v=7pRmonus9iM)
@@ -185,6 +191,6 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 * [Image Analysis](image-analysis.md)
 * [Hugging Face Digital Pathology](hugging-face-digital-pathology.md)
 * [WSInfer](wsinfer.md)
-* [What AI Can and Cannot Do in Pathology](what-ai-can-and-cannot-do-in-pathology.md)
+* [CRoMa](croma.md)
 
 <!-- tolaria:children:end -->

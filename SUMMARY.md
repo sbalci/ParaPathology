@@ -1,6 +1,3 @@
----
-_archived: true
----
 # Table of contents
 
 * [Preface](README.md)
@@ -181,6 +178,7 @@ _archived: true
 * [Image Analysis](computational-digital-and-mathematical-pathology/image-analysis.md)
 * [Hugging Face Digital Pathology](computational-digital-and-mathematical-pathology/hugging-face-digital-pathology.md)
 * [WSInfer](computational-digital-and-mathematical-pathology/wsinfer.md)
+* [CRoMa](computational-digital-and-mathematical-pathology/croma.md)
 
 ## Macroscopy
 
@@ -452,4 +450,6 @@ _archived: true
   * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Clippings/Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
   * [Seeds or Parasites Clinical and Histopathological](Clippings/Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
   * [Solving Unpopular Problems: The QuPath Story](Clippings/Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
+  * [Towards robust foundation models for digital pathology](Clippings/Towards%20robust%20foundation%20models%20for%20digital%20pathology.md)
+  * [A distributional robustness margin for pathology foundation models](Clippings/A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md)
 * [miscellaneous](appendix/miscellaneous.md)

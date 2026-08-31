@@ -17,6 +17,46 @@ belongs_to: "[[Appendix]]"
 
 
 
+
+
+
+
+/add-file-research "K:\DownloadsK\s41551-026-01760-1.pdf" 
+/add-link-research  https://www.nature.com/articles/s41551-026-01760-1 
+/add-link-research https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/ 
+/add-repository-research https://github.com/alecgao066/TRICARE 
+/add-repository-research https://zenodo.org/records/20052262
+
+add this research: Safety and security of large language models in healthcare "K:\DownloadsK\Clusmann_et_al-2026-Nature.pdf"
+
+add this research: Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational Pathology https://arxiv.org/abs/2411.00998 "K:\DownloadsK\2411.00998v1.pdf" 
+
+add this research: Slide Selection Introduces Sampling-Induced Prediction Uncertainty in Digital Pathology AI: Evidence from Multi-Slide Breast Cancer Cohorts https://www.mdpi.com/2072-6694/18/16/2540 "K:\DownloadsK\cancers-18-02540.pdf"
+
+add this research: When Two Wrongs Don’t Make a Right" - Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology "K:\DownloadsK\2411.01007v1.pdf"
+add this research: Cognitive biases in AI–assisted medical decision making: A structured review as a primer for veterinary and human pathology https://journals.sagepub.com/doi/10.1177/03009858261472493
+
+Statistical Rethinking (2026 Edition) https://github.com/rmcelreath/stat_rethinking_2026?tab=readme-ov-file#calendar--topical-outline 
+
+Multiplex Immunofluorescence Image Analysis with QuPath | Part 1, Module 1: Workshop Introduction https://www.youtube.com/watch?v=mPBsHYbAZi0 https://zenodo.org/records/22084859   
+
+Image Management System for Digital Pathology at any scale. Part of the cytario platform. https://github.com/cytario/cytario-web www.cytario.com 
+
+
+OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides https://arxiv.org/abs/2407.12773 "K:\DownloadsK\2407.12773v1.pdf" https://octopath.ai/ https://github.com/SZY1234567/OMG-Net https://zenodo.org/records/14246170 
+
+nnMIL: a generalizable multiple instance learning framework for computational pathology https://www.nature.com/articles/s41551-026-01767-8 "K:\DownloadsK\s41551-026-01767-8.pdf" nnMIL: No-New Multiple Instance Learning https://github.com/Luoxd1996/nnMIL 
+
+RudolfV 2: A State-of-the-Art Open-Weight Pathology Foundation Model https://www.aignostics.com/blog/rudolfv-2-a-state-of-the-art-open-weight-pathology-foundation-model  "K:\DownloadsK\6a74e2f9f1d4aef06489a3f1_RudolfV_2_260806.pdf" https://huggingface.co/collections/Aignostics/rudolfv-2 https://huggingface.co/Aignostics/RudolfV-2-S https://huggingface.co/Aignostics/RudolfV-2-B https://huggingface.co/Aignostics/RudolfV-2 
+
+A single foundation model for cell- and tissue-level analysis across H&E and IHC, trained on the largest expert-annotated pathology corpus we’ve ever assembled. Kraken-1 supersedes competitors on every benchmark we measure. https://octopath.ai/kraken-1 
+
+
+
+
+
+
+
 ---
 
 352 Histological Diagnoses After Cholecystectomy for Benign Disease: Interim Results from the Feasibility of Predicting Incidental Gallbladder Cancer (fP-iGBC) Study  

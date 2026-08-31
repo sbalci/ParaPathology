@@ -57,3 +57,5 @@ belongs_to: "[[Appendix]]"
 {% embed url="https://github.com/broadinstitute/celldega" %}
 
 {% embed url="https://github.com/KAUST-Academy/Artificial-Intelligence-Courses" %}
+
+{% embed url="https://github.com/clemsgrs/croma" %}

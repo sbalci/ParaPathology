@@ -30,5 +30,7 @@ rewritten in your own words with a citation.
 * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
 * [Seeds or Parasites Clinical and Histopathological](Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
 * [Solving Unpopular Problems: The QuPath Story](Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
+* [Towards robust foundation models for digital pathology](Towards%20robust%20foundation%20models%20for%20digital%20pathology.md)
+* [A distributional robustness margin for pathology foundation models](A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md)
 
 <!-- tolaria:children:end -->

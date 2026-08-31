@@ -40,6 +40,9 @@ The current workhorses for tile-level feature extraction. Plug into MIL/aggregat
 - Best general embeddings today: **UNI2-h**, **Virchow2**, **Phikon-v2**, **H-Optimus-1**.
 - Open / non-gated: **Phikon / Phikon-v2**, **Hibou**, **H0-mini**, the `1aurent` re-hosts.
 - Need slide-level out of the box: **Prov-GigaPath**.
+- **Most robust to the contributing centre: CONCH / CONCHv1.5, Virchow2, H0-mini.** Least robust: **Phikon**, **Phikon-v2**, **Hibou-L**, **Hibou-B**.
+
+> **Accuracy and robustness are different axes, and this list ranks only the first.** Two independent 20-model studies find that every pathology foundation model encodes the contributing hospital — staining, scanner, sectioning — strongly enough to be exploited as a shortcut, and that the ordering by robustness barely resembles the ordering by benchmark accuracy. Phikon-v2 is the sharpest example: recommended above on general embedding quality, it sits near the bottom on robustness in both studies, and in one experiment a downstream model built on it called 94% of normal patches from one centre tumour. Before choosing an encoder for multi-centre material, read [Towards robust foundation models for digital pathology](../Clippings/Towards%20robust%20foundation%20models%20for%20digital%20pathology.md) and [A distributional robustness margin for pathology foundation models](../Clippings/A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md), and measure it yourself with [CRoMa](croma.md).
 
 ---
 

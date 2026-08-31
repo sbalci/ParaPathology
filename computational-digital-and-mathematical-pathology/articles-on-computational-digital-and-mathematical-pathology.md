@@ -10,6 +10,14 @@ belongs_to: "[[Digital Pathology]]"
 
 # Articles on computational, digital, and mathematical pathology
 
+#### Towards robust foundation models for digital pathology
+
+Reviewed in [Towards robust foundation models for digital pathology](../Clippings/Towards%20robust%20foundation%20models%20for%20digital%20pathology.md) — PathoROB, a public benchmark showing all 20 pathology foundation models tested encode the contributing hospital strongly enough to cause diagnostic failures (Kömen et al., Nature Communications 17, 5218, 2026), with code at [bifold-pathomics/PathoROB](https://github.com/bifold-pathomics/PathoROB).
+
+#### A distributional robustness margin for pathology foundation models
+
+Reviewed in [A distributional robustness margin for pathology foundation models](../Clippings/A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md) — argues PathoROB's Robustness Index is structurally unfit for cross-model comparison and replaces it with CRoMa, a per-sample signed margin (Grisi, van der Laak & Litjens, arXiv:2607.25497), with the library evaluated in [CRoMa](croma.md).
+
 #### Weakly supervised multiple instance learning histopathological tumor segmentation
 
 Reviewed in [Weakly supervised MIL histopathological tumor segmentation](weakly-supervised-mil-histopathological-tumor-segmentation.md) — MIL tumor segmentation from slide-level labels only (Lerousseau et al., MICCAI 2020), with code and 6,481 released TCGA tumor maps at [MarvinLer/tcga_segmentation](https://github.com/MarvinLer/tcga_segmentation).
@@ -21,6 +29,10 @@ Reviewed in [Tumor budding T-cell graphs for pT1 colorectal cancer](tumor-buddin
 #### What AI Can and Cannot Do in Pathology
 
 Reviewed in [What AI Can and Cannot Do in Pathology](what-ai-can-and-cannot-do-in-pathology.md) — Critical evaluation of AI capabilities (pre-analytic QC, objective measurement, screening, draft reporting) vs. boundaries (holistic clinical judgment, diagnostic liability) and pathologist-led governance (Dr. Rajendra Singh, pathCast).
+
+#### TRICARE: Deep-learning triage of 3D pathology datasets
+
+Reviewed in [TRICARE: Deep-learning triage of 3D pathology datasets](tricare-deep-learning-triage-3d-pathology.md) — 2.5D context-aware deep learning triage for 3D open-top light-sheet microscopy, prioritizing high-risk 2D slices in prostate and Barrett's esophagus biopsies (Gao et al., Nature Biomedical Engineering 2026), with dataset at [TCIA](https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/), code at [alecgao066/TRICARE](https://github.com/alecgao066/TRICARE), and Zenodo record at [zenodo.20052262](https://doi.org/10.5281/zenodo.20052262).
 
 #### The benefits of building and working with interactive simulations Interactive simulations for better model intuition
 
