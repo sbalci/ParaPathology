@@ -16,7 +16,6 @@ belongs_to: "[[Appendix]]"
 
 
 
-add this research: Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational Pathology [https://arxiv.org/abs/2411.00998](https://arxiv.org/abs/2411.00998) "K:\DownloadsK\2411.00998v1.pdf"
 
 add this research: Slide Selection Introduces Sampling-Induced Prediction Uncertainty in Digital Pathology AI: Evidence from Multi-Slide Breast Cancer Cohorts [https://www.mdpi.com/2072-6694/18/16/2540](https://www.mdpi.com/2072-6694/18/16/2540) "K:\DownloadsK\cancers-18-02540.pdf"
 
