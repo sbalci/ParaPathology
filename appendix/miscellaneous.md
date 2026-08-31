@@ -9,7 +9,6 @@ description: >-
 order: 110
 belongs_to: "[[Appendix]]"
 ---
-
 # miscellaneous
 
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
@@ -17,63 +16,29 @@ belongs_to: "[[Appendix]]"
 
 
 
-
-
-
-
-/add-file-research "K:\DownloadsK\s41551-026-01760-1.pdf" 
-/add-link-research  https://www.nature.com/articles/s41551-026-01760-1 
-/add-link-research https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/ 
-/add-repository-research https://github.com/alecgao066/TRICARE 
-/add-repository-research https://zenodo.org/records/20052262
-
 add this research: Safety and security of large language models in healthcare "K:\DownloadsK\Clusmann_et_al-2026-Nature.pdf"
 
-add this research: Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational Pathology https://arxiv.org/abs/2411.00998 "K:\DownloadsK\2411.00998v1.pdf" 
+add this research: Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational Pathology [https://arxiv.org/abs/2411.00998](https://arxiv.org/abs/2411.00998) "K:\DownloadsK\2411.00998v1.pdf"
 
-add this research: Slide Selection Introduces Sampling-Induced Prediction Uncertainty in Digital Pathology AI: Evidence from Multi-Slide Breast Cancer Cohorts https://www.mdpi.com/2072-6694/18/16/2540 "K:\DownloadsK\cancers-18-02540.pdf"
+add this research: Slide Selection Introduces Sampling-Induced Prediction Uncertainty in Digital Pathology AI: Evidence from Multi-Slide Breast Cancer Cohorts [https://www.mdpi.com/2072-6694/18/16/2540](https://www.mdpi.com/2072-6694/18/16/2540) "K:\DownloadsK\cancers-18-02540.pdf"
 
 add this research: When Two Wrongs Don’t Make a Right" - Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology "K:\DownloadsK\2411.01007v1.pdf"
-add this research: Cognitive biases in AI–assisted medical decision making: A structured review as a primer for veterinary and human pathology https://journals.sagepub.com/doi/10.1177/03009858261472493
+add this research: Cognitive biases in AI–assisted medical decision making: A structured review as a primer for veterinary and human pathology [https://journals.sagepub.com/doi/10.1177/03009858261472493](https://journals.sagepub.com/doi/10.1177/03009858261472493)
 
-Statistical Rethinking (2026 Edition) https://github.com/rmcelreath/stat_rethinking_2026?tab=readme-ov-file#calendar--topical-outline 
+Statistical Rethinking (2026 Edition) [https://github.com/rmcelreath/stat_rethinking_2026?tab=readme-ov-file#calendar--topical-outline](https://github.com/rmcelreath/stat_rethinking_2026?tab=readme-ov-file#calendar--topical-outline)
 
-Multiplex Immunofluorescence Image Analysis with QuPath | Part 1, Module 1: Workshop Introduction https://www.youtube.com/watch?v=mPBsHYbAZi0 https://zenodo.org/records/22084859   
+Multiplex Immunofluorescence Image Analysis with QuPath | Part 1, Module 1: Workshop Introduction [https://www.youtube.com/watch?v=mPBsHYbAZi0](https://www.youtube.com/watch?v=mPBsHYbAZi0) [https://zenodo.org/records/22084859](https://zenodo.org/records/22084859)
 
-Image Management System for Digital Pathology at any scale. Part of the cytario platform. https://github.com/cytario/cytario-web www.cytario.com 
-
-
-OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides https://arxiv.org/abs/2407.12773 "K:\DownloadsK\2407.12773v1.pdf" https://octopath.ai/ https://github.com/SZY1234567/OMG-Net https://zenodo.org/records/14246170 
-
-nnMIL: a generalizable multiple instance learning framework for computational pathology https://www.nature.com/articles/s41551-026-01767-8 "K:\DownloadsK\s41551-026-01767-8.pdf" nnMIL: No-New Multiple Instance Learning https://github.com/Luoxd1996/nnMIL 
-
-RudolfV 2: A State-of-the-Art Open-Weight Pathology Foundation Model https://www.aignostics.com/blog/rudolfv-2-a-state-of-the-art-open-weight-pathology-foundation-model  "K:\DownloadsK\6a74e2f9f1d4aef06489a3f1_RudolfV_2_260806.pdf" https://huggingface.co/collections/Aignostics/rudolfv-2 https://huggingface.co/Aignostics/RudolfV-2-S https://huggingface.co/Aignostics/RudolfV-2-B https://huggingface.co/Aignostics/RudolfV-2 
-
-A single foundation model for cell- and tissue-level analysis across H&E and IHC, trained on the largest expert-annotated pathology corpus we’ve ever assembled. Kraken-1 supersedes competitors on every benchmark we measure. https://octopath.ai/kraken-1 
+Image Management System for Digital Pathology at any scale. Part of the cytario platform. [https://github.com/cytario/cytario-web](https://github.com/cytario/cytario-web) [www.cytario.com](http://www.cytario.com)
 
 
+OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides [https://arxiv.org/abs/2407.12773](https://arxiv.org/abs/2407.12773) "K:\DownloadsK\2407.12773v1.pdf" [https://octopath.ai/](https://octopath.ai/) [https://github.com/SZY1234567/OMG-Net](https://github.com/SZY1234567/OMG-Net) [https://zenodo.org/records/14246170](https://zenodo.org/records/14246170)
 
+nnMIL: a generalizable multiple instance learning framework for computational pathology [https://www.nature.com/articles/s41551-026-01767-8](https://www.nature.com/articles/s41551-026-01767-8) "K:\DownloadsK\s41551-026-01767-8.pdf" nnMIL: No-New Multiple Instance Learning [https://github.com/Luoxd1996/nnMIL](https://github.com/Luoxd1996/nnMIL)
 
+RudolfV 2: A State-of-the-Art Open-Weight Pathology Foundation Model [https://www.aignostics.com/blog/rudolfv-2-a-state-of-the-art-open-weight-pathology-foundation-model](https://www.aignostics.com/blog/rudolfv-2-a-state-of-the-art-open-weight-pathology-foundation-model)  "K:\DownloadsK\6a74e2f9f1d4aef06489a3f1_RudolfV_2_260806.pdf" [https://huggingface.co/collections/Aignostics/rudolfv-2](https://huggingface.co/collections/Aignostics/rudolfv-2) [https://huggingface.co/Aignostics/RudolfV-2-S](https://huggingface.co/Aignostics/RudolfV-2-S) [https://huggingface.co/Aignostics/RudolfV-2-B](https://huggingface.co/Aignostics/RudolfV-2-B) [https://huggingface.co/Aignostics/RudolfV-2](https://huggingface.co/Aignostics/RudolfV-2)
 
-
-
----
-
-352 Histological Diagnoses After Cholecystectomy for Benign Disease: Interim Results from the Feasibility of Predicting Incidental Gallbladder Cancer (fP-iGBC) Study  
-https://academic.oup.com/bjs/article/112/Supplement_17/znaf270.015/8406565  
-https://www.canirun.ai/
-
-
-
-
----
-
-
-Using Consensus-Based Reasoning and Large Language Models to Extract Structured Data From Surgical Pathology Reports  
-
-https://www.laboratoryinvestigation.org/article/S0023-6837(25)00183-7/fulltext  
-
-
+A single foundation model for cell- and tissue-level analysis across H&E and IHC, trained on the largest expert-annotated pathology corpus we’ve ever assembled. Kraken-1 supersedes competitors on every benchmark we measure. [https://octopath.ai/kraken-1](https://octopath.ai/kraken-1)
 
 
 
@@ -83,9 +48,23 @@ https://www.laboratoryinvestigation.org/article/S0023-6837(25)00183-7/fulltext
 
 ---
 
+352 Histological Diagnoses After Cholecystectomy for Benign Disease: Interim Results from the Feasibility of Predicting Incidental Gallbladder Cancer (fP-iGBC) Study
 
-Tumor Deposits in Staging of Colorectal Cancer: Implications for Treatment Strategies  
-https://www.modernpathology.org/article/S0893-3952(26)00012-8/fulltext  
+[https://academic.oup.com/bjs/article/112/Supplement_17/znaf270.015/8406565
+
+](https://academic.oup.com/bjs/article/112/Supplement_17/znaf270.015/8406565)[https://www.canirun.ai/](https://www.canirun.ai/)
+
+
+
+
+---
+
+
+Using Consensus-Based Reasoning and Large Language Models to Extract Structured Data From Surgical Pathology Reports
+
+[https://www.laboratoryinvestigation.org/article/S0023-6837(25)00183-7/fulltext](<https://www.laboratoryinvestigation.org/article/S0023-6837(25)00183-7/fulltext>)
+
+
 
 
 
@@ -95,8 +74,23 @@ https://www.modernpathology.org/article/S0893-3952(26)00012-8/fulltext
 
 ---
 
-Color standardization in whole slide imaging: a method to reduce color variability  
-https://www.tandfonline.com/doi/full/10.1080/01478885.2026.2636401
+
+Tumor Deposits in Staging of Colorectal Cancer: Implications for Treatment Strategies
+
+[https://www.modernpathology.org/article/S0893-3952(26)00012-8/fulltext](<https://www.modernpathology.org/article/S0893-3952(26)00012-8/fulltext>)
+
+
+
+
+
+
+
+
+---
+
+Color standardization in whole slide imaging: a method to reduce color variability
+
+[https://www.tandfonline.com/doi/full/10.1080/01478885.2026.2636401](https://www.tandfonline.com/doi/full/10.1080/01478885.2026.2636401)
 
 
 
@@ -106,189 +100,196 @@ https://www.tandfonline.com/doi/full/10.1080/01478885.2026.2636401
 
 ---
 
-AI cancer tools risk “shortcut learning” rather than detecting true biology  
-https://warwick.ac.uk/news/pressreleases/ai-cancer-tools-risk-shortcut-learning/
+AI cancer tools risk “shortcut learning” rather than detecting true biology
 
-Confounding factors and biases abound when predicting molecular biomarkers from histological images  
-https://www.nature.com/articles/s41551-026-01616-8
+[https://warwick.ac.uk/news/pressreleases/ai-cancer-tools-risk-shortcut-learning/](https://warwick.ac.uk/news/pressreleases/ai-cancer-tools-risk-shortcut-learning/)
 
+Confounding factors and biases abound when predicting molecular biomarkers from histological images
 
----
-
-
-
-
-
-
----
-
-How to Train a State-of-the-Art Pathology Foundation Model with $1.6k  
-https://sophont.med/blog/openmidnight#introduction  
-
-
-SophontAI/OpenMidnight  
-https://huggingface.co/SophontAI/OpenMidnight  
-
-BreakHis Breast Cancer Classification  
-https://huggingface.co/spaces/SophontAI/OpenMidnightDemo  
-
-MedARC-AI/OpenMidnight/  
-https://github.com/MedARC-AI/OpenMidnight/  
-
-
----
-
-Orthanc for WSI  
-https://orthanc.uclouvain.be/wsi/  
-
-
----
-
-SlideRunner is a tool for massive cell annotations in whole slide images  
-https://github.com/DeepMicroscopy/SlideRunner  
-
-
----
-
-Annotating for Artificial Intelligence Applications in Digital Pathology: A Practical Guide for Pathologists and Researchers  
-https://www.modernpathology.org/article/S0893-3952(22)05526-0/fulltext  
-https://www.sciencedirect.com/science/article/pii/S0893395222055260  
-
----
-
-Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis  
-https://www.modernpathology.org/article/S0893-3952(23)00202-8/fulltext  
-https://www.sciencedirect.com/science/article/pii/S0893395223002028  
-
-
----
-
-AI is quicker and more accurate than pathologists at SNOMED coding pathology reports  
-https://jcp.bmj.com/content/early/2025/10/13/jcp-2025-210320  
-
-
----
-
-Development of a national pathology training system using digital pathology and SNOMED-CT  
-https://www.sciencedirect.com/science/article/pii/S2153353925000410  
-
----
-
-An open-source platform for structured annotation and computational workflows in digital pathology research  
-https://www.nature.com/articles/s41598-025-13546-7  
-https://crs4.github.io/DigitalPathologyPlatform/  
-https://github.com/crs4/DigitalPathologyPlatform  
+[https://www.nature.com/articles/s41551-026-01616-8](https://www.nature.com/articles/s41551-026-01616-8)
 
 
 ---
 
 
 
-Development of a national pathology training system using digital pathology and SNOMED-CT  
-https://pubmed.ncbi.nlm.nih.gov/40688393/  
 
-
----
-
-Annotation Practices in Computational Pathology: A European Society of Digital and Integrative Pathology (ESDIP) Survey Study  
-https://www.laboratoryinvestigation.org/article/S0023-6837(24)01881-6/pdf  
 
 
 ---
 
+How to Train a State-of-the-Art Pathology Foundation Model with $1.6k
 
-Using Systemised Nomenclature of Medicine (SNOMED) codes to select digital pathology whole slide images for long-term archiving  
-https://pubmed.ncbi.nlm.nih.gov/36109157/  
+[https://sophont.med/blog/openmidnight#introduction](https://sophont.med/blog/openmidnight#introduction)
+
+
+SophontAI/OpenMidnight
+
+[https://huggingface.co/SophontAI/OpenMidnight](https://huggingface.co/SophontAI/OpenMidnight)
+
+BreakHis Breast Cancer Classification
+
+[https://huggingface.co/spaces/SophontAI/OpenMidnightDemo](https://huggingface.co/spaces/SophontAI/OpenMidnightDemo)
+
+MedARC-AI/OpenMidnight/
+
+[https://github.com/MedARC-AI/OpenMidnight/](https://github.com/MedARC-AI/OpenMidnight/)
+
+
+---
+
+Orthanc for WSI
+
+[https://orthanc.uclouvain.be/wsi/](https://orthanc.uclouvain.be/wsi/)
+
+
+---
+
+SlideRunner is a tool for massive cell annotations in whole slide images
+
+[https://github.com/DeepMicroscopy/SlideRunner](https://github.com/DeepMicroscopy/SlideRunner)
+
+
+---
+
+Annotating for Artificial Intelligence Applications in Digital Pathology: A Practical Guide for Pathologists and Researchers
+
+[https://www.modernpathology.org/article/S0893-3952(22)05526-0/fulltext
+
+](<https://www.modernpathology.org/article/S0893-3952(22)05526-0/fulltext>)[https://www.sciencedirect.com/science/article/pii/S0893395222055260](https://www.sciencedirect.com/science/article/pii/S0893395222055260)
+
+---
+
+Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis
+
+[https://www.modernpathology.org/article/S0893-3952(23)00202-8/fulltext
+
+](<https://www.modernpathology.org/article/S0893-3952(23)00202-8/fulltext>)[https://www.sciencedirect.com/science/article/pii/S0893395223002028](https://www.sciencedirect.com/science/article/pii/S0893395223002028)
+
+
+---
+
+AI is quicker and more accurate than pathologists at SNOMED coding pathology reports
+
+[https://jcp.bmj.com/content/early/2025/10/13/jcp-2025-210320](https://jcp.bmj.com/content/early/2025/10/13/jcp-2025-210320)
+
+
+---
+
+Development of a national pathology training system using digital pathology and SNOMED-CT
+
+[https://www.sciencedirect.com/science/article/pii/S2153353925000410](https://www.sciencedirect.com/science/article/pii/S2153353925000410)
+
+---
+
+An open-source platform for structured annotation and computational workflows in digital pathology research
+
+[https://www.nature.com/articles/s41598-025-13546-7
+
+](https://www.nature.com/articles/s41598-025-13546-7)[https://crs4.github.io/DigitalPathologyPlatform/
+
+](https://crs4.github.io/DigitalPathologyPlatform/)[https://github.com/crs4/DigitalPathologyPlatform](https://github.com/crs4/DigitalPathologyPlatform)
 
 
 ---
 
 
-Renal cell tumours with papillary architecture: evolving concepts, classification and new emerging entities  
-https://onlinelibrary.wiley.com/doi/ftr/10.1111/his.70008  
+
+Development of a national pathology training system using digital pathology and SNOMED-CT
+
+[https://pubmed.ncbi.nlm.nih.gov/40688393/](https://pubmed.ncbi.nlm.nih.gov/40688393/)
+
+
+---
+
+Annotation Practices in Computational Pathology: A European Society of Digital and Integrative Pathology (ESDIP) Survey Study
+
+[https://www.laboratoryinvestigation.org/article/S0023-6837(24)01881-6/pdf](<https://www.laboratoryinvestigation.org/article/S0023-6837(24)01881-6/pdf>)
+
+
+---
+
+
+Using Systemised Nomenclature of Medicine (SNOMED) codes to select digital pathology whole slide images for long-term archiving
+
+[https://pubmed.ncbi.nlm.nih.gov/36109157/](https://pubmed.ncbi.nlm.nih.gov/36109157/)
+
+
+---
+
+
+Renal cell tumours with papillary architecture: evolving concepts, classification and new emerging entities
+
+[https://onlinelibrary.wiley.com/doi/ftr/10.1111/his.70008](https://onlinelibrary.wiley.com/doi/ftr/10.1111/his.70008)
 
 
 ---
 
 Molecularly defined renal cell carcinomas: practical approaches for surgical pathologists
-https://onlinelibrary.wiley.com/doi/epdf/10.1111/his.70039 
+[https://onlinelibrary.wiley.com/doi/epdf/10.1111/his.70039](https://onlinelibrary.wiley.com/doi/epdf/10.1111/his.70039)
 
 
 ---
 
 
-Clear Cell Tumors of Kidney by Dr Sean R. Williamson, M.D  
-https://www.youtube.com/live/NTDB_GxQKC4  
+Clear Cell Tumors of Kidney by Dr Sean R. Williamson, M.D
+
+[https://www.youtube.com/live/NTDB_GxQKC4](https://www.youtube.com/live/NTDB_GxQKC4)
 
 
 ---
 
-OnSight Pathology A Real-Time platform-agnostic Pathology Companion. Bring AI Insights Directly To Your Workflow.  
-https://onsightpathology.github.io/#features  
+OnSight Pathology A Real-Time platform-agnostic Pathology Companion. Bring AI Insights Directly To Your Workflow.
+
+[https://onsightpathology.github.io/#features](https://onsightpathology.github.io/#features)
 
 ---
 
 
-Standardizing digital biobanks: integrating imaging, genomic, and clinical data for precision medicine  
-https://doi.org/10.1186/s12967-024-04891-8   
-https://link.springer.com/article/10.1186/s12967-024-04891-8  
+Standardizing digital biobanks: integrating imaging, genomic, and clinical data for precision medicine
+
+[https://doi.org/10.1186/s12967-024-04891-8
+
+](https://doi.org/10.1186/s12967-024-04891-8)[https://link.springer.com/article/10.1186/s12967-024-04891-8](https://link.springer.com/article/10.1186/s12967-024-04891-8)
 
 ---
 
-HistoColAi: An Open-Source Web Platform for Collaborative Digital Histology Image Annotation with AI-Driven Predictive Integration  
-https://arxiv.org/abs/2307.07525  
-https://github.com/cripulos/HistoColAi  
+HistoColAi: An Open-Source Web Platform for Collaborative Digital Histology Image Annotation with AI-Driven Predictive Integration
 
+[https://arxiv.org/abs/2307.07525
 
+](https://arxiv.org/abs/2307.07525)[https://github.com/cripulos/HistoColAi](https://github.com/cripulos/HistoColAi)
 
----
-
-
-The Quest for the Application of Artificial Intelligence to Whole Slide Imaging: Unique Prospective from New Advanced Tools  
-https://www.mdpi.com/1999-4893/17/6/254  
-
----
-
-Digital slide scanning at scale: Comparison of whole slide imaging devices in a clinical setting  
-https://www.sciencedirect.com/science/article/pii/S2153353925000318
-https://www.cell.com/cell/fulltext/S0092-8674(25)01312-1  
-https://huggingface.co/prov-gigatime/GigaTIME  
-https://github.com/prov-gigatime/GigaTIME  
 
 
 ---
 
 
-A deployment safety case for AI-assisted prostate cancer diagnosis  
-https://www.sciencedirect.com/science/article/pii/S0010482525005888  
-https://www.linkedin.com/posts/paige-ai_new-peer-reviewed-research-from-the-articulate-pro-activity-7333858491264102400-XgVn/  
+The Quest for the Application of Artificial Intelligence to Whole Slide Imaging: Unique Prospective from New Advanced Tools
 
+[https://www.mdpi.com/1999-4893/17/6/254](https://www.mdpi.com/1999-4893/17/6/254)
 
+---
 
+Digital slide scanning at scale: Comparison of whole slide imaging devices in a clinical setting
 
+[https://www.sciencedirect.com/science/article/pii/S2153353925000318
+](https://www.sciencedirect.com/science/article/pii/S2153353925000318)[https://www.cell.com/cell/fulltext/S0092-8674(25)01312-1
 
+](<https://www.cell.com/cell/fulltext/S0092-8674(25)01312-1>)[https://huggingface.co/prov-gigatime/GigaTIME
 
+](https://huggingface.co/prov-gigatime/GigaTIME)[https://github.com/prov-gigatime/GigaTIME](https://github.com/prov-gigatime/GigaTIME)
 
 
 ---
 
-GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI  
-https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/  
 
+A deployment safety case for AI-assisted prostate cancer diagnosis
 
----
+[https://www.sciencedirect.com/science/article/pii/S0010482525005888
 
-Towards generalisable and equitable artificial intelligence in pathology  
-https://jcp.bmj.com/content/early/2025/12/13/jcp-2025-210357  
+](https://www.sciencedirect.com/science/article/pii/S0010482525005888)[https://www.linkedin.com/posts/paige-ai_new-peer-reviewed-research-from-the-articulate-pro-activity-7333858491264102400-XgVn/](https://www.linkedin.com/posts/paige-ai_new-peer-reviewed-research-from-the-articulate-pro-activity-7333858491264102400-XgVn/)
 
-
----
-
-A multimodal whole-slide foundation model for pathology  
-https://www.nature.com/articles/s41591-025-03982-3  
-
-
----
 
 
 
@@ -298,16 +299,48 @@ https://www.nature.com/articles/s41591-025-03982-3
 
 ---
 
-Sperm from donor with cancer-causing gene was used to conceive almost 200 children  
-https://www.bbc.com/news/articles/ckgmy90z991o  
+GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+
+[https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/](https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/)
+
+
+---
+
+Towards generalisable and equitable artificial intelligence in pathology
+
+[https://jcp.bmj.com/content/early/2025/12/13/jcp-2025-210357](https://jcp.bmj.com/content/early/2025/12/13/jcp-2025-210357)
+
+
+---
+
+A multimodal whole-slide foundation model for pathology
+
+[https://www.nature.com/articles/s41591-025-03982-3](https://www.nature.com/articles/s41591-025-03982-3)
+
+
+---
+
+
+
 
 
 
 
 ---
 
-Gastric glomus tumour with positive DOG1 and synaptophysin expression: a diagnostic challenge  
-https://www.sciencedirect.com/science/article/pii/S1756231725001902  
+Sperm from donor with cancer-causing gene was used to conceive almost 200 children
+
+[https://www.bbc.com/news/articles/ckgmy90z991o](https://www.bbc.com/news/articles/ckgmy90z991o)
+
+
+
+
+---
+
+
+Gastric glomus tumour with positive DOG1 and synaptophysin expression: a diagnostic challenge
+
+[https://www.sciencedirect.com/science/article/pii/S1756231725001902](https://www.sciencedirect.com/science/article/pii/S1756231725001902)
 
 
 
@@ -317,87 +350,90 @@ https://www.sciencedirect.com/science/article/pii/S1756231725001902
 
 Top 5 Breakthroughs in Microscopy Image Analysis
 
-https://www.youtube.com/watch?v=GNc3-PnupaU
+[https://www.youtube.com/watch?v=GNc3-PnupaU](https://www.youtube.com/watch?v=GNc3-PnupaU)
 
-Histologic Features of Tacrolimus-induced Colonic Injury 
-https://pubmed.ncbi.nlm.nih.gov/34138798/
-
-
-
----
-
-
-Aerogenous Dissemination of DEK::AFF2 Carcinoma  
-A Prototype of a Previously Underrecognized Pattern of Endobronchial Metastasis From Extrathoracic Malignancies  
-The American Journal of Surgical Pathology ():10.1097/PAS.0000000000002479, November 10, 2025. | DOI: 10.1097/PAS.0000000000002479  
-https://journals.lww.com/ajsp/abstract/9900/aerogenous_dissemination_of_dek__aff2_carcinoma__a.590.aspx  
-
-
----
-
-Digital Immunophenotyping of Lung Atypical Carcinoids and Large Cell Neuroendocrine Carcinomas Identifies Three Subtypes With Specific Tumor-Immune Microenvironment Features  
-<https://link.springer.com/article/10.1007/s12022-025-09886-9>  
-
-
----
-
-
-Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer   
-https://www.nature.com/articles/s41467-025-64712-4  
-https://github.com/DBO-DKFZ/GleasonXAI  
+Histologic Features of Tacrolimus-induced Colonic Injury
+[https://pubmed.ncbi.nlm.nih.gov/34138798/](https://pubmed.ncbi.nlm.nih.gov/34138798/)
 
 
 
 ---
 
 
+Aerogenous Dissemination of DEK::AFF2 Carcinoma
 
-Digital Slide Archive  
-https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr  
+A Prototype of a Previously Underrecognized Pattern of Endobronchial Metastasis From Extrathoracic Malignancies
+
+The American Journal of Surgical Pathology ():10.1097/PAS.0000000000002479, November 10, 2025. | DOI: 10.1097/PAS.0000000000002479
+
+[https://journals.lww.com/ajsp/abstract/9900/aerogenous_dissemination_of_dek\_\_aff2_carcinoma\_\_a.590.aspx](https://journals.lww.com/ajsp/abstract/9900/aerogenous_dissemination_of_dek__aff2_carcinoma__a.590.aspx)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CZfZhaKr_eoEOEri&amp;list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+Digital Immunophenotyping of Lung Atypical Carcinoids and Large Cell Neuroendocrine Carcinomas Identifies Three Subtypes With Specific Tumor-Immune Microenvironment Features
+
+[https://link.springer.com/article/10.1007/s12022-025-09886-9](https://link.springer.com/article/10.1007/s12022-025-09886-9)
+
+
+---
+
+
+Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer
+
+[https://www.nature.com/articles/s41467-025-64712-4
+
+](https://www.nature.com/articles/s41467-025-64712-4)[https://github.com/DBO-DKFZ/GleasonXAI](https://github.com/DBO-DKFZ/GleasonXAI)
 
 
 
 ---
 
-Digital Slide Archive  
-<https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CZfZhaKr_eoEOEri&amp;list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+Digital Slide Archive
 
-HistomicsTK  
-<https://www.youtube.com/playlist?list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx>  
+[https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr](https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=39HVItBNjyj3k6M2&amp;list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ---
 
-Deep Learning-Based Segmentation of Lung Adenocarcinoma Whole Slide Images for Objective Grading, STAS Identification, and Mutation Prediction  
-<https://www.modernpathology.org/article/S0893-3952(25)00205-4/abstract>  
+Digital Slide Archive
+
+[https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr](https://www.youtube.com/playlist?list=PL8NeFUDUrcpq5BxO6X9cFZ8m0ZJRWSGWr)
 
 ---
 
-Artificial intelligence in ovarian cancer histopathology: a systematic review  
-<https://www.nature.com/articles/s41698-023-00432-6>  
+HistomicsTK
+
+[https://www.youtube.com/playlist?list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx](https://www.youtube.com/playlist?list=PL8NeFUDUrcpqOmPZNENMT2H7KeX-K7VBx)
+
+---
+
+Deep Learning-Based Segmentation of Lung Adenocarcinoma Whole Slide Images for Objective Grading, STAS Identification, and Mutation Prediction
+
+[https://www.modernpathology.org/article/S0893-3952(25)00205-4/abstract](<https://www.modernpathology.org/article/S0893-3952(25)00205-4/abstract>)
+
+---
+
+Artificial intelligence in ovarian cancer histopathology: a systematic review
+
+[https://www.nature.com/articles/s41698-023-00432-6](https://www.nature.com/articles/s41698-023-00432-6)
 
 ---
 
 Unbiased AI: Addressing Bias in Computational Pathology
-<https://www.mcpdigitalhealth.org/article/S2949-7612(25)00109-9/fulltext>
+[https://www.mcpdigitalhealth.org/article/S2949-7612(25)00109-9/fulltext](<https://www.mcpdigitalhealth.org/article/S2949-7612(25)00109-9/fulltext>)
 
 ---
 
-<https://www.fishersci.com/content/dam/fishersci/en_US/documents/programs/healthcare/presentations/generating-flawless-slides-for-digital-pathology-24-2739.pdf>
+[https://www.fishersci.com/content/dam/fishersci/en_US/documents/programs/healthcare/presentations/generating-flawless-slides-for-digital-pathology-24-2739.pdf](https://www.fishersci.com/content/dam/fishersci/en_US/documents/programs/healthcare/presentations/generating-flawless-slides-for-digital-pathology-24-2739.pdf)
 
 ---
 
-Health care in the USA: money has become the mission <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From a new <a href="https://twitter.com/TheLancet?ref_src=twsrc%5Etfw">@TheLancet</a> article today entitled &quot;Health care in the USA: money has become the mission&quot; <a href="https://t.co/jAjrsgJ5Zn">https://t.co/jAjrsgJ5Zn</a> <a href="https://t.co/pCi21zDzpL">pic.twitter.com/pCi21zDzpL</a></p>&mdash; Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1980768183012516330?ref_src=twsrc%5Etfw">October 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Health care in the USA: money has become the mission [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract>)
 
 ---
 
@@ -410,8 +446,6 @@ Whenever I read a #pathology methylation study, that perfectly classifies tumors
 > Switch: No, but technically, neither did you.
 > Mouse: That's exactly my point. Exactly. Because you have to wonder: how do the machines know what Tasty Wheat tasted like? Maybe they got it wrong. Maybe what I think Tasty Wheat tasted like actually tasted like oatmeal, or tuna fish. That makes you wonder about a lot of things. You take chicken, for example: maybe they couldn't figure out what to make chicken taste like, which is why chicken tastes like everything.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2oEnJfZ9joY?si=8LIDZTViBRaTFvsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 Biomedical Natural Language Processing in the Era of Large Language Models
@@ -423,7 +457,7 @@ Biomedical Natural Language Processing in the Era of Large Language Models
 On delusional personalities in pathology
 [https://link.springer.com/article/10.1007/s00428-025-04037-1](https://link.springer.com/article/10.1007/s00428-025-04037-1)
 
-***
+---
 
 While observing the #digitalpathology AI ecosystem is changing, while the world is getting close to verse 2/30 :(
 
@@ -431,67 +465,65 @@ I am getting help for code documentation and error fixing in my #jamovi jamovi m
 
 I have tried #vibecoding also but it made me feeling detached from the product.
 
-Recently I started learning using slash command of claude CLI Claude Anthropic  
+Recently I started learning using slash command of claude CLI Claude Anthropic
 
 Ironically I found OpenAI chatGPT more helpful in developing the commands than the claude itself.
 
 Anyway. One of the recent commands I use is review-article-stats
 
-<https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/.claude/commands/review-article-stats.md>
+[https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/.claude/commands/review-article-stats.md](https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/.claude/commands/review-article-stats.md)
 
 If I give an article pdf or md file as an argument, it reviews the article, extracts the statistical methods, make critics on them, then compares whisch of these methods are possible to be done via jamovi module. It generates a report
 
-<https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/literature/s13000-025-01708-0-citation-review.md>
+[https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/literature/s13000-025-01708-0-citation-review.md](https://github.com/sbalci/ClinicoPathJamoviModule/blob/master/literature/s13000-025-01708-0-citation-review.md)
 
 identify gaps in jamovi module and suggests additions or enhancements to the functions.
 
 If only I could combine these with an n8n/LangGraph workflow to recently published articles :)
 
-***
+---
 
-son IT toplantısı sonrası projeler için görüntü alabilme sürecinin özeti: <https://x.com/reha37/status/1953387798607581439>
+son IT toplantısı sonrası projeler için görüntü alabilme sürecinin özeti: [https://x.com/reha37/status/1953387798607581439](https://x.com/reha37/status/1953387798607581439)
 
-{% embed url="<https://x.com/reha37/status/1953387798607581439>" %}
+{% embed url="[https://x.com/reha37/status/1953387798607581439](https://x.com/reha37/status/1953387798607581439)" %}
 
-***
+---
 
-Annotating for Artificial Intelligence Applications in Digital Pathology: A Practical Guide for Pathologists and Researchers [https://pubmed.ncbi.nlm.nih.gov/36788085/](https://pubmed.ncbi.nlm.nih.gov/36788085/) [https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0](https://linkinghub.elsevier.com/retrieve/pii/S0893-3952\(22\)05526-0)&#x20;
+Annotating for Artificial Intelligence Applications in Digital Pathology: A Practical Guide for Pathologists and Researchers [https://pubmed.ncbi.nlm.nih.gov/36788085/](https://pubmed.ncbi.nlm.nih.gov/36788085/) [https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0](<https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0>) 
 
-{% embed url="<https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0>" %}
+{% embed url="[https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0](<https://linkinghub.elsevier.com/retrieve/pii/S0893-3952(22)05526-0>)" %}
 
-***
+---
 
-Future of Artificial Intelligence-Machine Learning Trends in Pathology and Medicine [https://pubmed.ncbi.nlm.nih.gov/39761872/](https://pubmed.ncbi.nlm.nih.gov/39761872/) [https://www.modernpathology.org/article/S0893-3952(25)00001-8/fulltext](https://www.modernpathology.org/article/S0893-3952\(25\)00001-8/fulltext)
+Future of Artificial Intelligence-Machine Learning Trends in Pathology and Medicine [https://pubmed.ncbi.nlm.nih.gov/39761872/](https://pubmed.ncbi.nlm.nih.gov/39761872/) [https://www.modernpathology.org/article/S0893-3952(25)00001-8/fulltext](<https://www.modernpathology.org/article/S0893-3952(25)00001-8/fulltext>)
 
-{% embed url="<https://www.modernpathology.org/article/S0893-3952(25)00001-8/fulltext>" %}
+{% embed url="[https://www.modernpathology.org/article/S0893-3952(25)00001-8/fulltext](<https://www.modernpathology.org/article/S0893-3952(25)00001-8/fulltext>)" %}
 
-***
+---
 
 [https://www.instagram.com/p/DIl8X6IuUIX/](https://www.instagram.com/p/DIl8X6IuUIX/)
 
-{% embed url="<https://www.instagram.com/p/DIl8X6IuUIX/>" %}
+{% embed url="[https://www.instagram.com/p/DIl8X6IuUIX/](https://www.instagram.com/p/DIl8X6IuUIX/)" %}
 
-***
+---
 
-When reading slides this is the nightmare of the pathologist.&#x20;
+When reading slides this is the nightmare of the pathologist. 
 
-<figure><img src="../.gitbook/assets/when-the-eyes-and-brain-are-disconnected.png" alt=""><figcaption></figcaption></figure>
-
-***
+---
 
 Klinik korelasyon önerilir: [https://www.instagram.com/reel/DITA4YzocA8/](https://www.instagram.com/reel/DITA4YzocA8/)
 
-{% embed url="<https://www.instagram.com/reel/DITA4YzocA8/>" %}
+{% embed url="[https://www.instagram.com/reel/DITA4YzocA8/](https://www.instagram.com/reel/DITA4YzocA8/)" %}
 
-***
+---
 
-Adenomyoma/adenomyomatosis-associated mural intracholecystic neoplasms: analysis of clinico-pathologic, imaging, and molecular features of a consecutive case series [https://link.springer.com/article/10.1007/s00428-025-04077-7](https://link.springer.com/article/10.1007/s00428-025-04077-7)&#x20;
+Adenomyoma/adenomyomatosis-associated mural intracholecystic neoplasms: analysis of clinico-pathologic, imaging, and molecular features of a consecutive case series [https://link.springer.com/article/10.1007/s00428-025-04077-7](https://link.springer.com/article/10.1007/s00428-025-04077-7) 
 
-***
+---
 
-Multiplex Immunohistochemistry and Immunofluorescence: A Practical Update for Pathologists [https://www.modernpathology.org/article/S0893-3952(23)00102-3/fulltext](https://www.modernpathology.org/article/S0893-3952\(23\)00102-3/fulltext)
+Multiplex Immunohistochemistry and Immunofluorescence: A Practical Update for Pathologists [https://www.modernpathology.org/article/S0893-3952(23)00102-3/fulltext](<https://www.modernpathology.org/article/S0893-3952(23)00102-3/fulltext>)
 
-***
+---
 
 [https://github.com/Slicer/Slicer](https://github.com/Slicer/Slicer)
 
@@ -499,54 +531,57 @@ Multiplex Immunohistochemistry and Immunofluorescence: A Practical Update for Pa
 
 [https://slicerscope.github.io/documents.html](https://slicerscope.github.io/documents.html)
 
-[https://www.youtube.com/watch?v=oHwHXa\_ROqs](https://www.youtube.com/watch?v=oHwHXa_ROqs)
+[https://www.youtube.com/watch?v=oHwHXa_ROqs](https://www.youtube.com/watch?v=oHwHXa_ROqs)
 
-{% embed url="<https://www.youtube.com/watch?v=oHwHXa_ROqs>" %}
+{% embed url="[https://www.youtube.com/watch?v=oHwHXa_ROqs](https://www.youtube.com/watch?v=oHwHXa_ROqs)" %}
 
 Malatya’dan Boston’a bilim köprüsü [https://vimeo.com/880168375](https://vimeo.com/880168375)
 
-{% embed url="<https://vimeo.com/880168375>" %}
+{% embed url="[https://vimeo.com/880168375](https://vimeo.com/880168375)" %}
 
 [https://www.tayfunsonmez.net/](https://www.tayfunsonmez.net/)
 
-{% embed url="<https://www.tayfunsonmez.net/>" %}
+{% embed url="[https://www.tayfunsonmez.net/](https://www.tayfunsonmez.net/)" %}
 
-<figure><img src="../.gitbook/assets/1742316001172.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="[https://www.linkedin.com/posts/patrick-myles-406a4628_yesterdays-webinar-with-rajendra-singh-md-activity-7307802976704729089-JpsB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/patrick-myles-406a4628_yesterdays-webinar-with-rajendra-singh-md-activity-7307802976704729089-JpsB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)" %}
 
-{% embed url="<https://www.linkedin.com/posts/patrick-myles-406a4628_yesterdays-webinar-with-rajendra-singh-md-activity-7307802976704729089-JpsB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg>" %}
+Digital mapping of resected cancer specimens: The visual pathology report [https://www.sciencedirect.com/science/article/pii/S2153353924000385](https://www.sciencedirect.com/science/article/pii/S2153353924000385) 
 
-Digital mapping of resected cancer specimens: The visual pathology report [https://www.sciencedirect.com/science/article/pii/S2153353924000385](https://www.sciencedirect.com/science/article/pii/S2153353924000385)&#x20;
+{% embed url="[https://www.sciencedirect.com/science/article/pii/S2153353924000385](https://www.sciencedirect.com/science/article/pii/S2153353924000385)" %}
 
-{% embed url="<https://www.sciencedirect.com/science/article/pii/S2153353924000385>" %}
+Implementing digital pathology: qualitative and financial insights from eight leading European laboratories [https://link.springer.com/article/10.1007/s00428-025-04064-y](https://link.springer.com/article/10.1007/s00428-025-04064-y) 
 
-Implementing digital pathology: qualitative and financial insights from eight leading European laboratories [https://link.springer.com/article/10.1007/s00428-025-04064-y](https://link.springer.com/article/10.1007/s00428-025-04064-y)&#x20;
+{% embed url="[https://link.springer.com/article/10.1007/s00428-025-04064-y](https://link.springer.com/article/10.1007/s00428-025-04064-y)" %}
 
-{% embed url="<https://link.springer.com/article/10.1007/s00428-025-04064-y>" %}
+Robust sensitivity control in digital pathology via tile score distribution matching [https://arxiv.org/abs/2502.20144](https://arxiv.org/abs/2502.20144) 
 
-Robust sensitivity control in digital pathology via tile score distribution matching [https://arxiv.org/abs/2502.20144](https://arxiv.org/abs/2502.20144)&#x20;
+Distilling foundation models for robust and efficient models in digital pathology [https://arxiv.org/abs/2501.16239](https://arxiv.org/abs/2501.16239) 
 
-Distilling foundation models for robust and efficient models in digital pathology [https://arxiv.org/abs/2501.16239](https://arxiv.org/abs/2501.16239)&#x20;
-
-[https://compreps.wiki/](https://compreps.wiki/)&#x20;
+[https://compreps.wiki/](https://compreps.wiki/) 
 
 The Future of Immunohistochemistry [https://isimm.org/education/isimm-webinars/the-future-of-immunohistochemistry/](https://isimm.org/education/isimm-webinars/the-future-of-immunohistochemistry/)
 
-ISIMM Webinar - Clinical Implementation of Multiplex IHC/IF with Real World Diagnostic and Predictive Applications with Sanjay Patel [https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159\&id=8a9149050a\&e=01f46d65a4](https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159\&id=8a9149050a\&e=01f46d65a4)&#x20;
+ISIMM Webinar - Clinical Implementation of Multiplex IHC/IF with Real World Diagnostic and Predictive Applications with Sanjay Patel [https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159&id=8a9149050a&e=01f46d65a4](https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159&id=8a9149050a&e=01f46d65a4) 
 
-EScoP Course on Genitourinary Pathology [https://esp-pathology.glueup.com/event/escop-course-on-genitourinary-pathology-135487/](https://esp-pathology.glueup.com/event/escop-course-on-genitourinary-pathology-135487/)&#x20;
+EScoP Course on Genitourinary Pathology [https://esp-pathology.glueup.com/event/escop-course-on-genitourinary-pathology-135487/](https://esp-pathology.glueup.com/event/escop-course-on-genitourinary-pathology-135487/) 
 
-{% embed url="<https://www.linkedin.com/feed/update/urn:li:activity:7304135835178745856?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7304135835178745856%2C7304664702091943936%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287304664702091943936%2Curn%3Ali%3Aactivity%3A7304135835178745856%29>" %}
+{% embed url="[https://www.linkedin.com/feed/update/urn:li:activity:7304135835178745856?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7304135835178745856%2C7304664702091943936%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287304664702091943936%2Curn%3Ali%3Aactivity%3A7304135835178745856%29](https://www.linkedin.com/feed/update/urn:li:activity:7304135835178745856?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7304135835178745856%2C7304664702091943936%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287304664702091943936%2Curn%3Ali%3Aactivity%3A7304135835178745856%29)" %}
 
-{% embed url="<https://www.youtube.com/watch?v=2A-7oQeO9sQ>" %}
+{% embed url="[https://www.youtube.com/watch?v=2A-7oQeO9sQ](https://www.youtube.com/watch?v=2A-7oQeO9sQ)" %}
 
-15 Mart Cumartesi günü Koç Üniversitesi hastanesi RMK AIMES Merkezinde gerçekleştirilecek “HPB Cerrahları için Pankreas Patolojisi” Kursu E-AHPBA tarafında “Silver Seal Endorsement” desteği almıştır. Toplantı E-AHPBA tarafından da yayınlanacak olup sunumlar İngilizce gerçekleşecektir. Bölgesel toplantılarda olduğu gibi Zoom ve Youtube üzerinden yayınlanacak canlı yayın ülke genelinde takip edilebilecektir. Toplantı programı ve linklerine web sayfamızdan da ([www.hpb.org.tr](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fwww.hpb.org.tr\&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df\&rct=1741587629\&auth=a3e20052f9fde9378fdee7a16f59737fae102408-a99827047c97aa905012f74caacf306e2497d1c1)) ulaşabilirsiniz. Gündelik pratiğimizde pankreas hastalıklarının tanısında deneyimlediğimiz tüm güçlükleri patolojik, endoskopik, radyolojik ve cerrahi açıdan derinlemesine tartışma imkanı bulacağımız bu toplantıya yüz yüze katılma imkanı olan üyelerimizin [gtellioglu@kuh.ku.edu.tr](mailto:gtellioglu@kuh.ku.edu.tr) adresine mail atmasını rica ediyoruz. Toplantıya katılım ücretsizdir. Toplantı başlığı cerrahlar için olsa da pankreas alanında multidisipliner çalışma zorunluluğu nedeniyle radyolog, endoskopist ve patolog meslektaşlarımızın katılımı ile daha üretken bir toplantı olabileceği inancındayız.\
-Saygılarımızla.\
-Gürkan Tellioğlu\
-Türk HPB Cerrahi Derneği\
-Genel Sekreteri [TOPLANTI PROGRAMI](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.hpb.org.tr%2fUploads%2fEditor%2ffiles%2fPancreas%2520pathology%2520for%2520HPB%2520surgeons%2520Program%2520son%25281%2529.pdf\&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df\&rct=1741587629\&auth=a3e20052f9fde9378fdee7a16f59737fae102408-05b341f8e693b4bcadeba5cf9f19bc4dba7fd813)
+15 Mart Cumartesi günü Koç Üniversitesi hastanesi RMK AIMES Merkezinde gerçekleştirilecek “HPB Cerrahları için Pankreas Patolojisi” Kursu E-AHPBA tarafında “Silver Seal Endorsement” desteği almıştır. Toplantı E-AHPBA tarafından da yayınlanacak olup sunumlar İngilizce gerçekleşecektir. Bölgesel toplantılarda olduğu gibi Zoom ve Youtube üzerinden yayınlanacak canlı yayın ülke genelinde takip edilebilecektir. Toplantı programı ve linklerine web sayfamızdan da ([www.hpb.org.tr](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fwww.hpb.org.tr&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df&rct=1741587629&auth=a3e20052f9fde9378fdee7a16f59737fae102408-a99827047c97aa905012f74caacf306e2497d1c1)) ulaşabilirsiniz. Gündelik pratiğimizde pankreas hastalıklarının tanısında deneyimlediğimiz tüm güçlükleri patolojik, endoskopik, radyolojik ve cerrahi açıdan derinlemesine tartışma imkanı bulacağımız bu toplantıya yüz yüze katılma imkanı olan üyelerimizin [gtellioglu@kuh.ku.edu.tr](mailto:gtellioglu@kuh.ku.edu.tr) adresine mail atmasını rica ediyoruz. Toplantıya katılım ücretsizdir. Toplantı başlığı cerrahlar için olsa da pankreas alanında multidisipliner çalışma zorunluluğu nedeniyle radyolog, endoskopist ve patolog meslektaşlarımızın katılımı ile daha üretken bir toplantı olabileceği inancındayız.
 
-Toplantı linkleri:Zoom link: [https://us02web.zoom.us/j/84663332415](https://us02web.zoom.us/j/84663332415) \
-YouTube link: [https://youtube.com/live/hK\_zUh-ZgCM?feature=share](https://youtube.com/live/hK_zUh-ZgCM?feature=share)
+Saygılarımızla.
+
+Gürkan Tellioğlu
+
+Türk HPB Cerrahi Derneği
+
+Genel Sekreteri [TOPLANTI PROGRAMI](https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.hpb.org.tr%2fUploads%2fEditor%2ffiles%2fPancreas%2520pathology%2520for%2520HPB%2520surgeons%2520Program%2520son%25281%2529.pdf&umid=0559d07e-c96d-4d93-9dd5-408d68fe31df&rct=1741587629&auth=a3e20052f9fde9378fdee7a16f59737fae102408-05b341f8e693b4bcadeba5cf9f19bc4dba7fd813)
+
+Toplantı linkleri:Zoom link: [https://us02web.zoom.us/j/84663332415](https://us02web.zoom.us/j/84663332415) 
+
+YouTube link: [https://youtube.com/live/hK_zUh-ZgCM?feature=share](https://youtube.com/live/hK_zUh-ZgCM?feature=share)
 
 A persistent gender pay gap among faculty in a public university system [https://www.nature.com/articles/s41598-024-72871-5](https://www.nature.com/articles/s41598-024-72871-5)
 
@@ -558,41 +593,48 @@ ggplot2 extenders [https://ggplot2-extenders.github.io/ggplot-extension-club/mee
 
 Multimodal histopathologic models stratify hormone receptor-positive early breast cancer [https://www.nature.com/articles/s41467-025-57283-x](https://www.nature.com/articles/s41467-025-57283-x)
 
-SPIDER (Supervised Pathology Image-DEscription Repository)\
-[https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm_source=share\&utm_medium=member_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)\
-[https://github.com/HistAI/SPIDER](https://github.com/HistAI/SPIDER)\
-[https://huggingface.co/histai](https://huggingface.co/histai)\
-[https://arxiv.org/abs/2503.02876](https://arxiv.org/abs/2503.02876)
+SPIDER (Supervised Pathology Image-DEscription Repository)
+
+[https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg
+
+](https://www.linkedin.com/posts/activity-7302773428653047809-i1fM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)[https://github.com/HistAI/SPIDER
+
+](https://github.com/HistAI/SPIDER)[https://huggingface.co/histai
+
+](https://huggingface.co/histai)[https://arxiv.org/abs/2503.02876](https://arxiv.org/abs/2503.02876)
 
 [https://www.cancergrandchallenges.org/ai-human-collaborations-in-cancer](https://www.cancergrandchallenges.org/ai-human-collaborations-in-cancer)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Hastaların %53'ü müdavi hekiminden daha önce patoloji raporlarına ulaşmış.
 
-Hastaların %53'ü müdavi hekiminden daha önce patoloji raporlarına ulaşmış.\
-Bunun sıkıntılı yanları da var.\
-\- Az görülen tümörlerde klinisyenin kendini hazırlamaya, patologla istişare etmeye vakti olmalı. Bazen bu şekilde yaptığımız mini klinikopatolojik değerlendirmeler ile raporları ayrıntılandırdığımız ya da düzenlediğimiz oluyor. Hastaya son kararın tek seferde bildirilmesi daha iyi olabiliyor.\
-\- Bazı kavramlar hastalarda gereksiz anksiyeteye neden olabiliyor. "Dev hücre" gibi. Google hekimliği bitti, şimdi yapay zekadan raporu analiz ettirmeye başladılar.\
-\- Raporda geçen teknik terimler "takibe alındı", "yeni parça", "yeni kesit" bağlamından koparılınca yanlış anlaşılabiliyor.\
-[https://www.linkedin.com/posts/jason-wasserman-7a9ba8250\_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm\_source=share\&utm\_medium=member\_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share\&utm_medium=member_desktop\&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)\
-[https://pubmed.ncbi.nlm.nih.gov/40015956/](https://pubmed.ncbi.nlm.nih.gov/40015956/)
+Bunun sıkıntılı yanları da var.
 
-{% embed url="<https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg>" %}
+- Az görülen tümörlerde klinisyenin kendini hazırlamaya, patologla istişare etmeye vakti olmalı. Bazen bu şekilde yaptığımız mini klinikopatolojik değerlendirmeler ile raporları ayrıntılandırdığımız ya da düzenlediğimiz oluyor. Hastaya son kararın tek seferde bildirilmesi daha iyi olabiliyor.
+- Bazı kavramlar hastalarda gereksiz anksiyeteye neden olabiliyor. "Dev hücre" gibi. Google hekimliği bitti, şimdi yapay zekadan raporu analiz ettirmeye başladılar.
+- Raporda geçen teknik terimler "takibe alındı", "yeni parça", "yeni kesit" bağlamından koparılınca yanlış anlaşılabiliyor.
+
+[https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg
+
+](https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)[https://pubmed.ncbi.nlm.nih.gov/40015956/](https://pubmed.ncbi.nlm.nih.gov/40015956/)
+
+{% embed url="[https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)" %}
 
 2023 Classic Lectures in Pathology: What You Need to Know: Lung Pathology - A CME Teaching Activity [https://www.youtube.com/watch?v=du7Y6nfKwd8](https://www.youtube.com/watch?v=du7Y6nfKwd8)
 
-{% embed url="<https://www.youtube.com/watch?v=du7Y6nfKwd8>" %}
+
+{% embed url="[https://www.youtube.com/watch?v=du7Y6nfKwd8](https://www.youtube.com/watch?v=du7Y6nfKwd8)" %}
 
 Pathology in the artificial intelligence era: Guiding innovation and implementation to preserve human insight [https://www.sciencedirect.com/science/article/pii/S2374289525000089](https://www.sciencedirect.com/science/article/pii/S2374289525000089)
 
-Multimodal histopathologic models stratify hormone receptor-positive early breast cancer <https://www.nature.com/articles/s41467-025-57283-x>
+Multimodal histopathologic models stratify hormone receptor-positive early breast cancer [https://www.nature.com/articles/s41467-025-57283-x](https://www.nature.com/articles/s41467-025-57283-x)
 
 On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation [https://arxiv.org/abs/2502.19285](https://arxiv.org/abs/2502.19285)
 
 Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions [https://arxiv.org/abs/2502.19293](https://arxiv.org/abs/2502.19293)
 
-GrandQC - A comprehensive solution to quality control in digital pathology: Zhilong Weng, 03/03/25 [https://www.youtube.com/watch?v=eWO2gujT7Sw\&ab\_channel=TIAWarwick](https://www.youtube.com/watch?v=eWO2gujT7Sw\&ab_channel=TIAWarwick)
+GrandQC - A comprehensive solution to quality control in digital pathology: Zhilong Weng, 03/03/25 [https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick)
 
-{% embed url="<https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick>" %}
+{% embed url="[https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=eWO2gujT7Sw&ab_channel=TIAWarwick)" %}
 
 Adam daha retikülini oturtamamış, bana PD-L1 için app kullanın daha rahat cut-off tespit edersiniz diyor.
 
@@ -604,14 +646,16 @@ A bottom-up initiated digital external quality assessment scheme for the state-o
 
 Microsoft Dragon Copilot provides the healthcare industry’s first unified voice AI assistant that enables clinicians to streamline clinical documentation, surface information and automate tasks [https://news.microsoft.com/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/](https://news.microsoft.com/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/)
 
-AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips\
-[https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab\_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists)
+AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips
 
-{% embed url="<https://www.youtube.com/watch?v=5ZqV2QnIbaA\&ab_channel=AmericanAssociationofNeuropathologists>" %}
+[https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists)
 
-2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. <https://github.com/sbalci/bibliometrics> Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
+{% embed url="[https://www.youtube.com/watch?v=5ZqV2QnIbaA\\&ab_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA%5C&ab_channel=AmericanAssociationofNeuropathologists)" %}
 
-2 Mart 2025. Olayın kök nedenine bakmak lazım. Bu adamlar ne "mal sahibi" ne de "işi yapan" kişiler. Bir dönem işin erbabı olan, ama zaman içinde yeniliklere ayak uyduramadığı için artık o işi yapamayanlar, tecrübelerinden istifade edilmek üzere bir tür "ara müdür" olarak hayatlarını sürdürebilirler. Peter principle da değil, onlar da başka, bunlar da başka. Bunlar "profesyonel yönetici" olduklarını iddia eden, ne işin mutfağında çalışmış ne de malın sahibi olmayan, bugün bir şirkette başka bir gün başka bir şirkette yer alabilecek, "plaza dili" ile tekellüm eden, C-Level olarak kendilerini tanımlayanlar. Ara müdürlerin en işe yaramaz olanları.\
+2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. [https://github.com/sbalci/bibliometrics](https://github.com/sbalci/bibliometrics) Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
+
+2 Mart 2025. Olayın kök nedenine bakmak lazım. Bu adamlar ne "mal sahibi" ne de "işi yapan" kişiler. Bir dönem işin erbabı olan, ama zaman içinde yeniliklere ayak uyduramadığı için artık o işi yapamayanlar, tecrübelerinden istifade edilmek üzere bir tür "ara müdür" olarak hayatlarını sürdürebilirler. Peter principle da değil, onlar da başka, bunlar da başka. Bunlar "profesyonel yönetici" olduklarını iddia eden, ne işin mutfağında çalışmış ne de malın sahibi olmayan, bugün bir şirkette başka bir gün başka bir şirkette yer alabilecek, "plaza dili" ile tekellüm eden, C-Level olarak kendilerini tanımlayanlar. Ara müdürlerin en işe yaramaz olanları.
+
 İşi bilmedikleri için, o işin mutfağı ile uğraşamazlar. Boş görünmemek için de kendilerine meşgale icat ederler. Kurumsal mesaj yayınlamak ya da yayımlamamak ya da yayımlayanlara had bildirmek ya da o kurumsal mesajda kullanılan rengin fontunu belirlemek gibi. Bunların en "prestijli" olanlarını 8 Mart'ta yayınlayacakları mesajlarda görürsünüz. Kadın çalışanlarına gebelik ve süt izni vermez, "bu bekar yakında evlenir gider" diye iş vermez, kadınlara daha ucuz maaş verir, ama 8 Mart'ta ünlü birkaç kişi ile poz ve mesaj verirler. Yani olayın özüyle bu ayın bir ilgisi yok. Zaten bu ayda sevinebilmek biraz da nasip işi, o apayrı bir şey. Heman Mevlam cümlemize selamet versin, mal ve iş sahiplerini bu C-level'ların şerrinden halas eylesin.
 
 Digital counting of tissue cells for molecular analysis: the QuANTUM pipeline [https://link.springer.com/article/10.1007/s00428-024-03794-9](https://link.springer.com/article/10.1007/s00428-024-03794-9)
@@ -620,27 +664,27 @@ The National Pathology Imaging Co-operative (NPIC) have created an open source p
 
 Public evidence on AI products for digital pathology [https://www.nature.com/articles/s41746-024-01294-3](https://www.nature.com/articles/s41746-024-01294-3)
 
-Register of AI products for digital pathology <https://osf.io/ypajd>
+Register of AI products for digital pathology [https://osf.io/ypajd](https://osf.io/ypajd)
 
 Blueprints from plane to space: outlook of next-generation three-dimensional histopathology [https://onlinelibrary.wiley.com/doi/10.1111/cas.16095](https://onlinelibrary.wiley.com/doi/10.1111/cas.16095)
 
 CUBIC pathology: three-dimensional imaging for pathological diagnosis [https://www.nature.com/articles/s41598-017-09117-0](https://www.nature.com/articles/s41598-017-09117-0)
 
-Foundation Models in Pathology: A Major Leap Forward [https://www.linkedin.com/posts/mohsinbilal\_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/](https://www.linkedin.com/posts/mohsinbilal_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/)
+Foundation Models in Pathology: A Major Leap Forward [https://www.linkedin.com/posts/mohsinbilal_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/](https://www.linkedin.com/posts/mohsinbilal_foundation-models-in-pathology-a-major-leap-activity-7238134088606334976-yLHH/)
 
 Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact [https://arxiv.org/abs/2502.08333](https://arxiv.org/abs/2502.08333)
 
-Introduction to Artificial Intelligence and Machine Learning in Pathology and Medicine: Generative and Nongenerative Artificial Intelligence Basics [https://www.modernpathology.org/article/S0893-3952(24)00268-0/fulltext](https://www.modernpathology.org/article/S0893-3952\(24\)00268-0/fulltext)
+Introduction to Artificial Intelligence and Machine Learning in Pathology and Medicine: Generative and Nongenerative Artificial Intelligence Basics [https://www.modernpathology.org/article/S0893-3952(24)00268-0/fulltext](<https://www.modernpathology.org/article/S0893-3952(24)00268-0/fulltext>)
 
 AI-Driven Spatial Transcriptomics Unlocks Large-Scale Breast Cancer Biomarker Discovery from Histopathology [https://www.biorxiv.org/content/10.1101/2024.10.16.618609v2](https://www.biorxiv.org/content/10.1101/2024.10.16.618609v2)
 
 Annotation Practices in Computational Pathology: A European Society of Digital and Integrative Pathology (ESDIP) Survey Study [https://doi.org/10.1016/j.labinv.2024.102203](https://doi.org/10.1016/j.labinv.2024.102203)
 
-The tumour histopathology “glossary” for AI developers <https://doi.org/10.1371/journal.pcbi.1012708>
+The tumour histopathology “glossary” for AI developers [https://doi.org/10.1371/journal.pcbi.1012708](https://doi.org/10.1371/journal.pcbi.1012708)
 
 An international study of stain variability in histopathology using qualitative and quantitative analysis [https://www.sciencedirect.com/science/article/pii/S2153353925000057](https://www.sciencedirect.com/science/article/pii/S2153353925000057)
 
-{% embed url="<https://x.com/AI4Pathology/status/1889713583321190819>" %}
+{% embed url="[https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)" %}
 
 [https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)
 
@@ -660,7 +704,7 @@ A comprehensive evaluation of histopathology foundation models for ovarian cance
 
 [https://www.youtube.com/watch?v=984Jz2QCvng](https://www.youtube.com/watch?v=984Jz2QCvng)
 
-{% embed url="<https://www.youtube.com/watch?v=984Jz2QCvng>" %}
+{% embed url="[https://www.youtube.com/watch?v=984Jz2QCvng](https://www.youtube.com/watch?v=984Jz2QCvng)" %}
 
 Developing an AI tool for renal pathology: case Galileo [https://www.aiforia.com/webinar-galileo-ai-tool-for-renal-pathology](https://www.aiforia.com/webinar-galileo-ai-tool-for-renal-pathology)
 
@@ -670,61 +714,65 @@ Overcoming Challenges in Implementing Digital Pathology and AI at Scale: Lessons
 
 Modella AI’s Generative AI Co-Pilot PathChat Receives FDA Breakthrough Device Designation [https://www.businesswire.com/news/home/20250128288933/en/Modella-AI%E2%80%99s-Generative-AI-Co-Pilot-PathChat-Receives-FDA-Breakthrough-Device-Designation](https://www.businesswire.com/news/home/20250128288933/en/Modella-AI%E2%80%99s-Generative-AI-Co-Pilot-PathChat-Receives-FDA-Breakthrough-Device-Designation)
 
-Artificial Intelligence–Based Classification of Renal Oncocytic Neoplasms [https://allen.silverchair-cdn.com/allen/content\_public/journal/aplm/pap/10.5858\_arpa.2024-0374-oa/3/10.5858\_arpa.2024-0374-oa.pdf?Expires=1743260269\&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~~BUFrtUAAA~~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~~exxNkHxwnEJ23o~~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ\_\_\&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA](https://allen.silverchair-cdn.com/allen/content_public/journal/aplm/pap/10.5858_arpa.2024-0374-oa/3/10.5858_arpa.2024-0374-oa.pdf?Expires=1743260269\&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~BUFrtUAAA~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~exxNkHxwnEJ23o~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ__\&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+Artificial Intelligence–Based Classification of Renal Oncocytic Neoplasms [https://allen.silverchair-cdn.com/allen/content_public/journal/aplm/pap/10.5858_arpa.2024-0374-oa/3/10.5858_arpa.2024-0374-oa.pdf?Expires=1743260269&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~~BUFrtUAAA~~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~~exxNkHxwnEJ23o~~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ\_\_&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA](https://allen.silverchair-cdn.com/allen/content_public/journal/aplm/pap/10.5858_arpa.2024-0374-oa/3/10.5858_arpa.2024-0374-oa.pdf?Expires=1743260269&Signature=nU8t8JqwgbmA8urWjtZbdDFQZFuycpkmp5kJYlufdwS~BUFrtUAAA~eHqJiNY5zJWnbw0MnjReeMWlXlusM3U-OIRbs68fE2xMlSdwpV49ElAwnLDjJUIEslO16DTF33z9FHkGWLPDFcnDkdRRMBNMSPfU65xrHHCuI6vVQ921X7rVh3528zu02SdlCFmWyx2t1jfjJdq7~XFvjGEoYmREL5CvYgJRCMxU34Md08lLjSyg9Ma7CBOszvUVGoDo~P7Wd41AeHXM5RpJPWTbrmlo5vbfK1o8~exxNkHxwnEJ23o~nDzg2WkTlTdZwZkm87eMDitnvPfS5E8wahhdKFwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
-[https://x.com/Vik\_deshpandeMD/status/1556064583915393026](https://x.com/Vik_deshpandeMD/status/1556064583915393026)
+[https://x.com/Vik_deshpandeMD/status/1556064583915393026](https://x.com/Vik_deshpandeMD/status/1556064583915393026)
 
-{% embed url="<https://x.com/Vik_deshpandeMD/status/1556064583915393026>" %}
+{% embed url="[https://x.com/Vik_deshpandeMD/status/1556064583915393026](https://x.com/Vik_deshpandeMD/status/1556064583915393026)" %}
 
-[https://x.com/JClinPath\_BMJ/status/1893284420355788953](https://x.com/JClinPath_BMJ/status/1893284420355788953)
+[https://x.com/JClinPath_BMJ/status/1893284420355788953](https://x.com/JClinPath_BMJ/status/1893284420355788953)
 
-{% embed url="<https://x.com/JClinPath_BMJ/status/1893284420355788953>" %}
+{% embed url="[https://x.com/JClinPath_BMJ/status/1893284420355788953](https://x.com/JClinPath_BMJ/status/1893284420355788953)" %}
 
 Gene of the month: GATA3 [https://jcp.bmj.com/content/76/12/793](https://jcp.bmj.com/content/76/12/793)
 
 [https://tolklab.de/](https://tolklab.de/)
 
-[https://www.youtube.com/watch?v=OAypMgjhRLE\&t=2010s\&ab\_channel=TIAWarwick](https://www.youtube.com/watch?v=OAypMgjhRLE\&t=2010s\&ab_channel=TIAWarwick)
+[https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick)
 
-{% embed url="<https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick>" %}
+{% embed url="[https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick](https://www.youtube.com/watch?v=OAypMgjhRLE&t=2010s&ab_channel=TIAWarwick)" %}
 
 Current role of cytopathology in the molecular and computational era: The perspective of young pathologists [https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22832](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncy.22832)
 
 Biyopsi bakarken ben:
 
-![https://cdn.bsky.app/img/feed\_thumbnail/plain/did:plc:lg76krbsc3f2ajnqdp4t47e2/bafkreiddvenotlqalwuaywn7kewiecu5mzfijxvs23bxjsys6o2wnevibu@jpeg](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lg76krbsc3f2ajnqdp4t47e2/bafkreiddvenotlqalwuaywn7kewiecu5mzfijxvs23bxjsys6o2wnevibu@jpeg)\
-<https://bsky.app/profile/lucas.meyerperin.org/post/3lildqvlp4k2e>
 
-Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but influenced by the diagnostic style of pathologists <https://pubmed.ncbi.nlm.nih.gov/22301705/>
 
-An international study of stain variability in histopathology using qualitative and quantitative analysis <https://www.sciencedirect.com/science/article/pii/S2153353925000057>
+[https://bsky.app/profile/lucas.meyerperin.org/post/3lildqvlp4k2e](https://bsky.app/profile/lucas.meyerperin.org/post/3lildqvlp4k2e)
 
-Comparative performance of PD-L1 scoring by pathologists and AI algorithms <https://onlinelibrary.wiley.com/doi/full/10.1111/his.15432>
+Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but influenced by the diagnostic style of pathologists [https://pubmed.ncbi.nlm.nih.gov/22301705/](https://pubmed.ncbi.nlm.nih.gov/22301705/)
+
+An international study of stain variability in histopathology using qualitative and quantitative analysis [https://www.sciencedirect.com/science/article/pii/S2153353925000057](https://www.sciencedirect.com/science/article/pii/S2153353925000057)
+
+Comparative performance of PD-L1 scoring by pathologists and AI algorithms [https://onlinelibrary.wiley.com/doi/full/10.1111/his.15432](https://onlinelibrary.wiley.com/doi/full/10.1111/his.15432)
 
 Frontiers in Computational Pathology [https://sites.google.com/view/miua2025-fcpath/](https://sites.google.com/view/miua2025-fcpath/)
 
 FS2K2025 Workshop Introduction [https://www.youtube.com/watch?v=Vl9V5PxOQIc](https://www.youtube.com/watch?v=Vl9V5PxOQIc)
 
-{% embed url="<https://www.youtube.com/watch?v=Vl9V5PxOQIc>" %}
+{% embed url="[https://www.youtube.com/watch?v=Vl9V5PxOQIc](https://www.youtube.com/watch?v=Vl9V5PxOQIc)" %}
 
-NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 8 - Ask Us Anything.\
-The National Pathology Imaging Co-Operative (NPIC) is back with an exciting new series of free educational webinars on digital pathology topics.\
-Learn first-hand about hot topics in clinical digital reporting, the digital laboratory, IT and informatics and get a chance to pose your questions to the experts! Suitable for pathologists, biomedical scientists, informatics and IT professionals, managers and industry representatives.\
+NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 8 - Ask Us Anything.
+
+The National Pathology Imaging Co-Operative (NPIC) is back with an exciting new series of free educational webinars on digital pathology topics.
+
+Learn first-hand about hot topics in clinical digital reporting, the digital laboratory, IT and informatics and get a chance to pose your questions to the experts! Suitable for pathologists, biomedical scientists, informatics and IT professionals, managers and industry representatives.
+
 [https://events.teams.microsoft.com/event/b46d9cac-a466-4bdf-8076-35617dd24670@37c354b2-85b0-47f5-b222-07b48d774ee3](https://events.teams.microsoft.com/event/b46d9cac-a466-4bdf-8076-35617dd24670@37c354b2-85b0-47f5-b222-07b48d774ee3)
 
 A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics [https://www.nature.com/articles/s43018-024-00793-2](https://www.nature.com/articles/s43018-024-00793-2)
 
-**Virtual 2025 QuPath Training Course:** From Samples to KnowledgeThank you for your interest in our training course! We will broadcast the course in real time on Zoom. While we won't have the ability to directly assist you, we will have a way for you to ask questions which will be reviewed and, if time allows, answered during the course. Please fill out the form below and we will email you the meeting details and zoom link when available. You will also get installation instructions, and links to files, presentations, and projects. The training course will take place on February 24-25, 2025 between 9 and 5 pm PST. We will not stream or record the Advanced User's Meeting on February 26 in order to protect preliminary data. Alternatively, if you want to attend in-person, please register on [Eventbrite](https://www.eventbrite.com/e/2025-qupath-training-course-from-samples-to-knowledge-registration-1117012677989?aff=oddtdtcreator). We don't spam, sell, or share your information. \&#xNAN;_We highly recommend using a comfortable mouse with a scroll wheel during the training._ [https://docs.google.com/forms/d/e/1FAIpQLSdl1lv\_5NlYkdz\_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdl1lv_5NlYkdz_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform)
+**Virtual 2025 QuPath Training Course:** From Samples to KnowledgeThank you for your interest in our training course! We will broadcast the course in real time on Zoom. While we won't have the ability to directly assist you, we will have a way for you to ask questions which will be reviewed and, if time allows, answered during the course. Please fill out the form below and we will email you the meeting details and zoom link when available. You will also get installation instructions, and links to files, presentations, and projects. The training course will take place on February 24-25, 2025 between 9 and 5 pm PST. We will not stream or record the Advanced User's Meeting on February 26 in order to protect preliminary data. Alternatively, if you want to attend in-person, please register on [Eventbrite](https://www.eventbrite.com/e/2025-qupath-training-course-from-samples-to-knowledge-registration-1117012677989?aff=oddtdtcreator). We don't spam, sell, or share your information. &#xNAN;*We highly recommend using a comfortable mouse with a scroll wheel during the training.* [https://docs.google.com/forms/d/e/1FAIpQLSdl1lv_5NlYkdz_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdl1lv_5NlYkdz_JtQDb2HEAUbQxajvU7y5IN4PhmtgBXF-ng/viewform)
 
 **Panik Tanı** [https://www.youtube.com/watch?v=HFEN9C20ceQ](https://www.youtube.com/watch?v=HFEN9C20ceQ)
 
-{% embed url="<https://www.youtube.com/watch?v=HFEN9C20ceQ>" %}
+{% embed url="[https://www.youtube.com/watch?v=HFEN9C20ceQ](https://www.youtube.com/watch?v=HFEN9C20ceQ)" %}
 
 **Artificial intelligence in digital pathology — time for a reality check**
 
 [Artificial intelligence in digital pathology — time for a reality check | Nature Reviews Clinical Oncology](https://www.nature.com/articles/s41571-025-00991-6)
 
-{% embed url="<https://x.com/AI4Pathology/status/1889713583321190819>" %}
+{% embed url="[https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)" %}
 
 [https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)
 
@@ -742,19 +790,19 @@ Accelerating Data Processing and Benchmarking of AI Models for Pathology [https:
 
 [https://agentlaboratory.github.io/](https://agentlaboratory.github.io/)
 
-<https://github.com/microsoft/data-formulator>
+[https://github.com/microsoft/data-formulator](https://github.com/microsoft/data-formulator)
 
-A new vision in Pathology: From clinical implementation of Digital Pathology to algorithm development in Computational Pathology <https://repositorio-aberto.up.pt/handle/10216/165284>
+A new vision in Pathology: From clinical implementation of Digital Pathology to algorithm development in Computational Pathology [https://repositorio-aberto.up.pt/handle/10216/165284](https://repositorio-aberto.up.pt/handle/10216/165284)
 
-Digital Pathology in Endocrine Disorders <https://link.springer.com/collections/gabfeibadh>
+Digital Pathology in Endocrine Disorders [https://link.springer.com/collections/gabfeibadh](https://link.springer.com/collections/gabfeibadh)
 
-A multicenter study to evaluate the analytical precision by pathologists using the Aperio GT 450 DX <https://pmc.ncbi.nlm.nih.gov/articles/PMC11600015/>
+A multicenter study to evaluate the analytical precision by pathologists using the Aperio GT 450 DX [https://pmc.ncbi.nlm.nih.gov/articles/PMC11600015/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11600015/)
 
-An international study of stain variability in histopathology using qualitative and quantitative analysis <https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040>
+An international study of stain variability in histopathology using qualitative and quantitative analysis [https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040](https://www.sciencedirect.com/science/article/pii/S2153353925000057#s0040)
 
-Tissue Image Analytics (TIA) Centre <https://warwick.ac.uk/fac/cross\_fac/tia/seminars/seminars-24-25/>
+Tissue Image Analytics (TIA) Centre [https://warwick.ac.uk/fac/cross\\\_fac/tia/seminars/seminars-24-25/](https://warwick.ac.uk/fac/cross%5C_fac/tia/seminars/seminars-24-25/)
 
-When Doctors With A.I. Are Outperformed by A.I. Alone <https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed>
+When Doctors With A.I. Are Outperformed by A.I. Alone [https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed](https://erictopol.substack.com/p/when-doctors-with-ai-are-outperformed)
 
 Generative Artificial Intelligence in Anatomic Pathology [https://pubmed.ncbi.nlm.nih.gov/39836377/](https://pubmed.ncbi.nlm.nih.gov/39836377/)
 
@@ -762,19 +810,19 @@ NPIC Digital Pathology Webinar Series - Innovation into Practice - Webinar 7 - A
 
 Gross examination and frozen section of breast pathology and oncology surgery specimens [https://www.youtube.com/watch?v=SR-mAuzxt2o](https://www.youtube.com/watch?v=SR-mAuzxt2o)
 
-{% embed url="<https://www.youtube.com/watch?v=SR-mAuzxt2o>" %}
+{% embed url="[https://www.youtube.com/watch?v=SR-mAuzxt2o](https://www.youtube.com/watch?v=SR-mAuzxt2o)" %}
 
-[https://www.linkedin.com/posts/deepathology-ai\_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/](https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/)
+[https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/](https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/)
 
-{% embed url="<https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/>" %}
+{% embed url="[https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/](https://www.linkedin.com/posts/deepathology-ai_at-the-start-of-2025-the-deepathologyai-activity-7297188799443267586-0Q2m/)" %}
 
-Your Operating System ｜Eukaryotic Transcription [https://www.youtube.com/watch?v=HZAmbbTcQ3M\&t=16s](https://www.youtube.com/watch?v=HZAmbbTcQ3M\&t=16s)
+Your Operating System ｜Eukaryotic Transcription [https://www.youtube.com/watch?v=HZAmbbTcQ3M&t=16s](https://www.youtube.com/watch?v=HZAmbbTcQ3M&t=16s)
 
-{% embed url="<https://www.youtube.com/watch?v=HZAmbbTcQ3M&t=16s>" %}
+{% embed url="[https://www.youtube.com/watch?v=HZAmbbTcQ3M&t=16s](https://www.youtube.com/watch?v=HZAmbbTcQ3M&t=16s)" %}
 
 [https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing](https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing)
 
-{% @github-files/github-code-block url="<https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing>" %}
+{% @github-files/github-code-block url="[https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing](https://github.com/mcanouil/quarto-issues-experiments/tree/main/test-statistical-analysis-listing)" %}
 
 [https://m.canouil.dev/quarto-extensions/](https://m.canouil.dev/quarto-extensions/)
 
@@ -784,16 +832,16 @@ Your Operating System ｜Eukaryotic Transcription [https://www.youtube.com/watch
 
 [https://compgenomr.github.io/book/](https://compgenomr.github.io/book/)
 
-[https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP\_oCWK2omFt\&si=mhWs0jII7ipJ56cf](https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt\&si=mhWs0jII7ipJ56cf)
+[https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt&si=mhWs0jII7ipJ56cf](https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt&si=mhWs0jII7ipJ56cf)
 
-{% embed url="<https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt&si=mhWs0jII7ipJ56cf>" %}
+{% embed url="[https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt&si=mhWs0jII7ipJ56cf](https://youtube.com/playlist?list=PL3x6DOfs2NGjAvuW2kC0kKP_oCWK2omFt&si=mhWs0jII7ipJ56cf)" %}
 
-[https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr\&si=JCqObGzE00qUQt5C](https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr\&si=JCqObGzE00qUQt5C)
+[https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr&si=JCqObGzE00qUQt5C](https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr&si=JCqObGzE00qUQt5C)
 
-{% embed url="<https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr&si=JCqObGzE00qUQt5C>" %}
+{% embed url="[https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr&si=JCqObGzE00qUQt5C](https://youtube.com/playlist?list=PL3x6DOfs2NGj2sMp67G5ihOyiY4d1VVvr&si=JCqObGzE00qUQt5C)" %}
 
 What can men do against such reckless hate [https://www.youtube.com/watch?v=t6qQSll7InQ](https://www.youtube.com/watch?v=t6qQSll7InQ)
 
-{% embed url="<https://www.youtube.com/watch?v=t6qQSll7InQ>" %}
+{% embed url="[https://www.youtube.com/watch?v=t6qQSll7InQ](https://www.youtube.com/watch?v=t6qQSll7InQ)" %}
 
-Bu federasyonun yeni çalışması <https://turkpath.org.tr/files/pdf/rehber.pdf> PBYS için önerilen özelliklere bakın. bu ise benim notlarımın bulunduğu sayfa <https://www.parapathology.com/laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri> zamanında ben bu şartnameyi hazırlamıştım. 2011 olmalı. O sırada kalite komisyonundaydım. Bir örneğini vermiştim komisyona. Çok da bir ilerleme kaydedememişler görünen o ki. Bari referans verselerdi.
+Bu federasyonun yeni çalışması [https://turkpath.org.tr/files/pdf/rehber.pdf](https://turkpath.org.tr/files/pdf/rehber.pdf) PBYS için önerilen özelliklere bakın. bu ise benim notlarımın bulunduğu sayfa [https://www.parapathology.com/laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri](https://www.parapathology.com/laboratory-management/laboratory-information-systems/patoloji-moduelue-oezellikleri) zamanında ben bu şartnameyi hazırlamıştım. 2011 olmalı. O sırada kalite komisyonundaydım. Bir örneğini vermiştim komisyona. Çok da bir ilerleme kaydedememişler görünen o ki. Bari referans verselerdi.
