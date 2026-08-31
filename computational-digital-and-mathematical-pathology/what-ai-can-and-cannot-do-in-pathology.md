@@ -46,6 +46,11 @@ Everything else is scaffolding for that. The risk he is describing is not techno
 displacement but **disintermediation**: work that begins with the pathologist's tissue ending in a
 report the pathologist never touched.
 
+He closes on the same point in generational terms (~00:38:20): this is “the first generation of
+pathologists and maybe the last” that can change how pathology is practised — “because if we do not
+do it, somebody else will do it for us.” Diagnosis, in his formulation, should be “not the end of our
+work” but the beginning of a larger role.
+
 ---
 
 ## The economic core of the talk
@@ -204,7 +209,7 @@ must not mean absence from the audit trail:
 - Whether the whole flow that led to a conclusion can be **reconstructed after the fact** if
   something goes wrong.
 
-> "The interface can disappear, but the evidence cannot."
+> "The interface can disappear, but — as a pathology department — the evidence cannot."
 
 > "You cannot make invisible un-audited."
 
