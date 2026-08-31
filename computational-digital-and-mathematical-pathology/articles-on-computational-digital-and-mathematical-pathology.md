@@ -28,7 +28,7 @@ Reviewed in [Tumor budding T-cell graphs for pT1 colorectal cancer](tumor-buddin
 
 #### What AI Can and Cannot Do in Pathology
 
-Reviewed in [What AI Can and Cannot Do in Pathology](what-ai-can-and-cannot-do-in-pathology.md) — Critical evaluation of AI capabilities (pre-analytic QC, objective measurement, screening, draft reporting) vs. boundaries (holistic clinical judgment, diagnostic liability) and pathologist-led governance (Dr. Rajendra Singh, pathCast).
+Reviewed in [What AI Can and Cannot Do in Pathology](what-ai-can-and-cannot-do-in-pathology.md) — pathCast lecture by Dr. Rajendra Singh (UPenn; founder of PathPresenter), 2026-08-18. Argues the real risk is not replacement but **bypass** — slides shipped to commercial vendors whose predictions reach the oncologist directly — and that the answer is for departments to re-validate vendor models on their own data and own the governance layer (“invisible, but never un-audited”). Summarised from auto-generated captions; slides and demos not captured.
 
 #### TRICARE: Deep-learning triage of 3D pathology datasets
 
