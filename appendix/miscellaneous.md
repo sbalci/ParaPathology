@@ -17,8 +17,6 @@ belongs_to: "[[Appendix]]"
 
 
 
-add this research: Slide Selection Introduces Sampling-Induced Prediction Uncertainty in Digital Pathology AI: Evidence from Multi-Slide Breast Cancer Cohorts [https://www.mdpi.com/2072-6694/18/16/2540](https://www.mdpi.com/2072-6694/18/16/2540) "K:\DownloadsK\cancers-18-02540.pdf"
-
 add this research: When Two Wrongs Don’t Make a Right" - Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology "K:\DownloadsK\2411.01007v1.pdf"
 add this research: Cognitive biases in AI–assisted medical decision making: A structured review as a primer for veterinary and human pathology [https://journals.sagepub.com/doi/10.1177/03009858261472493](https://journals.sagepub.com/doi/10.1177/03009858261472493)
 
