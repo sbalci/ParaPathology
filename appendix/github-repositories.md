@@ -59,3 +59,16 @@ belongs_to: "[[Appendix]]"
 {% embed url="https://github.com/KAUST-Academy/Artificial-Intelligence-Courses" %}
 
 {% embed url="https://github.com/clemsgrs/croma" %}
+
+{% embed url="https://github.com/rmcelreath/stat_rethinking_2026" %}
+
+* [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) — Statistical Rethinking (2026 Edition) repository by Richard McElreath. See [[Statistical Rethinking (2026 Edition)]].
+
+{% embed url="https://github.com/cytomine/cytomine" %}
+
+* [cytomine/cytomine](https://github.com/cytomine/cytomine) — Open-source web platform for collaborative analysis and multi-gigapixel whole-slide image management. See [[Cytomine]].
+
+{% embed url="https://github.com/TissueImageAnalytics/cytomine-app" %}
+
+* [TissueImageAnalytics/cytomine-app](https://github.com/TissueImageAnalytics/cytomine-app) — TIAToolbox model implementations (HoVer-Net, KongNet, NuClick) packaged as Dockerized Cytomine apps by the TIA Centre, University of Warwick. See [[Cytomine]].
+

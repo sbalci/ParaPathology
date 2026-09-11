@@ -25,3 +25,9 @@ belongs_to: "[[R-project]]"
 * Cookbook for R
 
 [http://www.cookbook-r.com/](http://www.cookbook-r.com/)
+
+* Statistical Rethinking: A Bayesian Course with Examples in R and Stan — Richard McElreath
+
+[https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
+
+See also [[Statistical Rethinking (2026 Edition)]].

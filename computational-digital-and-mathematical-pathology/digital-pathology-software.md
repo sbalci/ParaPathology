@@ -10,9 +10,20 @@ belongs_to: "[[Digital Pathology]]"
 
 # Digital Pathology Software
 
-### [Cytomine](https://cytomine.be/)
+### [Cytomine](https://uliege.cytomine.org/)
 
-{% embed url="https://cytomine.be/" %}
+Open-source, web-based platform for multi-gigapixel whole-slide image management, collaborative multi-observer annotation (PostGIS-backed spatial geometries), and distributed algorithmic analysis. See dedicated tool note: [Cytomine](cytomine.md).
+
+- **GitHub:** [cytomine/cytomine](https://github.com/cytomine/cytomine)
+- **Academic Portal:** [uliege.cytomine.org](https://uliege.cytomine.org/)
+- **Documentation:** [doc.uliege.cytomine.org](https://doc.uliege.cytomine.org/)
+- **TIA Centre Cytomine Apps:** [TissueImageAnalytics/cytomine-app](https://github.com/TissueImageAnalytics/cytomine-app) — Wraps TIAToolbox models (`cytomine-hovernet`, `cytomine-kongnet`, `cytomine-interactive-segmentation-nuclick`) into Cytomine Docker apps.
+
+{% embed url="https://github.com/cytomine/cytomine" %}
+
+{% embed url="https://uliege.cytomine.org/" %}
+
+{% embed url="https://github.com/TissueImageAnalytics/cytomine-app" %}
 
 ### [ePMA.start – universal whole slide image viewer for digital pathology  **An end-user viewer and tile server in one convenient package**](https://free.pathomation.com/)\*\*\*\*
 
