@@ -311,6 +311,7 @@
 * [Kaplan Meier](statistics-and-bioinformatics/kaplan-meier.md)
 * [JASP](statistics-and-bioinformatics/jasp.md)
 * [Jamovi](statistics-and-bioinformatics/jamovi.md)
+  * [askLLM](statistics-and-bioinformatics/askllm.md)
 * [SAS](statistics-and-bioinformatics/sas.md)
 * [Statistics and Bioinformatics Education](statistics-and-bioinformatics/statistics-and-bioinformatics-education.md)
 * [Neural Network](statistics-and-bioinformatics/neural-network.md)
