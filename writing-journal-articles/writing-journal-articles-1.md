@@ -30,3 +30,10 @@ belongs_to: "[[Writing Journal Articles]]"
 * LWW Author guide
 
 {% embed url="http://authors.lww.com" %}
+
+* How to Make Your Research Poster or Paper Tell a Coherent Story
+
+Andrew Janowczyk
+
+[https://andrewjanowczyk.com/how-to-make-your-research-poster-or-paper-tell-a-coherent-story/](https://andrewjanowczyk.com/how-to-make-your-research-poster-or-paper-tell-a-coherent-story/)
+
