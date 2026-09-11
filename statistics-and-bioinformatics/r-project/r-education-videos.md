@@ -17,3 +17,9 @@ belongs_to: "[[R-project]]"
 * R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot
 
 [https://www.youtube.com/watch?v=ANMuuq502rE](https://www.youtube.com/watch?v=ANMuuq502rE)
+
+* Statistical Rethinking (2026 Edition) Video Lectures — Richard McElreath
+
+[Beginner Track (Section A) Playlist](https://www.youtube.com/watch?v=ztbYkBPDOgU&list=PLDcUM9US4XdPMtSV81e1R_4B6NugQBvTP) | [Experienced Track (Section B) Playlist](https://www.youtube.com/watch?v=jh3RltVrQ-Q&list=PLDcUM9US4XdMD5hEU5uinyBYFFPXMYBfn) | [Full Chronological Playlist](https://www.youtube.com/watch?v=MBhjDMXtANE&list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14)
+
+See also [[Statistical Rethinking (2026 Edition)]].

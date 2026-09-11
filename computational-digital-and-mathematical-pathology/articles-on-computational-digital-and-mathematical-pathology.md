@@ -14,6 +14,14 @@ belongs_to: "[[Digital Pathology]]"
 
 Reviewed in [Towards robust foundation models for digital pathology](../Clippings/Towards%20robust%20foundation%20models%20for%20digital%20pathology.md) — PathoROB, a public benchmark showing all 20 pathology foundation models tested encode the contributing hospital strongly enough to cause diagnostic failures (Kömen et al., Nature Communications 17, 5218, 2026), with code at [bifold-pathomics/PathoROB](https://github.com/bifold-pathomics/PathoROB).
 
+#### Confirmation bias and time pressure during human–AI collaboration in computational pathology
+
+Reviewed in [When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology](../Clippings/When%20Two%20Wrongs%20Don%27t%20Make%20a%20Right%20-%20Examining%20Confirmation%20Bias%20and%20the%20Role%20of%20Time%20Pressure%20During%20Human-AI%20Collaboration%20in%20Computational%20Pathology.md) — 28 pathologists estimated tumour cell percentage twice; when AI agreed with an initially wrong estimate, reliance on prior judgement collapsed (p=0.09) and AI advice dominated, while time pressure attenuated confirmation bias only because automation bias eclipsed it (Rosbach et al., CHI '25 / arXiv:2411.01007).
+
+#### Cognitive biases in AI–assisted medical decision making: a primer for pathology
+
+Reviewed in [Cognitive biases in AI-assisted medical decision making: A structured review as a primer for veterinary and human pathology](../Clippings/Cognitive%20biases%20in%20AI-assisted%20medical%20decision%20making%20-%20A%20structured%20review%20as%20a%20primer%20for%20veterinary%20and%20human%20pathology.md) — structured review across ACM, IEEE, and PubMed identifying 12 cognitive biases in AI-assisted medicine; revealed that across all medical specialties, only one primary study came from pathology, prompting author-developed hypothetical pathology vignettes as a practical primer (Rosbach et al., Veterinary Pathology 2026, PMID 42557856).
+
 #### A distributional robustness margin for pathology foundation models
 
 Reviewed in [A distributional robustness margin for pathology foundation models](../Clippings/A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md) — argues PathoROB's Robustness Index is structurally unfit for cross-model comparison and replaces it with CRoMa, a per-sample signed margin (Grisi, van der Laak & Litjens, arXiv:2607.25497), with the library evaluated in [CRoMa](croma.md).
@@ -25,6 +33,10 @@ Reviewed in [Weakly supervised MIL histopathological tumor segmentation](weakly-
 #### Tumor budding T-cell graphs: assessing the need for resection in pT1 colorectal cancer patients
 
 Reviewed in [Tumor budding T-cell graphs for pT1 colorectal cancer](tumor-budding-t-cell-graphs-pt1-colorectal-cancer.md) — GNNs over tumor-bud/T-cell hotspot graphs raise the specificity of lymph-node-metastasis prediction by ~20 points over guideline stratification at equal sensitivity (Studer et al., MIDL 2023), with the pT1-HBTG dataset on [Zenodo](https://zenodo.org/records/7867085) and code at [digitalpathologybern/pT1-HBTG-MIDL2023](https://github.com/digitalpathologybern/pT1-HBTG-MIDL2023).
+
+#### Reporting tumor budding in colorectal cancer: ITBCC 2016 consensus recommendations
+
+Reviewed in [Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016](../Clippings/Recommendations%20for%20reporting%20tumor%20budding%20in%20colorectal%20cancer%20based%20on%20the%20International%20Tumor%20Budding%20Consensus%20Conference%20(ITBCC)%202016.md) — landmark international consensus defining tumor budding as detached single cells or clusters $\le 4$ cells, standardizing the 0.785 mm² hotspot on H&E and introducing the 3-tier grading system (Bd1–Bd3) to guide surgical escalation in pT1 and adjuvant chemotherapy in stage II CRC (Lugli et al., Modern Pathology 2017).
 
 #### What AI Can and Cannot Do in Pathology
 

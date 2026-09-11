@@ -42,6 +42,12 @@ belongs_to: "[[Appendix]]"
 
 Open-source repository of 5 university-level AI courses (Computer Vision, Natural Language Processing, Reinforcement Learning, Introduction to AI, and Generative AI) including 64 LaTeX/Beamer lecture slide decks (~4,800 pages), compiled PDFs, and 291 Jupyter lab exercises/solution notebooks.
 
+* **[[Statistical Rethinking (2026 Edition)]]** — Richard McElreath
+
+[https://github.com/rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
+
+A course on Bayesian data analysis, scientific modeling, causal DAGs, and computational workflows using R, Stan (`cmdstanr`), and the `rethinking` package. Features 10-week dual tracks (Beginner and Experienced) with recorded video lectures on YouTube.
+
 ## Tutorials
 
 r-statistics.co

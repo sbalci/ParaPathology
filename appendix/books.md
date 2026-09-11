@@ -30,6 +30,8 @@ belongs_to: "[[Appendix]]"
 
 [http://bioinformaticsalgorithms.com/](http://bioinformaticsalgorithms.com)
 
+* [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/) — Richard McElreath (see also [[Statistical Rethinking (2026 Edition)]])
+
 * [https://tinyletter.com/data-is-plural/archive](https://tinyletter.com/data-is-plural/archive)
 
 [https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV](https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV)
