@@ -32,10 +32,7 @@ belongs_to: "[[Digital Pathology]]"
 
 ## Image Analysis
 
-* Grand Challenges in Biomedical Image Analysis
+* Grand Challenges in Biomedical Image Analysis: [grand-challenge.org](https://grand-challenge.org/)
+* Fiji: [fiji.sc](https://fiji.sc/)
+* 3D Volumetric Pathology Triage: [TRICARE: Deep-learning triage of 3D pathology datasets](tricare-deep-learning-triage-3d-pathology.md) — 2.5D context-aware deep learning framework for triaging open-top light-sheet microscopy (OTLS) datasets in prostate and Barrett's esophagus biopsies (Gao et al., *Nature Biomedical Engineering* 2026).
 
-[https://grand-challenge.org/](https://grand-challenge.org/)
-
-* Fiji
-
-[https://fiji.sc/](https://fiji.sc/)

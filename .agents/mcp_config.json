@@ -2,12 +2,21 @@
   "mcpServers": {
     "tolaria": {
       "args": [
+<<<<<<< HEAD
         "C:\\Users\\info\\AppData\\Local\\Tolaria\\mcp-server\\index.js"
       ],
       "command": "node",
       "env": {
         "VAULT_PATH": "C:\\Users\\info\\Documents\\GitHub\\ParaPathology",
         "VAULT_PATHS": "[\"C:\\\\Users\\\\info\\\\Documents\\\\GitHub\\\\ParaPathology\"]",
+=======
+        "/Applications/Tolaria.app/Contents/Resources/mcp-server/index.js"
+      ],
+      "command": "node",
+      "env": {
+        "VAULT_PATH": "/Users/serdarbalci/Documents/GitHub/ParaPathology",
+        "VAULT_PATHS": "[\"/Users/serdarbalci/Documents/GitHub/ParaPathology\"]",
+>>>>>>> 5df4023350e79a2d58c2e36bd30062fa24ed784a
         "WS_UI_PORT": "9711"
       }
     }
