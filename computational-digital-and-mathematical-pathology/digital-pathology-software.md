@@ -114,3 +114,15 @@ Its real value here is the **frozen-baseline table**: UNI-2-h, H-optimus-0, Virc
 {% embed url="https://github.com/MedARC-AI/nanopath" %}
 
 {% embed url="https://huggingface.co/datasets/medarc/nanopath" %}
+
+### [HoVer-NeXt](https://github.com/digitalpathologybern/hover_next_train)
+
+Modernized, high-throughput nuclear instance segmentation and classification pipeline from the University of Bern (Digital Pathology group / Prof. Inti Zlobec; Baumann et al., MIDL 2024). Re-engineers the classic HoVer-Net architecture using ConvNeXt-V2 backbones (Tiny/Base/Large), decoupled multi-head U-Net decoders (5-channel distance maps and multi-class cell typing), native multi-threaded whole-slide inference (OpenSlide, CZI, Zarr), and direct export to QuPath `.tsv` measurement tables. Pretrained checkpoints available on Zenodo for Lizard-Mitosis (7 classes) and PanNuke (5 classes across 19 tissues) — see [[HoVer-NeXt]].
+
+- **Training Code:** [digitalpathologybern/hover_next_train](https://github.com/digitalpathologybern/hover_next_train)
+- **Inference Pipeline:** [digitalpathologybern/hover_next_inference](https://github.com/digitalpathologybern/hover_next_inference)
+- **Paper:** [MIDL 2024 (OpenReview)](https://openreview.net/pdf?id=3vmB43oqIO)
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_train" %}
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_inference" %}

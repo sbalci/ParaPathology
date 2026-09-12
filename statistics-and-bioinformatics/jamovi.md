@@ -20,3 +20,10 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 - **[[askLLM]]**: An LLM-powered statistical copilot module for jamovi. Features a **Module Guider** (directs you to the exact jamovi analysis menu path) and an **R Code Tutor** (generates R code for the **Rj Editor**), with local LLM (Ollama) support for privacy-preserving data analysis.
 
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [askLLM](askllm.md)
+
+<!-- tolaria:children:end -->

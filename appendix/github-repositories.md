@@ -72,3 +72,11 @@ belongs_to: "[[Appendix]]"
 
 * [TissueImageAnalytics/cytomine-app](https://github.com/TissueImageAnalytics/cytomine-app) — TIAToolbox model implementations (HoVer-Net, KongNet, NuClick) packaged as Dockerized Cytomine apps by the TIA Centre, University of Warwick. See [[Cytomine]].
 
+{% embed url="https://github.com/digitalpathologybern/hover_next_train" %}
+
+* [digitalpathologybern/hover_next_train](https://github.com/digitalpathologybern/hover_next_train) — Training and evaluation code for HoVer-NeXt (ConvNeXt-V2 based nuclear instance segmentation and classification). See [[HoVer-NeXt]].
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_inference" %}
+
+* [digitalpathologybern/hover_next_inference](https://github.com/digitalpathologybern/hover_next_inference) — Multi-threaded whole-slide image inference pipeline and QuPath export for HoVer-NeXt. See [[HoVer-NeXt]].
+
