@@ -6,6 +6,10 @@ aliases:
   - "Kaplan Meier"
 order: 170
 belongs_to: "[[Statistics and Bioinformatics]]"
+related_to:
+  - "[[Survival Analysis]]"
+  - "[[jsurvival]]"
+  - "[[Jamovi]]"
 ---
 
 # Kaplan Meier
@@ -96,3 +100,17 @@ Eğer R'da `jmv` paketi yüklüyse bu kodu kullanarak da analizi yapmak mümkün
 `ci = TRUE,`
 
 `cens = TRUE)`
+
+---
+
+## Modern jamovi Çözümü: jsurvival
+
+[jamovi]([[Jamovi]]) için güncel ve kapsamlı sağkalım analizi **[[jsurvival]]** (ClinicoPath Survival) modülü ile sunulmaktadır:
+- Kaplan-Meier eğrileri, KMunicate formatında risk tabloları
+- 1, 3 ve 5 yıllık sağkalım oranları
+- Tek değişkenli ve çok değişkenli Cox regresyonu, düzeltilmiş eğriler ve forest plotlar
+- Sürekli biyobelirteçler için optimal eşik değeri (cut-off) keşfi (`survivalcont`)
+- Yarışan riskler (competing risks) ve kümülatif insidans analizleri (`singlearm`)
+- Kişi-zaman (person-time) ve insidans hızı hesaplamaları
+- Otomatik doğal dil (plain-English) klinik özetleri
+

@@ -48,6 +48,7 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[Articles on computational, digital, and mathematical pathology]]"
   - "[[Cognitive biases in AI–assisted medical decision making - A structured review as a primer for veterinary and human pathology]]"
+  - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
   - "[[Pathology AI Integration: A Systems View]]"
 ---
 

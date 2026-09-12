@@ -57,3 +57,10 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 * ROC Analysis in Biomarker Combination with Covariate Adjustment
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682803/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682803/)
+
+---
+
+## jamovi & R Implementation
+
+- **[[meddecide]]**: Provides comprehensive clinical ROC curve construction, DeLong and bootstrap confidence intervals, and optimal cutpoint determination (Youden Index, closest-to-(0,1), and cost-weighted thresholds) via **`enhancedROC`** and **`psychopdaROC`**. See [[meddecide]].
+- **[[Sensitivity, Specificity, Predictive Values & Decision Making]]**: Foundational 2x2 diagnostic testing concepts.
