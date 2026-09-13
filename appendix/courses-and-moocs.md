@@ -48,6 +48,12 @@ Open-source repository of 5 university-level AI courses (Computer Vision, Natura
 
 A course on Bayesian data analysis, scientific modeling, causal DAGs, and computational workflows using R, Stan (`cmdstanr`), and the `rethinking` package. Features 10-week dual tracks (Beginner and Experienced) with recorded video lectures on YouTube.
 
+* **[[From Samples to Knowledge 2025: QuPath Training Course]]** — Zbigniew Mikulski & Sara McArdle (La Jolla Institute for Immunology)
+
+[https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+
+Hands-on 2-day workshop covering high-plex tissue imaging (RareCyte Orion 18-plex), QuPath v0.6.0+ project workflows, deep learning segmentation (InstanSeg, StarDist, Cellpose, SAM), Groovy scripting automation, composite object phenotyping, multimodal image registration (Warpy), spatial metrics, and Python clustering (QuBylab / Paquo). Step-by-step training book at [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html).
+
 ## Tutorials
 
 r-statistics.co

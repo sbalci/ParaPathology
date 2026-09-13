@@ -126,3 +126,16 @@ Modernized, high-throughput nuclear instance segmentation and classification pip
 {% embed url="https://github.com/digitalpathologybern/hover_next_train" %}
 
 {% embed url="https://github.com/digitalpathologybern/hover_next_inference" %}
+
+### [From Samples to Knowledge 2025: QuPath Training Course](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+
+Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr. Zbigniew Mikulski & Dr. Sara McArdle) targeting modern QuPath v0.6.0+ bioimage workflows. Covers 18-plex multiplex immunofluorescence (RareCyte Orion), native deep-learning cell segmentation via Deep Java Library (DJL / InstanSeg), Groovy scripting pipelines for batch cohort processing, complex multi-marker composite phenotyping, multimodal image registration (Warpy / `qupath-extension-warpy`), spatial proximity/density metrics, and interactive Python/Jupyter bridging (QuBylab / Paquo) — see dedicated course note: [[From Samples to Knowledge 2025: QuPath Training Course]].
+
+- **Course Book:** [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html)
+- **Repository:** [saramcardle/FS2K](https://github.com/saramcardle/FS2K)
+- **Video Playlist:** [YouTube Playlist (14 videos)](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+- **Registration Tool:** [BIOP/qupath-extension-warpy](https://github.com/BIOP/qupath-extension-warpy)
+
+{% embed url="https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp" %}
+
+{% embed url="https://github.com/saramcardle/FS2K" %}

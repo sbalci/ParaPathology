@@ -80,3 +80,11 @@ belongs_to: "[[Appendix]]"
 
 * [digitalpathologybern/hover_next_inference](https://github.com/digitalpathologybern/hover_next_inference) — Multi-threaded whole-slide image inference pipeline and QuPath export for HoVer-NeXt. See [[HoVer-NeXt]].
 
+{% embed url="https://github.com/saramcardle/FS2K" %}
+
+* [saramcardle/FS2K](https://github.com/saramcardle/FS2K) — From Samples to Knowledge: QuPath training course materials, step-by-step Jupyter notebooks, and workflows by Sara McArdle and Zbigniew Mikulski (La Jolla Institute for Immunology). See [[From Samples to Knowledge 2025: QuPath Training Course]].
+
+{% embed url="https://github.com/BIOP/qupath-extension-warpy" %}
+
+* [BIOP/qupath-extension-warpy](https://github.com/BIOP/qupath-extension-warpy) — QuPath extension for multi-modal, non-rigid whole-slide image registration using elastix and BigWarp.
+
