@@ -34,6 +34,20 @@ belongs_to: "[[Appendix]]"
 
 {% embed url="https://github.com/sbalci/jsurvival" %}
 
+* [sbalci/jsurvival](https://github.com/sbalci/jsurvival) — Comprehensive survival analysis module for jamovi and R with Kaplan-Meier, Cox regression, continuous cutpoint discovery, stage migration, and competing risks. See [[jsurvival]].
+
+{% embed url="https://github.com/sbalci/ClinicoPathDescriptives" %}
+
+* [sbalci/ClinicoPathDescriptives](https://github.com/sbalci/ClinicoPathDescriptives) — Descriptive analysis, Table 1, data quality validation, and visualization for clinicopathological research. See [[ClinicoPathDescriptives]].
+
+{% embed url="https://github.com/sbalci/jjstatsplot" %}
+
+* [sbalci/jjstatsplot](https://github.com/sbalci/jjstatsplot) — Statistical visualization wrapper for ggstatsplot in jamovi with 18 analysis types. See [[jjstatsplot]].
+
+{% embed url="https://github.com/sbalci/meddecide" %}
+
+* [sbalci/meddecide](https://github.com/sbalci/meddecide) — Medical decision analysis, diagnostic test accuracy, ROC cutpoint optimization, and reliability toolkit for jamovi and R. See [[meddecide]].
+
 {% embed url="https://github.com/bibliometrics" %}
 
 {% embed url="https://github.com/biostatistical" %}

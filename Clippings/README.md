@@ -40,5 +40,7 @@ rewritten in your own words with a citation.
 * [Cognitive biases in AI-assisted medical decision making: A structured review as a primer for veterinary and human pathology](Cognitive%20biases%20in%20AI-assisted%20medical%20decision%20making%20-%20A%20structured%20review%20as%20a%20primer%20for%20veterinary%20and%20human%20pathology.md)
 * [Screening efficiency over experience: Rapid target detection in low-power field as a modifiable cognitive biomarker for diagnostic accuracy in digital cytology](Screening%20efficiency%20over%20experience%20-%20Rapid%20target%20detection%20in%20low-power%20field%20as%20a%20modifiable%20cognitive%20biomarker%20for%20diagnostic%20accuracy%20in%20digital%20cytology.md)
 * [From Samples to Knowledge 2025: QuPath Training Course](From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)
+* [Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center](Ethical%20guidelines%20for%20deploying%20artificial%20intelligence%20applications%20in%20the%20pathology%20field%20-%20Lessons%20learned%20from%20a%20prospective%20framework%20in%20a%20large%20tertiary%20care%20academic%20medical%20center.md)
+
 
 <!-- tolaria:children:end -->
