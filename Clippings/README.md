@@ -33,5 +33,6 @@ rewritten in your own words with a citation.
 * [Solving Unpopular Problems: The QuPath Story](Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
 * [Towards robust foundation models for digital pathology](Towards%20robust%20foundation%20models%20for%20digital%20pathology.md)
 * [A distributional robustness margin for pathology foundation models](A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md)
+* [The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth](The%20Gold%20Standard%20Paradox%20in%20Digital%20Image%20Analysis%20Manual%20Versus%20Automated%20Scoring%20as%20Ground%20Truth.md)
 
 <!-- tolaria:children:end -->
