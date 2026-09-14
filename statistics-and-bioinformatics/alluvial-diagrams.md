@@ -6,6 +6,8 @@ aliases:
   - "Alluvial Diagrams"
 order: 240
 belongs_to: "[[Statistics and Bioinformatics]]"
+related_to:
+  - "[[ClinicoPathDescriptives]]"
 ---
 
 # Alluvial Diagrams
@@ -21,3 +23,8 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 ## Alluvial Diagrams in ggplot2
 
 [http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html](http://corybrunson.github.io/ggalluvial/articles/ggalluvial.html)
+
+## In jamovi & Clinical Workflows
+
+- **[ClinicoPathDescriptives](clinicopath-descriptives.md)**: Features an integrated `alluvial` module (under **Exploration ▸ ClinicoPath Descriptive Plots**) that generates interactive alluvial diagrams for patient trajectories, treatment stages, and outcome flows using both `ggalluvial` and `easyalluvial` engines.
+

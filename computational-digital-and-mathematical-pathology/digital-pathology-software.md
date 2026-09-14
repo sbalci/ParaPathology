@@ -6,13 +6,27 @@ aliases:
   - "Digital Pathology Software"
 order: 40
 belongs_to: "[[Digital Pathology]]"
+related_to:
+  - "[[HoVer-NeXt]]"
+  - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
 ---
 
 # Digital Pathology Software
 
-### [Cytomine](https://cytomine.be/)
+### [Cytomine](https://uliege.cytomine.org/)
 
-{% embed url="https://cytomine.be/" %}
+Open-source, web-based platform for multi-gigapixel whole-slide image management, collaborative multi-observer annotation (PostGIS-backed spatial geometries), and distributed algorithmic analysis. See dedicated tool note: [Cytomine](cytomine.md).
+
+- **GitHub:** [cytomine/cytomine](https://github.com/cytomine/cytomine)
+- **Academic Portal:** [uliege.cytomine.org](https://uliege.cytomine.org/)
+- **Documentation:** [doc.uliege.cytomine.org](https://doc.uliege.cytomine.org/)
+- **TIA Centre Cytomine Apps:** [TissueImageAnalytics/cytomine-app](https://github.com/TissueImageAnalytics/cytomine-app) — Wraps TIAToolbox models (`cytomine-hovernet`, `cytomine-kongnet`, `cytomine-interactive-segmentation-nuclick`) into Cytomine Docker apps.
+
+{% embed url="https://github.com/cytomine/cytomine" %}
+
+{% embed url="https://uliege.cytomine.org/" %}
+
+{% embed url="https://github.com/TissueImageAnalytics/cytomine-app" %}
 
 ### [ePMA.start – universal whole slide image viewer for digital pathology  **An end-user viewer and tile server in one convenient package**](https://free.pathomation.com/)\*\*\*\*
 
@@ -103,3 +117,28 @@ Its real value here is the **frozen-baseline table**: UNI-2-h, H-optimus-0, Virc
 {% embed url="https://github.com/MedARC-AI/nanopath" %}
 
 {% embed url="https://huggingface.co/datasets/medarc/nanopath" %}
+
+### [HoVer-NeXt](https://github.com/digitalpathologybern/hover_next_train)
+
+Modernized, high-throughput nuclear instance segmentation and classification pipeline from the University of Bern (Digital Pathology group / Prof. Inti Zlobec; Baumann et al., MIDL 2024). Re-engineers the classic HoVer-Net architecture using ConvNeXt-V2 backbones (Tiny/Base/Large), decoupled multi-head U-Net decoders (5-channel distance maps and multi-class cell typing), native multi-threaded whole-slide inference (OpenSlide, CZI, Zarr), and direct export to QuPath `.tsv` measurement tables. Pretrained checkpoints available on Zenodo for Lizard-Mitosis (7 classes) and PanNuke (5 classes across 19 tissues) — see [HoVer-NeXt](hover-next.md).
+
+- **Training Code:** [digitalpathologybern/hover_next_train](https://github.com/digitalpathologybern/hover_next_train)
+- **Inference Pipeline:** [digitalpathologybern/hover_next_inference](https://github.com/digitalpathologybern/hover_next_inference)
+- **Paper:** [MIDL 2024 (OpenReview)](https://openreview.net/pdf?id=3vmB43oqIO)
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_train" %}
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_inference" %}
+
+### [From Samples to Knowledge 2025: QuPath Training Course](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+
+Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr. Zbigniew Mikulski & Dr. Sara McArdle) targeting modern QuPath v0.6.0+ bioimage workflows. Covers 18-plex multiplex immunofluorescence (RareCyte Orion), native deep-learning cell segmentation via Deep Java Library (DJL / InstanSeg), Groovy scripting pipelines for batch cohort processing, complex multi-marker composite phenotyping, multimodal image registration (Warpy / `qupath-extension-warpy`), spatial proximity/density metrics, and interactive Python/Jupyter bridging (QuBylab / Paquo) — see dedicated course note: [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md).
+
+- **Course Book:** [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html)
+- **Repository:** [saramcardle/FS2K](https://github.com/saramcardle/FS2K)
+- **Video Playlist:** [YouTube Playlist (14 videos)](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+- **Registration Tool:** [BIOP/qupath-extension-warpy](https://github.com/BIOP/qupath-extension-warpy)
+
+{% embed url="https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp" %}
+
+{% embed url="https://github.com/saramcardle/FS2K" %}

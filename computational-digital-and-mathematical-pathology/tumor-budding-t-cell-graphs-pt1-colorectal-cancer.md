@@ -2,7 +2,10 @@
 type: Note
 status: Evergreen
 belongs_to: "[[Digital Pathology]]"
-related_to: "[[Image Analysis]]"
+related_to:
+  - "[[Image Analysis]]"
+  - "[[Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016]]"
+  - "[[Distance-based evaluation of tumor budding in colorectal cancer]]"
 url: https://openreview.net/forum?id=ruaXPgZCk6i
 repository: https://github.com/digitalpathologybern/pT1-HBTG-MIDL2023
 dataset: https://doi.org/10.5281/zenodo.7867085
@@ -27,7 +30,7 @@ pT1 colorectal cancers (submucosal invasion only) are increasingly found at scre
 
 The paper represents each tumor budding hotspot as a **graph of tumor buds and T-cells** and classifies it with graph neural networks:
 
-- One ITBCC-style budding hotspot (0.785 mm², level 0) per WSI; tumor buds and T-cells are detected automatically on immunostained slides (WSI digitized on a 3DHISTECH Pannoramic 250 at 0.243 µm/px).
+- One [ITBCC](../Clippings/Recommendations%20for%20reporting%20tumor%20budding%20in%20colorectal%20cancer%20based%20on%20the%20International%20Tumor%20Budding%20Consensus%20Conference%20%28ITBCC%29%202016.md)-style budding hotspot (0.785 mm², level 0) per WSI; tumor buds and T-cells are detected automatically on immunostained slides (WSI digitized on a 3DHISTECH Pannoramic 250 at 0.243 µm/px).
 - **Nodes** = buds and lymphocytes, with x/y coordinates (µm), element type, and ImageNet DINO ViT features; **edges** carry inter-node distance, with several graph-construction variants compared (Delaunay triangulation, kNN, distance/hierarchical cutoffs).
 - **Classifiers**: GNN architectures (GraphSAGE, GIN with jumping knowledge, and variants) built on PyTorch Geometric + PyTorch Lightning, trained with 5-fold cross-validation and model ensembling, predicting the patient's lymph node status.
 - Model selection is clinically anchored: configurations whose specificity falls below the guideline baseline at comparable sensitivity are discarded.
@@ -51,4 +54,5 @@ The GitHub repo is a general graph-classification framework rather than a single
 - Tumor budding is already a guideline-relevant biomarker in pT1 CRC, but conventional bud counting ignores the immune context; this paper operationalizes the **bud–T-cell spatial interplay** as a measurable, machine-readable structure.
 - The specificity framing matches the actual clinical decision (avoiding overtreatment after complete endoscopic resection), rather than optimizing an abstract accuracy metric.
 - A rare case where the graphs, splits, images, and code are all released — the restricted Zenodo gate is a form, not a wall — making it a realistic starting point for graph-based biomarker work on other cohorts.
+- **Relation to bud dispersion metrics:** Contrast with [Distance-based evaluation of tumor budding in colorectal cancer](../Clippings/Distance-based%20evaluation%20of%20tumor%20budding%20in%20colorectal%20cancer.md) (Äijälä et al., 2026), which demonstrated that bud migration distance away from the tumor bulk adds zero incremental prognostic value beyond ITBCC counts due to collinearity. The true value in cell-graph modeling stems from multi-cellular microenvironmental topologies (bud–lymphocyte interaction) rather than simple bud dispersion depth alone.
 - Caveats: absolute specificity (42.5%) is still modest; results come from one scanner/staining pipeline and hotspot-level analysis; and the code/paper mismatches above mean exact reproduction requires contacting the authors.

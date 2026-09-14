@@ -6,6 +6,9 @@ aliases:
   - "Courses and MOOCs"
 order: 10
 belongs_to: "[[Appendix]]"
+related_to:
+  - "[[Statistical Rethinking (2026 Edition)]]"
+  - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
 ---
 
 # Courses and MOOCs
@@ -41,6 +44,18 @@ belongs_to: "[[Appendix]]"
 [https://github.com/KAUST-Academy/Artificial-Intelligence-Courses](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses)
 
 Open-source repository of 5 university-level AI courses (Computer Vision, Natural Language Processing, Reinforcement Learning, Introduction to AI, and Generative AI) including 64 LaTeX/Beamer lecture slide decks (~4,800 pages), compiled PDFs, and 291 Jupyter lab exercises/solution notebooks.
+
+* **[Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)** — Richard McElreath
+
+[https://github.com/rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
+
+A course on Bayesian data analysis, scientific modeling, causal DAGs, and computational workflows using R, Stan (`cmdstanr`), and the `rethinking` package. Features 10-week dual tracks (Beginner and Experienced) with recorded video lectures on YouTube.
+
+* **[From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)** — Zbigniew Mikulski & Sara McArdle (La Jolla Institute for Immunology)
+
+[https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+
+Hands-on 2-day workshop covering high-plex tissue imaging (RareCyte Orion 18-plex), QuPath v0.6.0+ project workflows, deep learning segmentation (InstanSeg, StarDist, Cellpose, SAM), Groovy scripting automation, composite object phenotyping, multimodal image registration (Warpy), spatial metrics, and Python clustering (QuBylab / Paquo). Step-by-step training book at [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html).
 
 ## Tutorials
 

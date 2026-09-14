@@ -6,6 +6,8 @@ aliases:
   - "Online R Books"
 order: 10
 belongs_to: "[[R-project]]"
+related_to:
+  - "[[Statistical Rethinking (2026 Edition)]]"
 ---
 
 # Online R Books
@@ -25,3 +27,9 @@ belongs_to: "[[R-project]]"
 * Cookbook for R
 
 [http://www.cookbook-r.com/](http://www.cookbook-r.com/)
+
+* Statistical Rethinking: A Bayesian Course with Examples in R and Stan — Richard McElreath
+
+[https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
+
+See also [Statistical Rethinking (2026 Edition)](../../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md).

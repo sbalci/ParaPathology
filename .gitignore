@@ -45,11 +45,17 @@ parapathology-to-be-organised
 __packages
 presentations
 .DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
 
 /.obsidian
 GEMINI.md
 CLAUDE.md
 AGENTS.md
-AGENTS.md
-CLAUDE.md
-GEMINI.md
+
+# Agent & MCP configuration (machine-specific paths between Windows and Mac)
+.agents/mcp_config.json
+.agents/*.json
+
+
