@@ -102,3 +102,35 @@ belongs_to: "[[Appendix]]"
 
 * [BIOP/qupath-extension-warpy](https://github.com/BIOP/qupath-extension-warpy) — QuPath extension for multi-modal, non-rigid whole-slide image registration using elastix and BigWarp.
 
+{% embed url="https://github.com/cobanov/awesome-fly" %}
+
+* [cobanov/awesome-fly](https://github.com/cobanov/awesome-fly) — A curated collection of fruit fly (*Drosophila melanogaster*) connectome projects, covering MaleCNS, FlyWire, whole-brain simulations, embodied models, games, and graph analysis toolkits by Mert Cobanov. See [[Awesome Fly: Curated Fruit Fly Connectome Projects]].
+
+{% embed url="https://github.com/cobanov/fly-connectome-template" %}
+
+* [cobanov/fly-connectome-template](https://github.com/cobanov/fly-connectome-template) — Starter template for fruit fly connectome experiments combining the MaleCNS soma atlas, Flybody mesh, and a React + Three.js workbench.
+
+{% embed url="https://github.com/GPEC/Multiplex-immunofluorescence-image-analysis-with-QuPath" %}
+
+* [GPEC/Multiplex-immunofluorescence-image-analysis-with-QuPath](https://github.com/GPEC/Multiplex-immunofluorescence-image-analysis-with-QuPath) — Workshop files and exercises for Sebastian Gilbert’s open mIF image analysis course in QuPath (UBC MAPcore): installing QuPath, digital image concepts, tissue and cell segmentation, cell classification, and quantitative/spatial analysis. Slides on Zenodo (CC BY 4.0, doi:10.5281/zenodo.22084859). See [[Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images]].
+
+{% embed url="https://github.com/DIDSR/HistoGen" %}
+
+* [DIDSR/HistoGen](https://github.com/DIDSR/HistoGen) — Open-source computational pathology toolbox and conditional diffusion model (DDPM) developed by the FDA Center for Devices and Radiological Health (CDRH/DIDSR, Regulatory Science Tool RST26DP02.01) to generate synthetic cell nuclei and H&E histopathology images from segmentation masks. Checkpoints hosted on Hugging Face ([didsr/HistoGen](https://huggingface.co/didsr/HistoGen)). See [[HistoGen: Histopathology Cell Nuclei Image Generation Tool]] and [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]].
+
+{% embed url="https://github.com/DIDSR/HTT" %}
+
+* [DIDSR/HTT](https://github.com/DIDSR/HTT) — R package and validation dataset from the FDA CDRH/DIDSR High-Throughput Truthing (HTT) project (Regulatory Science Tool RST26DP01.01). Contains 7,898 stromal tumor-infiltrating lymphocyte (sTILs) density annotations across 640 ROIs from 64 breast cancer WSIs with statistical utility functions for multi-reader multi-case (MRMC) agreement modeling. See [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]].
+
+{% embed url="https://github.com/DIDSR/DxGoals" %}
+
+* [DIDSR/DxGoals](https://github.com/DIDSR/DxGoals) — R-Shiny software application developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24MD19.01) for determining, visualizing, and analyzing clinically meaningful performance goals (sensitivity, specificity, positive/negative likelihood ratios) for diagnostic tests based on risk stratification thresholds. See [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]].
+
+{% embed url="https://github.com/DIDSR/SegVal-WSI" %}
+
+* [DIDSR/SegVal-WSI](https://github.com/DIDSR/SegVal-WSI) — Python performance evaluation tool developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24MD06.02) for digital pathology whole-slide image segmentation algorithms, computing pooled/macro Dice scores and bootstrapped confidence intervals across multi-ROI datasets. See [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]].
+
+{% embed url="https://github.com/didsr/ValidPath" %}
+
+* [didsr/ValidPath](https://github.com/didsr/ValidPath) — End-to-end WSI processing and ML performance assessment toolkit developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24CV11.01). Features standardized image patch extraction, back-mapping of detected ROIs into Aperio ImageScope-compatible XML annotations for pathologist review, and ROC/AUC performance evaluation with confidence intervals. See [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]].
+

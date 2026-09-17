@@ -26,5 +26,7 @@ belongs_to: "[[Systemic Pathology]]"
 ## In this section
 
 * [Prostate Pathology](prostate-pathology.md)
+* [Bladder Neuroendocrine Neoplasms](bladder-neuroendocrine-neoplasms.md)
+* [Renal Cell Neoplasia](renal-cell-neoplasia.md)
 
 <!-- tolaria:children:end -->
