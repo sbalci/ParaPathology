@@ -6,6 +6,12 @@ aliases:
   - "Sensitivity, Specificity, Predictive Values & Decision Making"
 order: 230
 belongs_to: "[[Statistics and Bioinformatics]]"
+related_to:
+  - "[[ROC analysis]]"
+  - "[[Jamovi]]"
+  - "[[meddecide]]"
+  - "[[Kappa]]"
+  - "[[Power Analysis]]"
 ---
 
 # Sensitivity, Specificity, Predictive Values & Decision Making
@@ -51,7 +57,7 @@ For a binary diagnostic test evaluated against an established reference standard
 
 6. **Youden's $J$ Index:**
    $$J = \text{Sensitivity} + \text{Specificity} - 1$$
-   Captures overall discriminative ability ($0 \le J \le 1$) and serves as a standard optimization metric for cutoff selection in [[ROC analysis]].
+   Captures overall discriminative ability ($0 \le J \le 1$) and serves as a standard optimization metric for cutoff selection in [ROC analysis](roc-analysis.md).
 
 ---
 
@@ -69,7 +75,7 @@ A **Fagan nomogram** graphically aligns pre-test probability, the calculated lik
 
 ## Tooling & Practical Implementation
 
-In the [jamovi]([[Jamovi]]) and R ecosystem, **[[meddecide]]** provides dedicated interactive and programmatic tools for medical decision analyses:
+In the [jamovi](jamovi.md) and R ecosystem, **[meddecide](meddecide.md)** provides dedicated interactive and programmatic tools for medical decision analyses:
 - **`decision`**: Computes all accuracy metrics with confidence intervals from patient raw data.
 - **`decisioncalculator`**: Instant $2 \times 2$ calculator using summary cell counts ($TP$, $FP$, $TN$, $FN$) without needing raw patient records.
 - **`decisioncompare`**: Compares multiple tests against a gold standard using McNemar's test and multi-axis radar plots.
@@ -80,9 +86,9 @@ In the [jamovi]([[Jamovi]]) and R ecosystem, **[[meddecide]]** provides dedicate
 ---
 
 ## See Also
-- **[[meddecide]]**
-- **[[ROC analysis]]**
-- **[[Kappa]]**
-- **[[Power Analysis]]**
-- **[[Jamovi]]**
-- **[[Statistics and Bioinformatics]]**
+- **[meddecide](meddecide.md)**
+- **[ROC analysis](roc-analysis.md)**
+- **[Kappa](kappa.md)**
+- **[Power Analysis](power-analysis.md)**
+- **[Jamovi](jamovi.md)**
+- **[Statistics and Bioinformatics](statistics-and-bioinformatics.md)**

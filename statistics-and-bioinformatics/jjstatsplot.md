@@ -1,6 +1,6 @@
 ---
 type: Tool
-status: Active
+status: Evergreen
 language: en
 aliases:
   - "jjstatsplot"
@@ -23,7 +23,7 @@ url: https://github.com/sbalci/jjstatsplot
 
 # jjstatsplot
 
-**jjstatsplot** is an open-source R package and [jamovi]([[Jamovi]]) module developed by Serdar Balci that wraps the [ggstatsplot](https://www.indrapatil.com/ggstatsplot/) framework (created by Indrajeet Patil) into an intuitive, point-and-click graphical interface for jamovi and a high-level programmatic interface for R.
+**jjstatsplot** is an open-source R package and [jamovi](jamovi.md) module developed by Serdar Balci that wraps the [ggstatsplot](https://www.indrapatil.com/ggstatsplot/) framework (created by Indrajeet Patil) into an intuitive, point-and-click graphical interface for jamovi and a high-level programmatic interface for R.
 
 Traditional scientific workflows typically decouple statistical hypothesis testing from data visualization, forcing researchers to manually run statistical tests in one step and subsequently annotate plots or write captions in another. **jjstatsplot** combines statistical analysis and data visualization into single, cohesive, publication-ready graphics that automatically embed test statistics, $p$-values, effect sizes with confidence intervals, sample sizes, and Bayesian factors directly in plot annotations.
 

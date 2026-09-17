@@ -18,11 +18,11 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 ## Extensions & Modules
 
-- **[[ClinicoPathDescriptives]]**: A comprehensive jamovi module and R package for descriptive statistics, Table 1 generation, cross-tabulations with post-hoc checks, data quality screening (Benford's law, outlier detection), and clinical visualizations (alluvial diagrams, Venn/UpSet plots, age pyramids, variable trees).
-- **[[jjstatsplot]]**: A jamovi module and R package wrapping `ggstatsplot` with 18 analysis types, creating publication-ready statistical visualizations with embedded test results (parametric, non-parametric, robust, Bayesian), raincloud plots, ridge plots, arc diagrams, and waffle charts.
-- **[[meddecide]]**: A jamovi module and R package for medical decision analysis, diagnostic test accuracy (DTA), multi-test combination and sequential testing, clinical ROC cutpoint optimization, inter-rater reliability (Cohen's/Fleiss' Kappa), and sample size planning for agreement studies.
-- **[[jsurvival]]**: A comprehensive jamovi module and R package for survival analysis, providing Kaplan-Meier estimation with KMunicate risk tables, univariate and multivariable Cox proportional hazards modeling, continuous biomarker cutpoint discovery, competing risks, person-time calculations, and cancer stage migration analysis.
-- **[[askLLM]]**: An LLM-powered statistical copilot module for jamovi. Features a **Module Guider** (directs you to the exact jamovi analysis menu path) and an **R Code Tutor** (generates R code for the **Rj Editor**), with local LLM (Ollama) support for privacy-preserving data analysis.
+- **[ClinicoPathDescriptives](clinicopath-descriptives.md)**: A comprehensive jamovi module and R package for descriptive statistics, Table 1 generation, cross-tabulations with post-hoc checks, data quality screening (Benford's law, outlier detection), and clinical visualizations (alluvial diagrams, Venn/UpSet plots, age pyramids, variable trees).
+- **[jjstatsplot](jjstatsplot.md)**: A jamovi module and R package wrapping `ggstatsplot` with 18 analysis types, creating publication-ready statistical visualizations with embedded test results (parametric, non-parametric, robust, Bayesian), raincloud plots, ridge plots, arc diagrams, and waffle charts.
+- **[meddecide](meddecide.md)**: A jamovi module and R package for medical decision analysis, diagnostic test accuracy (DTA), multi-test combination and sequential testing, clinical ROC cutpoint optimization, inter-rater reliability (Cohen's/Fleiss' Kappa), and sample size planning for agreement studies.
+- **[jsurvival](jsurvival.md)**: A comprehensive jamovi module and R package for survival analysis, providing Kaplan-Meier estimation with KMunicate risk tables, univariate and multivariable Cox proportional hazards modeling, continuous biomarker cutpoint discovery, competing risks, person-time calculations, and cancer stage migration analysis.
+- **[askLLM](askllm.md)**: An LLM-powered statistical copilot module for jamovi. Features a **Module Guider** (directs you to the exact jamovi analysis menu path) and an **R Code Tutor** (generates R code for the **Rj Editor**), with local LLM (Ollama) support for privacy-preserving data analysis.
 
 <!-- tolaria:children:start -->
 

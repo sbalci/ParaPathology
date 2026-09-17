@@ -1,6 +1,6 @@
 ---
 type: Tool
-status: Active
+status: Developing
 language: en
 aliases:
   - "askLLM"
@@ -18,7 +18,7 @@ url: https://github.com/SCgeeker/askLLM
 
 # askLLM
 
-**askLLM** is an open-source [jamovi]([[Jamovi]]) module developed by SCgeeker that integrates large language models directly into the jamovi statistical workflow. It operates strictly as an **analytical copilot (not an autopilot)**: it assists researchers by suggesting appropriate jamovi menu paths and generating executable R code, while leaving execution, parameter validation, and statistical interpretation in the user's hands.
+**askLLM** is an open-source [jamovi](jamovi.md) module developed by SCgeeker that integrates large language models directly into the jamovi statistical workflow. It operates strictly as an **analytical copilot (not an autopilot)**: it assists researchers by suggesting appropriate jamovi menu paths and generating executable R code, while leaving execution, parameter validation, and statistical interpretation in the user's hands.
 
 - **GitHub Repository:** [SCgeeker/askLLM](https://github.com/SCgeeker/askLLM)
 - **Tutorials & Prompt Library:** [stat-skills-tutorials](https://scgeeker.github.io/stat-skills-tutorials/)

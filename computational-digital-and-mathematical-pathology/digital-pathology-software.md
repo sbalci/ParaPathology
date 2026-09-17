@@ -6,6 +6,9 @@ aliases:
   - "Digital Pathology Software"
 order: 40
 belongs_to: "[[Digital Pathology]]"
+related_to:
+  - "[[HoVer-NeXt]]"
+  - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
 ---
 
 # Digital Pathology Software
@@ -117,7 +120,7 @@ Its real value here is the **frozen-baseline table**: UNI-2-h, H-optimus-0, Virc
 
 ### [HoVer-NeXt](https://github.com/digitalpathologybern/hover_next_train)
 
-Modernized, high-throughput nuclear instance segmentation and classification pipeline from the University of Bern (Digital Pathology group / Prof. Inti Zlobec; Baumann et al., MIDL 2024). Re-engineers the classic HoVer-Net architecture using ConvNeXt-V2 backbones (Tiny/Base/Large), decoupled multi-head U-Net decoders (5-channel distance maps and multi-class cell typing), native multi-threaded whole-slide inference (OpenSlide, CZI, Zarr), and direct export to QuPath `.tsv` measurement tables. Pretrained checkpoints available on Zenodo for Lizard-Mitosis (7 classes) and PanNuke (5 classes across 19 tissues) — see [[HoVer-NeXt]].
+Modernized, high-throughput nuclear instance segmentation and classification pipeline from the University of Bern (Digital Pathology group / Prof. Inti Zlobec; Baumann et al., MIDL 2024). Re-engineers the classic HoVer-Net architecture using ConvNeXt-V2 backbones (Tiny/Base/Large), decoupled multi-head U-Net decoders (5-channel distance maps and multi-class cell typing), native multi-threaded whole-slide inference (OpenSlide, CZI, Zarr), and direct export to QuPath `.tsv` measurement tables. Pretrained checkpoints available on Zenodo for Lizard-Mitosis (7 classes) and PanNuke (5 classes across 19 tissues) — see [HoVer-NeXt](hover-next.md).
 
 - **Training Code:** [digitalpathologybern/hover_next_train](https://github.com/digitalpathologybern/hover_next_train)
 - **Inference Pipeline:** [digitalpathologybern/hover_next_inference](https://github.com/digitalpathologybern/hover_next_inference)
@@ -129,7 +132,7 @@ Modernized, high-throughput nuclear instance segmentation and classification pip
 
 ### [From Samples to Knowledge 2025: QuPath Training Course](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
 
-Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr. Zbigniew Mikulski & Dr. Sara McArdle) targeting modern QuPath v0.6.0+ bioimage workflows. Covers 18-plex multiplex immunofluorescence (RareCyte Orion), native deep-learning cell segmentation via Deep Java Library (DJL / InstanSeg), Groovy scripting pipelines for batch cohort processing, complex multi-marker composite phenotyping, multimodal image registration (Warpy / `qupath-extension-warpy`), spatial proximity/density metrics, and interactive Python/Jupyter bridging (QuBylab / Paquo) — see dedicated course note: [[From Samples to Knowledge 2025: QuPath Training Course]].
+Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr. Zbigniew Mikulski & Dr. Sara McArdle) targeting modern QuPath v0.6.0+ bioimage workflows. Covers 18-plex multiplex immunofluorescence (RareCyte Orion), native deep-learning cell segmentation via Deep Java Library (DJL / InstanSeg), Groovy scripting pipelines for batch cohort processing, complex multi-marker composite phenotyping, multimodal image registration (Warpy / `qupath-extension-warpy`), spatial proximity/density metrics, and interactive Python/Jupyter bridging (QuBylab / Paquo) — see dedicated course note: [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md).
 
 - **Course Book:** [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html)
 - **Repository:** [saramcardle/FS2K](https://github.com/saramcardle/FS2K)

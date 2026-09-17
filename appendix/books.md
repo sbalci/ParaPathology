@@ -4,6 +4,8 @@ status: Developing
 language: bilingual
 order: 30
 belongs_to: "[[Appendix]]"
+related_to:
+  - "[[Statistical Rethinking (2026 Edition)]]"
 ---
 
 # Books
@@ -30,7 +32,7 @@ belongs_to: "[[Appendix]]"
 
 [http://bioinformaticsalgorithms.com/](http://bioinformaticsalgorithms.com)
 
-* [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/) — Richard McElreath (see also [[Statistical Rethinking (2026 Edition)]])
+* [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/) — Richard McElreath (see also [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md))
 
 * [https://tinyletter.com/data-is-plural/archive](https://tinyletter.com/data-is-plural/archive)
 

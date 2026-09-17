@@ -95,7 +95,7 @@ The investigation evaluated **1,876 stage I–IV surgically treated CRC patients
   - High WHO histological grade ($p < 0.001$)
   - Lymphovascular invasion (LVI, $p < 0.001$)
   - Mismatch repair proficiency (pMMR, $p < 0.003$)
-  - High [[Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016|ITBCC tumor budding grade]] ($p < 0.001$).
+  - High [ITBCC tumor budding grade](Recommendations%20for%20reporting%20tumor%20budding%20in%20colorectal%20cancer%20based%20on%20the%20International%20Tumor%20Budding%20Consensus%20Conference%20%28ITBCC%29%202016.md) ($p < 0.001$).
 
 ### 2. Standalone Survival Impact
 In multivariable Cox proportional hazards models adjusting for age, sex, surgery year, tumor site, stage, grade, LVI, MMR status, and BRAF mutation:
@@ -111,6 +111,6 @@ In multivariable Cox proportional hazards models adjusting for age, sex, surgery
 
 ## Practical and Computational Implications
 
-1. **Diagnostic Pathology:** Pathologists do not need to measure bud migration distance with digital calipers or micrometer reticles in daily diagnostic practice. Standard [[Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016|ITBCC hotspot counts]] remain the clinical gold standard.
+1. **Diagnostic Pathology:** Pathologists do not need to measure bud migration distance with digital calipers or micrometer reticles in daily diagnostic practice. Standard [ITBCC hotspot counts](Recommendations%20for%20reporting%20tumor%20budding%20in%20colorectal%20cancer%20based%20on%20the%20International%20Tumor%20Budding%20Consensus%20Conference%20%28ITBCC%29%202016.md) remain the clinical gold standard.
 2. **Visual Clue:** Far-flung buds deep in the stroma should prompt the pathologist to re-examine the invasive front for a higher-density budding hotspot that might have been overlooked.
-3. **Computational Pathology & Graph Models:** While manual measurement is redundant for humans, automated digital pathology algorithms (e.g. [[Tumor budding T-cell graphs for pT1 colorectal cancer]]) can compute tumor bulk boundaries and bud dispersion distances automatically, providing an objective continuous spatial descriptor of invasive margin topology.
+3. **Computational Pathology & Graph Models:** While manual measurement is redundant for humans, automated digital pathology algorithms (e.g. Tumor budding T-cell graphs for pT1 colorectal cancer) can compute tumor bulk boundaries and bud dispersion distances automatically, providing an objective continuous spatial descriptor of invasive margin topology.

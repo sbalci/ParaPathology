@@ -4,7 +4,7 @@ status: Evergreen
 language: en
 title: "Statistical Rethinking (2026 Edition)"
 source: "https://github.com/rmcelreath/stat_rethinking_2026"
-source_type: course
+source_type: repository
 author:
   - "[[Richard McElreath]]"
 published: 2026-01-06

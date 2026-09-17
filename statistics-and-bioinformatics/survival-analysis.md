@@ -10,6 +10,7 @@ related_to:
   - "[[Kaplan Meier]]"
   - "[[jsurvival]]"
   - "[[Statistics and Bioinformatics]]"
+  - "[[Jamovi]]"
 ---
 
 # Survival Analysis
@@ -31,7 +32,7 @@ In pathology and oncology, survival analysis forms the evidentiary backbone for 
 - **Censoring:** Incomplete observation where the event has not occurred by the close of the study window, or the patient is lost to follow-up (right-censoring). Censoring assumes non-informative / random drop-out.
 
 ### 2. Core Estimation Frameworks
-- **[[Kaplan Meier]] Estimator:** Non-parametric stepwise product-limit estimate of survival probability over time $S(t) = \prod_{t_i \le t} \left(1 - \frac{d_i}{n_i}\right)$, providing median survival times and 1-, 3-, and 5-year survival rates.
+- **[Kaplan Meier](kaplan-meier.md) Estimator:** Non-parametric stepwise product-limit estimate of survival probability over time $S(t) = \prod_{t_i \le t} \left(1 - \frac{d_i}{n_i}\right)$, providing median survival times and 1-, 3-, and 5-year survival rates.
 - **Log-Rank (Mantel-Cox) Test:** Non-parametric hypothesis test comparing survival distributions between two or more groups under equal event weighting across time.
 - **Cox Proportional Hazards Regression:** Semi-parametric regression model assessing the impact of multiple covariates on the hazard rate:
   $$h(t | X) = h_0(t) \exp\left(\sum_{j=1}^p \beta_j X_j\right)$$
@@ -43,8 +44,8 @@ In pathology and oncology, survival analysis forms the evidentiary backbone for 
 
 ## Tools in the Vault
 
-- **[[jsurvival]]**: Dedicated [jamovi]([[Jamovi]]) module and R package developed by Serdar Balci for clinical survival workflows—providing Kaplan-Meier curves with KMunicate risk tables, univariate and multivariable Cox modeling, continuous biomarker cutpoint discovery, competing risks, person-time calculations, and cancer stage migration analysis.
-- **[[Kaplan Meier]]**: Detailed Turkish and English notes on Kaplan-Meier curve construction, log-rank testing, and jamovi workflows.
+- **[jsurvival](jsurvival.md)**: Dedicated [jamovi](jamovi.md) module and R package developed by Serdar Balci for clinical survival workflows—providing Kaplan-Meier curves with KMunicate risk tables, univariate and multivariable Cox modeling, continuous biomarker cutpoint discovery, competing risks, person-time calculations, and cancer stage migration analysis.
+- **[Kaplan Meier](kaplan-meier.md)**: Detailed Turkish and English notes on Kaplan-Meier curve construction, log-rank testing, and jamovi workflows.
 
 ---
 

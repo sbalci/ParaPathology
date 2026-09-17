@@ -1,6 +1,6 @@
 ---
 type: Tool
-status: Active
+status: Developing
 language: en
 aliases:
   - "jsurvival"
@@ -26,7 +26,7 @@ url: https://github.com/sbalci/jsurvival
 
 # jsurvival
 
-**jsurvival** is an open-source R package and [jamovi]([[Jamovi]]) module developed by Serdar Balci that provides a comprehensive, clinical-grade environment for time-to-event and survival analysis in medical, pathological, and oncology research.
+**jsurvival** is an open-source R package and [jamovi](jamovi.md) module developed by Serdar Balci that provides a comprehensive, clinical-grade environment for time-to-event and survival analysis in medical, pathological, and oncology research.
 
 As the dedicated survival engine of the **ClinicoPath** biostatistical ecosystem, `jsurvival` bridges complex mathematical survival methodologies—such as Kaplan-Meier estimation with transparent risk tables, univariate and multivariable Cox proportional hazards regression, continuous biomarker cutpoint discovery, person-time incidence calculations, competing risks, and stage migration modeling—into an accessible point-and-click GUI within jamovi paired with a robust, reproducible R programming interface.
 
@@ -41,7 +41,7 @@ As the dedicated survival engine of the **ClinicoPath** biostatistical ecosystem
 
 ## Core Capabilities & jamovi Ribbon Architecture
 
-In [jamovi]([[Jamovi]]) ($\ge 2.7.27$), `jsurvival` integrates directly into the top **Analyses** ribbon under the **Survival** menu group, organized into four specialized functional subgroups:
+In [jamovi](jamovi.md) ($\ge 2.7.27$), `jsurvival` integrates directly into the top **Analyses** ribbon under the **Survival** menu group, organized into four specialized functional subgroups:
 
 ```
 Analyses Ribbon

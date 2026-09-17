@@ -33,6 +33,7 @@ related_to:
   - "[[Articles on computational, digital, and mathematical pathology]]"
   - "[[Cognitive biases in AI-assisted medical decision making - A structured review as a primer for veterinary and human pathology]]"
   - "[[When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology]]"
+  - "[[Pathology AI Integration_ A Systems View]]"
 ---
 
 # Screening efficiency over experience: Rapid target detection in low-power field as a modifiable cognitive biomarker for diagnostic accuracy in digital cytology
@@ -145,7 +146,7 @@ In the longitudinal cohort of 28 cytotechnology students before and after a 3-mo
 3. **Objective Gaze Metrics Over Time-Based Credentialing:**
    Credentialing in pathology and cytotechnology has historically been defined by training duration and cumulative case counts. Eye-tracking gaze metrics (e.g., LPF time to target fixation, selective neglect ratio) provide objective, quantifiable cognitive biomarkers for diagnostic competency and AI readiness.
 4. **Countering Confirmation & Automation Biases:**
-   As shown in [[When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology]], time pressure drives practitioners into uncritical automation bias. Developing rapid, robust LPF verification skills protects against cognitive fatigue and unreflective acceptance of false-positive AI bounding boxes.
+   As shown in [When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology](When%20Two%20Wrongs%20Don%27t%20Make%20a%20Right%20-%20Examining%20Confirmation%20Bias%20and%20the%20Role%20of%20Time%20Pressure%20During%20Human-AI%20Collaboration%20in%20Computational%20Pathology.md), time pressure drives practitioners into uncritical automation bias. Developing rapid, robust LPF verification skills protects against cognitive fatigue and unreflective acceptance of false-positive AI bounding boxes.
 
 ---
 
@@ -159,8 +160,8 @@ In the longitudinal cohort of 28 cytotechnology students before and after a 3-mo
 
 ## Vault Relationships
 
-- [[Digital Pathology]]
-- [[Articles on computational, digital, and mathematical pathology]]
-- [[When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology]]
-- [[Cognitive biases in AI-assisted medical decision making - A structured review as a primer for veterinary and human pathology]]
-- [[Pathology AI Integration: A Systems View]]
+- [Digital Pathology](../computational-digital-and-mathematical-pathology/digital-pathology.md)
+- [Articles on computational, digital, and mathematical pathology](../computational-digital-and-mathematical-pathology/articles-on-computational-digital-and-mathematical-pathology.md)
+- [When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology](When%20Two%20Wrongs%20Don%27t%20Make%20a%20Right%20-%20Examining%20Confirmation%20Bias%20and%20the%20Role%20of%20Time%20Pressure%20During%20Human-AI%20Collaboration%20in%20Computational%20Pathology.md)
+- [Cognitive biases in AI-assisted medical decision making - A structured review as a primer for veterinary and human pathology](Cognitive%20biases%20in%20AI-assisted%20medical%20decision%20making%20-%20A%20structured%20review%20as%20a%20primer%20for%20veterinary%20and%20human%20pathology.md)
+- [Pathology AI Integration: A Systems View](../theories/Pathology%20AI%20Integration_%20A%20Systems%20View.md)

@@ -4,6 +4,10 @@ status: Developing
 language: tr
 order: 280
 belongs_to: "[[Statistics and Bioinformatics]]"
+related_to:
+  - "[[meddecide]]"
+  - "[[Jamovi]]"
+  - "[[Power Analysis]]"
 ---
 
 # Kappa
@@ -38,5 +42,5 @@ Biochem Med \(Zagreb\). 2012 Oct; 22\(3\): 276–282. [PMCID: PMC3900052](https:
 
 ## jamovi & R Uygulaması
 
-- **[[meddecide]]**: [jamovi]([[Jamovi]]) ve R üzerinde gözlemciler arası uyum (Cohen's Kappa, Fleiss' Kappa, ağırlıklı kappa, Krippendorff's Alpha, Gwet's AC1/AC2) hesaplamalarını ve uyum çalışmaları için güç/örneklem büyüklüğü analizlerini (`kappaSizePower`, `kappaSizeCI`, `kappaSizeFixedN`) sunar. Bkz. [[meddecide]].
-- **[[Power Analysis]]**: Gözlemciler arası uyum ve diğer tanısal test çalışmalarında örneklem büyüklüğü planlaması.
+- **[meddecide](meddecide.md)**: [jamovi](jamovi.md) ve R üzerinde gözlemciler arası uyum (Cohen's Kappa, Fleiss' Kappa, ağırlıklı kappa, Krippendorff's Alpha, Gwet's AC1/AC2) hesaplamalarını ve uyum çalışmaları için güç/örneklem büyüklüğü analizlerini (`kappaSizePower`, `kappaSizeCI`, `kappaSizeFixedN`) sunar. Bkz. [meddecide](meddecide.md).
+- **[Power Analysis](power-analysis.md)**: Gözlemciler arası uyum ve diğer tanısal test çalışmalarında örneklem büyüklüğü planlaması.

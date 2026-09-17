@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "tolaria": {
+      "args": [
+        "C:\\Users\\info\\AppData\\Local\\Tolaria\\mcp-server\\index.js"
+      ],
+      "command": "node",
+      "env": {
+        "VAULT_PATH": "C:\\Users\\info\\Documents\\GitHub\\ParaPathology",
+        "VAULT_PATHS": "[\"C:\\\\Users\\\\info\\\\Documents\\\\GitHub\\\\ParaPathology\"]",
+        "WS_UI_PORT": "9711"
+      }
+    }
+  }
+}

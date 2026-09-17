@@ -4,7 +4,7 @@ status: Evergreen
 language: en
 title: "From Samples to Knowledge 2025: QuPath Training Course"
 source: "https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp"
-source_type: course
+source_type: video
 author:
   - "[[Zbigniew Mikulski]]"
   - "[[Sara McArdle]]"

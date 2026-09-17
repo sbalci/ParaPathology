@@ -1,6 +1,6 @@
 ---
 type: Tool
-status: Active
+status: Developing
 language: en
 aliases:
   - "meddecide"
@@ -26,7 +26,7 @@ url: https://github.com/sbalci/meddecide
 
 # meddecide
 
-**meddecide** is an open-source R package and [jamovi]([[Jamovi]]) module developed by Serdar Balci that provides a comprehensive analytical toolkit for medical decision analysis, diagnostic test accuracy (DTA) evaluation, and inter-rater reliability assessment in clinical research and pathology.
+**meddecide** is an open-source R package and [jamovi](jamovi.md) module developed by Serdar Balci that provides a comprehensive analytical toolkit for medical decision analysis, diagnostic test accuracy (DTA) evaluation, and inter-rater reliability assessment in clinical research and pathology.
 
 Serving as a specialized computational engine within the broader **ClinicoPath** ecosystem, `meddecide` bridges complex biostatistical methodologies—such as multi-test combination modeling, latent class analysis without a gold standard, decision curve analysis (DCA), and power calculations for agreement studies—into both an accessible point-and-click graphical interface for jamovi and a high-level programmatic toolkit for R.
 
@@ -41,7 +41,7 @@ Serving as a specialized computational engine within the broader **ClinicoPath**
 
 ## Core Capabilities & jamovi Ribbon Architecture
 
-In [jamovi]([[Jamovi]]) ($\ge 2.7.27$), `meddecide` integrates into the top **Analyses** ribbon under dedicated menus (**meddecide** and **Power**), structured into six functional domains:
+In [jamovi](jamovi.md) ($\ge 2.7.27$), `meddecide` integrates into the top **Analyses** ribbon under dedicated menus (**meddecide** and **Power**), structured into six functional domains:
 
 ```
 Analyses Ribbon

@@ -183,11 +183,11 @@ The framework by Hosny and Vargas represents a pivotal transition in computation
 
 ## Related Notes & Vault Graph
 
-- [[Digital Pathology]]: The central hub for digital scanning, whole-slide imaging (WSI), and computational algorithm deployment.
-- [[Cognitive Bias In AI Assisted Diagnosis]]: Cognitive distortions and automation bias in computational diagnostics.
-- [[Pathology AI Integration: A Systems View]]: The sociotechnical Complex Adaptive Systems (CAS) and Model-Context-Relation (M-C-R) framework governing laboratory adoption.
-- [[What AI Can and Cannot Do in Pathology]]: Clinical, economic, and diagnostic boundaries of computational pathology.
-- [[Cognitive biases in AI-assisted medical decision making: A structured review as a primer for veterinary and human pathology]]: Structured review of expert-AI cognitive biases across 12 diagnostic failure modes.
-- [[When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology]]: Empirical evaluation of confirmation bias and automation bias under clinical time pressure.
-- [[Towards robust foundation models for digital pathology]]: Addressing domain shifts, stain variations, and generalizability in large pathology foundation models.
-- [[A distributional robustness margin for pathology foundation models]]: Technical strategies for bounding performance drops across out-of-distribution clinical datasets.
+- [Digital Pathology](../computational-digital-and-mathematical-pathology/digital-pathology.md): The central hub for digital scanning, whole-slide imaging (WSI), and computational algorithm deployment.
+- Cognitive Bias In AI Assisted Diagnosis: Cognitive distortions and automation bias in computational diagnostics.
+- [Pathology AI Integration: A Systems View](../theories/Pathology%20AI%20Integration_%20A%20Systems%20View.md): The sociotechnical Complex Adaptive Systems (CAS) and Model-Context-Relation (M-C-R) framework governing laboratory adoption.
+- What AI Can and Cannot Do in Pathology: Clinical, economic, and diagnostic boundaries of computational pathology.
+- [Cognitive biases in AI-assisted medical decision making: A structured review as a primer for veterinary and human pathology](Cognitive%20biases%20in%20AI-assisted%20medical%20decision%20making%20-%20A%20structured%20review%20as%20a%20primer%20for%20veterinary%20and%20human%20pathology.md): Structured review of expert-AI cognitive biases across 12 diagnostic failure modes.
+- [When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology](When%20Two%20Wrongs%20Don%27t%20Make%20a%20Right%20-%20Examining%20Confirmation%20Bias%20and%20the%20Role%20of%20Time%20Pressure%20During%20Human-AI%20Collaboration%20in%20Computational%20Pathology.md): Empirical evaluation of confirmation bias and automation bias under clinical time pressure.
+- [Towards robust foundation models for digital pathology](Towards%20robust%20foundation%20models%20for%20digital%20pathology.md): Addressing domain shifts, stain variations, and generalizability in large pathology foundation models.
+- [A distributional robustness margin for pathology foundation models](A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md): Technical strategies for bounding performance drops across out-of-distribution clinical datasets.

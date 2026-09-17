@@ -1,6 +1,6 @@
 ---
 type: Tool
-status: Active
+status: Developing
 language: en
 aliases:
   - "ClinicoPathDescriptives"
@@ -24,7 +24,7 @@ url: https://github.com/sbalci/ClinicoPathDescriptives
 
 # ClinicoPathDescriptives
 
-**ClinicoPathDescriptives** is an open-source R package and [jamovi]([[Jamovi]]) module developed by Serdar Balci designed specifically for descriptive analysis, statistical reporting, data quality validation, and visualization in clinicopathological and biomedical research.
+**ClinicoPathDescriptives** is an open-source R package and [jamovi](jamovi.md) module developed by Serdar Balci designed specifically for descriptive analysis, statistical reporting, data quality validation, and visualization in clinicopathological and biomedical research.
 
 It bridges the divide between command-line statistical computing in R and point-and-click clinical analysis by providing a dual-interface architecture: full programmatic functions for R pipelines alongside interactive GUI modules within the jamovi desktop environment.
 
