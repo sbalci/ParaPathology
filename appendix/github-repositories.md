@@ -7,6 +7,7 @@ aliases:
 order: 60
 belongs_to: "[[Appendix]]"
 related_to:
+  - "[[Cytario]]"
   - "[[jsurvival]]"
   - "[[ClinicoPathDescriptives]]"
   - "[[jjstatsplot]]"
@@ -150,4 +151,8 @@ related_to:
 {% embed url="https://github.com/owkin/histoplus" %}
 
 * [owkin/histoplus](https://github.com/owkin/histoplus) — Cell detection, segmentation, and 13-class classification library integrating the distilled Bioptimus H0-mini pathology foundation model (86M params) within a CellViT architecture (Adjadj et al., Owkin / Bioptimus / MOSAIC, Journal of Pathology Informatics 2026). Pretrained 20× and 40× weights on Hugging Face ([Owkin-Bioptimus/histoplus](https://huggingface.co/Owkin-Bioptimus/histoplus)); supports WSI batch extraction, CLI, and QuPath-compatible GeoJSON export. See [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]].
+
+{% embed url="https://github.com/cytario/cytario-web" %}
+
+* [cytario/cytario-web](https://github.com/cytario/cytario-web) — Open-core web-based Image Management System (IMS) and viewer for digital pathology and spatial biology. Built on React 19, Viv (Harvard Medical School HIDIVE Lab), deck.gl, DuckDB-WASM, and Apache Arrow to stream petabyte-scale OME-TIFF, OME-Zarr, and Parquet data directly from S3 storage with Keycloak multi-tenancy. See [Cytario](../computational-digital-and-mathematical-pathology/cytario.md).
 

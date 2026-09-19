@@ -209,5 +209,6 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 * [WSInfer](wsinfer.md)
 * [CRoMa](croma.md)
 * [HoVer-NeXt](hover-next.md)
+* [Cytario](cytario.md)
 
 <!-- tolaria:children:end -->

@@ -52,6 +52,7 @@ rewritten in your own words with a citation.
 * [Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images](Multiplex%20Immunofluorescence%20Image%20Analysis%20with%20QuPath%20-%20Part%201.md)
 * [CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification](CytoFormer%20-%20A%20Molecularly%20Supervised%20Cell%20Foundation%20Model%20for%20Histopathology%20Cell%20Classification.md)
 * [HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides](HistoPLUS%20-%20Towards%20Comprehensive%20Cellular%20Characterisation%20of%20H%26E%20Slides.md)
+
 * [Artificial Intelligence Enables Quantitative Assessment of Ulcerative Colitis Histology](Artificial%20Intelligence%20Enables%20Quantitative%20Assessment%20of%20Ulcerative%20Colitis%20Histology.md)
 * [Considerations for digital pathology displays](Considerations%20for%20digital%20pathology%20displays.md)
 * [A feasibility study using quantitative and interpretable histological analyses of celiac disease for automated cell type and tissue area classification](A%20feasibility%20study%20using%20quantitative%20and%20interpretable%20histological%20analyses%20of%20celiac%20disease%20for%20automated%20cell%20type%20and%20tissue%20area%20classification.md)

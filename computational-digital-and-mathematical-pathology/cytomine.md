@@ -8,6 +8,7 @@ aliases:
 order: 70
 belongs_to: "[[Digital Pathology]]"
 related_to:
+  - "[[Cytario]]"
   - "[[Digital Pathology Software]]"
   - "[[Micro-Manager]]"
   - "[[Openmicroscopy]]"

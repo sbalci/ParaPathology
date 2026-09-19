@@ -7,11 +7,24 @@ aliases:
 order: 40
 belongs_to: "[[Digital Pathology]]"
 related_to:
+  - "[[Cytario]]"
+  - "[[Cytomine]]"
   - "[[HoVer-NeXt]]"
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
 ---
 
 # Digital Pathology Software
+
+### [Cytario](https://www.cytario.com)
+
+Open-core, cloud-native Image Management System (IMS) and web-based viewer for digital pathology and spatial biology. Built on React 19, [Viv](https://github.com/hms-dbmi/viv) (Harvard Medical School HIDIVE Lab), deck.gl, and DuckDB-WASM/Apache Arrow to stream petabyte-scale OME-TIFF, OME-Zarr, and Parquet data directly from S3-compatible storage with Keycloak multi-tenancy — see dedicated tool note: [Cytario](cytario.md).
+
+- **GitHub:** [cytario/cytario-web](https://github.com/cytario/cytario-web) — AGPL-3.0
+- **Platform Portal:** [cytario.com](https://www.cytario.com)
+
+{% embed url="https://github.com/cytario/cytario-web" %}
+
+{% embed url="https://www.cytario.com" %}
 
 ### [Cytomine](https://uliege.cytomine.org/)
 

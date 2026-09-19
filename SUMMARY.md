@@ -182,6 +182,7 @@
 * [WSInfer](computational-digital-and-mathematical-pathology/wsinfer.md)
 * [CRoMa](computational-digital-and-mathematical-pathology/croma.md)
 * [HoVer-NeXt](computational-digital-and-mathematical-pathology/hover-next.md)
+* [Cytario](computational-digital-and-mathematical-pathology/cytario.md)
 
 ## Macroscopy
 
