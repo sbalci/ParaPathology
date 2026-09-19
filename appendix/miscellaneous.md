@@ -18,7 +18,14 @@ _favorite_index: 2
 
 
 
+[[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]]
+HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides [https://github.com/owkin/histoplus](https://github.com/owkin/histoplus) [https://huggingface.co/Owkin-Bioptimus/histoplus](https://huggingface.co/Owkin-Bioptimus/histoplus) [https://arxiv.org/abs/2508.09926](https://arxiv.org/abs/2508.09926) [https://doi.org/10.1016/j.jpi.2026.100696](https://doi.org/10.1016/j.jpi.2026.100696)
 
+[[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]]
+CytoFormer: a molecularly supervised cell foundation model for histopathology cell classification [https://www.sciencedirect.com/science/article/pii/S3117678X26000065](https://www.sciencedirect.com/science/article/pii/S3117678X26000065) "file:///K:/DownloadsK/1-s2.0-S3117678X26000065-main.pdf" [https://github.com/zhihuanglab/CytoFormer](https://github.com/zhihuanglab/CytoFormer) [https://huggingface.co/zhihuanglab/CytoFormer](https://huggingface.co/zhihuanglab/CytoFormer) [https://app.tissuelab.org/community](https://app.tissuelab.org/community)
+
+[[A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping]]
+A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping [https://www.mdpi.com/2227-7390/13/13/2178](https://www.mdpi.com/2227-7390/13/13/2178) "K:\DownloadsK\mathematics-13-02178-v2.pdf"
 
 Image Management System for Digital Pathology at any scale. Part of the cytario platform. [https://github.com/cytario/cytario-web](https://github.com/cytario/cytario-web) [www.cytario.com](http://www.cytario.com)
 

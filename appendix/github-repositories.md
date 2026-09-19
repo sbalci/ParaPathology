@@ -143,3 +143,11 @@ related_to:
 
 * [didsr/ValidPath](https://github.com/didsr/ValidPath) — End-to-end WSI processing and ML performance assessment toolkit developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24CV11.01). Features standardized image patch extraction, back-mapping of detected ROIs into Aperio ImageScope-compatible XML annotations for pathologist review, and ROC/AUC performance evaluation with confidence intervals. See [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]].
 
+{% embed url="https://github.com/zhihuanglab/CytoFormer" %}
+
+* [zhihuanglab/CytoFormer](https://github.com/zhihuanglab/CytoFormer) — Official inference codebase and models for CytoFormer, a molecularly supervised cell foundation model for single-cell histopathology classification across 16 organs and 23 cell types (UPenn / Yao, Li, Yu & Huang, Precision Pathology 2026). Pretrained weights available on Hugging Face ([zhihuanglab/CytoFormer](https://huggingface.co/zhihuanglab/CytoFormer)); interactive WSI browser at [zhihuanglab.github.io/CytoFormer](https://zhihuanglab.github.io/CytoFormer/); active learning integration via [TissueLab](https://app.tissuelab.org/community). See [[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]].
+
+{% embed url="https://github.com/owkin/histoplus" %}
+
+* [owkin/histoplus](https://github.com/owkin/histoplus) — Cell detection, segmentation, and 13-class classification library integrating the distilled Bioptimus H0-mini pathology foundation model (86M params) within a CellViT architecture (Adjadj et al., Owkin / Bioptimus / MOSAIC, Journal of Pathology Informatics 2026). Pretrained 20× and 40× weights on Hugging Face ([Owkin-Bioptimus/histoplus](https://huggingface.co/Owkin-Bioptimus/histoplus)); supports WSI batch extraction, CLI, and QuPath-compatible GeoJSON export. See [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]].
+
