@@ -10,6 +10,7 @@ related_to:
   - "[[Cytario]]"
   - "[[Cytomine]]"
   - "[[HoVer-NeXt]]"
+  - "[[NuClick]]"
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
 ---
 
@@ -40,6 +41,16 @@ Open-source, web-based platform for multi-gigapixel whole-slide image management
 {% embed url="https://uliege.cytomine.org/" %}
 
 {% embed url="https://github.com/TissueImageAnalytics/cytomine-app" %}
+
+### [NuClick](https://github.com/mostafajahanifar/nuclick_torch/)
+
+Interactive deep-learning framework for prompted segmentation of microscopic objects (nuclei, cells, and glands) from user point clicks (Jahanifar, Koohbanani, Tajeddin & Rajpoot, *Medical Image Analysis* 2020). Utilizes a 5-channel tensor (RGB + target inclusion map + neighbour exclusion map) with dedicated NuClick CNN and U-Net models (Dice 0.874+) to eliminate manual boundary drawing. Serves as the annotation and consensus foundation for Owkin's [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]] — see dedicated tool note: [NuClick](nuclick.md).
+
+- **PyTorch GitHub:** [mostafajahanifar/nuclick_torch](https://github.com/mostafajahanifar/nuclick_torch/) — CC BY-NC-SA 4.0
+- **Paper:** [DOI: 10.1016/j.media.2020.101771](https://doi.org/10.1016/j.media.2020.101771)
+- **Cytomine App:** Included in [TissueImageAnalytics/cytomine-app](https://github.com/TissueImageAnalytics/cytomine-app) (`cytomine-interactive-segmentation-nuclick`)
+
+{% embed url="https://github.com/mostafajahanifar/nuclick_torch" %}
 
 ### [ePMA.start – universal whole slide image viewer for digital pathology  **An end-user viewer and tile server in one convenient package**](https://free.pathomation.com/)\*\*\*\*
 
@@ -155,3 +166,11 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 {% embed url="https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp" %}
 
 {% embed url="https://github.com/saramcardle/FS2K" %}
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [NuClick](nuclick.md)
+
+<!-- tolaria:children:end -->

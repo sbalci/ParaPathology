@@ -18,8 +18,11 @@ _favorite_index: 2
 
 
 
+[[NuClick]]
+NuClick: a deep learning framework for interactive segmentation of microscopic images [https://github.com/mostafajahanifar/nuclick_torch/](https://github.com/mostafajahanifar/nuclick_torch/) [https://doi.org/10.1016/j.media.2020.101771](https://doi.org/10.1016/j.media.2020.101771) [https://arxiv.org/abs/2005.14511](https://arxiv.org/abs/2005.14511)
+
 [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]]
-HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides [https://github.com/owkin/histoplus](https://github.com/owkin/histoplus) [https://huggingface.co/Owkin-Bioptimus/histoplus](https://huggingface.co/Owkin-Bioptimus/histoplus) [https://arxiv.org/abs/2508.09926](https://arxiv.org/abs/2508.09926) [https://doi.org/10.1016/j.jpi.2026.100696](https://doi.org/10.1016/j.jpi.2026.100696)
+Toward comprehensive cellular characterization of H&E slides [https://www.sciencedirect.com/science/article/pii/S2153353926001562](https://www.sciencedirect.com/science/article/pii/S2153353926001562) "file:///K:/DownloadsK/1-s2.0-S2153353926001562-main.pdf" [https://github.com/owkin/histoplus](https://github.com/owkin/histoplus) [https://huggingface.co/Owkin-Bioptimus/histoplus](https://huggingface.co/Owkin-Bioptimus/histoplus) [https://arxiv.org/abs/2508.09926](https://arxiv.org/abs/2508.09926) [https://doi.org/10.1016/j.jpi.2026.100696](https://doi.org/10.1016/j.jpi.2026.100696)
 
 [[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]]
 CytoFormer: a molecularly supervised cell foundation model for histopathology cell classification [https://www.sciencedirect.com/science/article/pii/S3117678X26000065](https://www.sciencedirect.com/science/article/pii/S3117678X26000065) "file:///K:/DownloadsK/1-s2.0-S3117678X26000065-main.pdf" [https://github.com/zhihuanglab/CytoFormer](https://github.com/zhihuanglab/CytoFormer) [https://huggingface.co/zhihuanglab/CytoFormer](https://huggingface.co/zhihuanglab/CytoFormer) [https://app.tissuelab.org/community](https://app.tissuelab.org/community)

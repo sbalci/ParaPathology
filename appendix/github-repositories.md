@@ -156,3 +156,7 @@ related_to:
 
 * [cytario/cytario-web](https://github.com/cytario/cytario-web) — Open-core web-based Image Management System (IMS) and viewer for digital pathology and spatial biology. Built on React 19, Viv (Harvard Medical School HIDIVE Lab), deck.gl, DuckDB-WASM, and Apache Arrow to stream petabyte-scale OME-TIFF, OME-Zarr, and Parquet data directly from S3 storage with Keycloak multi-tenancy. See [Cytario](../computational-digital-and-mathematical-pathology/cytario.md).
 
+{% embed url="https://github.com/mostafajahanifar/nuclick_torch" %}
+
+* [mostafajahanifar/nuclick_torch](https://github.com/mostafajahanifar/nuclick_torch) — PyTorch implementation of NuClick for interactive and point-prompted nuclear, cell, and gland instance segmentation (Jahanifar, Koohbanani, Tajeddin & Rajpoot, Medical Image Analysis 2020). Utilizes a 5-channel input tensor (RGB + target inclusion map + neighbour exclusion map) with dedicated NuClick CNN and U-Net architectures (Dice 0.874+). Deployed as the foundational annotation expansion engine in Owkin's [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]] to standardize 108k training nuclei and derive Hungarian consensus across 212k multi-pathologist reviews. See [[NuClick]].
+

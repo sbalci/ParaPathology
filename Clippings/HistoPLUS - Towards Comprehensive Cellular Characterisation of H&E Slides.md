@@ -3,13 +3,25 @@ type: Clipping
 status: Evergreen
 language: en
 title: "HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides"
-source: "https://github.com/owkin/histoplus"
+aliases:
+  - "Toward comprehensive cellular characterization of H&E slides"
+  - "HistoPLUS"
+  - "Owkin HistoPLUS"
+source: "https://www.sciencedirect.com/science/article/pii/S2153353926001562"
+doi: "10.1016/j.jpi.2026.100696"
+pii: "S2153-3539(26)00156-2"
+local_pdf: "file:///K:/DownloadsK/1-s2.0-S2153353926001562-main.pdf"
+journal: "Journal of Pathology Informatics"
+volume: "22"
+pages: "100696"
+year: 2026
 source_type: article
 author:
   - "[[Benjamin Adjadj]]"
   - "[[Pierre-Antoine Bannier]]"
   - "[[Guillaume Horent]]"
-  - "[[Sebastien Mandela]]"
+  - "[[Sebastien Mandel]]"
+  - "[[Gary Klajer]]"
   - "[[Aurore Lyon]]"
   - "[[Kathryn Schutte]]"
   - "[[Ulysse Marteau]]"
@@ -21,7 +33,7 @@ author:
   - "[[Eric Durand]]"
   - "[[Katharina Von Loga]]"
   - "[[Lucie Gillet]]"
-published: 2026-02-18
+published: 2026-07-23
 created: 2026-09-19
 description: "HistoPLUS combines an active-learning pan-cancer dataset (HistoTRAIN: 108k nuclei, 13 cell types, 6 indications) with a compact CellViT architecture powered by a distilled pathology foundation model (Bioptimus H0-mini, 86M params). Achieves 5.2% higher detection quality and 23.7% higher classification F1 over state-of-the-art models with 5x fewer parameters, unlocks 7 understudied cell populations, matches ViT-Huge backbones, and robustly generalizes zero-shot to unseen indications."
 tags:
@@ -29,6 +41,7 @@ tags:
 order: 146
 belongs_to: "[[Clippings]]"
 related_to:
+  - "[[NuClick]]"
   - "[[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]]"
   - "[[HoVer-NeXt]]"
   - "[[HistoGen: Histopathology Cell Nuclei Image Generation Tool]]"
@@ -50,8 +63,8 @@ Accurate single-cell detection, boundary segmentation, and phenotypic classifica
 1. **The Understudied Cell-Type Deficit in Public Corpora:** Landmark datasets (PanNuke, CoNSeP, Lizard, MoNuSAC) either provide segmentation masks without lineage labels, provide only coarse bounding boxes, or restrict classifications to 4–6 broad categories (neoplastic, healthy epithelial, inflammatory, connective/stroma, dead). Clinically critical non-lymphoid immune populations (neutrophils, eosinophils, macrophages), plasmocytes, vascular/pericytic elements (endothelium, smooth muscle), and key cytologic events (mitotic figures, apoptotic bodies) remain absent or heavily underrepresented.
 2. **The Foundation Model Scale Paradox:** Pretrained pathology foundation models (PFMs) such as UNI2 (681M) and Virchow2 (632M) or vision models like SAM-Huge (636M) incur massive compute, memory, and latency penalties. Yet for cellular instance segmentation, parameter scaling exhibits steep diminishing returns: segmentation quality improvements hit a plateau ($\Delta SQ \le 1.5$), leaving smaller clinics and high-throughput research pipelines bottlenecked by GPU compute.
 
-Published in the *Journal of Pathology Informatics* (2026, [DOI: 10.1016/j.jpi.2026.100696](https://doi.org/10.1016/j.jpi.2026.100696); [arXiv:2508.09926](https://arxiv.org/abs/2508.09926)) by Benjamin Adjadj, Pierre-Antoine Bannier, Guillaume Horent, Lucie Gillet, and collaborators across **Owkin**, **Bioptimus**, and the **MOSAIC consortium**, **HistoPLUS** resolves both dilemmas through an active-learning curation engine and a distilled foundation-model architecture:
-- **HistoTRAIN & Active-Learning Curation (108,722 Nuclei):** Curated across 739 WSIs spanning 6 cancer indications (bladder, colon, lung adenocarcinoma, lung squamous cell carcinoma, mesothelioma, and pancreatic adenocarcinoma). Rather than passive labeling, an active-learning pipeline deployed 3 parallel arms (Phikon feature diversity clustering, lightweight rare-cell MLP detectors, and BALD epistemic uncertainty sampling) combined with **NuClick** automated boundary propagation from expert point annotations.
+Published in the *Journal of Pathology Informatics* (Volume 22, 2026, 100696, PII [S2153-3539(26)00156-2](https://www.sciencedirect.com/science/article/pii/S2153353926001562), [DOI: 10.1016/j.jpi.2026.100696](https://doi.org/10.1016/j.jpi.2026.100696); [arXiv:2508.09926](https://arxiv.org/abs/2508.09926); local PDF: [1-s2.0-S2153353926001562-main.pdf](file:///K:/DownloadsK/1-s2.0-S2153353926001562-main.pdf)) by Benjamin Adjadj, Pierre-Antoine Bannier, Guillaume Horent, Sebastien Mandel, Gary Klajer, Aurore Lyon, Kathryn Schutte, Ulysse Marteau, Valentin Gaury, Laura Dumont, Thomas Mathieu, Reda Belbahri, Benoît Schmauch, Eric Durand, Katharina Von Loga, and Lucie Gillet across **Owkin France**, **Bioptimus**, and the **MOSAIC consortium**, **HistoPLUS** resolves both dilemmas through an active-learning curation engine and a distilled foundation-model architecture:
+- **HistoTRAIN & Active-Learning Curation (108,722 Nuclei):** Curated across 739 WSIs spanning 6 cancer indications (bladder, colon, lung adenocarcinoma, lung squamous cell carcinoma, mesothelioma, and pancreatic adenocarcinoma). Rather than passive labeling, an active-learning pipeline deployed 3 parallel arms (Phikon feature diversity clustering, lightweight rare-cell MLP detectors, and BALD epistemic uncertainty sampling) combined with [[NuClick]] automated boundary propagation from expert point annotations.
 - **HistoVAL Multi-Reader Consensus Benchmark (69,108 Nuclei):** Established across 530 ROIs ($112 \times 112\ \mu\text{m}$ at $40\times$) from 248 slides across 6 independent cohorts from the MOSAIC consortium. Ground truth was forged via Hungarian instance matching (IoU $>0.4$) across 3 independent pathologist annotations per tile, retaining only consensus nuclei ($\ge 2$ agreeing pathologists) with majority-voted phenotypes. Includes 2 completely unseen cancer indications: ovarian serous cystadenocarcinoma (OV) and breast invasive carcinoma (BRCA).
 - **Distilled PFM Integration within CellViT (H0-mini):** Integrates the compact **H0-mini** foundation model (86M parameters, distilled from Bioptimus' H-Optimus-0 via joint DINO class-token and iBOT masked patch distillation) as the ViT encoder inside a 3-branch CellViT decoder (nuclear prediction, horizontal-vertical distance regression, and 14/15-class nuclei typing with Focal Tversky loss).
 - **Empirical Superiority:** Outperforms competing state-of-the-art models by **+5.2% in Detection Quality (DQ)** and **+23.7% in overall classification F1 score**, achieving statistically significant gains on 8 of 13 cell types and unlocking 7 understudied lineages. Matches the panoptic and detection quality of ViT-Huge models (UNI2, Virchow2) while utilizing **$5\times$ fewer parameters** and running **$2.1\times$ faster**.
@@ -157,6 +170,24 @@ A central finding of the HistoPLUS evaluation is that scaling vision transformer
   └───────────────────────────┘
 ```
 
+### NuClick Point-Prompted Boundary Expansion & Multi-Reader Consensus
+
+Handmade polygon tracings are notoriously time-consuming (taking 30–60 seconds per nucleus) and exhibit marked inter-pathologist boundary discordance. To standardize boundary geometry and accelerate large-scale dataset generation, HistoPLUS deployed the deep learning framework [[NuClick]] ([mostafajahanifar/nuclick_torch](https://github.com/mostafajahanifar/nuclick_torch/)):
+
+1. **NuClick U-Net Pretraining:**
+   - Deployed the vanilla NuClick U-Net architecture with encoder-decoder skip connections.
+   - Pretrained on a combined corpus of **ConSEP** (colorectal adenocarcinoma) and **PCNS** (pan-cancer nuclei segmentation, spanning 14 distinct cancer indications).
+   - Training patches were cropped around target nuclei ($30 \times 30$ to $45 \times 45$ px), conditioned on a 5-channel tensor containing RGB histology, a Gaussian target inclusion map, and neighbouring cell exclusion maps.
+   - Trained with weighted Binary Cross-Entropy and Dice loss over 35 epochs, achieving a top validation **Dice score of 0.874**.
+
+2. **The 4-Step Multi-Pathologist Consensus Protocol (HistoVAL):**
+   - *Step 1 (Independent Point Clicks):* 3 out of 9 board-certified pathologists independently annotated centroid coordinates and attributed cell lineages on Cytomine across 530 candidate ROIs, collecting an initial pool of **212,992 raw point annotations**.
+   - *Step 2 (Prompted Boundary Expansion):* The pretrained NuClick model inferred exact instance masks from each pathologist's point coordinates.
+   - *Step 3 (Hungarian Instance Matching):* Nuclear masks between raters were paired using the Hungarian algorithm based on an Intersection over Union cutoff ($\text{IoU} > 0.40$). Only nuclei verified by a consensus of **$\ge 2$ agreeing pathologists** were retained; singleton or highly discordant annotations were discarded.
+   - *Step 4 (Consensus Centroid Averaging & Final Masking):* For each consensus cluster, centroid coordinates were averaged across agreeing raters, and the phenotypic class was determined via majority voting. A final inference pass of NuClick was executed on the averaged consensus centroids, establishing the definitive ground truth of **69,108 consensus nuclei** across 530 ROIs.
+
+---
+
 ### The 13 Cell-Type Taxonomy
 
 HistoPLUS expands cell characterization from broad 5-class categories to **13 clinically relevant cell lineages and morphological events**:
@@ -216,6 +247,31 @@ To test cross-organ generalizability, HistoPLUS was evaluated on two cancer indi
 | **Ovarian Serous Cystadenocarcinoma (OV)**| 50 ROIs | **0.805** [0.782–0.825] | **0.803** [0.795–0.810] | **0.639** [0.585–0.676] | **0.682** [0.594–0.751] |
 
 Despite never encountering breast or ovarian morphology during training, HistoPLUS maintained robust boundary delineation ($SQ > 0.80$) and accurate identification of tumor-infiltrating lymphocytes ($F1 = 0.80$ in breast), proving high generalizability across novel tissue architectures.
+
+---
+
+## Downstream Clinical Translation: FGFR3 Mutation Prediction in Bladder Cancer
+
+Beyond cell-level benchmarking, HistoPLUS demonstrates how granular cellular characterization powers interpretable downstream clinical biomarker discovery. The authors evaluated HistoPLUS-derived cellular features for predicting **fibroblast growth factor receptor 3 (*FGFR3*) mutation status** in bladder urothelial carcinoma (TCGA-BLCA, $n=290$), an alteration determining patient eligibility for targeted tyrosine kinase inhibitors such as **erdafitinib**:
+
+- **Histomorphometric Feature Extraction:** Univariate logistic regression models were fitted across standardized cellular composition and spatial metrics (top 10 features ranked by cross-validated AUC).
+- **Immune-Cold / Desert Biological Correlation:** Consistent with known cancer biology, *FGFR3*-altered tumors exhibited a statistically significant negative association with immune cell infiltration (decreased tumor-infiltrating lymphocyte density, reduced plasmocyte infiltration, and lower stromal inflammatory index; Benjamini–Hochberg FDR $p < 0.05$).
+- **Clinical Triage Utility:** While next-generation sequencing and RT-PCR remain the definitive gold standard for *FGFR3* alterations, cell-level phenotyping on routine H&E slides provides a rapid, cost-free pre-screening triage tool to prioritize biopsies for confirmatory molecular testing in resource-constrained clinical settings.
+
+---
+
+## Model Limitations, Class Confusion & Diagnostic Safeguards
+
+Granular error analysis from the multi-cohort confusion matrix (Supplementary Fig. 4) highlights critical areas for caution and human-in-the-loop oversight:
+
+1. **Detection Dropouts in Minute or Subtle Structures:**
+   - Red blood cells, apoptotic bodies, neutrophils, and macrophages exhibit the highest dropout rates. Small, fragmented pyknotic chromatin spheres (apoptotic bodies) can be overlooked in basophilic cellular debris.
+2. **Stromal Lineage Phenotypic Confusion:**
+   - Spindle-shaped mesenchymal elements (fibroblasts, smooth muscle cells, and vascular endothelial cells) share elongated nuclear morphology and fibrillar eosinophilic stroma, representing the primary axis of classification confusion.
+3. **Cytologic Mitotic / Apoptotic Overlap:**
+   - Early prophase or atypical condensed mitoses can occasionally be misattributed to apoptotic bodies due to condensed, dark chromatin without an intact nuclear envelope.
+4. **Clinical Deployment Guardrails:**
+   - The authors emphasize that HistoPLUS is designed as an **assistive diagnostic and research engine** rather than an autonomous sign-out tool. Clinical application requires pathologist audit and task-specific fine-tuning or threshold calibration.
 
 ---
 
@@ -284,7 +340,7 @@ segmentation_results.to_geojson("./qupath_annotations.geojson")
 Within the evolving computational pathology ecosystem, HistoPLUS occupies a complementary role alongside existing single-cell and foundation model architectures:
 
 1. **HistoPLUS vs. [[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]]:**
-   - *Supervision Paradigm:* CytoFormer uses automated spatial transcriptomics (10x Xenium) to eliminate human annotations entirely across 15.4M cells, while HistoPLUS uses active-learning-guided multi-pathologist consensus (HistoVAL) combined with NuClick boundary propagation across 108k nuclei.
+   - *Supervision Paradigm:* CytoFormer uses automated spatial transcriptomics (10x Xenium) to eliminate human annotations entirely across 15.4M cells, while HistoPLUS uses active-learning-guided multi-pathologist consensus (HistoVAL) combined with [[NuClick]] boundary propagation across 108k nuclei.
    - *Architecture & Routing:* CytoFormer routes single-cell crops through 16 organ-specific linear heads attached to a ViT-giant encoder; HistoPLUS uses an all-in-one CellViT with a compact 86M distilled foundation model (H0-mini) that performs simultaneous boundary segmentation and instance classification without requiring organ routing signals.
 2. **Complementarity with Synthetic Benchmarks ([[HistoGen: Histopathology Cell Nuclei Image Generation Tool]]):**
    - HistoGen, developed by FDA CDRH/DIDSR, generates synthetic nuclei conditioned on HoVer-Net horizontal/vertical distance maps to stress-test digital pathology algorithms. HistoPLUS provides the inverse clinical engine: parsing real-world WSIs, generating precise HV maps and instance boundaries, and classifying 13 native cell lineages.
@@ -297,7 +353,7 @@ Within the evolving computational pathology ecosystem, HistoPLUS occupies a comp
 
 ## Related Notes
 
-- **Cell Segmentation & Typing:** [[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]], [[HoVer-NeXt]], [[HistoGen: Histopathology Cell Nuclei Image Generation Tool]], [[Micro-Manager]]
+- **Cell Segmentation & Typing:** [[NuClick]], [[CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification]], [[HoVer-NeXt]], [[HistoGen: Histopathology Cell Nuclei Image Generation Tool]], [[Micro-Manager]]
 - **Foundation Models & Trade-Offs:** [[Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis]], [[Towards robust foundation models for digital pathology]], [[A distributional robustness margin for pathology foundation models]]
 - **Slide-Level Aggregators & MIL:** [[A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping]], [[Weakly supervised MIL histopathological tumor segmentation]], [[TRICARE: Deep-learning triage of 3D pathology datasets]]
 - **Spatial Histology & Workflows:** [[Tumor budding T-cell graphs for pT1 colorectal cancer]], [[Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images]], [[From Samples to Knowledge 2025: QuPath Training Course]]
