@@ -16,6 +16,7 @@ related_to:
   - "[[Cytomine]]"
   - "[[HoVer-NeXt]]"
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
+  - "[[Class visualizations and activation atlases for computational pathology]]"
 ---
 
 # GitHub Repositories
@@ -159,4 +160,16 @@ related_to:
 {% embed url="https://github.com/mostafajahanifar/nuclick_torch" %}
 
 * [mostafajahanifar/nuclick_torch](https://github.com/mostafajahanifar/nuclick_torch) — PyTorch implementation of NuClick for interactive and point-prompted nuclear, cell, and gland instance segmentation (Jahanifar, Koohbanani, Tajeddin & Rajpoot, Medical Image Analysis 2020). Utilizes a 5-channel input tensor (RGB + target inclusion map + neighbour exclusion map) with dedicated NuClick CNN and U-Net architectures (Dice 0.874+). Deployed as the foundational annotation expansion engine in Owkin's [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]] to standardize 108k training nuclei and derive Hungarian consensus across 212k multi-pathologist reviews. See [[NuClick]].
+
+{% embed url="https://github.com/Falah-Jabar-Rahim/CellQuant-Net" %}
+
+* [Falah-Jabar-Rahim/CellQuant-Net](https://github.com/Falah-Jabar-Rahim/CellQuant-Net) — End-to-end WSI nuclei detection, classification, and spatial quantification pipeline integrating automated Quality Assessment (WSI-QA) with the prior-guided CellPrior-Net (CP-Net) architecture (Jabar et al., Journal of Pathology Informatics 2026). Employs UniRepLKNet-N large-kernel CNN with 4-channel input (RGB + hematoxylin DoG prior), GPU-accelerated watershed post-processing, QuPath GeoJSON export, and tumor-infiltrating lymphocyte (TIL) neighborhood graph quantification. See [[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]] and [[CellQuant-Net]].
+
+{% embed url="https://github.com/DingXiaoH/RepLKNet-pytorch" %}
+
+* [DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) — Official PyTorch implementation of RepLKNet and large-kernel convolutional design in CNNs (Ding et al., CVPR 2022). Scales depthwise kernels up to 31×31 with structural re-parameterization, custom CUDA Implicit GEMM acceleration, and high shape bias, directly laying the architectural foundation for modern high-speed computational pathology backbones including UniRepLKNet and [[CellQuant-Net]] / [[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]]. See [[RepLKNet]] and literature review [[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs]].
+
+{% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
+
+* [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) — MIT-licensed framework for transformer-based pathology feature visualization, including class-visualization synthesis, layer-wise activation-atlas generation, pathologist annotation software, quantitative attribution/similarity overlays, and an interactive atlas viewer. Reproduces Gustav et al., *Cell Reports Medicine* 2026. See [[Class visualizations and activation atlases for computational pathology]].
 

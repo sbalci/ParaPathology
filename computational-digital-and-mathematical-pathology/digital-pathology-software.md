@@ -52,6 +52,25 @@ Interactive deep-learning framework for prompted segmentation of microscopic obj
 
 {% embed url="https://github.com/mostafajahanifar/nuclick_torch" %}
 
+### [CellQuant-Net](https://github.com/Falah-Jabar-Rahim/CellQuant-Net)
+
+End-to-end WSI nuclei quantification pipeline integrating deep-learning artifact quality assessment (WSI-QA), prior-guided nuclei detection and 3-class classification (**CellPrior-Net / CP-Net**), and spatial cell neighborhood network analysis (Jabar et al., *Journal of Pathology Informatics* 2026). Combines a UniRepLKNet-N large-kernel CNN with a 4-channel input (RGB + hematoxylin Difference of Gaussians prior) and GPU watershed post-processing, matching transformer accuracy while running 2x to 3x faster than CellViT. Exports directly to QuPath GeoJSON and computes tumor-infiltrating lymphocyte (TIL) prognostic density metrics — see dedicated tool note: [CellQuant-Net](cellquant-net.md) and literature review [[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]].
+
+- **GitHub:** [Falah-Jabar-Rahim/CellQuant-Net](https://github.com/Falah-Jabar-Rahim/CellQuant-Net)
+- **Paper:** [DOI: 10.1016/j.jpi.2026.100716](https://doi.org/10.1016/j.jpi.2026.100716); [arXiv:2607.00802](https://arxiv.org/abs/2607.00802)
+- **Video Tutorial:** [YouTube](https://youtu.be/RhCJnUfuYkA?is=Jc4keTUtecEcjeZd)
+
+{% embed url="https://github.com/Falah-Jabar-Rahim/CellQuant-Net" %}
+
+### [RepLKNet](https://github.com/DingXiaoH/RepLKNet-pytorch)
+
+Foundational large-kernel convolutional architecture and PyTorch framework scaling depthwise convolutions up to 31×31 via structural re-parameterization and custom CUDA Implicit GEMM acceleration (Ding et al., *CVPR 2022*). By establishing that large kernels deliver an ultra-wide Effective Receptive Field (ERF) and high shape bias matching Vision Transformers, RepLKNet laid the theoretical and architectural foundation for next-generation, high-speed computational pathology encoders—including UniRepLKNet and the UniRepLKNet-N backbone powering [[CellQuant-Net]] / [[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]]—enabling whole-slide image analysis at 2x to 3x the speed of CellViT. See dedicated tool note: [RepLKNet](replknet.md) and literature review [[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs]].
+
+- **PyTorch GitHub:** [DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) — Apache-2.0
+- **Paper:** [DOI: 10.1109/CVPR52688.2022.01167](https://doi.org/10.1109/CVPR52688.2022.01167); [arXiv:2203.06717](https://arxiv.org/abs/2203.06717)
+
+{% embed url="https://github.com/DingXiaoH/RepLKNet-pytorch" %}
+
 ### [ePMA.start – universal whole slide image viewer for digital pathology  **An end-user viewer and tile server in one convenient package**](https://free.pathomation.com/)\*\*\*\*
 
 {% embed url="https://free.pathomation.com/" %}
@@ -172,5 +191,7 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 ## In this section
 
 * [NuClick](nuclick.md)
+* [CellQuant-Net](cellquant-net.md)
+* [RepLKNet](replknet.md)
 
 <!-- tolaria:children:end -->

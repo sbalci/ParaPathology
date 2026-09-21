@@ -13,10 +13,21 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[Class visualizations and activation atlases for computational pathology]]
+Class visualizations and activation atlases for computational pathology [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
+
 [https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
 
 
 
+
+[[RepLKNet]]
+[[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs]]
+Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs [https://github.com/DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) [https://arxiv.org/abs/2203.06717](https://arxiv.org/abs/2203.06717) [https://doi.org/10.1109/CVPR52688.2022.01167](https://doi.org/10.1109/CVPR52688.2022.01167)
+
+[[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]]
+[[CellQuant-Net]]
+CellPrior-net: Prior-guided nuclei detection and classification for H&E whole-slide images [https://www.sciencedirect.com/science/article/pii/S2153353926001781](https://www.sciencedirect.com/science/article/pii/S2153353926001781) "file:///K:/DownloadsK/1-s2.0-S2153353926001781-main.pdf" [https://github.com/Falah-Jabar-Rahim/CellQuant-Net](https://github.com/Falah-Jabar-Rahim/CellQuant-Net) [https://arxiv.org/abs/2607.00802](https://arxiv.org/abs/2607.00802) [https://doi.org/10.1016/j.jpi.2026.100716](https://doi.org/10.1016/j.jpi.2026.100716)
 
 [[NuClick]]
 NuClick: a deep learning framework for interactive segmentation of microscopic images [https://github.com/mostafajahanifar/nuclick_torch/](https://github.com/mostafajahanifar/nuclick_torch/) [https://doi.org/10.1016/j.media.2020.101771](https://doi.org/10.1016/j.media.2020.101771) [https://arxiv.org/abs/2005.14511](https://arxiv.org/abs/2005.14511)
