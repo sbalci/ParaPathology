@@ -493,4 +493,5 @@
   * [A Deep Learning Model of Histologic Tumor Differentiation as a Prognostic Tool in Hepatocellular Carcinoma](Clippings/A%20Deep%20Learning%20Model%20of%20Histologic%20Tumor%20Differentiation%20as%20a%20Prognostic%20Tool%20in%20Hepatocellular%20Carcinoma.md)
   * [A deep-learning-based model for assessment of autoimmune hepatitis from histology: AI(H)](Clippings/A%20deep-learning-based%20model%20for%20assessment%20of%20autoimmune%20hepatitis%20from%20histology%20-%20AI%28H%29.md)
   * [Stroma and lymphocytes identified by deep learning are independent predictors for survival in pancreatic cancer](Clippings/Stroma%20and%20lymphocytes%20identified%20by%20deep%20learning%20are%20independent%20predictors%20for%20survival%20in%20pancreatic%20cancer.md)
+  * [Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology](Clippings/Beyond%20root%20cause%20analysis%20-%20a%20practical%20systems%20engineering%20approach%20to%20incident%20investigation%20in%20histopathology.md)
 * [miscellaneous](appendix/miscellaneous.md)
