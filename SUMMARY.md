@@ -489,6 +489,8 @@
   * [Class visualizations and activation atlases for computational pathology](Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md)
   * [Artificial Intelligence Enables Quantitative Assessment of Ulcerative Colitis Histology](Clippings/Artificial%20Intelligence%20Enables%20Quantitative%20Assessment%20of%20Ulcerative%20Colitis%20Histology.md)
   * [Considerations for digital pathology displays](Clippings/Considerations%20for%20digital%20pathology%20displays.md)
+  * [NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology](Clippings/NPIC%20Quality%20Coordination%20Centre%20-%20Digital%20Pathology%20Quality%20Assurance%20and%20Metrology.md)
+  * [The pathology report as a boundary object: From clinical communication to computational representation](Clippings/The%20pathology%20report%20as%20a%20boundary%20object%20-%20From%20clinical%20communication%20to%20computational%20representation.md)
   * [A feasibility study using quantitative and interpretable histological analyses of celiac disease for automated cell type and tissue area classification](Clippings/A%20feasibility%20study%20using%20quantitative%20and%20interpretable%20histological%20analyses%20of%20celiac%20disease%20for%20automated%20cell%20type%20and%20tissue%20area%20classification.md)
   * [HistoGen: Histopathology Cell Nuclei Image Generation Tool](Clippings/HistoGen%20-%20Histopathology%20Cell%20Nuclei%20Image%20Generation%20Tool.md)
   * [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md)

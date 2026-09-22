@@ -3,7 +3,17 @@ type: Clipping
 status: Evergreen
 language: en
 title: "CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification"
+aliases:
+  - "CytoFormer: a molecularly supervised cell foundation model for histopathology cell classification"
+  - "CytoFormer"
 source: "https://www.sciencedirect.com/science/article/pii/S3117678X26000065"
+doi: "10.1016/j.prpath.2026.100006"
+pii: "S3117-678X(26)00006-5"
+local_pdf: "file:///K:/DownloadsK/1-s2.0-S3117678X26000065-main.pdf"
+journal: "Precision Pathology"
+volume: "1"
+pages: "100006"
+year: 2026
 source_type: article
 author:
   - "[[Jialu Yao]]"
@@ -18,6 +28,11 @@ tags:
 order: 145
 belongs_to: "[[Clippings]]"
 related_to:
+  - "[[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]]"
+  - "[[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]]"
+  - "[[CellQuant-Net]]"
+  - "[[NuClick]]"
+  - "[[The pathology report as a boundary object: From clinical communication to computational representation]]"
   - "[[Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis]]"
   - "[[A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping]]"
   - "[[HoVer-NeXt]]"
@@ -29,6 +44,13 @@ related_to:
 ---
 
 # CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification
+
+**Jialu Yao, Songhao Li, Alina Yu, Zhi Huang**  
+Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA  
+*Precision Pathology* 1 (2026) 100006 | Published online: 13 September 2026  
+DOI: [10.1016/j.prpath.2026.100006](https://doi.org/10.1016/j.prpath.2026.100006) | PII: [S3117-678X(26)00006-5](https://www.sciencedirect.com/science/article/pii/S3117678X26000065)  
+Local PDF: `file:///K:/DownloadsK/1-s2.0-S3117678X26000065-main.pdf`  
+GitHub: [zhihuanglab/CytoFormer](https://github.com/zhihuanglab/CytoFormer) | Hugging Face: [zhihuanglab/CytoFormer](https://huggingface.co/zhihuanglab/CytoFormer) | Community: [TissueLab](https://app.tissuelab.org/community)
 
 ## Summary
 
@@ -365,13 +387,22 @@ Within the evolving hierarchy of computational pathology architectures, CytoForm
    Weakly supervised slide-level aggregators, such as [[A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping]] (ConvMixerSSM), rely on bag-level sequence modeling. CytoFormer enables the construction of single-cell graphs and cellular density maps that can be passed to graph neural networks (e.g., [[Tumor budding T-cell graphs for pT1 colorectal cancer]]) or MIL sequence engines.
 3. **Synergy with Generative Regulatory Tools:**
    While tools like [[HistoGen: Histopathology Cell Nuclei Image Generation Tool]] synthesize realistic nuclear morphology from distance maps, CytoFormer provides the inverse capability: reading routine H&E morphology and decoding ground-truth molecular identity.
+4. **Molecular Supervision vs. Active-Learning Consensus ([[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]], [[NuClick]]):**
+   Where Owkin's HistoPLUS scales up cellular characterization using an active learning loop on 108k nuclei supervised by consensus multi-pathologist review and NuClick interactive boundary delineation, CytoFormer bypasses human inter-observer discordance entirely by training on 15.4M cells supervised by in situ single-cell transcriptomics. Both frameworks demonstrate that routine morphological features reflect deep molecular phenotypes.
+5. **Architectural Trade-offs: ViT-Giant vs. Large-Kernel CNNs ([[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]], [[CellQuant-Net]], [[RepLKNet]]):**
+   CytoFormer relies on a heavy ViT-giant backbone (UNI2-h initialization, 1536-d embeddings) to maximize representation learning and zero-shot transfer, whereas CellPrior-Net and CellQuant-Net leverage UniRepLKNet-N large-kernel CNNs ($31 \times 31$ convolutions) and hematoxylin Difference-of-Gaussians priors to achieve near-transformer accuracy with 2x to 3x higher throughput on gigapixel WSIs.
+6. **Precision Semantics and Boundary Objects ([[The pathology report as a boundary object: From clinical communication to computational representation]]):**
+   Dr. Shuoshuo Wang's framework establishes that secondary computational reuse of pathology requires explicit semantic grounding. CytoFormer provides a direct bridge between sub-visual microscopic observations and biological state categories, establishing objective single-cell phenotypes before narrative summarization.
 
 ---
 
 ## Related Notes
 
+- **Cell Classification & Quantification:** [[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]], [[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images]], [[CellQuant-Net]], [[NuClick]], [[HoVer-NeXt]]
+- **Theory & Precision Semantics:** [[The pathology report as a boundary object: From clinical communication to computational representation]]
 - **Foundation Models & Trade-Offs:** [[Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis]], [[Towards robust foundation models for digital pathology]], [[A distributional robustness margin for pathology foundation models]]
 - **WSI Sequence & MIL Aggregators:** [[A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping]], [[Weakly supervised MIL histopathological tumor segmentation]]
-- **Single-Cell Segmentation & Tools:** [[HoVer-NeXt]], [[HistoGen: Histopathology Cell Nuclei Image Generation Tool]], [[Micro-Manager]]
+- **Synthetic Data & Single-Cell Tools:** [[HistoGen: Histopathology Cell Nuclei Image Generation Tool]], [[Micro-Manager]]
+- **Large-Kernel Architectures:** [[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs]], [[RepLKNet]]
 - **Multiplex & Spatial Analysis:** [[Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images]], [[Tumor budding T-cell graphs for pT1 colorectal cancer]]
 - **Hardware, Displays & Governance:** [[Considerations for digital pathology displays]], [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]], [[What AI Can and Cannot Do in Pathology]]

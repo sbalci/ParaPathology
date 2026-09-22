@@ -13,14 +13,14 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[The pathology report as a boundary object: From clinical communication to computational representation]]
+The pathology report as a boundary object: From clinical communication to computational representation [https://www.sciencedirect.com/science/article/pii/S3117678X26000028](https://www.sciencedirect.com/science/article/pii/S3117678X26000028) "file:///K:/DownloadsK/1-s2.0-S3117678X26000028-main.pdf" [https://doi.org/10.1016/j.prpath.2026.100002](https://doi.org/10.1016/j.prpath.2026.100002)
+
+[[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]
+NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology [https://npic.ac.uk/quality/](https://npic.ac.uk/quality/) [https://npic.ac.uk/quality/qcc-tools-and-resources/](https://npic.ac.uk/quality/qcc-tools-and-resources/) [https://pouqa.leeds.ac.uk](https://pouqa.leeds.ac.uk)
+
 [[Class visualizations and activation atlases for computational pathology]]
 Class visualizations and activation atlases for computational pathology [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
-
-[https://www.parapathology.com/appendix/miscellaneous](https://www.parapathology.com/appendix/miscellaneous)
-
-
-
-
 [[RepLKNet]]
 [[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs]]
 Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs [https://github.com/DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) [https://arxiv.org/abs/2203.06717](https://arxiv.org/abs/2203.06717) [https://doi.org/10.1109/CVPR52688.2022.01167](https://doi.org/10.1109/CVPR52688.2022.01167)
