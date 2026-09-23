@@ -13,6 +13,9 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]
+Pangram: AI Content Detection Platform and Pangram 4 Classifier [https://www.pangram.com/](https://www.pangram.com/) [https://arxiv.org/abs/2607.27183](https://arxiv.org/abs/2607.27183) [https://github.com/pangramlabs/pangram-sdk](https://github.com/pangramlabs/pangram-sdk)
+
 [[The pathology report as a boundary object: From clinical communication to computational representation]]
 The pathology report as a boundary object: From clinical communication to computational representation [https://www.sciencedirect.com/science/article/pii/S3117678X26000028](https://www.sciencedirect.com/science/article/pii/S3117678X26000028) "file:///K:/DownloadsK/1-s2.0-S3117678X26000028-main.pdf" [https://doi.org/10.1016/j.prpath.2026.100002](https://doi.org/10.1016/j.prpath.2026.100002)
 

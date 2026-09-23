@@ -4,9 +4,20 @@ status: Developing
 language: en
 order: 60
 belongs_to: "[[Writing Journal Articles]]"
+related_to:
+  - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
+  - "[[Text Editing]]"
+  - "[[Authorship]]"
+  - "[[Reproducibility]]"
 ---
 
 # Plagiarism
+
+## AI-Generated Content & LLM Detection
+
+With the proliferation of frontier Large Language Models (LLMs), scientific publishing and peer review face synthetic paper-mill submissions, automated narrative fabrication, and hallucinated citations. Traditional plagiarism tools (e.g. iThenticate, Turnitin) rely on verbatim n-gram string matching and fail to detect synthetic prose.
+
+* **[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]** ([pangram.com](https://www.pangram.com)) — Deep-learning-based AI text and content detection platform developed by Pangram Labs (Max Spero, Bradley Emi, Ben Glickenhaus et al., arXiv:2607.27183). Achieves an AUROC of 0.9916 with an ultra-low false positive rate (0.0041%, ~1 in 24,000 documents) and 3-tier classification (Human-Written, AI-Assisted, AI-Generated) with per-token and segment-level attribution. Resists commercial paraphrasers and humanizers (98.83% accuracy).
 
 ## Retraction Watch
 

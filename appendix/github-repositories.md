@@ -17,6 +17,7 @@ related_to:
   - "[[HoVer-NeXt]]"
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
   - "[[Class visualizations and activation atlases for computational pathology]]"
+  - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
 ---
 
 # GitHub Repositories
@@ -172,4 +173,8 @@ related_to:
 {% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
 
 * [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) — MIT-licensed framework for transformer-based pathology feature visualization, including class-visualization synthesis, layer-wise activation-atlas generation, pathologist annotation software, quantitative attribution/similarity overlays, and an interactive atlas viewer. Reproduces Gustav et al., *Cell Reports Medicine* 2026. See [[Class visualizations and activation atlases for computational pathology]].
+
+{% embed url="https://github.com/pangramlabs/pangram-sdk" %}
+
+* [pangramlabs/pangram-sdk](https://github.com/pangramlabs/pangram-sdk) — Official Python SDK and client library (`pangram-sdk` on PyPI) for Pangram Labs' AI text and content detection platform. Supports asynchronous task submission, granular 3-tier classification (human-written, AI-assisted, AI-generated), tokenwise Repeat2 boundary localization, and integration with Pangram 4 (Glickenhaus et al., arXiv:2607.27183). See [[Pangram: AI Content Detection Platform and Pangram 4 Classifier]].
 
