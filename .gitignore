@@ -57,3 +57,5 @@ AGENTS.md
 # Agent & MCP configuration (machine-specific paths between Windows and Mac)
 .agents/mcp_config.json
 .agents/*.json
+tools/__pycache__/
+/build/
