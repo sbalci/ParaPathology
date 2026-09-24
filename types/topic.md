@@ -13,4 +13,4 @@ publish: false
 
 # Topic
 
-A subject hub or section landing page. Topics anchor the graph: member notes point at them via `related_to`, and the section's neighborhood is browsed from here. Mirrors the `## Section` structure of `SUMMARY.md`.
+A subject hub or section landing page. Topics anchor the graph: member notes attach to them via `belongs_to` (each note's one parent), lateral links between notes use `related_to`, and the section's neighborhood is browsed from here. Mirrors the `## Section` structure of `SUMMARY.md`.

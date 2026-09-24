@@ -17,6 +17,7 @@ Relationships live in **frontmatter** so GitBook ignores them and Tolaria reads 
 type: Note                       # Tool for a single program; Note for a project write-up
 status: Developing               # Stub | Developing | Evergreen — the note's maturity
 language: en
+source_type: repository           # medium tag; surfaces the note in views/repositories.yml
 title: "Project Name"            # Title Case; keep acronyms as acronyms (WSI, HER2, IHC, LIS)
 aliases:
   - "Project Name"               # the H1, when it differs from the kebab-case filename
@@ -52,6 +53,7 @@ Derived from: repository read YYYY-MM-DD — <which files / pages>.
 type: Tool
 status: Developing                  # the NOTE's maturity, in the vault's status vocabulary
 language: en
+source_type: repository           # medium tag; surfaces the note in views/repositories.yml
 title: "Tool Name"
 aliases:
   - "Tool Name"

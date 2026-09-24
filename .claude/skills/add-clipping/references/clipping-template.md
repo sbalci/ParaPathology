@@ -13,6 +13,7 @@ status: Developing
 language: en
 title: "Full Article Title"
 source: "https://the-canonical-url"
+source_type: article    # article for a paper/web page, video for a talk or YouTube capture
 author:
   - "[[Author or Journal Name]]"
 published:

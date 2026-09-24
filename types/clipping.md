@@ -18,4 +18,4 @@ publish: false
 
 # Clipping
 
-An external article captured in full, filed under `Clippings/`. Uses the Obsidian Web Clipper schema (`source`, `author`, `published`, `created`, `description`, `tags`) plus `related_to` to wire it into the topic graph. Not published in `SUMMARY.md`.
+An external article captured in full, filed under `Clippings/`. Uses the Obsidian Web Clipper schema (`source`, `author`, `published`, `created`, `description`, `tags`) plus `belongs_to` (the Clippings hub) and `related_to` to wire it into the topic graph. A verbatim full-text capture keeps `publish: false` (copyright); an own-words digest with a citation and source link is published as a child of the Clippings hub.
