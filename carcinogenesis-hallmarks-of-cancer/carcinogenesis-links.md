@@ -52,8 +52,6 @@ Whether Fusobacterium nucleatum causes colon tumors is unknown. But a new study 
 
 ### History of Metastasis
 
-{% embed url="https://www.coursera.org/learn/cancer-metastasis/lecture/kawVT/history-of-metastasis-theory" %}
-
 {% embed url="https://twitter.com/PrasadCsbr/status/1188478784489394176" %}
 
 ### [Molecular Biology of Cancer and Paradigm Shift in Cancer Care](https://www.facebook.com/pathCast/videos/773765553077232/)

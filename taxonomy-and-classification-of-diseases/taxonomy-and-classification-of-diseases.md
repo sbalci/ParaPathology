@@ -11,8 +11,6 @@ order: 10
 
 * TCGA: A Different Kind of Data
 
-[http://ties.dbmi.pitt.edu/tcga-a-different-kind-of-data/](http://ties.dbmi.pitt.edu/tcga-a-different-kind-of-data/)
-
 * ggpubr: Publication Ready Plots
 
 [http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/77-facilitating-exploratory-data-visualization-application-to-tcga-genomic-data/](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/77-facilitating-exploratory-data-visualization-application-to-tcga-genomic-data/)

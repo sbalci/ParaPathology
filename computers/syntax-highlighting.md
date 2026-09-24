@@ -18,8 +18,6 @@ belongs_to: "[[Computers]]"
 
 * **Online syntax highlighter like TextMate**
 
-[http://markup.su/highlighter/](http://markup.su/highlighter/)
-
 _Online, wrapping text is missing_
 
 * **highlight-package {highlight}**

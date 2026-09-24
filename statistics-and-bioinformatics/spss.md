@@ -26,13 +26,9 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 * **Raynald's SPSS Tools**
 
-[http://spsstools.net/en/](http://spsstools.net/en/)
-
 * **Survival Analysis**
 
   * **Life Tables:**
-
-  [http://www.ucdenver.edu/academics/colleges/nursing/Documents/PDF/SurvivalHowTo.pdf](http://www.ucdenver.edu/academics/colleges/nursing/Documents/PDF/SurvivalHowTo.pdf)
 
 * **Syntax:**
   * **Rename variables**
@@ -86,8 +82,6 @@ EXECUTE.
 [https://www.youtube.com/watch?v=a\_Wr4-a2k3s](https://www.youtube.com/watch?v=a_Wr4-a2k3s)
 
 **Pearson's Correlation Coefficient in SPSS**
-
-[https://www.youtube.com/watch?time\_continue=9&v=VqISD8DlXeE](https://www.youtube.com/watch?time_continue=9&v=VqISD8DlXeE)
 
 [http://www.statisticshowto.com/correlation-coefficient-spss/](http://www.statisticshowto.com/correlation-coefficient-spss/)
 

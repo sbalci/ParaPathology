@@ -80,7 +80,7 @@ The *From Samples to Knowledge 2025* (FS2K) workshop is a comprehensive practica
 
 ### Module 3: Tissue Detection and Manual Annotations
 - **Video:** [Tissue Detection and Manual Annotations](https://youtu.be/13mypuXmJ6M) (17 min)
-- **Documentation:** [Session 02 - Tissue Detection](https://saramcardle.github.io/FS2K/Session%2002-%20Tissue%20Detection.html)
+- **Documentation:** Session 02 - Tissue Detection
 - **Topics:**
   - Automated Region of Interest (ROI) generation: Threshold-based Pixel Classifier on nuclear channels (Hoechst) to outline total tissue area.
   - Geometric refinement: Mastering Brush (`B`), Magic Wand (`W`), and Polygon tools.

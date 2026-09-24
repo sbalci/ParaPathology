@@ -124,7 +124,6 @@ Convert PowerPoint Slides to xaringan $remark.js$ Slides
 ## Change Key - Mouse Functions
 
 * [Introduction to AppleScript Language Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
-* [Automator User Guide](https://support.apple.com/guide/automator/welcome/mac)
 * [keyboardmaestro](http://www.keyboardmaestro.com/main/)
 * [Hammerspoon](http://www.hammerspoon.org/)
 * [Karabiner](https://karabiner-elements.pqrs.org/)

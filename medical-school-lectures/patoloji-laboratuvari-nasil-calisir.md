@@ -71,9 +71,7 @@ Başlıklar:
 
 Kaynaklar:
 
-1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 ## Laboratuvar dersleri ile ilgili genel bilgiler
 

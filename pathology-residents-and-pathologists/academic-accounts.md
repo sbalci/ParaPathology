@@ -17,7 +17,6 @@ related_to: "[[Pathologist]]"
 * [ResearcherID: B-6401-2011](http://www.researcherid.com/rid/B-6401-2011)
 * [Publons](https://publons.com/researcher/467202/serdar-balci/)
 * [PubMed My Bibliography](http://www.ncbi.nlm.nih.gov/sites/myncbi/collections/public/14I\_qdU6Oj6VsIwzi12Lbng/)
-* [PubMed My Bibliography](https://www.ncbi.nlm.nih.gov/labs/bibliography/serdar.balci.1/bibliography/public/)
 * [ORCID](http://orcid.org/0000-0002-7852-3851)
 
 ## Optional

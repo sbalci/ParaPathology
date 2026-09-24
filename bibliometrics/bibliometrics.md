@@ -11,10 +11,6 @@ order: 10
 
 {% embed url="https://scholarlykitchen.sspnet.org/2017/05/15/citation-performance-indicators-short-introduction/" %}
 
-#### **Journal Citation Reports**
-
-[http://ipscience-help.thomsonreuters.com/incitesLiveJCR/welcomeToTheNewJCR.html](http://ipscience-help.thomsonreuters.com/incitesLiveJCR/welcomeToTheNewJCR.html)
-
 #### **CiteScore metrics from Scopus**
 
 [https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com/)
@@ -51,8 +47,6 @@ order: 10
 
 * **Ranking of scientists in Turkish Institutions according to their Google Scholar Citations public profiles**
 
-[http://webometrics.info/en/node/72](http://webometrics.info/en/node/72)
-
 [https://web.archive.org/web/20170718030609/http://webometrics.info/en/node/72](https://web.archive.org/web/20170718030609/http://webometrics.info/en/node/72)
 
 * **H-endeksi değerlerine göre 100 Türk bilim insanı**
@@ -87,23 +81,13 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * SCI-EXPANDED, SSCI ve AHCI KAPSAMINDAKİ TÜRK DERGİLERİ
 
-[http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf)
-
 * TÜRK DERGİLERİNİN WEB OF SCIENCE’TEKİ YERİ, İMPAKT FAKTÖR (ETKİ FAKTÖRÜ) VE H İNDEKS
-
-[http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf)
 
 * ISI Web of Science (WoS)'da İndekslenen Türkiye Adresli Bilimsel Dergiler
 
-[http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler](http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler)
-
 * Thomson Reuters Web Of Science Atıf Veri Tabanlarında (SCI, SSCI, AHCI) İndekslenmekte Olan Türkiye Adresli Bilimsel Dergiler
 
-[http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf)
-
 * Webometrics
-
-[http://webometrics.info/en/Europe/Turkey](http://webometrics.info/en/Europe/Turkey)
 
 * CWTS Journal Indicators
 
@@ -151,8 +135,6 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * **Journal Citation Reports**
 
-[http://ipscience-help.thomsonreuters.com/incitesLiveJCR/welcomeToTheNewJCR.html](http://ipscience-help.thomsonreuters.com/incitesLiveJCR/welcomeToTheNewJCR.html)
-
 * **CiteScore metrics from Scopus**
 
 [https://journalmetrics.scopus.com/](https://journalmetrics.scopus.com/)
@@ -185,8 +167,6 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 [http://cabim.ulakbim.gov.tr/bibliyometrik-analiz/turkiye-bilimsel-yayin-performans-raporlari/](http://cabim.ulakbim.gov.tr/bibliyometrik-analiz/turkiye-bilimsel-yayin-performans-raporlari/)
 
 * **Ranking of scientists in Turkish Institutions according to their Google Scholar Citations public profiles**
-
-[http://webometrics.info/en/node/72](http://webometrics.info/en/node/72)
 
 [https://web.archive.org/web/20170718030609/http://webometrics.info/en/node/72](https://web.archive.org/web/20170718030609/http://webometrics.info/en/node/72)
 
@@ -222,23 +202,13 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 
 * SCI-EXPANDED, SSCI ve AHCI KAPSAMINDAKİ TÜRK DERGİLERİ
 
-[http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum4/page86-92.pdf)
-
 * TÜRK DERGİLERİNİN WEB OF SCIENCE’TEKİ YERİ, İMPAKT FAKTÖR (ETKİ FAKTÖRÜ) VE H İNDEKS
-
-[http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf](http://uvt.ulakbim.gov.tr/tip/sempozyum11/Sayfa-53-74.pdf)
 
 * ISI Web of Science (WoS)'da İndekslenen Türkiye Adresli Bilimsel Dergiler
 
-[http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler](http://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/isi-web-science-wosda-indekslenen-turkiye-adresli-bilimsel-dergiler)
-
 * Thomson Reuters Web Of Science Atıf Veri Tabanlarında (SCI, SSCI, AHCI) İndekslenmekte Olan Türkiye Adresli Bilimsel Dergiler
 
-[http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/wos\_turkce\_dergiler\_aralik\_2014.pdf)
-
 * Webometrics
-
-[http://webometrics.info/en/Europe/Turkey](http://webometrics.info/en/Europe/Turkey)
 
 * CWTS Journal Indicators
 
@@ -277,8 +247,6 @@ Pathology articles from Turkey: 18th in number, 34th H-index, 92nd citation/docu
 [https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1](https://www.nature.com/articles/d41586-017-08404-0?utm\_source=FBK\_NatureNews\&sf176431210=1)
 
 * Scholar Profili eksik olanlara öneriler
-
-[http://www.webometrics.info/en/node/179](http://www.webometrics.info/en/node/179)
 
 ![](../.gitbook/assets/ekran-resmi-2018-05-22-12.54.15.png)
 

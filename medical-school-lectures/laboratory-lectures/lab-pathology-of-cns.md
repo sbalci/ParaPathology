@@ -28,19 +28,11 @@ Bu örnek uzun süre yoğun bakımda kalmış, immünsüprese bir hastanın otop
 
 Resim 1A:
 
-![cryptococcus-2x.jpg](https://lh3.googleusercontent.com/gbjfCjhxuOPhKo5czKpdbLskSvGqBI_CudrQ2WDJnfIGKfFFTuppXOjBCTgKQWqH_fHwTRwjeYpQMemjptkOn4CeZ6-EDcBLHjRWeazzU-G3gXp9kX3VVtXLvPpWzVRhLUy35_eG)
-
 Resim 1B:
-
-![cryptococcus-10x.jpg](https://lh5.googleusercontent.com/o5LavMTwMMN1dC2lH1IQTxRybnJSlgiwCNKKoUuYPcpALDXNP9cfQL_hOH8-tiy365xEL5NF20ZV68HLJnuWK5p7sL3G3fT0XO-7wo5xcfj1CFu1G2gTugvjKOCKqARMn2SipQe6)
 
 Resim 1C:
 
-![cryptococcus-40x.jpg](https://lh3.googleusercontent.com/auV6AjRMn5n1velnb4onyjMah19NtXMWk1artNiQRvC0h0emRK5T1rxxUXlaMV9efqoElqG-9LhdVFWxC9zV1It8famlBwqk6Vm0j76w8KE2SqQoN-HukaZ44eqs6et36hehD6LY)
-
 Resim 1D:
-
-![cryptococcus-100x.jpg](https://lh4.googleusercontent.com/4L10rjzldGVb8Jhd07aKR4i5ldm3dw0L2fA74VUz3zw3ny0iNE-lVqNsc3ZqoADxQKTgtUX5H8vz1UcRKQ1BtGzvCRqHGln1Nvk5x2lKI1e6E5H8OBNEB08Pf5pBLqc6TG4P0m4d)
 
 1. Subakut infarkt
 

@@ -753,8 +753,6 @@ Log in with user/password rstudio/yourpassword
 
 
 
-[Managing containers](https://www.rocker-project.org/use/managing_containers/)
-
 
 ---
 
@@ -958,17 +956,7 @@ loaded via a namespace (and not attached):
 
 # Sunum Linkleri
 
-https://sbalci.github.io/MyRCodesForDataAnalysis/R-Markdown.nb.html
-https://sbalci.github.io/MyRCodesForDataAnalysis/R-Markdown.html
-
 https://forms.gle/UqGJBiAjB8uLPRon8
-
----
-
-# Geri Bildirim
-
-- Geri bildirim için tıklayınız: _[Geri bildirim formu](https://goo.gl/forms/YjGZ5DHgtPlR1RnB3)_
-
 
 ---
 

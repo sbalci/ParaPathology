@@ -18,4 +18,3 @@ belongs_to: "[[Bone and Soft Tissue]]"
 
 well-differentiated lipomatous tumors
 
-[https://youtu.be/kMKZdlyS0b8?list=PL5Sz1btoV3kFwtba5Mp7nBdfamOXoX5UR](https://youtu.be/kMKZdlyS0b8?list=PL5Sz1btoV3kFwtba5Mp7nBdfamOXoX5UR)

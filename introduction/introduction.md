@@ -22,15 +22,9 @@ Below are my web pages and social media accounts
 
 {% embed url="https://sites.google.com/view/drserdarbalci/" %}
 
-{% embed url="https://sbalci.github.io/pubmed/BibliographicStudies.html" %}
-
 {% embed url="https://drserdarbalci.wixsite.com/website" %}
 
-{% embed url="https://goo.gl/forms/YjGZ5DHgtPlR1RnB3" %}
-
 {% embed url="https://about.me/serdarbalci" %}
-
-{% embed url="https://serdarbalci.netlify.com/" %}
 
 {% embed url="https://sbalci.github.io/" %}
 
@@ -113,8 +107,6 @@ Below are my web pages and social media accounts
 {% embed url="https://twitter.com/serdarbalci/status/1156678529888727041" %}
 
 {% embed url="https://twitter.com/serdarbalci/status/1156961597333671936" %}
-
-{% embed url="https://twitter.com/ok_maps/status/1252577217542045696?s=21" %}
 
 {% embed url="https://twitter.com/serdarbalci/status/1269671183114526722" %}
 

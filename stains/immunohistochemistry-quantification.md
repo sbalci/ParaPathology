@@ -21,8 +21,6 @@ related_to: "[[Immunohistochemistry]]"
 
 Quantification of protein expression in cells and cellular subcompartments on immunohistochemical sections using a computer supported image analysis system
 
-[http://www.hh.um.es/pdf\_list/Vol\_28/28\_5/Braun-28-605-610-2013.pdf](http://www.hh.um.es/pdf_list/Vol_28/28_5/Braun-28-605-610-2013.pdf)
-
 ## Does anyone have a protocol for quantifying IHC images in ImageJ? <a id="yui_3_14_1_1_1513876285181_621"></a>
 
 [https://www.researchgate.net/post/Does\_anyone\_have\_a\_protocol\_for\_quantifying\_IHC\_images\_in\_ImageJ](https://www.researchgate.net/post/Does_anyone_have_a_protocol_for_quantifying_IHC_images_in_ImageJ)

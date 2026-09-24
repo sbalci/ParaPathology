@@ -51,5 +51,5 @@ In pathology and oncology, survival analysis forms the evidentiary backbone for 
 
 ## Educational Resources & Links
 
-- **Coursera Public Health Survival Lecture:** [The KM plot and Log-rank test](https://www.coursera.org/learn/survival-analysis-r-public-health/lecture/7L32e/the-km-plot-and-log-rank-test)
+- **Coursera Public Health Survival Lecture:** The KM plot and Log-rank test
 - **R Survival Analysis Guide:** [RStudio R Views](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)

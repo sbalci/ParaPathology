@@ -18,8 +18,6 @@ Algorithms that learn from data, from classical methods (regression, trees, SVM,
 
 [https://keras.io/](https://keras.io/)
 
-[https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp](https://www.youtube.com/watch?v=RPvLgzEybJU\&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
-
 * Machine Learning Glossary
 
 [https://developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
@@ -37,20 +35,7 @@ Algorithms that learn from data, from classical methods (regression, trees, SVM,
 
 ## In this section
 
-* [Linear Regression](linear-regression.md)
-* [Decision Tree](decision-tree-cart.md)
-* [Random Forest](random-forest.md)
-* [Logistic Regression](logistic-regression.md)
-* [K - Nearest Neighbors](k-nearest-neighbors.md)
-* [Support Vector Machine](support-vector-machine-svm.md)
-* [Naïve Bayes Classifier](naive-bayes-classifier.md)
 * [Cluster Analysis](cluster-analysis.md)
-* [Principal Component Analysis](principal-component-analysis-dimensionality-reduction.md)
-* [Artificial Neural Networks](artificial-neural-networks.md)
-* [Apriori Algorithm](apriori-algorithm-associated-learning.md)
-* [Association Rules](association-rules.md)
-* [Linear Discriminant Analysis](linear-discriminant-analysis.md)
-* [Convolutional Neural Networks](convolutional-neural-networks.md)
 * [Recurrent Neural Networks](recurrent-neural-networks.md)
 
 <!-- tolaria:children:end -->

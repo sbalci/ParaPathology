@@ -83,12 +83,9 @@ Conventional histopathology is destructive of biopsy tissue, and doesn’t alway
 
 Twenty-first century pathology: a morphomolecular discipline? [http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821](http://jcp.bmj.com/content/early/2017/10/23/jclinpath-2017-204821)
 
-* Basket Trials [https://www.youtube.com/watch?v=7CwOFTOEYAU](https://www.youtube.com/watch?v=7CwOFTOEYAU)
 * Digital Pathology - a Norwegian Project from Nasjonal IKT HF [https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s](https://www.youtube.com/watch?v=6fqVnoWnYxc\&t=8s)
 * Detecting cancer in real-time with machine learning [https://www.youtube.com/watch?v=9Mz84cwVmS0](https://www.youtube.com/watch?v=9Mz84cwVmS0)
 * The Histolog Scanner
-
-[https://samantree.com/product/](https://samantree.com/product/)
 
 * [Next-generation protein analysis in the pathology department.](https://www.ncbi.nlm.nih.gov/pubmed/31308255)
 

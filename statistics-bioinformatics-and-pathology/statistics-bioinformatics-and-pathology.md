@@ -33,10 +33,6 @@ order: 10
 
 [https://www.autodeskresearch.com/publications/samestats](https://www.autodeskresearch.com/publications/samestats)
 
-* [Don’t waste your time on statistics](https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c)
-
-{% embed url="https://towardsdatascience.com/whats-the-point-of-statistics-8163635da56c" %}
-
 {% embed url="https://www.youtube.com/watch?v=AZ0SsHCxbqc&ab_channel=DRdoubleB" %}
 
 <!-- tolaria:children:start -->

@@ -273,4 +273,4 @@ Laptops Are Great. But Not During a Lecture or a Meeting
 
 [https://www.amjmed.com/article/S0002-9343(19)30329-8/fulltext](https://www.amjmed.com/article/S0002-9343\(19\)30329-8/fulltext)
 
-Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash\&ref_src=twsrc%5Etfw) - when you have more twitter followers than you have cumulative citations in the peer reviewed literature, it’s time to get off of social media and write more papers! [#KardashianIndex](https://twitter.com/hashtag/KardashianIndex?src=hash\&ref_src=twsrc%5Etfw) [pic.twitter.com/LJAsY2dMcc](https://t.co/LJAsY2dMcc)— Philip Payne (@prpayne5) [May 16, 2019](https://twitter.com/prpayne5/status/1129095738003283969?ref_src=twsrc%5Etfw)
+Wise words at [#AUA2019](https://twitter.com/hashtag/AUA2019?src=hash\&ref_src=twsrc%5Etfw) - when you have more twitter followers than you have cumulative citations in the peer reviewed literature, it’s time to get off of social media and write more papers! [#KardashianIndex](https://twitter.com/hashtag/KardashianIndex?src=hash\&ref_src=twsrc%5Etfw) [pic.twitter.com/LJAsY2dMcc](https://t.co/LJAsY2dMcc)— Philip Payne (@prpayne5) May 16, 2019

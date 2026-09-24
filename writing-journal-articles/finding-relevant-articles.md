@@ -56,8 +56,6 @@ ReadCube is one of the essentials to follow up the literature. When you install 
 
 * Citeomatic finds new citations for you
 
-[http://labs.semanticscholar.org/citeomatic/](http://labs.semanticscholar.org/citeomatic/)
-
 * **Storkapp**
 
 [https://www.storkapp.me/](https://www.storkapp.me/)
@@ -81,10 +79,6 @@ ReadCube is one of the essentials to follow up the literature. When you install 
 * Utopia Documents
 
 [http://utopiadocs.com/](http://utopiadocs.com/)
-
-[http://utopiadocs.com/demo](http://utopiadocs.com/demo)
-
-[https://www.youtube.com/watch?v=AEBMz5j8kTk](https://www.youtube.com/watch?v=AEBMz5j8kTk)
 
 * **Lazy Scholar**
 

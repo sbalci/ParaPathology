@@ -38,8 +38,6 @@ order: 10
 
 **Histology Tutorials**
 
-[http://www.histologytutorials.com/](http://www.histologytutorials.com/)
-
 **Tamponlu formaldehit nasıl hazırlanır?**
 
 [https://www.facebook.com/groups/1707688912815364/permalink/1907551276162459/](https://www.facebook.com/groups/1707688912815364/permalink/1907551276162459/)

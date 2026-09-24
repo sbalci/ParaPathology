@@ -29,8 +29,6 @@ related_to:
 
 [http://www.open.edu/openlearn/free-courses/full-catalogue](http://www.open.edu/openlearn/free-courses/full-catalogue)
 
-[https://www.coursera.org/learn/developer-nodered](https://www.coursera.org/learn/developer-nodered)
-
 **Moleküler Biyoloji ve Deneysel Teknikler**
 
 [http://www.acikders.org.tr/course/view.php?id=49](http://www.acikders.org.tr/course/view.php?id=49)
@@ -79,8 +77,6 @@ Creating Dynamic Documents with RMarkdown and Knitr [https://rstudio-pubs-static
 
 [https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r](https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r)
 
-[http://allennlp.org/tutorials/installation](http://allennlp.org/tutorials/installation)
-
 [https://www.datacamp.com/community/tutorials/r-formula-tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial)
 
 [https://www.datacamp.com/community/tutorials/make-histogram-ggvis-r](https://www.datacamp.com/community/tutorials/make-histogram-ggvis-r)
@@ -100,10 +96,6 @@ Creating Dynamic Documents with RMarkdown and Knitr [https://rstudio-pubs-static
 [https://www.spss-tutorials.com/spss-clone-variables-tool/](https://www.spss-tutorials.com/spss-clone-variables-tool/)
 
 [https://www.rstudio.com/resources/webinars/](https://www.rstudio.com/resources/webinars/)
-
-[https://open.nasa.gov/open-data/](https://open.nasa.gov/open-data/)
-
-[https://open.nasa.gov/explore/](https://open.nasa.gov/explore/)
 
 [https://www.dataiku.com/learn/](https://www.dataiku.com/learn/)
 
@@ -140,8 +132,6 @@ Creating Dynamic Documents with RMarkdown and Knitr [https://rstudio-pubs-static
 [https://www.facebook.com/726282547396228/videos/1834105493280589/](https://www.facebook.com/726282547396228/videos/1834105493280589/)
 
 The PROCESS macro for SPSS and SAS
-
-[http://www.processmacro.org/workshops.html](http://www.processmacro.org/workshops.html)
 
 Non-Normal Data: Shapiro Test and Box-Cox Transformation
 

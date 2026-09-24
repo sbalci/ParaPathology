@@ -12,8 +12,6 @@ belongs_to: "[[Writing Journal Articles]]"
 
 ## Master Journal List Beta
 
-[https://apps.clarivate.com/mjl-beta/search-results](https://apps.clarivate.com/mjl-beta/search-results)
-
 * Browse, search, and explore journals indexed in the Web of Science
 * Master Journal List Beta is the definitive guide that allows you to search for journals indexed in the Web of Science. Explore more than 24,000 journals across the sciences, social sciences, and arts and humanities and discover key metrics and information using our new journal profile pages.
 * Already have a manuscript?
@@ -28,8 +26,6 @@ belongs_to: "[[Writing Journal Articles]]"
 [https://thinkchecksubmit.org](https://thinkchecksubmit.org/)
 
 * Master Journal List
-
-[http://ip-science.thomsonreuters.com/cgi-bin/jrnlst/jloptions.cgi?PC=D](http://ip-science.thomsonreuters.com/cgi-bin/jrnlst/jloptions.cgi?PC=D)
 
 * Springer Journal Suggester
 
@@ -63,11 +59,7 @@ belongs_to: "[[Writing Journal Articles]]"
 
 * ROAD Directory of Open Access scholarly Resources
 
-[http://road.issn.org/en/contenu/purposes-road-project#.WPZ4no4lG34](http://road.issn.org/en/contenu/purposes-road-project#.WPZ4no4lG34)
-
 * Choosing a journal
-
-[http://authorservices.taylorandfrancis.com/category/choosing-a-journal/](http://authorservices.taylorandfrancis.com/category/choosing-a-journal/)
 
 * Tips for finding the right journal
 
@@ -100,8 +92,6 @@ Bu konuda değişik listeler ve çalışmalar var. Bunlardan birinde makale bir 
 
 Searching for Predatory Journals
 
-[http://www.msperlin.com/shiny/predatory/](http://www.msperlin.com/shiny/predatory/)
-
 İlgili makale:
 
 Is predatory publishing a real threat? Evidence from a large database study
@@ -126,11 +116,7 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 
 * Searching for Predatory Journals
 
-[https://www.msperlin.com/shiny/predatory/](https://www.msperlin.com/shiny/predatory/)
-
 * BİR TUHAF SAVAŞ: AÇIK BİLİM VE YAĞMACI DERGİLER&#x20;
-
-[http://www.bby.hacettepe.edu.tr/akademik/zehrataskin/file/Sarkac.pdf](http://www.bby.hacettepe.edu.tr/akademik/zehrataskin/file/Sarkac.pdf)
 
 [https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal](https://www.researchgate.net/post/Do\_you\_know\_about\_fake\_journals\_Ponte\_Journal\_is\_a\_hijacked\_journal)
 
@@ -139,8 +125,6 @@ predatory: Tools for Detecting Predatory Publishers and Journals
 Bu ara bu konu çok fazla gündemde. ÜAK'ın kabul ettiği listeler de sürekli değişiyor.
 
 [https://cabim.ulakbim.gov.tr/tr-dizin/tr-dizinde-dizinlenen-dergi-listesi/](https://cabim.ulakbim.gov.tr/tr-dizin/tr-dizinde-dizinlenen-dergi-listesi/)
-
-{% embed url="https://trdizin.gov.tr/statistics/listAcceptedJournals.xhtml" %}
 
 * Critical appraisal of predatory journals in pathology
 

@@ -20,8 +20,6 @@ related_to:
 
 [http://bioconnector.org/workshops/r-survival.html](kaplan-meier.md)
 
-[https://www.openintro.org/download.php?file=survival\_analysis\_in\_R\&referrer=/stat/surv.php](https://www.openintro.org/download.php?file=survival_analysis_in_R\&referrer=/stat/surv.php)
-
 * [survMisc package](https://cran.r-project.org/web/packages/survminer/vignettes/Informative_Survival_Plots.html#survmisc-package)
 
 [https://cran.r-project.org/web/packages/survminer/vignettes/Informative\_Survival\_Plots.html](https://cran.r-project.org/web/packages/survminer/vignettes/Informative_Survival_Plots.html)

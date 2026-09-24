@@ -10,10 +10,6 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 ## LEarning Materials
 
-### Germán Rodríguez Stata Tutorial Princeton University
-
-[https://data.princeton.edu/stata](https://data.princeton.edu/stata)
-
 ### Video tutorials
 
 [https://www.stata.com/links/video-tutorials/](https://www.stata.com/links/video-tutorials/)

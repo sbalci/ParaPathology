@@ -101,8 +101,6 @@ Screen recording gif
 
 * Delete 'Where From' metadata from files Apps
 
-[http://hints.macworld.com/article.php?story=20101206161739274](http://hints.macworld.com/article.php?story=20101206161739274)
-
 > If you run xattr on your downloaded file, like this:
 >
 > `xattr /Path/To/File`
@@ -112,8 +110,6 @@ Screen recording gif
 > `xattr -d com.apple.metadata:kMDItemWhereFroms /Path/To/File`
 
 * Use Preview to combine PDFs on your Mac
-
-[https://support.apple.com/en-us/HT202945](https://support.apple.com/en-us/HT202945)
 
 ![](https://support.apple.com/library/content/dam/edam/applecare/images/en\_US/macos/macos-high-sierra-preview-drag-pdf-page.gif)
 

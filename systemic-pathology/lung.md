@@ -22,23 +22,9 @@ belongs_to: "[[Systemic Pathology]]"
 
 {% embed url="https://www.youtube.com/watch?v=sIC49YSRX_I" %}
 
-### Pathology Insights - Usual Interstitial Pneumonia with Carol Farver, MD
-
-{% embed url="https://www.youtube.com/watch?v=mqVXYN7nd4o&list=PL5Sz1btoV3kFwtba5Mp7nBdfamOXoX5UR&index=3" %}
-
-### Pathology Insights - Diagnosing Lung Cancer on Small Specimens with Jordan Reynolds, MD
-
-{% embed url="https://www.youtube.com/watch?v=V-1GsEFZF6o&index=4&list=PL5Sz1btoV3kFwtba5Mp7nBdfamOXoX5UR" %}
-
-### Pathology Insights: Atypical Epithelial Cells with Sanjay Mukhopadhyay, MD
-
-{% embed url="https://www.youtube.com/watch?v=KubN41tSBMQ" %}
-
 ### Pathology Insights: Lung Cancer or Metastasis to Lung? with Sanjay Mukhopadhyay, MD
 
 Can metastases to the lung occur from cancers that were treated several years ago? Dr. Mukhopadhyay discusses.
-
-{% embed url="https://www.youtube.com/watch?time_continue=12&v=izA_lNicFDs" %}
 
 ### Metastasis to the Lung From Carcinomas of Nonpulmonary Sites After Prolonged Disease-free Intervals. Mukhopadhyay S, et al. J Bronchology Interv Pulmonol. 2017.
 

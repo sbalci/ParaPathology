@@ -28,7 +28,6 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 
 * **References:**
 * [https://prevention.cancer.gov/](https://prevention.cancer.gov/)
-* [http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm\_content=sf39202571\&utm\_medium=spredfast\&utm\_source=twitter\&utm\_campaign=National+Cancer+Institute\&cid=tw\_NCIMain\_nci\_overdiagnosis\_sf39202571](http://prevention.cancer.gov/news-and-events/infographics/qa-what-cancer?utm_content=sf39202571\&utm_medium=spredfast\&utm_source=twitter\&utm_campaign=National+Cancer+Institute\&cid=tw_NCIMain_nci_overdiagnosis_sf39202571)
 * [http://seer.cancer.gov/](http://seer.cancer.gov/)
 * [http://surveillance.cancer.gov/statistics/types/survival.html](http://surveillance.cancer.gov/statistics/types/survival.html)
 * [http://seer.cancer.gov/faststats/](http://seer.cancer.gov/faststats/)
@@ -43,8 +42,6 @@ The 2017 report found that cancer mortality decreased 1.8% per year in men, 1.4%
 [http://globocan.iarc.fr/Default.aspx](http://globocan.iarc.fr/Default.aspx)
 
 * **The Breast Cancer Risk Assessment Tool**
-
-[https://www.cancer.gov/bcrisktool/Default.aspx](https://www.cancer.gov/bcrisktool/Default.aspx)
 
 * **Cancer System Performance Report**
 

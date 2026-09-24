@@ -15,14 +15,6 @@ belongs_to: "[[Appendix]]"
 
 {% embed url="http://www.pathologyportal.org/elibraryf.asp" %}
 
-{% embed url="http://uscapknowledgehub.org/index.htm?hub.htm" %}
-
-{% embed url="http://uscapknowledgehub.org/newindex.htm?educmaster.htm" %}
-
-{% embed url="http://uscapknowledgehub.org/newindex.htm?vsbindex.htm" %}
-
-{% embed url="http://www.rosaicollection.org/" %}
-
 {% embed url="https://www.pathlms.com/uscap/courses/" %}
 
 #### Social Media
@@ -45,25 +37,11 @@ belongs_to: "[[Appendix]]"
 
 [http://www.pathologyportal.org/elibraryf.asp](http://www.pathologyportal.org/elibraryf.asp)
 
-[http://uscapknowledgehub.org/index.htm?hub.htm](http://uscapknowledgehub.org/index.htm?hub.htm)
-
-[http://uscapknowledgehub.org/newindex.htm?educmaster.htm](http://uscapknowledgehub.org/newindex.htm?educmaster.htm)
-
-[http://uscapknowledgehub.org/newindex.htm?vsbindex.htm](http://uscapknowledgehub.org/newindex.htm?vsbindex.htm)
-
-[http://www.rosaicollection.org/](http://www.rosaicollection.org/)
-
 [https://www.pathlms.com/uscap/courses/](https://www.pathlms.com/uscap/courses/)
 
 #### Work On
 
-[https://publons.com/community/academy/](https://publons.com/community/academy/)
-
 [https://sites.google.com/view/drserdarbalci/](https://sites.google.com/view/drserdarbalci/)
-
-[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html)
-
-[https://translate-coursera.org/](https://translate-coursera.org/)
 
 [https://sbalci.gitbooks.io/pathology-notes/content/](https://sbalci.gitbooks.io/pathology-notes/content/)
 
@@ -82,8 +60,6 @@ belongs_to: "[[Appendix]]"
 [http://researchgate.net/](http://researchgate.net/)
 
 [https://scholar.google.com.tr/](https://scholar.google.com.tr/)
-
-[https://publons.com/community/academy/](https://publons.com/community/academy/)
 
 [http://semanticscholar.org/](http://semanticscholar.org/)
 
@@ -119,8 +95,6 @@ belongs_to: "[[Appendix]]"
 
 USCAP Archived Online Courses [https://www.pathologyportal.org/elibraryf.asp](https://www.pathologyportal.org/elibraryf.asp)
 
-USCAP Virtual Slide Box [http://uscapknowledgehub.org/index.htm?vsbindex.htm](http://uscapknowledgehub.org/index.htm?vsbindex.htm)
-
 [https://cancerstaging.org/CSE/Physician/Pages/8th-Edition-Webinars.aspx](https://cancerstaging.org/CSE/Physician/Pages/8th-Edition-Webinars.aspx)
 
 [http://apps.pathology.jhu.edu/sp/week-670-case-2/](http://apps.pathology.jhu.edu/sp/week-670-case-2/)
@@ -154,8 +128,6 @@ www.rstudio.com/resources/webinars/
 [https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
 
 #### Read
-
-[https://translate-coursera.org/](https://translate-coursera.org/)
 
 [https://www.datacamp.com/community](https://www.datacamp.com/community)
 

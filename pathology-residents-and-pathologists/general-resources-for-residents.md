@@ -41,8 +41,6 @@ Programmed cell death:[https://www.coursera.org/course/pcd](https://www.coursera
 
 [https://lagunita.stanford.edu/courses](https://lagunita.stanford.edu/courses)
 
-Leica IHK:[https://itunes.apple.com/us/app/pathlead-powered-by-leica/id797433126](https://itunes.apple.com/us/app/pathlead-powered-by-leica/id797433126)
-
 [http://pathology.jhu.edu/pancreas/professionals/index.php](http://pathology.jhu.edu/pancreas/professionals/index.php)
 
 [http://www.youtube.com/watch?v=CR-7blJkNaI](http://www.youtube.com/watch?v=CR-7blJkNaI)
@@ -50,8 +48,6 @@ Leica IHK:[https://itunes.apple.com/us/app/pathlead-powered-by-leica/id797433126
 Pankreas - John Hopkins
 
 [http://itunes.apple.com/us/app/atlas-of-pancreas-pathology/id474845392?mt=8](http://itunes.apple.com/us/app/atlas-of-pancreas-pathology/id474845392?mt=8)
-
-[https://itunes.apple.com/us/app/icarebook-hd/id697194060?ls=1&mt=8](https://itunes.apple.com/us/app/icarebook-hd/id697194060?ls=1&mt=8)
 
 [https://itunes.apple.com/us/app/atlas-pancreatic-cytopathology/id580500693?mt=8](https://itunes.apple.com/us/app/atlas-pancreatic-cytopathology/id580500693?mt=8)
 

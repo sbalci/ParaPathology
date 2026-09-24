@@ -20,15 +20,9 @@ belongs_to: "[[Bibliography]]"
 
 * How to Use EndNote in 5 Minutes: Windows
 
-{% embed url="https://www.youtube.com/watch?v=S3xo6ZjBV6U" %}
-
 * How To Use EndNote in 7 Minutes (X7 Windows Version)
 
-{% embed url="https://www.youtube.com/watch?v=lnqPjjKwEPk" %}
-
 * How to Use EndNote in 5 Minutes: Windows
-
-{% embed url="https://www.youtube.com/watch?v=S3xo6ZjBV6U" %}
 
 * **Introduction to EndNote - Creating a traveling library**
 
@@ -40,12 +34,7 @@ belongs_to: "[[Bibliography]]"
 
 * How to Use EndNote in 5 Minutes: Windows
 
-[https://www.youtube.com/watch?v=S3xo6ZjBV6U](https://www.youtube.com/watch?v=S3xo6ZjBV6U)
-
 * How To Use EndNote in 7 Minutes (X7 Windows Version)
-
-[https://www.youtube.com/watch?v=lnqPjjKwEPk](https://www.youtube.com/watch?v=lnqPjjKwEPk)
 
 * How to Use EndNote in 5 Minutes: Windows
 
-[https://www.youtube.com/watch?v=S3xo6ZjBV6U](https://www.youtube.com/watch?v=S3xo6ZjBV6U)

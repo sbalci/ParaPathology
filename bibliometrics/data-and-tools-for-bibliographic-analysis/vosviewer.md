@@ -42,8 +42,6 @@ belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 
 * MEDLINE to ris
 
-[https://www.reading.ac.uk/library/finding-info/endnote/lib-endnote-faq-packages.aspx](https://www.reading.ac.uk/library/finding-info/endnote/lib-endnote-faq-packages.aspx)
-
 > EXPORTING REFERENCES FROM ENDNOTE DESKTOP TO TALIS ASPIRE ONLINE READING LISTS
 >
 > Open your EndNote library.

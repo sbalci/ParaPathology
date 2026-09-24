@@ -12,8 +12,6 @@ belongs_to: "[[Machine Learning]]"
 
 ## Hierarchical Clustering
 
-[https://www.youtube.com/watch?v=EUQY3hL38cw&list=PL\_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=9](https://www.youtube.com/watch?v=EUQY3hL38cw&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=9)
-
 Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but influenced by the diagnostic style of pathologists. Mod Pathol. 2012 Jun;25\(6\):877-84. doi: 10.1038/modpathol.2011.220.
 
 [https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
@@ -32,4 +30,3 @@ Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but 
 
 [http://gaggle.systemsbiology.net/docs/](http://gaggle.systemsbiology.net/docs/)
 
-[http://mev.tm4.org/\#/welcome](http://mev.tm4.org/#/welcome)

@@ -34,11 +34,7 @@ See [https://www.serdarbalci.com/](https://www.serdarbalci.com) for main web pag
 
 [http://www.patolojinotlari.com/](http://www.patolojinotlari.com) for Turkish Lecture Notes & Social Media Based Notes,
 
-[https://serdarbalci.gitbook.io/parapathology/](https://serdarbalci.gitbook.io/parapathology/) for parapathology collection,
-
-[https://sbalci.github.io/MyRCodesForDataAnalysis/](https://sbalci.github.io/MyRCodesForDataAnalysis/) for `R codes`,
-
-[https://sbalci.github.io/pubmed/BibliographicStudies.html](https://sbalci.github.io/pubmed/BibliographicStudies.html) for `Bibliographic Studies`.
+[https://serdarbalci.gitbook.io/parapathology/](https://serdarbalci.gitbook.io/parapathology/) for parapathology collection.
 
 I use [https://twitter.com/serdarbalci](https://twitter.com/serdarbalci) frequently.
 

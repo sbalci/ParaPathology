@@ -56,7 +56,6 @@ belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 [https://www.graphpad.com/quickcalcs/](https://www.graphpad.com/quickcalcs/)
 
 * VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net)
-* Cutoff Finder [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
 * Plotly
 
 [https://plot.ly/](https://plot.ly)
@@ -89,16 +88,13 @@ belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 
 **Online Data Visualization Websites**
 
-* [DataHero](http://datahero.com)
 * [Plotly](http://plot.ly)
 * [Number Picture](http://site.numberpicture.com)
 * [Polychart](https://github.com/Polychart)
 * [Juice Analytics](http://www.juiceanalytics.com)
 * [Weave](http://www.iweave.org)
 * [Datavisual](http://datavisu.al)
-* [Silk](https://www.silk.co)
 * [Zoomdata](http://www.zoomdata.com) (via the cloud platforms)
-* [RAW](http://app.raw.densitydesign.org)
 * [Datawrapper](https://datawrapper.de)
 
 **Software**
@@ -107,7 +103,6 @@ belongs_to: "[[Data And Tools For Bibliographic Analysis]]"
 * [SAP Lumira](http://www.sapstore.com/getlumira) (including a free Personal Edition version)
 * [Microsoft Excel](https://products.office.com/excel) (or any other spreadsheet that includes charts)
 * [ClearStory](http://www.clearstorydata.com)
-* [BeyondCore](http://beyondcore.com)
 * [Mathematica](http://www.wolfram.com/mathematica/)
 * [MATLAB](http://www.mathworks.com/products/matlab/)
 * [MatPlotLib](http://matplotlib.org) (if you are comfortable programming Python)

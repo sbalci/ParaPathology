@@ -18,11 +18,7 @@ belongs_to: "[[Laboratory Management]]"
 
 * An Act of Translation: Turning an Academic CV into an Industry Resume
 
-[https://www.northeastern.edu/careers/blog/an-act-of-translation-turning-an-academic-cv-into-an-industry-resume/](https://www.northeastern.edu/careers/blog/an-act-of-translation-turning-an-academic-cv-into-an-industry-resume/)
-
 * How to Make a Resume: A Step-by-Step Guide
-
-[https://uptowork.com/blog/how-to-make-a-resume](https://uptowork.com/blog/how-to-make-a-resume)
 
 * Resume Builder Online
 

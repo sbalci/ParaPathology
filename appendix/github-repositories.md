@@ -28,8 +28,6 @@ related_to:
 
 {% embed url="https://github.com/sbalci/JournalWatchPBPath" %}
 
-{% embed url="https://github.com/sbalci/AutoJournalWatch" %}
-
 {% embed url="https://github.com/sbalci/histopathology-template" %}
 
 {% embed url="https://github.com/sbalci/MyRCodesForDataAnalysis" %}

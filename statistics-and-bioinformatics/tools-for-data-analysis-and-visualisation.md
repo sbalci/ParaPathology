@@ -65,8 +65,6 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 * VassarStats: Website for Statistical Computation [http://vassarstats.net/](http://vassarstats.net/)
 * Cutoff Finder
 
-  [http://molpath.charite.de/cutoff/index.jsp](http://molpath.charite.de/cutoff/index.jsp)
-
 * Plotly
 
 [https://plot.ly/](https://plot.ly/)
@@ -99,19 +97,16 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 **Online Data Visualization Websites**
 
-* [DataHero](http://datahero.com/)
 * [Plotly](http://plot.ly/)
 * [Number Picture](http://site.numberpicture.com/)
 * [Polychart](https://github.com/Polychart)
 * [Juice Analytics](http://www.juiceanalytics.com/)
 * [Weave](http://www.iweave.org/)
 * [Datavisual](http://datavisu.al/)
-* [Silk](https://www.silk.co/)
 * [Zoomdata](http://www.zoomdata.com/)
 
   \(via the cloud platforms\)
 
-* [RAW](http://app.raw.densitydesign.org/)
 * [Datawrapper](https://datawrapper.de/)
 
 **Software**
@@ -126,7 +121,6 @@ belongs_to: "[[Statistics and Bioinformatics]]"
   \(or any other spreadsheet that includes charts\)
 
 * [ClearStory](http://www.clearstorydata.com/)
-* [BeyondCore](http://beyondcore.com/)
 * [Mathematica](http://www.wolfram.com/mathematica/)
 * [MATLAB](http://www.mathworks.com/products/matlab/)
 * [MatPlotLib](http://matplotlib.org/)

@@ -16,8 +16,6 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 * Orange Visual Programming
 
-[http://orange-visual-programming.readthedocs.io/index.html](http://orange-visual-programming.readthedocs.io/index.html)
-
 * Orange YouTube
 
 [https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)

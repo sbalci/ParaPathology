@@ -48,8 +48,6 @@ Eğer bir ölçüm hedef haline geliyorsa, artık o ölçüm iyi bir ölçüm de
 
 * `ReporteRs` is an R package for creating Microsoft Word and Powerpoint documents.
 
-[https://davidgohel.github.io/ReporteRs/](https://davidgohel.github.io/ReporteRs/)
-
 * `officer` Manipulation of Microsoft Word and PowerPoint Documents
 
 [https://cran.r-project.org/web/packages/officer/](https://cran.r-project.org/web/packages/officer/)
@@ -128,8 +126,6 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 [http://www.rcommander.com/](http://www.rcommander.com)
 
-[https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
-
 * JASP is another R based statistical open source software, also has Bayesian features
 
 [https://jasp-stats.org/](https://jasp-stats.org)
@@ -144,10 +140,7 @@ Initially inspired by [`csv-fingerprint`](https://github.com/setosa/csv-fingerpr
 
 * How to install and use MacPorts
 
-[http://blog.kicaj.com/installing-macports/](http://blog.kicaj.com/installing-macports/)
-
 * Rattle: A Graphical User Interface for Data Mining using R
 
 [https://rattle.togaware.com](https://rattle.togaware.com)
 
-[http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)

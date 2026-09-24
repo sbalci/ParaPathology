@@ -18,7 +18,6 @@ Working life in pathology: how residents train and rotate, the diagnostic habits
 * [So Called Junk Materials & Pitfalls](so-called-junk-materials-and-pitfalls.md)
 * [It happens / I have seen that before / Olur öyle](it-happens-i-have-seen-that-before-olur-oeyle.md)
 * [Helpful Web Sites for Diagnostic Practice](helpful-web-sites-for-diagnostic-practice.md)
-* [Virtual Slides](virtual-slides.md)
 * [General Resources For Residents](general-resources-for-residents.md)
 * [History of Pathology](history-of-pathology.md)
 * [Pathology Reports](pathology-reports.md)

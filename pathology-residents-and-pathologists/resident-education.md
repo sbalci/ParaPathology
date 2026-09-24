@@ -17,8 +17,6 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 
 * The Story Behind a Moving Academic Acknowledgement
 
-[http://www.academiaobscura.com/story-behind-moving-academic-acknowledgement/](http://www.academiaobscura.com/story-behind-moving-academic-acknowledgement/)
-
 * Johns Hopkins Pathology Residency Program
 
 [https://www.youtube.com/watch?v=r44w9mJLhr4](https://www.youtube.com/watch?v=r44w9mJLhr4)
@@ -34,8 +32,6 @@ Archives of Pathology & Laboratory Medicine [https://doi.org/10.5858/arpa.2016-0
 ## PathPresenter: Quiz Module
 
 [https://www.youtube.com/watch?v=haVMuxJ9y4M\&feature=youtu.be](https://www.youtube.com/watch?v=haVMuxJ9y4M\&feature=youtu.be)
-
-[https://twitter.com/GeronimoJrLapac/status/978084675674546176](https://twitter.com/GeronimoJrLapac/status/978084675674546176)
 
 ![](<../.gitbook/assets/dzlaxlrx0aam-j7.jpg-large (2) (2) (1).jpg>)
 

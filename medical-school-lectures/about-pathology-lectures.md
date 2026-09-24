@@ -62,8 +62,6 @@ Dönem 2 Komite 7 Dersleri, Türkçe Grup
 
 [Patoloji Laboratuvarı: Nasıl çalışır?](https://docs.google.com/document/d/1kgnJ-c\_8Rq84BYg7zBmvJCvSdyM\_qPwkudBEMobLOlI/pub)
 
-[Hücre Patolojisi](https://docs.google.com/document/d/13-eHgXpVERd5o0iNmb04II3jJ5g5nPdc79FfUMCmmeg/pub)
-
 [Hücre içi birikimler ve Hücre yaşlanması](https://docs.google.com/document/d/1R9anC\_HQgeMrQqJtTnW2BMFziJ5MNUai9sCv1hG8T94/pub)
 
 [Hücre ölümünün mekanizmaları, Apoptoz ve Otofaji](https://docs.google.com/document/d/1qErUhlutNCxHjZCeyLjaINoPeOYa7xs\_vnSjydAaAeE/pub)

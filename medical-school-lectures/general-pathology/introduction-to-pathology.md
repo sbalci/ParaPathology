@@ -97,11 +97,9 @@ References:
 
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
 5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
 6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
 8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
 9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)
 
@@ -165,10 +163,8 @@ Kaynaklar:
 
 1. Robbins Basic Pathology, 9th edition
 2. Robbins and Cotran Pathologic Basis of Disease, 9th edition
-3. [What is a pathologist?](http://www.pathreport.org/#!What-is-a-pathologist/cnza/128F7E6E-A908-41F6-B56E-5161D7D5A721)
 4. [Patoloji nedir? Patologlar ne yapar?](https://www.youtube.com/watch?v=YXoRXXmH-pU)
 5. [Pathology - Working Behind the Scenes](https://www.youtube.com/watch?v=Sx\_eL3AemAI)
 6. [Rebecca F. Yorke (2000) Informed Evaluation of Pathology Residency Programs. Archives of Pathology & Laboratory Medicine: June 2000, Vol. 124, No. 6, pp. 853-858.](http://www.archivesofpathology.org/doi/abs/10.1043/0003-9985\(2000\)124%3C0853%3AIEOPRP%3E2.0.CO%3B2)
-7. [Top 8 Things to Look for When Selecting a Pathology Residency Training Program](http://www.cap.org/apps/docs/pathology\_residents/top\_8\_things.pdf)
 8. [Patalojik Davet Doç.Dr.Münevver Yenerman, Ayrılış, 1959](http://www.turkpath.org.tr/files/Munevver\_Yenerman.pdf)
 9. [http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami](http://www.ted.com/talks/manu\_prakash\_a\_50\_cent\_microscope\_that\_folds\_like\_origami)

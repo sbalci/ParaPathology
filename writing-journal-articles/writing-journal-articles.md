@@ -41,7 +41,6 @@ order: 10
 * [Publishing General](publishing-general.md)
 * [Bibliography](bibliography/README.md)
 * [Research Planning](research-planning.md)
-* [Citavi](citavi.md)
 * [Research Quality](research-quality.md)
 * [Citation](citation.md)
 * [Visual Abstracts](visual-abstracts.md)

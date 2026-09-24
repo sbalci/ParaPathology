@@ -24,8 +24,6 @@ belongs_to: "[[Writing Journal Articles]]"
 
 * augmented reality
 
-[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister_Crow/status/933000138552901632)
-
 * For science illustration
 
 [https://biorender.io/](https://biorender.io)
@@ -43,8 +41,6 @@ belongs_to: "[[Writing Journal Articles]]"
 [https://biorender.io/](https://biorender.io)
 
 *
-
-[https://twitter.com/Allister\_Crow/status/933000138552901632](https://twitter.com/Allister_Crow/status/933000138552901632)
 
 * Interesting Figures
 

@@ -29,10 +29,6 @@ belongs_to: "[[Laboratory Management]]"
 - [YouTube walkthrough](https://www.youtube.com/watch?v=nvvhw7iy7RM)
 - [Diagnostic Path Solutions — Free D-Path](http://www.diagnosticpathsolutions.com/free-d-path-pathology.html)
 
-### Tumor Reporting System
-
-- [essentialpathology.info/trs](http://www.essentialpathology.info/trs/)
-
 ## Articles
 
 - Predictive Analytics to Support Real-Time Management in Pathology Facilities — [PubMed 28269873](https://www.ncbi.nlm.nih.gov/pubmed/28269873)

@@ -21,10 +21,6 @@ order: 10
 
 {% embed url="https://onlinelibrary.wiley.com/doi/abs/10.1111/pin.12706" %}
 
-#### __[_Sir William Osler 1849-1919: A Selection for Medical Students_](https://www.ams-inc.on.ca/resource/osler-book-download/)__
-
-{% embed url="https://www.ams-inc.on.ca/resource/osler-book-download/" %}
-
 #### [Pathology in Irish medical education.](https://www.ncbi.nlm.nih.gov/pubmed/31439711)
 
 {% embed url="https://www.ncbi.nlm.nih.gov/pubmed/31439711" %}

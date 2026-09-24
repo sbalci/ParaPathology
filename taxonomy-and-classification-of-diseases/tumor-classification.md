@@ -28,8 +28,6 @@ Nature Reviews Gastroenterology & Hepatology \(2017\) doi:10.1038/nrgastro.2017.
 
 * **FDA approves first cancer treatment for any solid tumor with a specific genetic feature**
 
-[https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm560167.htm](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm560167.htm)
-
 * **Tumor classification: molecular analysis meets Aristotle**
 
 [https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-4-10](https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-4-10)

@@ -53,8 +53,6 @@ The quantitative toolbox: statistical concepts (power, ROC, survival, kappa, reg
 
 [https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/b60b30a885934cd5971b6fc620a41657/](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/b60b30a885934cd5971b6fc620a41657/)
 
-[https://www.rstudio.com/resources/webinars/reproducible-reporting/](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
-
 <!-- tolaria:children:start -->
 
 ## In this section

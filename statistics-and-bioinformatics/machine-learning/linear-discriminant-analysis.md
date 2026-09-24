@@ -6,8 +6,8 @@ aliases:
   - "Linear Discriminant Analysis"
 order: 130
 belongs_to: "[[Machine Learning]]"
+publish: false
 ---
 
 # Linear Discriminant Analysis
 
-[https://www.youtube.com/watch?v=2cngQxtbkDc](https://www.youtube.com/watch?v=2cngQxtbkDc)

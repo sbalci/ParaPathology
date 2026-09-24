@@ -191,7 +191,7 @@ The HF model is rarely the whole story — these wrap weights into usable WSI pi
 - **[Trident](https://github.com/mahmoodlab/TRIDENT)** / **[CLAM](https://github.com/mahmoodlab/CLAM)** (MahmoodLab) — feature extraction + MIL training pipelines wired for UNI/CONCH/Virchow embeddings.
 - **[Slideflow](https://github.com/jamesdolezal/slideflow)** — end-to-end WSI training/inference; supports HF foundation encoders as backbones.
 - **[MONAI Pathology](https://github.com/Project-MONAI/MONAI)** — Project MONAI's pathology module; HF integration is partial but improving.
-- **[HoneyBee](https://github.com/lhoestq/honeybee)** / **`huggingface_hub`** — for pulling weights/datasets programmatically; pair with `safetensors` + `transformers.AutoModel` for the WSInfer family.
+- **HoneyBee** / **`huggingface_hub`** — for pulling weights/datasets programmatically; pair with `safetensors` + `transformers.AutoModel` for the WSInfer family.
 
 ---
 

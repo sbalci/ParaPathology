@@ -29,8 +29,6 @@ ReadCube is one of the essentials to follow up the literature. When you install 
 * **Johns Hopkins Pathology Atlases for the Ipad**
 * The Johns Hopkins iCarebook for Pancreatic Cancer HD
 
-[https://itunes.apple.com/us/app/icarebook-hd/id697194060?ls=1\&mt=8](https://itunes.apple.com/us/app/icarebook-hd/id697194060?ls=1\&mt=8)
-
 * Johns Hopkins Flashcards
 
 [https://itunes.apple.com/us/app/johns-hopkins-flashcards/id1048379559?mt=8](https://itunes.apple.com/us/app/johns-hopkins-flashcards/id1048379559?mt=8)

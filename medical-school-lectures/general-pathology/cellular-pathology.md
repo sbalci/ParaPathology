@@ -10,10 +10,6 @@ belongs_to: "[[General Pathology]]"
 
 # Cellular Pathology
 
-{% embed url="https://biochemical-pathways.com/" %}
-
-{% embed url="https://biochemical-pathways.com/cellular-molecular-processes" %}
-
 
 
 [Organelles of a human cell](https://www.youtube.com/watch?v=2YCgro6BV8U)

@@ -12,8 +12,6 @@ belongs_to: "[[Pathology Residents and Pathologists]]"
 
 What makes a good pathologist? First of all, I think you have to be good at pattern recognition... You have to be thorough in your thinking, "Well, if I haven't seen this before, what must I do to try and make the diagnosis? Must I do some more special stains? Must I show it to somebody else? Must I read up in the books about it?" And you have to be quite determined to find out. **Paola Domizio** (UK)
 
-{% embed url="https://www.pathsoc.org/conversations/index.php?option=com_content&view=category&layout=blog&id=35&Itemid=78" %}
-
 
 
 #### Choosing a Pathology Subspecialty: Have You Considered Patient Contact?
@@ -113,9 +111,7 @@ Lecture Outlines:
 
 References:
 
-1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 Last updated:01.05.2015
 
@@ -178,9 +174,7 @@ Lecture Outlines:
 
 References:
 
-1. How to Read Your Pathology Report:[http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html](http://www.cap.org/apps/docs/reference/myBiopsy/pathology\_report.html)
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
-3. [http://rosaicollection.org/](http://rosaicollection.org/)
 
 ## Pathologist
 
@@ -204,10 +198,6 @@ References:
 
 [https://www.youtube.com/watch?v=qyQPxaqfcZI](https://www.youtube.com/watch?v=qyQPxaqfcZI)
 
-#### University of Pittsburgh Pathology Conference
-
-{% embed url="http://pathologyconference.upmc.edu/" %}
-
 
 
 #### Washington University in St. Louis Nephrology Web Series
@@ -215,10 +205,6 @@ References:
 {% embed url="https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos" %}
 
 
-
-#### University of Pittsburgh Pathology Conference
-
-[http://pathologyconference.upmc.edu/](http://pathologyconference.upmc.edu/)
 
 #### Washington University in St. Louis Nephrology Web Series
 

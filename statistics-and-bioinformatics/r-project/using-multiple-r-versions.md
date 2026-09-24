@@ -50,8 +50,6 @@ pkgutil --forget org.r-project.R.el-capitan.fw.pkg
 
 [https://mac.r-project.org/el-capitan/R-3.6-branch/R-GUI-7782-3.6-el-capitan-Release.dmg](https://mac.r-project.org/el-capitan/R-3.6-branch/R-GUI-7782-3.6-el-capitan-Release.dmg)
 
-[https://mac.r-project.org/high-sierra/R-4.0-branch/R-GUI-7842-4.0-high-sierra-Release.dmg](https://mac.r-project.org/high-sierra/R-4.0-branch/R-GUI-7842-4.0-high-sierra-Release.dmg)
-
 {% embed url="https://twitter.com/hrbrmstr/status/1265233262072532994" %}
 
 {% embed url="https://twitter.com/hrbrmstr/status/1265242686052843521" %}

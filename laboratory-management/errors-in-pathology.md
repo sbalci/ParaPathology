@@ -22,10 +22,6 @@ belongs_to: "[[Laboratory Management]]"
 
 [http://www.herkesebilimteknoloji.com/slider/tipta-tani-hatalarini-azaltmak-mumkun-mu](http://www.herkesebilimteknoloji.com/slider/tipta-tani-hatalarini-azaltmak-mumkun-mu)
 
-### SC32 – Blazing a New Trail: Communication for Pathologists in the Era of Transparency and Collaborative Medicine
-
-[https://www.uscap.org/meetings/pages/2018-annual-meeting/2018-sc32](https://www.uscap.org/meetings/pages/2018-annual-meeting/2018-sc32)
-
 ### Wake Forest Baptist Still Reviewing Thousands of Pathology Cases
 
 [https://www.northcarolinahealthnews.org/2018/04/13/wake-forest-baptist-still-reviewing-thousands-of-pathology-cases](https://www.northcarolinahealthnews.org/2018/04/13/wake-forest-baptist-still-reviewing-thousands-of-pathology-cases/)

@@ -20,13 +20,10 @@ belongs_to: "[[Writing Journal Articles]]"
 
 * Tıpta İyi Yazı Yazma Kılavuzu
 
-[http://www.tiptayazimkilavuzu.org/home.php](http://www.tiptayazimkilavuzu.org/home.php)
-
 * Responding to Peer Reviewers: You Can't Always Say What You'd Like \[Free Guide]
 
 [http://www.aje.com/en/arc/responding-reviewers-you-cant-always-say-what-youd/](http://www.aje.com/en/arc/responding-reviewers-you-cant-always-say-what-youd/)
 
-* [https://twitter.com/AcademiaObscura/status/952604999024107520](https://twitter.com/AcademiaObscura/status/952604999024107520)
 * LWW Author guide
 
 {% embed url="http://authors.lww.com" %}

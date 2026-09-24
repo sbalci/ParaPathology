@@ -20,7 +20,7 @@ Pangram: AI Content Detection Platform and Pangram 4 Classifier [https://www.pan
 The pathology report as a boundary object: From clinical communication to computational representation [https://www.sciencedirect.com/science/article/pii/S3117678X26000028](https://www.sciencedirect.com/science/article/pii/S3117678X26000028) "file:///K:/DownloadsK/1-s2.0-S3117678X26000028-main.pdf" [https://doi.org/10.1016/j.prpath.2026.100002](https://doi.org/10.1016/j.prpath.2026.100002)
 
 [[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]
-NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology [https://npic.ac.uk/quality/](https://npic.ac.uk/quality/) [https://npic.ac.uk/quality/qcc-tools-and-resources/](https://npic.ac.uk/quality/qcc-tools-and-resources/) [https://pouqa.leeds.ac.uk](https://pouqa.leeds.ac.uk)
+NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology [https://npic.ac.uk/quality/](https://npic.ac.uk/quality/) [https://npic.ac.uk/quality/qcc-tools-and-resources/](https://npic.ac.uk/quality/qcc-tools-and-resources/)
 
 [[Class visualizations and activation atlases for computational pathology]]
 Class visualizations and activation atlases for computational pathology [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
@@ -447,8 +447,6 @@ Unbiased AI: Addressing Bias in Computational Pathology
 
 ---
 
-[https://www.fishersci.com/content/dam/fishersci/en_US/documents/programs/healthcare/presentations/generating-flawless-slides-for-digital-pathology-24-2739.pdf](https://www.fishersci.com/content/dam/fishersci/en_US/documents/programs/healthcare/presentations/generating-flawless-slides-for-digital-pathology-24-2739.pdf)
-
 ---
 
 Health care in the USA: money has become the mission [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01669-1/abstract>)
@@ -584,8 +582,6 @@ Robust sensitivity control in digital pathology via tile score distribution matc
 
 Distilling foundation models for robust and efficient models in digital pathology [https://arxiv.org/abs/2501.16239](https://arxiv.org/abs/2501.16239)
 
-[https://compreps.wiki/](https://compreps.wiki/)
-
 The Future of Immunohistochemistry [https://isimm.org/education/isimm-webinars/the-future-of-immunohistochemistry/](https://isimm.org/education/isimm-webinars/the-future-of-immunohistochemistry/)
 
 ISIMM Webinar - Clinical Implementation of Multiplex IHC/IF with Real World Diagnostic and Predictive Applications with Sanjay Patel [https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159&id=8a9149050a&e=01f46d65a4](https://isimm.us7.list-manage.com/track/click?u=8666755584e8326e820fac159&id=8a9149050a&e=01f46d65a4)
@@ -640,11 +636,9 @@ Bunun sıkıntılı yanları da var.
 - Bazı kavramlar hastalarda gereksiz anksiyeteye neden olabiliyor. "Dev hücre" gibi. Google hekimliği bitti, şimdi yapay zekadan raporu analiz ettirmeye başladılar.
 - Raporda geçen teknik terimler "takibe alındı", "yeni parça", "yeni kesit" bağlamından koparılınca yanlış anlaşılabiliyor.
 
-[https://www.linkedin.com/posts/jason-wasserman-7a9ba8250*if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm*source=share&utm*medium=member*desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg
+[https://pubmed.ncbi.nlm.nih.gov/40015956/](https://pubmed.ncbi.nlm.nih.gov/40015956/)
 
-](https://www.linkedin.com/posts/jason-wasserman-7a9ba8250*if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm*source=share&utm*medium=member*desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)[https://pubmed.ncbi.nlm.nih.gov/40015956/](https://pubmed.ncbi.nlm.nih.gov/40015956/)
-
-{% embed url="[https://www.linkedin.com/posts/jason-wasserman-7a9ba8250*if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm*source=share&utm*medium=member*desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg](https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg)" %}
+{% embed url="https://www.linkedin.com/posts/jason-wasserman-7a9ba8250_if-you-provide-them-they-will-come-activity-7302428086027837440-Loun?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHBWocBNSBVkkJY2Vg1Kdp2kTEw1dx44qg" %}
 
 2023 Classic Lectures in Pathology: What You Need to Know: Lung Pathology - A CME Teaching Activity [https://www.youtube.com/watch?v=du7Y6nfKwd8](https://www.youtube.com/watch?v=du7Y6nfKwd8)
 
@@ -676,8 +670,6 @@ Microsoft Dragon Copilot provides the healthcare industry’s first unified voic
 AANP Teaching Rounds - February 26, 2025 - PitNET/Pituitary Adenoma Classification: Survival Tips
 
 [https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA&ab_channel=AmericanAssociationofNeuropathologists)
-
-{% embed url="[https://www.youtube.com/watch?v=5ZqV2QnIbaA\\&ab_channel=AmericanAssociationofNeuropathologists](https://www.youtube.com/watch?v=5ZqV2QnIbaA%5C&ab_channel=AmericanAssociationofNeuropathologists)" %}
 
 2 Mart 2025. Sosyal medyada paylaşılanlara göre PubMed erişiminde aksaklıklar yaşanıyormuş. Eskiden hemen her Amerikan fedeal bütçesinin askıda kaldığı dönemde güncellemelere ara verilirdi. Ama bu derecede erişim sıkıntısını hiç görmemiştim. Yıllar önce PubMed abstract'larını sistematik bir şekilde -yine PubMed'in sağladığı entrez araçlarıyla- indirip kaydetmiştim. O dönemlerde daha Large Language Modeller yoktu ama "write your own book" kodlu projeler üzerinde çalışıyorduk. [https://github.com/sbalci/bibliometrics](https://github.com/sbalci/bibliometrics) Sonra işte olanlar oldu, ölenler öldü. Projeler ve hayaller akim kaldı. Halbuki bugün bir PubMed mirror'u yapabilmemiz mümkündü. Bir tür "içimde kalanlar" ya da "ukdeler CV"si hazırlayayım bari ...
 

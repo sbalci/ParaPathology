@@ -19,8 +19,6 @@ belongs_to: "[[Stains]]"
 * **Nordic Immunohistochemical Quality Control (NordiQC, www.nordiqc.org)**
 * **Introduction to Manual IHC Staining**
 
-[https://www.youtube.com/watch?v=2XauafdfeV0](https://www.youtube.com/watch?v=2XauafdfeV0)
-
 * **Immunohistochemistry Protocol for Paraffin embedded Tissue Sections**
 
 [https://www.youtube.com/watch?v=XMjGZHEG4cY](https://www.youtube.com/watch?v=XMjGZHEG4cY)

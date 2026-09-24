@@ -36,8 +36,6 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 
 * Tests for Two Means in a Repeated Measures Design
 
-[https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Tests\_for\_Two\_Means\_in\_a\_Repeated\_Measures\_Design.pdf](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Tests_for_Two_Means_in_a_Repeated_Measures_Design.pdf)
-
 ## Power calculation for comparing sample means from two paired samples
 
 [https://www.youtube.com/watch?v=RCox1fE8rQw](https://www.youtube.com/watch?v=RCox1fE8rQw)
@@ -65,8 +63,6 @@ belongs_to: "[[Statistics and Bioinformatics]]"
 [https://www.youtube.com/channel/UCNcvYpuMaaaFaAanqkFXRbw/featured](https://www.youtube.com/channel/UCNcvYpuMaaaFaAanqkFXRbw/featured)
 
 * Tests for Two Means in a Repeated Measures Design
-
-[https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Tests\_for\_Two\_Means\_in\_a\_Repeated\_Measures\_Design.pdf](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Tests_for_Two_Means_in_a_Repeated_Measures_Design.pdf)
 
 Power calculation for comparing sample means from two paired samples
 

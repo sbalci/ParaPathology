@@ -16,8 +16,6 @@ belongs_to: "[[Systemic Pathology]]"
 
 [https://www.ncbi.nlm.nih.gov/pubmed/?term=27157931](https://www.ncbi.nlm.nih.gov/pubmed/?term=27157931)
 
-{% embed url="https://braintumor.org/wp-content/assets/WHO-Central-Nervous-System-Tumor-Classification.pdf" %}
-
 ## Surgical Neuropathology Pearls - Dr. Fausto Rodriguez
 
 {% embed url="https://www.youtube.com/watch?v=2gNjnwlwQ20" %}

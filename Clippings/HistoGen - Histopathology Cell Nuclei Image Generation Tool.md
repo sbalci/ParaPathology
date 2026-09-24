@@ -4,7 +4,7 @@ status: Evergreen
 language: en
 title: "HistoGen: Histopathology Cell Nuclei Image Generation Tool"
 source: "https://github.com/DIDSR/HistoGen"
-source_type: software
+source_type: repository
 author:
   - "[[Seyed Kahaki]]"
   - "[[Shijie Li]]"
@@ -43,7 +43,7 @@ related_to:
 
 **HistoGen** is an open-source computational pathology software toolbox developed by regulatory scientists and research engineers at the **U.S. Food and Drug Administration (FDA)** within the **Division of Imaging, Diagnostics, and Software Reliability (DIDSR)**, Office of Science and Engineering Laboratories (OSEL), Center for Devices and Radiological Health (CDRH).
 
-- **FDA Regulatory Science Tool:** [RST26DP02.01](https://www.fda.gov/medical-devices/science-and-research-medical-devices/catalog-regulatory-science-tools) (CDRH Catalog of Regulatory Science Tools)
+- **FDA Regulatory Science Tool:** RST26DP02.01 (CDRH Catalog of Regulatory Science Tools)
 - **Source Code Repository:** [GitHub: DIDSR/HistoGen](https://github.com/DIDSR/HistoGen)
 - **Model Checkpoints:** [Hugging Face: didsr/HistoGen](https://huggingface.co/didsr/HistoGen)
 - **Core Methodology Paper:** Kahaki S, Li S, Rahman T, Chen W, Petrick N. *Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation.* [arXiv:2608.03990](https://arxiv.org/abs/2608.03990) (August 2026).

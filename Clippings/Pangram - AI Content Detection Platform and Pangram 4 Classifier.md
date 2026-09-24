@@ -4,7 +4,7 @@ status: Evergreen
 language: en
 title: "Pangram: AI Content Detection Platform and Pangram 4 Classifier"
 source: "https://www.pangram.com/"
-source_type: website
+source_type: page
 author:
   - "[[Pangram Labs]]"
   - "[[Max Spero]]"

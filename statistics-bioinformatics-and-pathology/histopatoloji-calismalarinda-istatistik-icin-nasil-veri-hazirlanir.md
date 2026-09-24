@@ -22,8 +22,6 @@ Bu yazıda kendi karşılaştığım problemleri ve literatürdeki önerileri \(
 
 Statistical Problems to Document and to Avoid Manuscript Checklist for Authors
 
-[http://biostat.mc.vanderbilt.edu/wiki/Main/ManuscriptChecklist](http://biostat.mc.vanderbilt.edu/wiki/Main/ManuscriptChecklist)
-
 Aslında bir "eski tümöre yeni boya" olarak adlandırılan ve sık yapılan bir çalışma türünü inceleyeceğiz. Bunun için yapılacak ilk iş çalışılacak tümörle ilgili CAP protokolünü dikkatlice okumaktır. CAP protokollerinin özellikle not ve açıklama kısımlarındaki detaylar çok faydalı olacaktır. Bundan sonra bir boş kağıt alıp CAP protokolünde raporda belirtilmesi gereken konular maddeler halinde sıralanmalıdır. Bu maddeler çalışmanın tasarlamasından, analizine, yorumuna ve tartışmasına çok yardımcı olacaktır.
 
 * **Temiz veri için dikkat edilmesi gereken kurallar:**

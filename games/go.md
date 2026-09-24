@@ -16,10 +16,6 @@ belongs_to: "[[Games]]"
 
 [https://deepmind.com/research/alphago/](https://deepmind.com/research/alphago/)
 
-### AlphaGo Zero: Learning from scratch
-
-[https://deepmind.com/blog/alphago-zero-learning-scratch/](https://deepmind.com/blog/alphago-zero-learning-scratch/)
-
 ### Mastering the game of Go without human knowledge
 
 [https://www.nature.com/articles/nature24270](https://www.nature.com/articles/nature24270)

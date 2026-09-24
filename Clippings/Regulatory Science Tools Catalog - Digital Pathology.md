@@ -3,8 +3,10 @@ type: Clipping
 status: Evergreen
 language: en
 title: "Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)"
+aliases:
+  - "Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)"
 source: "https://cdrh-rst.fda.gov/?f%5B0%5D=program_areas%3A26"
-source_type: catalog
+source_type: page
 author:
   - "[[FDA CDRH]]"
   - "[[FDA DIDSR]]"
@@ -170,7 +172,7 @@ When an algorithm outputs a continuous clinical score (e.g., % TILs, Ki-67 proli
   - Supporting Examples: [Appendix: Numerical Examples PDF](https://cdrh-rst.fda.gov/sites/default/files/2025-09/Appendix.pdf)
   - Foundational Publications:
     - Nguyen N, Pennello GA. *DxGoals: A Software Tool for Determining and Analyzing Clinically Meaningful Classification.* [J Appl Lab Med 2024; 9(5):952–962](https://doi.org/10.1093/jalm/jfae078).
-    - Pennello GA. *Classification accuracy goals for diagnostic tests based on risk stratification.* [Biostat Epidemiol 2021; 5(2):149–168](https://doi.org/10.1080/24709360.2021.1963470).
+    - Pennello GA. *Classification accuracy goals for diagnostic tests based on risk stratification.* Biostat Epidemiol 2021; 5(2):149–168.
 
 #### Purpose & Mathematical Framework
 A persistent challenge in regulatory submissions is answering: *"What sensitivity and specificity must our digital pathology AI achieve to be deemed clinically acceptable?"* Arbitrary targets (e.g., 90% sensitivity / 90% specificity) lack clinical justification.

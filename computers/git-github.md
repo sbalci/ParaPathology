@@ -95,8 +95,6 @@ belongs_to: "[[Computers]]"
 
 ## clone a branch
 
-[https://github.com/jamovi/jamovi/tree/current-dev](https://github.com/jamovi/jamovi/tree/current-dev)
-
 ```
 git clone --single-branch --branch current-dev https://github.com/jamovi/jamovi.git
 ```

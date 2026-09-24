@@ -12,7 +12,7 @@ belongs_to: "[[R-project]]"
 
 R-project veri yüklemek neden zor?
 
-Tüm dünya [R](https://www.r-project.org/) ile istatistik analizine ilerleyedursun, biz hala [SPSS](https://en.0wikipedia.org/wiki/SPSS) adı altında kurslar düzenleme derdindeyiz. [Jamovi](https://www.jamovi.org/) gibi grafik arayüzleri varken hem de. Peki neden? Haklı tarafı yok mu?
+Tüm dünya [R](https://www.r-project.org/) ile istatistik analizine ilerleyedursun, biz hala SPSS adı altında kurslar düzenleme derdindeyiz. [Jamovi](https://www.jamovi.org/) gibi grafik arayüzleri varken hem de. Peki neden? Haklı tarafı yok mu?
 
 R savunucuları, bu durumla dalga geçedursun, aslında hala daha SPSS'in kullanılmasının önemli bir nedeni var: veri yüklemek
 
@@ -56,8 +56,6 @@ Bu arada R'a veri yüklemenin -ve tabii bunu data.frame olarak yapmanın- en kol
 
 [http://www.rcommander.com/](http://www.rcommander.com/)
 
-[https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
-
 * JASP is another R based statistical open source software, also has Bayesian features
 
 [https://jasp-stats.org/](https://jasp-stats.org/)
@@ -72,10 +70,7 @@ Bu arada R'a veri yüklemenin -ve tabii bunu data.frame olarak yapmanın- en kol
 
 * How to install and use MacPorts
 
-[http://blog.kicaj.com/installing-macports/](http://blog.kicaj.com/installing-macports/)
-
 * Rattle: A Graphical User Interface for Data Mining using R
 
 [https://rattle.togaware.com](https://rattle.togaware.com)
 
-[http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/](http://marcoghislanzoni.com/blog/2014/08/29/solved-installing-rattle-r-3-1-mac-os-x-10-9/)

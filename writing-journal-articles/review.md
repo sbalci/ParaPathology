@@ -18,8 +18,6 @@ belongs_to: "[[Writing Journal Articles]]"
 
 * **Open Access loving reviewer**
 
-[https://twitter.com/AcademiaObscura/status/908735942483202048](https://twitter.com/AcademiaObscura/status/908735942483202048)
-
 ![](<../.gitbook/assets/djx6hdgwkaadp6b.jpg_large (2) (2) (2) (1).jpg>)
 
 * **The end of an error?**

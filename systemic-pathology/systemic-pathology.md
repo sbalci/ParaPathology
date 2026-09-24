@@ -24,7 +24,6 @@ order: 10
 * [Unnecessary Thyroid FNAC](unnecessary-thyroid-fnac.md)
 * [Salivary Gland](salivary-gland.md)
 * [Head and Neck](head-and-neck.md)
-* [Thymus](thymus.md)
 * [Breast Pathology](breast-pathology.md)
 * [Transplantation Pathology](transplantation-pathology.md)
 * [Immune System](immune-system.md)

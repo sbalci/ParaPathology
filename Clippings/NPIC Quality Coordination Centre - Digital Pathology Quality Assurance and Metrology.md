@@ -4,7 +4,7 @@ status: Evergreen
 language: en
 title: "NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology"
 source: "https://npic.ac.uk/quality/"
-source_type: catalog
+source_type: page
 author:
   - "[[National Pathology Imaging Co-operative]]"
   - "[[David S. Brettle]]"
@@ -44,7 +44,7 @@ related_to:
 
 **National Pathology Imaging Co-operative (NPIC) — Quality Coordination Centre (QCC)**  
 Level 2, The Sir Robert Ogden Centre, St James's University Hospital, Leeds Teaching Hospitals NHS Trust & University of Leeds, Beckett Street, Leeds LS9 7TF, United Kingdom.  
-Web: [npic.ac.uk/quality](https://npic.ac.uk/quality/) | Tools & Resources: [npic.ac.uk/quality/qcc-tools-and-resources](https://npic.ac.uk/quality/qcc-tools-and-resources/) | Point-of-Use QA: [pouqa.leeds.ac.uk](https://pouqa.leeds.ac.uk)
+Web: [npic.ac.uk/quality](https://npic.ac.uk/quality/) | Tools & Resources: [npic.ac.uk/quality/qcc-tools-and-resources](https://npic.ac.uk/quality/qcc-tools-and-resources/) | Point-of-Use QA: pouqa.leeds.ac.uk
 
 ---
 
@@ -94,7 +94,7 @@ The QCC operates at the nexus of clinical histopathology, medical physics, clini
 Hematoxylin and Eosin (H&E) staining is the cornerstone of anatomical pathology, yet it remains susceptible to substantial batch-to-batch, day-to-day, and laboratory-to-laboratory variability driven by reagent aging, solvent evaporation, washing temperatures, pH fluctuations, and automated stainer mechanics. Historically, quality control has depended entirely on subjective pathologist visual checks or irregular external quality assessment (EQA) schemes.
 
 #### The "Tango Slide" Biopolymer Innovation
-To replace qualitative estimation with rigorous metrology, Catriona Dunn, David Brettle, Darren Treanor, and colleagues developed and clinically evaluated a novel **stain assessment slide** (*Diagnostic Pathology* 2024; [DOI: 10.1186/s13000-024-01460-6](https://doi.org/10.1186/s13000-024-01460-6)):
+To replace qualitative estimation with rigorous metrology, Catriona Dunn, David Brettle, Darren Treanor, and colleagues developed and clinically evaluated a novel **stain assessment slide** (*Diagnostic Pathology* 2024; DOI: 10.1186/s13000-024-01460-6):
 - **Substrate Architecture:** Conventional glass microscope slides coated with a standardized, homogeneous, stain-responsive **biopolymer film** (the "Tango slide").
 - **Kinetics and Linearity:** Exposure to clinical hematoxylin and eosin staining cycles demonstrated an exceptional linear correlation ($r = 0.98\text{--}0.99$) between staining duration/reagent concentration and spectrophotometric optical density.
 - **Biological Equivalence:** Staining dynamics directly mirror human liver tissue controls ($r = 0.98\text{--}0.99$), eliminating the biological heterogeneity, section thickness variance, and cellular architectural noise intrinsic to mammalian tissue blocks.
@@ -132,7 +132,7 @@ To move digital pathology toward the metrological maturity of radiology and clin
 The computer display is the final, inescapable physical component of the digital pathology chain. Even an optically pristine, perfectly stained whole slide image will be misread if rendered on an inadequate or poorly calibrated monitor placed in an inappropriately illuminated room.
 
 #### The Point-of-Use Quality Assurance (POUQA) Tool
-Originally developed by the Leeds team (*JPI* 2019; *Histopathology* 2020) and deployed freely at [pouqa.leeds.ac.uk](https://pouqa.leeds.ac.uk):
+Originally developed by the Leeds team (*JPI* 2019; *Histopathology* 2020) and deployed freely at pouqa.leeds.ac.uk:
 - **Core Mechanism:** A rapid, web-based psychophysical test executable on any diagnostic workstation without specialized calibration photometers. Pathologists perform visual discrimination tasks on paired color patches derived directly from digitized hematoxylin and eosin stains, with a perceptual step of $\approx 1\,\Delta E$ (CIELAB).
 - **Ambient Lighting Auditing:** POUQA assesses whether ambient room lux and screen reflections wash out subtle low-contrast nuclear and cytoplasm differences.
 - **Empirical Real-World Failure Rate:** In an analysis of **11,719 real-world POUQA tests**, **5.5% (654 sessions) failed**, primarily due to uncalibrated consumer screens, aggressive power-saving brightness drops, or excess daylight/overhead glare.
@@ -174,7 +174,7 @@ A major strategic objective of the QCC is safeguarding artificial intelligence a
 
 | Tool / Resource | Category | Modality / Format | Primary Access / URL | Clinical & Metrological Purpose |
 |---|---|---|---|---|
-| **POUQA** | Software QA Tool | Free Web Application | [pouqa.leeds.ac.uk](https://pouqa.leeds.ac.uk) | Audits monitor calibration, ambient lighting contrast, and $\approx 1\,\Delta E$ H&E color discrimination for clinical and remote reporting workstations. |
+| **POUQA** | Software QA Tool | Free Web Application | pouqa.leeds.ac.uk | Audits monitor calibration, ambient lighting contrast, and $\approx 1\,\Delta E$ H&E color discrimination for clinical and remote reporting workstations. |
 | **Tango Slides** | Physical Metrology | Calibrated Biopolymer Slides | [National Stain Survey](https://npic.ac.uk/quality/national-stain-survey/) | Provides linear ($r=0.99$) tissue-mimicking substrate to measure objective H&E stain uptake and detect automated stainer degradation. |
 | **National Stain Survey** | EQA / Metrology Program | Multi-site Courier Survey | [Register Interest](https://npic.ac.uk/quality/national-stain-survey/) | Maps nationwide H&E staining variability across UK pathology departments to inform national staining tolerances. |
 | **WSI Scanner Benchmark** | Metrology Framework | Comparative Experimental Data | [HPye Poster (PDF)](https://npic.ac.uk/wp-content/uploads/sites/71/2023/01/HPye-Poster.pdf) | Evaluates MTF resolution, contrast, and color consistency across 5 commercial WSI scanner platforms. |
@@ -244,7 +244,7 @@ The QCC models quality assurance not as a one-time validation checklist, but as 
 
 ## Primary References & Key Literature
 
-- **Dunn CM, Brettle DS, Cockroft M, Keating E, Revie C, Treanor D.** *Quantitative assessment of H&E staining for pathology: development and clinical evaluation of a novel system.* Diagnostic Pathology 19, 42 (2024). DOI: [10.1186/s13000-024-01460-6](https://doi.org/10.1186/s13000-024-01460-6).
+- **Dunn CM, Brettle DS, Cockroft M, Keating E, Revie C, Treanor D.** *Quantitative assessment of H&E staining for pathology: development and clinical evaluation of a novel system.* Diagnostic Pathology 19, 42 (2024). DOI: 10.1186/s13000-024-01460-6.
 - **Brettle DS, Matthews GA, Pye H, Treanor D.** *Considerations for digital pathology displays.* Journal of Pathology Informatics 23, 100707 (2026). DOI: [10.1016/j.jpi.2026.100707](https://doi.org/10.1016/j.jpi.2026.100707).
 - **Brettle DS, et al.** *Pathologists light level preferences using the microscope — a study to guide digital pathology display use.* Journal of Pathology Informatics / arXiv:2312.00475 (2024).
 - **Pye H, et al.** *A First Look at Scanner Introduced Variation in Contrast, Resolution, and Colour Across 5 Different Models of Whole Slide Imaging (WSI) Scanners.* 9th Digital Pathology & AI Congress, London (2022).

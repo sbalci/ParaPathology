@@ -24,8 +24,6 @@ belongs_to: "[[Writing Journal Articles]]"
 
 [http://www.sciencemag.org/news/2017/11/controversial-software-proving-surprisingly-accurate-spotting-errors-psychology-papers](http://www.sciencemag.org/news/2017/11/controversial-software-proving-surprisingly-accurate-spotting-errors-psychology-papers)
 
-[http://statcheck.io/index.php](http://statcheck.io/index.php)
-
 * We need a similar program for \#pathology articles. Though most pathology articles do not report \#statistics in APA style. \#statcheck
 
 [http://statcheck.io/](http://statcheck.io/)
@@ -80,8 +78,6 @@ belongs_to: "[[Writing Journal Articles]]"
 ## Reproducible Reports
 
 > Şöyle birşey düşünün, Pankreas patolojisi ile ilgileniyorsunuz. "Bizim pankreas serisi ne durumda" diye merak ettiniz. Yaptığınız şey birkaç düğmeye basmak, ve o zamana kadar bölümünüzde rapor edilen pankreas vakalarının yaş, cinsiyet, tümör çapı, tümör tipi, evre, derece, lenf nodu durumu vesair bilgileri sağ kalım grafikleri ile word dökümanı olarak oluşturuluveriyor. Bu hayal değil. Yapılabilir. Makul bir bilgi işlem çalışanı, CAP ve AJCC'ye uygun doldurulması zorunlu yapılandırılmış patoloji raporları, ana veri tablosuna erişim, biraz SQL, biraz R, biraz da R Markdown kullanarak bunu yapmak işten bile değil.
-
-[https://www.serdarbalci.com/2018/05/tekrarlanabilir-ve-otomatik-raporlar.html](https://www.serdarbalci.com/2018/05/tekrarlanabilir-ve-otomatik-raporlar.html)
 
 ```text
 # https://github.com/spgarbet/tangram
