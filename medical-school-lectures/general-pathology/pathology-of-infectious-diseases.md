@@ -1,0 +1,21 @@
+---
+type: Lecture
+status: Stub
+language: en
+aliases:
+  - "Pathology of Infectious Diseases"
+order: 80
+belongs_to: "[[General Pathology]]"
+---
+
+# Pathology of Infectious Diseases
+
+{% embed url="https://twitter.com/EricMadPatho/status/1741988271435972686" %}
+
+{% embed url="https://www.youtube.com/watch?v=kggpgKea0lk&ab_channel=Vox" %}
+
+
+
+{% embed url="https://twitter.com/ParasiteGal/status/1490843676343701505" %}
+
+{% embed url="https://www.instagram.com/p/CbXuVIVue-p" %}

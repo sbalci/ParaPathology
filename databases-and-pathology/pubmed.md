@@ -1,0 +1,19 @@
+---
+type: Note
+status: Stub
+language: en
+order: 60
+belongs_to: "[[Databases and Pathology]]"
+---
+
+# PubMed
+
+## Selecting a Heading
+
+{% embed url="https://twitter.com/lisafstinson/status/1148487441495388160" caption="" %}
+
+* **PubMed Advanced Search Builder**
+
+* [**The Insider's Guide to Accessing NLM Data**](https://dataguide.nlm.nih.gov/)
+
+[https://dataguide.nlm.nih.gov/classes.html](https://dataguide.nlm.nih.gov/classes.html)

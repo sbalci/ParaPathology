@@ -1,0 +1,37 @@
+---
+type: Note
+status: Developing
+language: en
+order: 130
+belongs_to: "[[Laboratory Management]]"
+---
+
+# Resume
+
+* How to tailor your Academic CV for Data Science roles
+
+[https://www.linkedin.com/pulse/how-tailor-your-academic-cv-data-science-roles-jason-byrne/](https://www.linkedin.com/pulse/how-tailor-your-academic-cv-data-science-roles-jason-byrne/)
+
+* Intro to Resumes for CV-Minded Academics
+
+[https://www.insidehighered.com/blogs/gradhacker/intro-resumes-cv-minded-academics](https://www.insidehighered.com/blogs/gradhacker/intro-resumes-cv-minded-academics)
+
+* An Act of Translation: Turning an Academic CV into an Industry Resume
+
+* How to Make a Resume: A Step-by-Step Guide
+
+* Resume Builder Online
+
+[https://uptowork.com/](https://uptowork.com/)
+
+* Resume Resources
+
+[https://careercenter.umich.edu/article/resume-resources](https://careercenter.umich.edu/article/resume-resources)
+
+* vmock
+
+[https://www.vmock.com/](https://www.vmock.com/)
+
+* Opifex CV — create a Wikipedia-style online CV
+
+[https://cv.opifex.org/](https://cv.opifex.org/)

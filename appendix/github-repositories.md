@@ -1,0 +1,195 @@
+---
+type: Reference
+status: Evergreen
+language: en
+aliases:
+  - "GitHub Repositories"
+order: 60
+belongs_to: "[[Appendix]]"
+related_to:
+  - "[[Cytario]]"
+  - "[[jsurvival]]"
+  - "[[ClinicoPathDescriptives]]"
+  - "[[jjstatsplot]]"
+  - "[[meddecide]]"
+  - "[[Statistical Rethinking (2026 Edition)]]"
+  - "[[Cytomine]]"
+  - "[[HoVer-NeXt]]"
+  - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
+  - "[[Class visualizations and activation atlases for computational pathology]]"
+  - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
+---
+
+# GitHub Repositories
+
+{% embed url="https://github.com/sbalci" %}
+
+{% embed url="https://github.com/sbalci/ParaPathology" %}
+
+{% embed url="https://github.com/sbalci/JournalWatchPBPath" %}
+
+{% embed url="https://github.com/sbalci/histopathology-template" %}
+
+{% embed url="https://github.com/sbalci/MyRCodesForDataAnalysis" %}
+
+{% embed url="https://github.com/sbalci/serdarbalci" %}
+
+{% embed url="https://github.com/sbalci/histopathR" %}
+
+{% embed url="https://github.com/sbalci/pubmed" %}
+
+{% embed url="https://github.com/sbalci/DeutschLernen" %}
+
+{% embed url="https://github.com/sbalci/Kotu-Veri-Kilavuzu" %}
+
+{% embed url="https://github.com/sbalci/jsurvival" %}
+
+* [sbalci/jsurvival](https://github.com/sbalci/jsurvival) — Comprehensive survival analysis module for jamovi and R with Kaplan-Meier, Cox regression, continuous cutpoint discovery, stage migration, and competing risks. See [jsurvival](../statistics-and-bioinformatics/jsurvival.md).
+
+{% embed url="https://github.com/sbalci/ClinicoPathDescriptives" %}
+
+* [sbalci/ClinicoPathDescriptives](https://github.com/sbalci/ClinicoPathDescriptives) — Descriptive analysis, Table 1, data quality validation, and visualization for clinicopathological research. See [ClinicoPathDescriptives](../statistics-and-bioinformatics/clinicopath-descriptives.md).
+
+{% embed url="https://github.com/sbalci/jjstatsplot" %}
+
+* [sbalci/jjstatsplot](https://github.com/sbalci/jjstatsplot) — Statistical visualization wrapper for ggstatsplot in jamovi with 18 analysis types. See [jjstatsplot](../statistics-and-bioinformatics/jjstatsplot.md).
+
+{% embed url="https://github.com/sbalci/meddecide" %}
+
+* [sbalci/meddecide](https://github.com/sbalci/meddecide) — Medical decision analysis, diagnostic test accuracy, ROC cutpoint optimization, and reliability toolkit for jamovi and R. See [meddecide](../statistics-and-bioinformatics/meddecide.md).
+
+{% embed url="https://github.com/bibliometrics" %}
+
+{% embed url="https://github.com/biostatistical" %}
+
+{% embed url="https://github.com/dataeducation" %}
+
+{% embed url="https://github.com/genomicanalysis" %}
+
+{% embed url="https://github.com/histopathology" %}
+
+{% embed url="https://github.com/journalwatch" %}
+
+{% embed url="https://github.com/knowledgeextraction" %}
+
+{% embed url="https://github.com/seeranalysis" %}
+
+{% embed url="https://github.com/statisticial-modelling-center" %}
+
+## Other Repositories
+
+{% embed url="https://github.com/broadinstitute/celldega" %}
+
+{% embed url="https://github.com/KAUST-Academy/Artificial-Intelligence-Courses" %}
+
+{% embed url="https://github.com/clemsgrs/croma" %}
+
+{% embed url="https://github.com/rmcelreath/stat_rethinking_2026" %}
+
+* [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) — Statistical Rethinking (2026 Edition) repository by Richard McElreath. See [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md).
+
+{% embed url="https://github.com/cytomine/cytomine" %}
+
+* [cytomine/cytomine](https://github.com/cytomine/cytomine) — Open-source web platform for collaborative analysis and multi-gigapixel whole-slide image management. See [Cytomine](../computational-digital-and-mathematical-pathology/cytomine.md).
+
+{% embed url="https://github.com/TissueImageAnalytics/cytomine-app" %}
+
+* [TissueImageAnalytics/cytomine-app](https://github.com/TissueImageAnalytics/cytomine-app) — TIAToolbox model implementations (HoVer-Net, KongNet, NuClick) packaged as Dockerized Cytomine apps by the TIA Centre, University of Warwick. See [Cytomine](../computational-digital-and-mathematical-pathology/cytomine.md).
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_train" %}
+
+* [digitalpathologybern/hover_next_train](https://github.com/digitalpathologybern/hover_next_train) — Training and evaluation code for HoVer-NeXt (ConvNeXt-V2 based nuclear instance segmentation and classification). See [HoVer-NeXt](../computational-digital-and-mathematical-pathology/hover-next.md).
+
+{% embed url="https://github.com/digitalpathologybern/hover_next_inference" %}
+
+* [digitalpathologybern/hover_next_inference](https://github.com/digitalpathologybern/hover_next_inference) — Multi-threaded whole-slide image inference pipeline and QuPath export for HoVer-NeXt. See [HoVer-NeXt](../computational-digital-and-mathematical-pathology/hover-next.md).
+
+{% embed url="https://github.com/saramcardle/FS2K" %}
+
+* [saramcardle/FS2K](https://github.com/saramcardle/FS2K) — From Samples to Knowledge: QuPath training course materials, step-by-step Jupyter notebooks, and workflows by Sara McArdle and Zbigniew Mikulski (La Jolla Institute for Immunology). See [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md).
+
+{% embed url="https://github.com/BIOP/qupath-extension-warpy" %}
+
+* [BIOP/qupath-extension-warpy](https://github.com/BIOP/qupath-extension-warpy) — QuPath extension for multi-modal, non-rigid whole-slide image registration using elastix and BigWarp.
+
+{% embed url="https://github.com/cobanov/awesome-fly" %}
+
+* [cobanov/awesome-fly](https://github.com/cobanov/awesome-fly) — A curated collection of fruit fly (*Drosophila melanogaster*) connectome projects, covering MaleCNS, FlyWire, whole-brain simulations, embodied models, games, and graph analysis toolkits by Mert Cobanov. See [Awesome Fly: Curated Fruit Fly Connectome Projects](../Clippings/Awesome%20Fly%20-%20Curated%20Fruit%20Fly%20Connectome%20Projects.md).
+
+{% embed url="https://github.com/cobanov/fly-connectome-template" %}
+
+* [cobanov/fly-connectome-template](https://github.com/cobanov/fly-connectome-template) — Starter template for fruit fly connectome experiments combining the MaleCNS soma atlas, Flybody mesh, and a React + Three.js workbench.
+
+{% embed url="https://github.com/GPEC/Multiplex-immunofluorescence-image-analysis-with-QuPath" %}
+
+* [GPEC/Multiplex-immunofluorescence-image-analysis-with-QuPath](https://github.com/GPEC/Multiplex-immunofluorescence-image-analysis-with-QuPath) — Workshop files and exercises for Sebastian Gilbert’s open mIF image analysis course in QuPath (UBC MAPcore): installing QuPath, digital image concepts, tissue and cell segmentation, cell classification, and quantitative/spatial analysis. Slides on Zenodo (CC BY 4.0, doi:10.5281/zenodo.22084859). See [Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images](../Clippings/Multiplex%20Immunofluorescence%20Image%20Analysis%20with%20QuPath%20-%20Part%201.md).
+
+{% embed url="https://github.com/DIDSR/HistoGen" %}
+
+* [DIDSR/HistoGen](https://github.com/DIDSR/HistoGen) — Open-source computational pathology toolbox and conditional diffusion model (DDPM) developed by the FDA Center for Devices and Radiological Health (CDRH/DIDSR, Regulatory Science Tool RST26DP02.01) to generate synthetic cell nuclei and H&E histopathology images from segmentation masks. Checkpoints hosted on Hugging Face ([didsr/HistoGen](https://huggingface.co/didsr/HistoGen)). See [HistoGen: Histopathology Cell Nuclei Image Generation Tool](../Clippings/HistoGen%20-%20Histopathology%20Cell%20Nuclei%20Image%20Generation%20Tool.md) and [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](../Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md).
+
+{% embed url="https://github.com/DIDSR/HTT" %}
+
+* [DIDSR/HTT](https://github.com/DIDSR/HTT) — R package and validation dataset from the FDA CDRH/DIDSR High-Throughput Truthing (HTT) project (Regulatory Science Tool RST26DP01.01). Contains 7,898 stromal tumor-infiltrating lymphocyte (sTILs) density annotations across 640 ROIs from 64 breast cancer WSIs with statistical utility functions for multi-reader multi-case (MRMC) agreement modeling. See [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](../Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md).
+
+{% embed url="https://github.com/DIDSR/DxGoals" %}
+
+* [DIDSR/DxGoals](https://github.com/DIDSR/DxGoals) — R-Shiny software application developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24MD19.01) for determining, visualizing, and analyzing clinically meaningful performance goals (sensitivity, specificity, positive/negative likelihood ratios) for diagnostic tests based on risk stratification thresholds. See [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](../Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md).
+
+{% embed url="https://github.com/DIDSR/SegVal-WSI" %}
+
+* [DIDSR/SegVal-WSI](https://github.com/DIDSR/SegVal-WSI) — Python performance evaluation tool developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24MD06.02) for digital pathology whole-slide image segmentation algorithms, computing pooled/macro Dice scores and bootstrapped confidence intervals across multi-ROI datasets. See [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](../Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md).
+
+{% embed url="https://github.com/didsr/ValidPath" %}
+
+* [didsr/ValidPath](https://github.com/didsr/ValidPath) — End-to-end WSI processing and ML performance assessment toolkit developed by FDA CDRH/DIDSR (Regulatory Science Tool RST24CV11.01). Features standardized image patch extraction, back-mapping of detected ROIs into Aperio ImageScope-compatible XML annotations for pathologist review, and ROC/AUC performance evaluation with confidence intervals. See [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](../Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md).
+
+{% embed url="https://github.com/zhihuanglab/CytoFormer" %}
+
+* [zhihuanglab/CytoFormer](https://github.com/zhihuanglab/CytoFormer) — Official inference codebase and models for CytoFormer, a molecularly supervised cell foundation model for single-cell histopathology classification across 16 organs and 23 cell types (UPenn / Yao, Li, Yu & Huang, Precision Pathology 2026). Pretrained weights available on Hugging Face ([zhihuanglab/CytoFormer](https://huggingface.co/zhihuanglab/CytoFormer)); interactive WSI browser at [zhihuanglab.github.io/CytoFormer](https://zhihuanglab.github.io/CytoFormer/); active learning integration via [TissueLab](https://app.tissuelab.org/community). See [CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification](../Clippings/CytoFormer%20-%20A%20Molecularly%20Supervised%20Cell%20Foundation%20Model%20for%20Histopathology%20Cell%20Classification.md).
+
+{% embed url="https://github.com/owkin/histoplus" %}
+
+* [owkin/histoplus](https://github.com/owkin/histoplus) — Cell detection, segmentation, and 13-class classification library integrating the distilled Bioptimus H0-mini pathology foundation model (86M params) within a CellViT architecture (Adjadj et al., Owkin / Bioptimus / MOSAIC, Journal of Pathology Informatics 2026). Pretrained 20× and 40× weights on Hugging Face ([Owkin-Bioptimus/histoplus](https://huggingface.co/Owkin-Bioptimus/histoplus)); supports WSI batch extraction, CLI, and QuPath-compatible GeoJSON export. See [HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides](../Clippings/HistoPLUS%20-%20Towards%20Comprehensive%20Cellular%20Characterisation%20of%20H%26E%20Slides.md).
+
+{% embed url="https://github.com/cytario/cytario-web" %}
+
+* [cytario/cytario-web](https://github.com/cytario/cytario-web) — Open-core web-based Image Management System (IMS) and viewer for digital pathology and spatial biology. Built on React 19, Viv (Harvard Medical School HIDIVE Lab), deck.gl, DuckDB-WASM, and Apache Arrow to stream petabyte-scale OME-TIFF, OME-Zarr, and Parquet data directly from S3 storage with Keycloak multi-tenancy. See [Cytario](../computational-digital-and-mathematical-pathology/cytario.md).
+
+{% embed url="https://github.com/mostafajahanifar/nuclick_torch" %}
+
+* [mostafajahanifar/nuclick_torch](https://github.com/mostafajahanifar/nuclick_torch) — PyTorch implementation of NuClick for interactive and point-prompted nuclear, cell, and gland instance segmentation (Jahanifar, Koohbanani, Tajeddin & Rajpoot, Medical Image Analysis 2020). Utilizes a 5-channel input tensor (RGB + target inclusion map + neighbour exclusion map) with dedicated NuClick CNN and U-Net architectures (Dice 0.874+). Deployed as the foundational annotation expansion engine in Owkin's [HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides](../Clippings/HistoPLUS%20-%20Towards%20Comprehensive%20Cellular%20Characterisation%20of%20H%26E%20Slides.md) to standardize 108k training nuclei and derive Hungarian consensus across 212k multi-pathologist reviews. See [NuClick](../computational-digital-and-mathematical-pathology/nuclick.md).
+
+{% embed url="https://github.com/Falah-Jabar-Rahim/CellQuant-Net" %}
+
+* [Falah-Jabar-Rahim/CellQuant-Net](https://github.com/Falah-Jabar-Rahim/CellQuant-Net) — End-to-end WSI nuclei detection, classification, and spatial quantification pipeline integrating automated Quality Assessment (WSI-QA) with the prior-guided CellPrior-Net (CP-Net) architecture (Jabar et al., Journal of Pathology Informatics 2026). Employs UniRepLKNet-N large-kernel CNN with 4-channel input (RGB + hematoxylin DoG prior), GPU-accelerated watershed post-processing, QuPath GeoJSON export, and tumor-infiltrating lymphocyte (TIL) neighborhood graph quantification. See [CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](../Clippings/CellPrior-Net%20-%20Prior-Guided%20Nuclei%20Detection%20and%20Classification%20for%20H%26E%20Whole-Slide%20Images.md) and [CellQuant-Net](../computational-digital-and-mathematical-pathology/cellquant-net.md).
+
+{% embed url="https://github.com/DingXiaoH/RepLKNet-pytorch" %}
+
+* [DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) — Official PyTorch implementation of RepLKNet and large-kernel convolutional design in CNNs (Ding et al., CVPR 2022). Scales depthwise kernels up to 31×31 with structural re-parameterization, custom CUDA Implicit GEMM acceleration, and high shape bias, directly laying the architectural foundation for modern high-speed computational pathology backbones including UniRepLKNet and [CellQuant-Net](../computational-digital-and-mathematical-pathology/cellquant-net.md) / [CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](../Clippings/CellPrior-Net%20-%20Prior-Guided%20Nuclei%20Detection%20and%20Classification%20for%20H%26E%20Whole-Slide%20Images.md). See [RepLKNet](../computational-digital-and-mathematical-pathology/replknet.md) and literature review [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](../Clippings/Scaling%20Up%20Your%20Kernels%20to%2031x31%20-%20Revisiting%20Large%20Kernel%20Design%20in%20CNNs.md).
+
+{% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
+
+* [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) — MIT-licensed framework for transformer-based pathology feature visualization, including class-visualization synthesis, layer-wise activation-atlas generation, pathologist annotation software, quantitative attribution/similarity overlays, and an interactive atlas viewer. Reproduces Gustav et al., *Cell Reports Medicine* 2026. See [Class visualizations and activation atlases for computational pathology](../Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md).
+
+{% embed url="https://github.com/pangramlabs/pangram-sdk" %}
+
+* [pangramlabs/pangram-sdk](https://github.com/pangramlabs/pangram-sdk) — Official Python SDK and client library (`pangram-sdk` on PyPI) for Pangram Labs' AI text and content detection platform. Supports asynchronous task submission, granular 3-tier classification (human-written, AI-assisted, AI-generated), tokenwise Repeat2 boundary localization, and integration with Pangram 4 (Glickenhaus et al., arXiv:2607.27183). See [Pangram: AI Content Detection Platform and Pangram 4 Classifier](../Clippings/Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md).
+
+<!-- tolaria:related:start -->
+
+## See also
+
+* [Class visualizations and activation atlases for computational pathology](../Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md)
+* [ClinicoPathDescriptives](../statistics-and-bioinformatics/clinicopath-descriptives.md)
+* [Cytario](../computational-digital-and-mathematical-pathology/cytario.md)
+* [Cytomine](../computational-digital-and-mathematical-pathology/cytomine.md)
+* [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)
+* [HoVer-NeXt](../computational-digital-and-mathematical-pathology/hover-next.md)
+* [jjstatsplot](../statistics-and-bioinformatics/jjstatsplot.md)
+* [jsurvival](../statistics-and-bioinformatics/jsurvival.md)
+* [meddecide](../statistics-and-bioinformatics/meddecide.md)
+* [Pangram: AI Content Detection Platform and Pangram 4 Classifier](../Clippings/Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md)
+* [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)
+
+<!-- tolaria:related:end -->

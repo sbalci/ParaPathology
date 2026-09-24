@@ -1,0 +1,35 @@
+---
+type: Lecture
+status: Developing
+language: en
+aliases:
+  - "Lab: Pathology of Endocrine System-1"
+order: 40
+belongs_to: "[[Laboratory Lectures]]"
+---
+
+# Lab: Pathology of Endocrine System-1
+
+Last updated:
+
+Name of the Lecture:
+
+Required Prior Knowledge:
+
+Aim of the Lecture:
+
+Goals of the lecture:
+
+Slides:
+
+Multinodular Goitre
+
+PAPILLARY CARCINOMA, THYROID
+
+Papillary Microcarcinoma, Thyroid
+
+Diffuse Hyperplasia Of Thyroid
+
+Chronic Lymphocytic Thyroiditis
+
+References:

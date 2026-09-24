@@ -1,0 +1,163 @@
+---
+type: Reference
+status: Evergreen
+language: en
+aliases:
+  - "Courses and MOOCs"
+order: 10
+belongs_to: "[[Appendix]]"
+related_to:
+  - "[[Statistical Rethinking (2026 Edition)]]"
+  - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
+---
+
+# Courses and MOOCs
+
+* This list contains the MOOCs that I find useful.
+* edX [https://www.edx.org](https://www.edx.org) Introduction to Biology - The Secret of Life [https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-4](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-4)
+* OsakaUx MED101x Introduction to Applied Biostatistics Statistics for Medical Research
+
+## Courses
+
+[https://www.canvas.net/browse/osu/courses/science-of-cancer](https://www.canvas.net/browse/osu/courses/science-of-cancer)
+
+[https://console.bluemix.net/dashboard/apps](https://console.bluemix.net/dashboard/apps)
+
+[https://cognitiveclass.ai/learn/deep-learning/](https://cognitiveclass.ai/learn/deep-learning/)
+
+[https://www.coursera.org/learn/python-data-analysis](https://www.coursera.org/learn/python-data-analysis)
+
+[http://www.open.edu/openlearn/free-courses/full-catalogue](http://www.open.edu/openlearn/free-courses/full-catalogue)
+
+**Moleküler Biyoloji ve Deneysel Teknikler**
+
+[http://www.acikders.org.tr/course/view.php?id=49](http://www.acikders.org.tr/course/view.php?id=49)
+
+* Community created content for the Data Science Specialization:
+
+[http://datasciencespecialization.github.io/](http://datasciencespecialization.github.io/)
+
+* **KAUST Academy Artificial Intelligence Courses**
+
+[https://github.com/KAUST-Academy/Artificial-Intelligence-Courses](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses)
+
+Open-source repository of 5 university-level AI courses (Computer Vision, Natural Language Processing, Reinforcement Learning, Introduction to AI, and Generative AI) including 64 LaTeX/Beamer lecture slide decks (~4,800 pages), compiled PDFs, and 291 Jupyter lab exercises/solution notebooks.
+
+* **[Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)** — Richard McElreath
+
+[https://github.com/rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026)
+
+A course on Bayesian data analysis, scientific modeling, causal DAGs, and computational workflows using R, Stan (`cmdstanr`), and the `rethinking` package. Features 10-week dual tracks (Beginner and Experienced) with recorded video lectures on YouTube.
+
+* **[From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)** — Zbigniew Mikulski & Sara McArdle (La Jolla Institute for Immunology)
+
+[https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
+
+Hands-on 2-day workshop covering high-plex tissue imaging (RareCyte Orion 18-plex), QuPath v0.6.0+ project workflows, deep learning segmentation (InstanSeg, StarDist, Cellpose, SAM), Groovy scripting automation, composite object phenotyping, multimodal image registration (Warpy), spatial metrics, and Python clustering (QuBylab / Paquo). Step-by-step training book at [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html).
+
+## Tutorials
+
+r-statistics.co
+
+[http://r-statistics.co/](http://r-statistics.co/)
+
+Run bash from R [http://rpubs.com/yihui/bash-knitr](http://rpubs.com/yihui/bash-knitr)
+
+knitr in a knutshella minimal tutorial [http://kbroman.org/knitr\_knutshell/](http://kbroman.org/knitr_knutshell/)
+
+Use other languages in knitr [https://yihui.name/knitr/demo/engines/](https://yihui.name/knitr/demo/engines/)
+
+Run bash scripts
+
+[https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd](https://github.com/yihui/knitr-examples/blob/master/027-engine-bash.Rmd)
+
+Creating Dynamic Documents with RMarkdown and Knitr [https://rstudio-pubs-static.s3.amazonaws.com/180546\_e2d5bf84795745ebb5cd3be3dab71fca.html#561\_inline\_r\_code](https://rstudio-pubs-static.s3.amazonaws.com/180546_e2d5bf84795745ebb5cd3be3dab71fca.html#561_inline_r_code)
+
+[https://www.datacamp.com/community/blog/jupyter-notebook-r](https://www.datacamp.com/community/blog/jupyter-notebook-r)
+
+[https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r](https://www.datacamp.com/community/open-courses/plotly-tutorial-plotly-and-r)
+
+[https://www.datacamp.com/community/tutorials/r-formula-tutorial](https://www.datacamp.com/community/tutorials/r-formula-tutorial)
+
+[https://www.datacamp.com/community/tutorials/make-histogram-ggvis-r](https://www.datacamp.com/community/tutorials/make-histogram-ggvis-r)
+
+[https://www.datacamp.com/community/tutorials/sql-tutorial-query](https://www.datacamp.com/community/tutorials/sql-tutorial-query)
+
+[https://www.datacamp.com/community/tutorials/pipe-r-tutorial](https://www.datacamp.com/community/tutorials/pipe-r-tutorial)
+
+[https://www.datacamp.com/datachats/datachat-number-one](https://www.datacamp.com/datachats/datachat-number-one)
+
+[https://www.r-bloggers.com/image-classification-on-small-datasets-with-keras/](https://www.r-bloggers.com/image-classification-on-small-datasets-with-keras/)
+
+[https://jasp-stats.org/2017/12/14/new-video-perform-network-analysis-jasp/](https://jasp-stats.org/2017/12/14/new-video-perform-network-analysis-jasp/)
+
+[http://www.listendata.com/2017/12/k-nearest-neighbor-step-by-step-tutorial.html](http://www.listendata.com/2017/12/k-nearest-neighbor-step-by-step-tutorial.html)
+
+[https://www.spss-tutorials.com/spss-clone-variables-tool/](https://www.spss-tutorials.com/spss-clone-variables-tool/)
+
+[https://www.rstudio.com/resources/webinars/](https://www.rstudio.com/resources/webinars/)
+
+[https://www.dataiku.com/learn/](https://www.dataiku.com/learn/)
+
+[http://imagejdocu.tudor.lu/doku.php?id=video:beginner\_help:imagej\_beginner\_s\_tutorial](http://imagejdocu.tudor.lu/doku.php?id=video:beginner_help:imagej_beginner_s_tutorial)
+
+[https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17\_ncbi\_webinar\_new\_api\_keys.html](https://www.nlm.nih.gov/pubs/techbull/nd17/brief/nd17_ncbi_webinar_new_api_keys.html)
+
+[https://www.r-bloggers.com/how-happy-is-your-country - happy-planet-index-visualized/?utm\_source=feedburner\&utm\_medium=email\&utm\_campaign=Feed%3A+RBloggers+(R+bloggers)](https://www.r-bloggers.com/how-happy-is-your-country%20-%20happy-planet-index-visualized/?utm_source=feedburner\&utm_medium=email\&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+
+[https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/](https://www.ncbi.nlm.nih.gov/home/coursesandwebinars/)
+
+[https://rviews.rstudio.com/2017/10/23/the-seaclass-r-package/](https://rviews.rstudio.com/2017/10/23/the-seaclass-r-package/)
+
+[https://ropensci.org/tutorials/](https://ropensci.org/tutorials/)
+
+[https://www.salford-systems.com/resources/webinars-tutorials/how-to/how-to-build-a-model](https://www.salford-systems.com/resources/webinars-tutorials/how-to/how-to-build-a-model)
+
+[https://www.ibm.com/analytics/us/en/watson-data-platform/](https://www.ibm.com/analytics/us/en/watson-data-platform/)
+
+[https://blog.prezi.com/demand-webinar-visualizing-data-story-create-stunning-infographics/](https://blog.prezi.com/demand-webinar-visualizing-data-story-create-stunning-infographics/)
+
+[https://www.datacamp.com/community/tutorials/five-tips-r-code-improve](https://www.datacamp.com/community/tutorials/five-tips-r-code-improve)
+
+[https://cran.r-project.org/web/packages/broom/vignettes/broom.html](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
+
+[https://www.rplumber.io/](https://www.rplumber.io/)
+
+[https://www.datacamp.com/community/blog/titanic-kaggle-live-coding](https://www.datacamp.com/community/blog/titanic-kaggle-live-coding)
+
+[https://analyticsdefined.com/mining-enron-emails/](https://analyticsdefined.com/mining-enron-emails/)
+
+[https://rviews.rstudio.com/2017/12/04/how-to-show-r-inline-code-blocks-in-r-markdown/](https://rviews.rstudio.com/2017/12/04/how-to-show-r-inline-code-blocks-in-r-markdown/)
+
+[https://www.facebook.com/726282547396228/videos/1834105493280589/](https://www.facebook.com/726282547396228/videos/1834105493280589/)
+
+The PROCESS macro for SPSS and SAS
+
+Non-Normal Data: Shapiro Test and Box-Cox Transformation
+
+[http://www.michaeljgrogan.com/non-normal-box-cox-transformation/](http://www.michaeljgrogan.com/non-normal-box-cox-transformation/)
+
+Open Stats Lab
+
+[https://sites.trinity.edu/osl](https://sites.trinity.edu/osl)
+
+R interface to Keras
+
+[https://keras.rstudio.com/](https://keras.rstudio.com/)
+
+* [eR-BioStat](https://er-biostat.github.io/Courses/)
+
+[https://er-biostat.github.io/Courses/abouterbiostat1/](https://er-biostat.github.io/Courses/abouterbiostat1/)
+
+* Functional programming and unit testing for data munging with R
+
+[https://b-rodrigues.github.io/fput/](https://b-rodrigues.github.io/fput/)
+
+<!-- tolaria:related:start -->
+
+## See also
+
+* [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)
+* [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)
+
+<!-- tolaria:related:end -->

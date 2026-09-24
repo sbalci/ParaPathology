@@ -1,0 +1,36 @@
+---
+type: Note
+status: Developing
+language: en
+aliases:
+  - "Manuscript Writing and Publishing Guides"
+order: 70
+belongs_to: "[[Writing Journal Articles]]"
+---
+
+# Manuscript Writing and Publishing Guides
+
+* Steps to Getting Your Manuscript Published in a High-Quality Medical Journal
+
+[https://link.springer.com/article/10.1245/s10434-017-6320-6](https://link.springer.com/article/10.1245/s10434-017-6320-6)
+
+* Publish or perish: Where are we heading? J Res Med Sci. 2014 Feb; 19(2): 87–89. PMCID: PMC3999612
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/)
+
+* Tıpta İyi Yazı Yazma Kılavuzu
+
+* Responding to Peer Reviewers: You Can't Always Say What You'd Like \[Free Guide]
+
+[http://www.aje.com/en/arc/responding-reviewers-you-cant-always-say-what-youd/](http://www.aje.com/en/arc/responding-reviewers-you-cant-always-say-what-youd/)
+
+* LWW Author guide
+
+{% embed url="http://authors.lww.com" %}
+
+* How to Make Your Research Poster or Paper Tell a Coherent Story
+
+Andrew Janowczyk
+
+[https://andrewjanowczyk.com/how-to-make-your-research-poster-or-paper-tell-a-coherent-story/](https://andrewjanowczyk.com/how-to-make-your-research-poster-or-paper-tell-a-coherent-story/)
+

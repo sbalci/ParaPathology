@@ -1,0 +1,35 @@
+---
+type: Lecture
+status: Stub
+language: en
+aliases:
+  - "Lab Cellular Injury"
+order: 150
+belongs_to: "[[Laboratory Lectures]]"
+---
+
+# Lab Cellular Injury
+
+Last updated:
+
+Name of the Lecture:
+
+Required Prior Knowledge:
+
+Aim of the Lecture:
+
+Goals of the lecture:
+
+Slides:
+
+Hyperplastic-hypertrophic myometrium
+
+Ochranosis, femur head
+
+Hyperplasia, thyroid
+
+anthracotic pigments, lymph node
+
+cholesterolosis, gallbladder
+
+References:

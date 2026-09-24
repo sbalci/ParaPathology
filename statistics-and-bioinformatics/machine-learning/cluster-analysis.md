@@ -1,0 +1,32 @@
+---
+type: Note
+status: Developing
+language: en
+aliases:
+  - "Cluster Analysis"
+order: 80
+belongs_to: "[[Machine Learning]]"
+---
+
+# Cluster Analysis
+
+## Hierarchical Clustering
+
+Reproducibility of endometrial intraepithelial neoplasia diagnosis is good, but influenced by the diagnostic style of pathologists. Mod Pathol. 2012 Jun;25\(6\):877-84. doi: 10.1038/modpathol.2011.220.
+
+[https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html](https://www.nature.com/modpathol/journal/v25/n6/full/modpathol2011220a.html)
+
+## Clustering with categorical variables
+
+[https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/](https://www.theinformationlab.co.uk/2016/11/08/clustering-categorical-variables/)
+
+## Hierarchical Cluster Analysis SPSS
+
+[https://www.youtube.com/watch?v=bMH-aHNlhBA](https://www.youtube.com/watch?v=bMH-aHNlhBA)
+
+## Cluster analysis of immunohistochemical markers in leiomyosarcoma delineates specific anatomic and gender subgroups
+
+[http://onlinelibrary.wiley.com/doi/10.1002/cncr.24486/full](http://onlinelibrary.wiley.com/doi/10.1002/cncr.24486/full)
+
+[http://gaggle.systemsbiology.net/docs/](http://gaggle.systemsbiology.net/docs/)
+

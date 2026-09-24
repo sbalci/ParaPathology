@@ -1,0 +1,22 @@
+---
+type: Note
+status: Developing
+language: en
+order: 90
+belongs_to: "[[pathtweets]]"
+---
+
+# TweetsForGrossPath49
+
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{% embed url="https://twitter.com/merva_st/status/929391682117881857?s=20" %}<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See selected social media based textbook project here: http://www.patolojinotlari.com/

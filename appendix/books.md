@@ -1,0 +1,49 @@
+---
+type: Reference
+status: Developing
+language: bilingual
+order: 30
+belongs_to: "[[Appendix]]"
+related_to:
+  - "[[Statistical Rethinking (2026 Edition)]]"
+---
+
+# Books
+
+## Appendix : Suggested Books
+
+* This list contains the books that I find useful.
+* Patoloji ve Laboratuvarını Anlama Klavuzu
+
+* [![](https://www.derm101.com/wp-content/uploads/cover_pathology.jpg)](https://www.derm101.com/products/a-philosophy-of-practice-of-surgical-pathology-dermatopathology-as-model/) [A Philosophy of Practice of Surgical Pathology: Dermatopathology As Model](https://www.derm101.com/products/a-philosophy-of-practice-of-surgical-pathology-dermatopathology-as-model/) A. Bernard Ackerman, M.D. To me, dermatopathology is a microcosm, and the concepts that obtain for effective and gratifying practice of it are equally valid in the world beyond the microscope, avers the author in his Foreword. This work is a synthesis of his 30 years of thought about the nature of the practice of surgical pathology. It was written for those concerned with that practice, from medical students to consultant pathologists, from general pathologists to special organ pathologists, from pure morphologists to molecular biologists. The volume endeavors to help students inquire into the essence of the practice of pathology and dermatopathology and, in the process, to forge a system for practice that is both reflective and effective. As a by-product, principles fundamental to practice of dermatopathology, and by extension to all pathology, are taught through precept and drawings of exceptional pedagogical worth.
+* Histology Hacks
+
+[https://www.amazon.com/dp/1979731772/ref=cm\_sw\_r\_cp\_api\_Tn-sAbM17Q6KS](https://www.amazon.com/dp/1979731772/ref=cm_sw_r_cp_api_Tn-sAbM17Q6KS)
+
+* Books
+
+[http://genomicsclass.github.io/book/](http://genomicsclass.github.io/book/)
+
+[http://r4ds.had.co.nz/](http://r4ds.had.co.nz)
+
+[http://bioinformaticsalgorithms.com/](http://bioinformaticsalgorithms.com)
+
+* [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/) — Richard McElreath (see also [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md))
+
+* [https://tinyletter.com/data-is-plural/archive](https://tinyletter.com/data-is-plural/archive)
+
+[https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV](https://www.youtube.com/playlist?list=PLOE4k9MRzZanWmZ7MBrJFi7ZekYmVqEIV)
+
+[http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html](http://brainchronicle.blogspot.com.tr/2012/05/using-r-to-graph-subject-trend-in.html)
+
+[https://github.com/rOpenHealth/rpubmed](https://github.com/rOpenHealth/rpubmed)
+
+[https://renkun-ken.github.io/rlist-tutorial/index.html](https://renkun-ken.github.io/rlist-tutorial/index.html)
+
+<!-- tolaria:related:start -->
+
+## See also
+
+* [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)
+
+<!-- tolaria:related:end -->

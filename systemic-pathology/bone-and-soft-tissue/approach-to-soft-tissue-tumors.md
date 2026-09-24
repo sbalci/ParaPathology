@@ -1,0 +1,20 @@
+---
+type: Note
+status: Stub
+language: en
+aliases:
+  - "Approach to Soft Tissue Tumors"
+order: 20
+belongs_to: "[[Bone and Soft Tissue]]"
+---
+
+# Approach to Soft Tissue Tumors
+
+## USCAP: Jason Hornick's Deep Soft Tissue Tumors, Spindle Cell Tumors
+
+[https://www.youtube.com/watch?v=z0987zsl60Y](https://www.youtube.com/watch?v=z0987zsl60Y)
+
+## Pathology Insights - Soft Tissue Pathology with John Goldblum, MD
+
+well-differentiated lipomatous tumors
+

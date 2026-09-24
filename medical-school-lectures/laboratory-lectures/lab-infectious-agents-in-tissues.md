@@ -1,0 +1,43 @@
+---
+type: Lecture
+status: Developing
+language: en
+aliases:
+  - "Lab: Infectious agents in tissues"
+order: 120
+belongs_to: "[[Laboratory Lectures]]"
+---
+
+# Lab: Infectious agents in tissues
+
+Last updated:
+
+Name of the Lecture:
+
+Required Prior Knowledge:
+
+Aim of the Lecture:
+
+Goals of the lecture:
+
+Slides:
+
+Necrotizing Granulamatous Lymphadenitis
+
+Granulamatous Inflammation, Caseification
+
+Acute suppurative lymphadenitis
+
+Intestinal parasite, Taenia saginata
+
+Cyst Hidatid
+
+Amyloidosis, kidney
+
+Enterobius vermicularis, appendix
+
+Enterobius vermicularis, appendix
+
+Aspergillus, Lung
+
+References:

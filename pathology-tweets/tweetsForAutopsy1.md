@@ -1,0 +1,22 @@
+---
+type: Note
+status: Developing
+language: en
+order: 10
+belongs_to: "[[pathtweets]]"
+---
+
+# TweetsForAutopsy1
+
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See selected social media based textbook project here: http://www.patolojinotlari.com/
+
+{% embed url="https://twitter.com/Patholwalker/status/1017313792630255622?s=20" %}<br>
+<br>
+<hr>
+
+
+These tweets are selected automatically with #rstats code. Please inform me if any is inappropriate.
+See selected social media based textbook project here: http://www.patolojinotlari.com/

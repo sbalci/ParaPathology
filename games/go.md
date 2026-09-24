@@ -1,0 +1,22 @@
+---
+type: Note
+status: Stub
+language: en
+order: 30
+belongs_to: "[[Games]]"
+---
+
+# Go
+
+### AlphaGo Teach
+
+[https://alphagoteach.deepmind.com/](https://alphagoteach.deepmind.com/)
+
+### The story of AlphaGo so far
+
+[https://deepmind.com/research/alphago/](https://deepmind.com/research/alphago/)
+
+### Mastering the game of Go without human knowledge
+
+[https://www.nature.com/articles/nature24270](https://www.nature.com/articles/nature24270)
+

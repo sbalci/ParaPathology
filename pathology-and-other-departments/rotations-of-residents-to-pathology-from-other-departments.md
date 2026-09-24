@@ -1,0 +1,19 @@
+---
+type: Note
+status: Developing
+language: tr
+aliases:
+  - "Rotations of Residents to Pathology from Other Departments"
+order: 20
+belongs_to: "[[Pathology and Other Departments]]"
+---
+
+# Rotations of Residents to Pathology from Other Departments
+
+* \[What Surgeons Need to Know About the Histopathological Processing of a Specimen\]
+
+[https://www.ncbi.nlm.nih.gov/pubmed/27135868](https://www.ncbi.nlm.nih.gov/pubmed/27135868)
+
+* KADIN HASTALIKLARI ve DOĞUM UZMANLIK ÖĞRENCİLERİ ve JİNEKOLOJİK ONKOLOJİ CERRAHİSİ YAN DAL UZMANLIK ÖĞRENCİLERİ için PATOLOJİ ROTASYONU REHBER DÖKÜMANI
+
+[Patoloji Rotasyon Rehberi](https://alpusubutun.files.wordpress.com/2015/06/patoloji-rotasyon-rehberi.pdf)

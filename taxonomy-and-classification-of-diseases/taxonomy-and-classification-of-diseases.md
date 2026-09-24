@@ -1,0 +1,30 @@
+---
+status: Stub
+language: en
+type: Topic
+aliases:
+  - "Taxonomy and Classification of Diseases"
+order: 10
+---
+
+# Taxonomy and Classification of Diseases
+
+* TCGA: A Different Kind of Data
+
+* ggpubr: Publication Ready Plots
+
+[http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/77-facilitating-exploratory-data-visualization-application-to-tcga-genomic-data/](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/77-facilitating-exploratory-data-visualization-application-to-tcga-genomic-data/)
+
+* Genomic Analysis Revealed New Oncogenic Signatures in TP53-Mutant Hepatocellular Carcinoma
+
+[https://www.frontiersin.org/articles/10.3389/fgene.2018.00002/full](https://www.frontiersin.org/articles/10.3389/fgene.2018.00002/full)
+
+<!-- tolaria:children:start -->
+
+## In this section
+
+* [Tumor Classification](tumor-classification.md)
+* [Classification Theory](classification-theory.md)
+* [Chaos Theory and Uncertainity](chaos-theory-and-uncertainity.md)
+
+<!-- tolaria:children:end -->

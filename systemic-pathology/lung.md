@@ -1,0 +1,45 @@
+---
+type: Note
+status: Developing
+language: en
+order: 90
+belongs_to: "[[Systemic Pathology]]"
+---
+
+# Lung
+
+## [6 patterns of pulmonary pathology](https://www.6patterns.org/)
+
+{% embed url="https://www.6patterns.org/" %}
+
+{% embed url="https://twitter.com/Morbidful/status/1762908634042839529" %}
+
+### Covid ARDS
+
+{% embed url="https://www.nytimes.com/video/health/100000007056651/covid-ards-acute-respiratory-distress-syndrome.html" %}
+
+### Lung Pathology slide seminar by Dr. Sanjay Mukhopadhyay, a pulmonary pathologist and textbook author
+
+{% embed url="https://www.youtube.com/watch?v=sIC49YSRX_I" %}
+
+### Pathology Insights: Lung Cancer or Metastasis to Lung? with Sanjay Mukhopadhyay, MD
+
+Can metastases to the lung occur from cancers that were treated several years ago? Dr. Mukhopadhyay discusses.
+
+### Metastasis to the Lung From Carcinomas of Nonpulmonary Sites After Prolonged Disease-free Intervals. Mukhopadhyay S, et al. J Bronchology Interv Pulmonol. 2017.
+
+{% embed url="https://www.ncbi.nlm.nih.gov/m/pubmed/28248821/" %}
+
+### Does Strong and Diffuse PAX-8 Positivity Occur in Primary Lung Carcinoma? An Immunohistochemical Study of 418 Cases and Review of the Literature.
+
+{% embed url="https://www.ncbi.nlm.nih.gov/pubmed/28777151" %}
+
+### Is there a smoker’s paradox in COVID-19?
+
+[Usman MS, Siddiqi TJ, Khan MS, et al Is there a smoker’s paradox in COVID-19? BMJ Evidence-Based Medicine Published Online First: 11 August 2020. doi: 10.1136/bmjebm-2020-111492](https://ebm.bmj.com/content/early/2020/08/11/bmjebm-2020-111492)
+
+{% embed url="https://ebm.bmj.com/content/early/2020/08/11/bmjebm-2020-111492" %}
+
+## Smoking and the lung: Landmark papers (1929–2023)
+
+https://journals.lww.com/jdap/fulltext/2024/01010/smoking\_and\_the\_lung\_\_landmark\_papers\_\_1929\_2023\_.2.aspx

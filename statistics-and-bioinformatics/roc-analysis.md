@@ -1,0 +1,68 @@
+---
+type: Note
+status: Developing
+language: en
+aliases:
+  - "ROC analysis"
+order: 150
+belongs_to: "[[Statistics and Bioinformatics]]"
+related_to:
+  - "[[meddecide]]"
+  - "[[Sensitivity, Specificity, Predictive Values & Decision Making]]"
+---
+
+# ROC analysis
+
+## ROC curve analysis
+
+[https://www.medcalc.org/manual/roc-curves.php](https://www.medcalc.org/manual/roc-curves.php)
+
+## MedCalc
+
+* ROC curve analysis
+
+[https://www.medcalc.org/manual/roc-curves.php](https://www.medcalc.org/manual/roc-curves.php)
+
+* Interactive Dot Diagram
+
+[https://www.medcalc.org/manual/interactive\_dot\_diagram.php](https://www.medcalc.org/manual/interactive_dot_diagram.php)
+
+* Positive Predictive Value, Negative Predictive Value
+
+[https://www.medcalc.org/manual/roc\_curve\_analysis\_predictive\_values.php](https://www.medcalc.org/manual/roc_curve_analysis_predictive_values.php)
+
+* Comparison of ROC curves
+
+[https://www.medcalc.org/manual/comparison\_of\_roc\_curves.php](https://www.medcalc.org/manual/comparison_of_roc_curves.php)
+
+* multiROC
+
+* Sensitivity, Specificity, Receiver-Operating Characteristic \(ROC\) Curves and Likelihood Ratios: Communicating the Performance of Diagnostic Tests Clin Biochem Rev. 2008 Aug; 29\(Suppl 1\): S83–S87. PMCID: PMC2556590
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2556590/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2556590/)
+
+* easyROC: a web-tool for ROC curve analysis \(ver. 1.3\)
+
+* Combining Classifiers Using Their Receiver Operating Characteristics and Maximum Likelihood Estimation
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3681096/\#!po=54.1667](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3681096/#!po=54.1667)
+
+* ROC Analysis in Biomarker Combination with Covariate Adjustment
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682803/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682803/)
+
+---
+
+## jamovi & R Implementation
+
+- **[meddecide](meddecide.md)**: Provides comprehensive clinical ROC curve construction, DeLong and bootstrap confidence intervals, and optimal cutpoint determination (Youden Index, closest-to-(0,1), and cost-weighted thresholds) via **`enhancedROC`** and **`psychopdaROC`**. See [meddecide](meddecide.md).
+- **[Sensitivity, Specificity, Predictive Values & Decision Making](sensitivity-specificity-predictive-values-and-decision-making.md)**: Foundational 2x2 diagnostic testing concepts.
+
+<!-- tolaria:related:start -->
+
+## See also
+
+* [meddecide](meddecide.md)
+* [Sensitivity, Specificity, Predictive Values & Decision Making](sensitivity-specificity-predictive-values-and-decision-making.md)
+
+<!-- tolaria:related:end -->

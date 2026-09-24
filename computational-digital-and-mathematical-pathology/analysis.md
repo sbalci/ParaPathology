@@ -1,0 +1,43 @@
+---
+type: Note
+status: Developing
+language: en
+order: 50
+belongs_to: "[[Digital Pathology]]"
+---
+
+# Analysis
+
+
+{% embed url="https://www.youtube.com/watch?v=3CJpD8z-CNw&ab_channel=PathAI" caption="" %}
+
+
+## Analysis
+
+**ImmunoRatio**
+
+[http://153.1.200.58:8080/immunoratio/](http://153.1.200.58:8080/immunoratio/)
+
+ImmunoRatio: a publicly available web application for quantitative image analysis of estrogen receptor \(ER\), progesterone receptor \(PR\), and Ki-67. [PMID: 20663194](https://www.ncbi.nlm.nih.gov/pubmed/20663194)
+
+**ImmunoMembrane**
+
+[http://153.1.200.58:8080/immunomembrane/](http://153.1.200.58:8080/immunomembrane/)
+
+ImmunoMembrane: a publicly available web application for digital image analysis of HER2 immunohistochemistry. [PMID: 22296215](https://www.ncbi.nlm.nih.gov/pubmed/22296215)
+
+Quantifying Stained Liver Tissue
+
+[https://www.researchgate.net/post/Can\_ImageJ\_software\_be\_used\_to\_calculate\_collagen\_volume\_fraction\_from\_Massons-Trichrome\_stained\_slide\_images](https://www.researchgate.net/post/Can_ImageJ_software_be_used_to_calculate_collagen_volume_fraction_from_Massons-Trichrome_stained_slide_images)
+
+Quantification of myocardial fibrosis by digital image analysis and interactive stereology
+
+[https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114](https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-9-114)
+
+**Quantifications of Western Blots with ImageJ**
+
+Comparison of collagen content in skin wounds evaluated by biochemical assay and by computeraided histomorphometric analysis
+
+Virtual Double Staining for Automated Quantification in Immunohistochemistry
+
+[https://www.youtube.com/watch?v=\_BLOizOLiMo](https://www.youtube.com/watch?v=_BLOizOLiMo)

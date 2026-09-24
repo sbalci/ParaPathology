@@ -1,0 +1,13 @@
+---
+type: Tool
+status: Stub
+language: en
+order: 50
+belongs_to: "[[Statistics and Bioinformatics]]"
+---
+
+# PSPP
+
+* GNU PSPP is a program for statistical analysis of sampled data.
+
+[https://www.gnu.org/software/pspp/pspp.html](https://www.gnu.org/software/pspp/pspp.html)
