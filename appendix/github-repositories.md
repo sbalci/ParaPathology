@@ -18,6 +18,7 @@ related_to:
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
   - "[[Class visualizations and activation atlases for computational pathology]]"
   - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
+  - "[[OpenFlexure Microscope]]"
 ---
 
 # GitHub Repositories
@@ -176,6 +177,10 @@ related_to:
 
 * [pangramlabs/pangram-sdk](https://github.com/pangramlabs/pangram-sdk) — Official Python SDK and client library (`pangram-sdk` on PyPI) for Pangram Labs' AI text and content detection platform. Supports asynchronous task submission, granular 3-tier classification (human-written, AI-assisted, AI-generated), tokenwise Repeat2 boundary localization, and integration with Pangram 4 (Glickenhaus et al., arXiv:2607.27183). See [Pangram: AI Content Detection Platform and Pangram 4 Classifier](../Clippings/Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md).
 
+{% embed url="https://github.com/rwb27/openflexure_microscope" %}
+
+* [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) — Open-source, 3D-printable robotic digital microscope developed by Dr. Richard Bowman and Julian Stirling (University of Bath / Cambridge). Replaces expensive precision stages with a monolithic compliant flexure mechanism capable of sub-100 nm positioning resolution. Powered by a Raspberry Pi, Picamera2/libcamera, Sangaboard motor controller, and Python REST API with support for automated tiled whole-slide scanning, live streaming, and telepathology. Upstream GitLab: [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope); website: [openflexure.org](https://openflexure.org). See [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md) and literature review [Robotic microscopy for everyone: the OpenFlexure Microscope](../Clippings/Robotic%20microscopy%20for%20everyone%20-%20the%20OpenFlexure%20Microscope.md).
+
 <!-- tolaria:related:start -->
 
 ## See also
@@ -189,6 +194,7 @@ related_to:
 * [jjstatsplot](../statistics-and-bioinformatics/jjstatsplot.md)
 * [jsurvival](../statistics-and-bioinformatics/jsurvival.md)
 * [meddecide](../statistics-and-bioinformatics/meddecide.md)
+* [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md)
 * [Pangram: AI Content Detection Platform and Pangram 4 Classifier](../Clippings/Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md)
 * [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)
 

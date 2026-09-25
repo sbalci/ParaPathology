@@ -12,6 +12,7 @@ related_to:
   - "[[HoVer-NeXt]]"
   - "[[NuClick]]"
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
+  - "[[OpenFlexure Microscope]]"
 ---
 
 # Digital Pathology Software
@@ -82,6 +83,18 @@ Foundational large-kernel convolutional architecture and PyTorch framework scali
 Open-source microscope control and acquisition automation, integrated with ImageJ — see Micro-Manager.
 
 {% embed url="https://micro-manager.org/" %}
+
+### [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
+
+Open-source, 3D-printable robotic digital microscope featuring sub-100 nm positioning precision via monolithic compliant flexure mechanics, RMS DIN finite/infinity optics, Sangaboard motor control, Python REST API, automated whole-slide scanning, and validated applications in parasitology and telepathology — see dedicated tool note: [OpenFlexure Microscope](openflexure-microscope.md) and literature review [Robotic microscopy for everyone: the OpenFlexure Microscope](../Clippings/Robotic%20microscopy%20for%20everyone%20-%20the%20OpenFlexure%20Microscope.md).
+
+- **Website:** [openflexure.org/projects/microscope](https://openflexure.org/projects/microscope/)
+- **GitHub:** [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) | **GitLab:** [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope)
+- **Paper:** Collins et al., *Biomedical Optics Express* 2020 ([DOI: 10.1364/BOE.385729](https://doi.org/10.1364/BOE.385729))
+
+{% embed url="https://openflexure.org/projects/microscope/" %}
+
+{% embed url="https://github.com/rwb27/openflexure_microscope" %}
 
 ### [Celldega](https://github.com/broadinstitute/celldega)
 
@@ -191,6 +204,7 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 * [NuClick](nuclick.md)
 * [CellQuant-Net](cellquant-net.md)
 * [RepLKNet](replknet.md)
+* [OpenFlexure Microscope](openflexure-microscope.md)
 
 <!-- tolaria:children:end -->
 
@@ -203,5 +217,6 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 * [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)
 * [HoVer-NeXt](hover-next.md)
 * [NuClick](nuclick.md)
+* [OpenFlexure Microscope](openflexure-microscope.md)
 
 <!-- tolaria:related:end -->
