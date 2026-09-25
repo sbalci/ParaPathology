@@ -60,6 +60,7 @@ rewritten in your own words with a citation.
 * [NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology](NPIC%20Quality%20Coordination%20Centre%20-%20Digital%20Pathology%20Quality%20Assurance%20and%20Metrology.md)
 * [The pathology report as a boundary object: From clinical communication to computational representation](The%20pathology%20report%20as%20a%20boundary%20object%20-%20From%20clinical%20communication%20to%20computational%20representation.md)
 * [Pangram: AI Content Detection Platform and Pangram 4 Classifier](Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md)
+* [Robotic microscopy for everyone: the OpenFlexure Microscope](Robotic%20microscopy%20for%20everyone%20-%20the%20OpenFlexure%20Microscope.md)
 * [A feasibility study using quantitative and interpretable histological analyses of celiac disease for automated cell type and tissue area classification](A%20feasibility%20study%20using%20quantitative%20and%20interpretable%20histological%20analyses%20of%20celiac%20disease%20for%20automated%20cell%20type%20and%20tissue%20area%20classification.md)
 * [HistoGen: Histopathology Cell Nuclei Image Generation Tool](HistoGen%20-%20Histopathology%20Cell%20Nuclei%20Image%20Generation%20Tool.md)
 * [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md)

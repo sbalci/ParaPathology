@@ -13,6 +13,10 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[OpenFlexure Microscope]]
+[[Robotic microscopy for everyone: the OpenFlexure Microscope]]
+OpenFlexure Microscope: Robotic microscopy for everyone [https://openflexure.org/projects/microscope/](https://openflexure.org/projects/microscope/) [https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) [https://doi.org/10.1364/BOE.385729](https://doi.org/10.1364/BOE.385729)
+
 [[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]
 Pangram: AI Content Detection Platform and Pangram 4 Classifier [https://www.pangram.com/](https://www.pangram.com/) [https://arxiv.org/abs/2607.27183](https://arxiv.org/abs/2607.27183) [https://github.com/pangramlabs/pangram-sdk](https://github.com/pangramlabs/pangram-sdk)
 

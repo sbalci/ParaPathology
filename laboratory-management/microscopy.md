@@ -4,9 +4,17 @@ status: Developing
 language: bilingual
 order: 80
 belongs_to: "[[Laboratory Management]]"
+related_to:
+  - "[[OpenFlexure Microscope]]"
+  - "[[Robotic microscopy for everyone: the OpenFlexure Microscope]]"
+  - "[[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]"
 ---
 
 # Microscopy
+
+## OpenFlexure Microscope: 3D-Printable Robotic Microscopy
+
+Open-source, 3D-printable robotic digital microscope featuring sub-100 nm positioning precision via monolithic compliant flexure mechanics, RMS DIN finite/infinity optics, Sangaboard motor control, Python REST API, automated whole-slide scanning, and validated applications in parasitology and telepathology — see [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md) and [[Robotic microscopy for everyone: the OpenFlexure Microscope]].
 
 ## [http://www.olympusmicro.com](http://www.olympusmicro.com)
 

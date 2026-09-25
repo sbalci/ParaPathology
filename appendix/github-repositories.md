@@ -18,6 +18,7 @@ related_to:
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
   - "[[Class visualizations and activation atlases for computational pathology]]"
   - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
+  - "[[OpenFlexure Microscope]]"
 ---
 
 # GitHub Repositories
@@ -175,4 +176,8 @@ related_to:
 {% embed url="https://github.com/pangramlabs/pangram-sdk" %}
 
 * [pangramlabs/pangram-sdk](https://github.com/pangramlabs/pangram-sdk) — Official Python SDK and client library (`pangram-sdk` on PyPI) for Pangram Labs' AI text and content detection platform. Supports asynchronous task submission, granular 3-tier classification (human-written, AI-assisted, AI-generated), tokenwise Repeat2 boundary localization, and integration with Pangram 4 (Glickenhaus et al., arXiv:2607.27183). See [[Pangram: AI Content Detection Platform and Pangram 4 Classifier]].
+
+{% embed url="https://github.com/rwb27/openflexure_microscope" %}
+
+* [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) — Open-source, 3D-printable robotic digital microscope developed by Dr. Richard Bowman and Julian Stirling (University of Bath / Cambridge). Replaces expensive precision stages with a monolithic compliant flexure mechanism capable of sub-100 nm positioning resolution. Powered by a Raspberry Pi, Picamera2/libcamera, Sangaboard motor controller, and Python REST API with support for automated tiled whole-slide scanning, live streaming, and telepathology. Upstream GitLab: [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope); website: [openflexure.org](https://openflexure.org). See [[OpenFlexure Microscope]] and literature review [[Robotic microscopy for everyone: the OpenFlexure Microscope]].
 
