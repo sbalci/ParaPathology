@@ -44,7 +44,7 @@ related_to:
 
 **National Pathology Imaging Co-operative (NPIC) — Quality Coordination Centre (QCC)**  
 Level 2, The Sir Robert Ogden Centre, St James's University Hospital, Leeds Teaching Hospitals NHS Trust & University of Leeds, Beckett Street, Leeds LS9 7TF, United Kingdom.  
-Web: [npic.ac.uk/quality](https://npic.ac.uk/quality/) | Tools & Resources: [npic.ac.uk/quality/qcc-tools-and-resources](https://npic.ac.uk/quality/qcc-tools-and-resources/) | Point-of-Use QA: pouqa.leeds.ac.uk
+Web: [npic.ac.uk/quality](https://npic.ac.uk/quality/) | Tools & Resources: [npic.ac.uk/quality/qcc-tools-and-resources](https://npic.ac.uk/quality/qcc-tools-and-resources/) | Point-of-Use QA: [virtualpathology.leeds.ac.uk/research/systems/pouqa](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/)
 
 ---
 
@@ -132,7 +132,7 @@ To move digital pathology toward the metrological maturity of radiology and clin
 The computer display is the final, inescapable physical component of the digital pathology chain. Even an optically pristine, perfectly stained whole slide image will be misread if rendered on an inadequate or poorly calibrated monitor placed in an inappropriately illuminated room.
 
 #### The Point-of-Use Quality Assurance (POUQA) Tool
-Originally developed by the Leeds team (*JPI* 2019; *Histopathology* 2020) and deployed freely at pouqa.leeds.ac.uk:
+Originally developed by the Leeds team (*JPI* 2019; *Histopathology* 2020) and deployed freely at [virtualpathology.leeds.ac.uk/research/systems/pouqa](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/), offering separate **POUQA Radiology**, **POUQA Pathology**, and **POUQA Profiler** modules:
 - **Core Mechanism:** A rapid, web-based psychophysical test executable on any diagnostic workstation without specialized calibration photometers. Pathologists perform visual discrimination tasks on paired color patches derived directly from digitized hematoxylin and eosin stains, with a perceptual step of $\approx 1\,\Delta E$ (CIELAB).
 - **Ambient Lighting Auditing:** POUQA assesses whether ambient room lux and screen reflections wash out subtle low-contrast nuclear and cytoplasm differences.
 - **Empirical Real-World Failure Rate:** In an analysis of **11,719 real-world POUQA tests**, **5.5% (654 sessions) failed**, primarily due to uncalibrated consumer screens, aggressive power-saving brightness drops, or excess daylight/overhead glare.
@@ -174,7 +174,7 @@ A major strategic objective of the QCC is safeguarding artificial intelligence a
 
 | Tool / Resource | Category | Modality / Format | Primary Access / URL | Clinical & Metrological Purpose |
 |---|---|---|---|---|
-| **POUQA** | Software QA Tool | Free Web Application | pouqa.leeds.ac.uk | Audits monitor calibration, ambient lighting contrast, and $\approx 1\,\Delta E$ H&E color discrimination for clinical and remote reporting workstations. |
+| **POUQA** | Software QA Tool | Free Web Application | [virtualpathology.leeds.ac.uk/research/systems/pouqa](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/) | Audits monitor calibration, ambient lighting contrast, and $\approx 1\,\Delta E$ H&E color discrimination for clinical and remote reporting workstations. |
 | **Tango Slides** | Physical Metrology | Calibrated Biopolymer Slides | [National Stain Survey](https://npic.ac.uk/quality/national-stain-survey/) | Provides linear ($r=0.99$) tissue-mimicking substrate to measure objective H&E stain uptake and detect automated stainer degradation. |
 | **National Stain Survey** | EQA / Metrology Program | Multi-site Courier Survey | [Register Interest](https://npic.ac.uk/quality/national-stain-survey/) | Maps nationwide H&E staining variability across UK pathology departments to inform national staining tolerances. |
 | **WSI Scanner Benchmark** | Metrology Framework | Comparative Experimental Data | [HPye Poster (PDF)](https://npic.ac.uk/wp-content/uploads/sites/71/2023/01/HPye-Poster.pdf) | Evaluates MTF resolution, contrast, and color consistency across 5 commercial WSI scanner platforms. |
