@@ -178,6 +178,7 @@ Maintaining diagnostic safety requires both **Quality Assurance** (proactive pro
 Unlike microscopes, where the optical barrel shields the image from ambient illumination, open display panels are directly subject to room reflections, diffuse glare, and pupil constriction.
 - **The Point of Use Quality Assurance (POUQA) Tool:** Developed by the Leeds/NPIC team, POUQA is a free web-based psychophysical tool testing whether a reader can discern minimum contrast thresholds under current environmental lighting.
 - **Real-World Evidence:** In an audit of **11,719 real-world POUQA tests**, **5.5% (654 tests) failed**, proving that viewing environments frequently degrade contrast discrimination to clinically unsafe levels.
+- **Generic Panel Self-Checks:** Vendor tools such as the [EIZO Monitor Test](https://www.eizo.be/monitor-test/) (test pattern, defective pixels, uniformity, color distances) offer a quick, free way to screen for gross panel defects. These are not pathology-validated or ambient-light-aware like POUQA, so they supplement rather than replace it and formal photometric calibration.
 
 ### The Three-Tier QA/QC Protocol (Table 4)
 
