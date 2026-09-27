@@ -25,7 +25,7 @@ related_to:
 url: https://openflexure.org/projects/microscope/
 repo: https://github.com/rwb27/openflexure_microscope
 paper: https://doi.org/10.1364/BOE.385729
-source_type: project
+source_type: repository
 external: true
 adopted: false
 engagement: active
