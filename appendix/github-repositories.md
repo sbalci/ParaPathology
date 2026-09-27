@@ -19,6 +19,8 @@ related_to:
   - "[[Class visualizations and activation atlases for computational pathology]]"
   - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
   - "[[OpenFlexure Microscope]]"
+  - "[[Celldega]]"
+  - "[[HistoCAM]]"
 ---
 
 # GitHub Repositories
@@ -181,15 +183,25 @@ related_to:
 
 * [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) — Open-source, 3D-printable robotic digital microscope developed by Dr. Richard Bowman and Julian Stirling (University of Bath / Cambridge). Replaces expensive precision stages with a monolithic compliant flexure mechanism capable of sub-100 nm positioning resolution. Powered by a Raspberry Pi, Picamera2/libcamera, Sangaboard motor controller, and Python REST API with support for automated tiled whole-slide scanning, live streaming, and telepathology. Upstream GitLab: [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope); website: [openflexure.org](https://openflexure.org). See [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md) and literature review [Robotic microscopy for everyone: the OpenFlexure Microscope](../Clippings/Robotic%20microscopy%20for%20everyone%20-%20the%20OpenFlexure%20Microscope.md).
 
+{% embed url="https://github.com/broadinstitute/celldega" %}
+
+* [broadinstitute/celldega](https://github.com/broadinstitute/celldega) — High-throughput client-side spatial omics and multiplexed digital pathology visualization platform developed by the Broad Institute (Fernandez et al., *bioRxiv* 2026). Streams billion-transcript datasets directly in the browser via `parquet-wasm` and Apache Arrow using **DegaFiles** (GeoParquet indexed by spatial row groups) with GPU-accelerated deck.gl multi-layer rendering. Documentation: [broadinstitute.github.io/celldega](https://broadinstitute.github.io/celldega/); interactive notebook on [molab](https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18). See [Celldega](../computational-digital-and-mathematical-pathology/celldega.md).
+
+{% embed url="https://github.com/cooopermaira/HistoCAM_Nature_Communications" %}
+
+* [cooopermaira/HistoCAM_Nature_Communications](https://github.com/cooopermaira/HistoCAM_Nature_Communications) — Official codebase for HistoCAM (`pathcam`), an ambient real-time digitization and datafication platform for glass-slide microscopy developed by researchers across Tulane University and Kitware, Inc. (Maira et al., *Nature Communications* 2026). Streams 31 MP camera frames, passively composites multi-resolution pyramids (2X–40X), logs pathologist navigation trajectories and dwell times, and executes real-time TensorRT AI segmentation directly at the microscope. Includes CPU simulation mode (OpenCV Contrib) and Zenodo dataset ([record 21970445](https://zenodo.org/records/21970445)). See [HistoCAM](../computational-digital-and-mathematical-pathology/histocam.md) and literature review [Ambient, real-time digitization and datafication of glass slide microscopy towards AI-at-the-microscope](../Clippings/Ambient%2C%20real-time%20digitization%20and%20datafication%20of%20glass%20slide%20microscopy%20towards%20AI-at-the-microscope.md).
+
 <!-- tolaria:related:start -->
 
 ## See also
 
+* [Celldega](../computational-digital-and-mathematical-pathology/celldega.md)
 * [Class visualizations and activation atlases for computational pathology](../Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md)
 * [ClinicoPathDescriptives](../statistics-and-bioinformatics/clinicopath-descriptives.md)
 * [Cytario](../computational-digital-and-mathematical-pathology/cytario.md)
 * [Cytomine](../computational-digital-and-mathematical-pathology/cytomine.md)
 * [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)
+* [HistoCAM](../computational-digital-and-mathematical-pathology/histocam.md)
 * [HoVer-NeXt](../computational-digital-and-mathematical-pathology/hover-next.md)
 * [jjstatsplot](../statistics-and-bioinformatics/jjstatsplot.md)
 * [jsurvival](../statistics-and-bioinformatics/jsurvival.md)

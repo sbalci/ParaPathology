@@ -173,6 +173,8 @@
   * [CellQuant-Net](computational-digital-and-mathematical-pathology/cellquant-net.md)
   * [RepLKNet](computational-digital-and-mathematical-pathology/replknet.md)
   * [OpenFlexure Microscope](computational-digital-and-mathematical-pathology/openflexure-microscope.md)
+  * [Celldega](computational-digital-and-mathematical-pathology/celldega.md)
+  * [HistoCAM](computational-digital-and-mathematical-pathology/histocam.md)
 * [Analysis](computational-digital-and-mathematical-pathology/analysis.md)
 * [Telepathology](computational-digital-and-mathematical-pathology/telepathology.md)
 * [Cytomine](computational-digital-and-mathematical-pathology/cytomine.md)

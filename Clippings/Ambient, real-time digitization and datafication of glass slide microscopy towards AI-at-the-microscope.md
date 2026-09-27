@@ -112,6 +112,7 @@ HistoCAM represents a paradigm shift from **asynchronous, scanner-centric digita
 
 * [Digital Pathology](../computational-digital-and-mathematical-pathology/digital-pathology.md)
 * [Digital Pathology Software](../computational-digital-and-mathematical-pathology/digital-pathology-software.md)
+* [HistoCAM](../computational-digital-and-mathematical-pathology/histocam.md)
 * [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md)
 * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
 

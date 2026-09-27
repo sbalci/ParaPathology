@@ -110,7 +110,7 @@ export default vendorPlugin;
 ## Relationship to the Digital Pathology Ecosystem
 
 - **[Cytomine](cytomine.md):** While Cytomine provides an established Java/Grails and PostGIS microservice suite for collaborative annotation and algorithm execution, Cytario focuses on a modern cloud-native TypeScript/React 19 stack, serverless S3 client-side streaming via Viv and deck.gl, and in-browser analytics with DuckDB-WASM.
-- **Celldega:** Celldega emphasizes exploratory spatial transcriptomics and interactive clustering (AnnData/Squidpy/ParquetWASM); Cytario functions as an enterprise-wide Image Management System (IMS) connecting clinical scanners, multi-tenant Keycloak IAM, and diagnostic pathology workflows.
+- **[Celldega](celldega.md):** Celldega emphasizes exploratory spatial transcriptomics and interactive clustering (AnnData/Squidpy/ParquetWASM); Cytario functions as an enterprise-wide Image Management System (IMS) connecting clinical scanners, multi-tenant Keycloak IAM, and diagnostic pathology workflows.
 - **QuPath:** QuPath serves as the gold standard desktop workstation for tissue analysis; Cytario serves as the scalable web platform to host, view, and organize whole-slide libraries and visualize QuPath-generated cellular measurements at institutional scale.
 - **[HoVer-NeXt](hover-next.md) & [WSInfer](wsinfer.md):** Deep learning segmentation models output cell coordinates and class labels that can be exported directly into Cytario as GeoParquet or CSV layers for web exploration.
 
@@ -118,6 +118,7 @@ export default vendorPlugin;
 
 ## See also
 
+* [Celldega](celldega.md)
 * [Cytomine](cytomine.md)
 * [Digital Pathology Software](digital-pathology-software.md)
 * [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)

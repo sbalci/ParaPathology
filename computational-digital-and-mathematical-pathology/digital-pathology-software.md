@@ -13,6 +13,8 @@ related_to:
   - "[[NuClick]]"
   - "[[From Samples to Knowledge 2025 - QuPath Training Course]]"
   - "[[OpenFlexure Microscope]]"
+  - "[[Celldega]]"
+  - "[[HistoCAM]]"
 ---
 
 # Digital Pathology Software
@@ -197,6 +199,31 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 
 {% embed url="https://github.com/saramcardle/FS2K" %}
 
+### [Celldega](https://broadinstitute.github.io/celldega/)
+
+High-throughput client-side spatial omics and multiplexed digital pathology visualization platform developed by the Broad Institute (Fernandez et al., *bioRxiv* 2026). Streams billion-transcript datasets directly in the browser via `parquet-wasm` and Apache Arrow using **DegaFiles** (GeoParquet indexed by spatial row groups) with GPU-accelerated deck.gl multi-layer rendering — see dedicated tool note: [Celldega](celldega.md).
+
+- **Documentation & Viewer:** [broadinstitute.github.io/celldega](https://broadinstitute.github.io/celldega/)
+- **GitHub:** [broadinstitute/celldega](https://github.com/broadinstitute/celldega) — BSD-3-Clause
+- **Preprint:** [bioRxiv (DOI: 10.64898/2026.08.13.744672v2)](https://doi.org/10.64898/2026.08.13.744672v2)
+- **Interactive Notebook Demo:** [marimo interactive notebook on molab](https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18)
+
+{% embed url="https://github.com/broadinstitute/celldega" %}
+
+{% embed url="https://broadinstitute.github.io/celldega/" %}
+
+### [HistoCAM](https://github.com/cooopermaira/HistoCAM_Nature_Communications)
+
+Ambient, real-time digitization and datafication platform for glass-slide microscopy developed by researchers across Tulane University and Kitware, Inc. (Maira et al., *Nature Communications* 2026). Couples a 31-megapixel high space-bandwidth camera with a C++ streaming engine (`pathcam`) to passively composite multi-resolution WSI pyramids (2X to 40X) during standard optical examination, record pathologist search trajectories and dwell times, and execute real-time TensorRT AI segmentation directly at the microscope — see dedicated tool note: [HistoCAM](histocam.md) and literature review [Ambient, real-time digitization and datafication of glass slide microscopy towards AI-at-the-microscope](../Clippings/Ambient,%20real-time%20digitization%20and%20datafication%20of%20glass%20slide%20microscopy%20towards%20AI-at-the-microscope.md).
+
+- **GitHub:** [cooopermaira/HistoCAM_Nature_Communications](https://github.com/cooopermaira/HistoCAM_Nature_Communications)
+- **Paper:** [Nature Communications (DOI: 10.1038/s41467-026-77887-1)](https://doi.org/10.1038/s41467-026-77887-1)
+- **Zenodo Benchmark Data:** [Zenodo Record 21970445](https://zenodo.org/records/21970445)
+
+{% embed url="https://github.com/cooopermaira/HistoCAM_Nature_Communications" %}
+
+{% embed url="https://www.nature.com/articles/s41467-026-77887-1" %}
+
 <!-- tolaria:children:start -->
 
 ## In this section
@@ -205,6 +232,8 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 * [CellQuant-Net](cellquant-net.md)
 * [RepLKNet](replknet.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
+* [Celldega](celldega.md)
+* [HistoCAM](histocam.md)
 
 <!-- tolaria:children:end -->
 
@@ -212,9 +241,11 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 
 ## See also
 
+* [Celldega](celldega.md)
 * [Cytario](cytario.md)
 * [Cytomine](cytomine.md)
 * [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md)
+* [HistoCAM](histocam.md)
 * [HoVer-NeXt](hover-next.md)
 * [NuClick](nuclick.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
