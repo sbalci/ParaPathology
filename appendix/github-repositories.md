@@ -19,6 +19,8 @@ related_to:
   - "[[Class visualizations and activation atlases for computational pathology]]"
   - "[[Pangram: AI Content Detection Platform and Pangram 4 Classifier]]"
   - "[[OpenFlexure Microscope]]"
+  - "[[Celldega]]"
+  - "[[HistoCAM]]"
 ---
 
 # GitHub Repositories
@@ -180,4 +182,12 @@ related_to:
 {% embed url="https://github.com/rwb27/openflexure_microscope" %}
 
 * [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) — Open-source, 3D-printable robotic digital microscope developed by Dr. Richard Bowman and Julian Stirling (University of Bath / Cambridge). Replaces expensive precision stages with a monolithic compliant flexure mechanism capable of sub-100 nm positioning resolution. Powered by a Raspberry Pi, Picamera2/libcamera, Sangaboard motor controller, and Python REST API with support for automated tiled whole-slide scanning, live streaming, and telepathology. Upstream GitLab: [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope); website: [openflexure.org](https://openflexure.org). See [[OpenFlexure Microscope]] and literature review [[Robotic microscopy for everyone: the OpenFlexure Microscope]].
+
+{% embed url="https://github.com/broadinstitute/celldega" %}
+
+* [broadinstitute/celldega](https://github.com/broadinstitute/celldega) — High-throughput client-side spatial omics and multiplexed digital pathology visualization platform developed by the Broad Institute (Fernandez et al., *bioRxiv* 2026). Streams billion-transcript datasets directly in the browser via `parquet-wasm` and Apache Arrow using **DegaFiles** (GeoParquet indexed by spatial row groups) with GPU-accelerated deck.gl multi-layer rendering. Documentation: [broadinstitute.github.io/celldega](https://broadinstitute.github.io/celldega/); interactive notebook on [molab](https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18). See [[Celldega]].
+
+{% embed url="https://github.com/cooopermaira/HistoCAM_Nature_Communications" %}
+
+* [cooopermaira/HistoCAM_Nature_Communications](https://github.com/cooopermaira/HistoCAM_Nature_Communications) — Official codebase for HistoCAM (`pathcam`), an ambient real-time digitization and datafication platform for glass-slide microscopy developed by researchers across Tulane University and Kitware, Inc. (Maira et al., *Nature Communications* 2026). Streams 31 MP camera frames, passively composites multi-resolution pyramids (2X–40X), logs pathologist navigation trajectories and dwell times, and executes real-time TensorRT AI segmentation directly at the microscope. Includes CPU simulation mode (OpenCV Contrib) and Zenodo dataset ([record 21970445](https://zenodo.org/records/21970445)). See [[HistoCAM]] and literature review [[Ambient, real-time digitization and datafication of glass slide microscopy towards AI-at-the-microscope]].
 
