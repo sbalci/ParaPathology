@@ -5,6 +5,11 @@ language: en
 title: "Distance-based evaluation of tumor budding in colorectal cancer"
 source: "https://link.springer.com/article/10.1007/s00428-026-04471-9"
 source_type: article
+doi: "10.1007/s00428-026-04471-9"
+pmid: "41790186"
+review_status: Partial
+last_reviewed: 2026-09-28
+study_design: "Retrospective prognostic analysis of two independent colorectal-cancer cohorts"
 author:
   - "[[Ville K. Äijälä]]"
   - "[[Päivi Sirniö]]"
@@ -42,9 +47,12 @@ related_to:
   - "[[Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016]]"
   - "[[Tumor budding T-cell graphs for pT1 colorectal cancer]]"
   - "[[Digital Pathology]]"
+  - "[[digital-pathology-evidence]]"
 ---
 
 # Distance-based evaluation of tumor budding in colorectal cancer
+
+**Review scope (28 September 2026): partial.** The [primary article](https://doi.org/10.1007/s00428-026-04471-9) was checked for the two cohort sizes, adverse prognostic association and lack of additional prognostic information beyond conventional budding in the reported analyses. This does not establish the value of other spatial or graph features. Detailed cutoffs, observer statistics, supplementary models and other numerical claims below still require complete re-extraction and appraisal. See [[digital-pathology-evidence]].
 
 **Ville K. Äijälä, Päivi Sirniö, Henna Karjalainen, Meeri Kastinen, Vilja V. Tapiainen, Hanna Elomaa, Maarit Ahtiainen, Vesa-Matti Pohjanen, Taneli T. Mattila, Outi Lindgren, Olli Helminen, Erkki-Ville Wirta, Jukka Rintala, Sanna Meriläinen, Juha Saarnio, Tero Rautio, Toni T. Seppälä, Jan Böhm, Jukka-Pekka Mecklin, Anne Tuomisto, Markus J. Mäkinen, Juha P. Väyrynen.**
 

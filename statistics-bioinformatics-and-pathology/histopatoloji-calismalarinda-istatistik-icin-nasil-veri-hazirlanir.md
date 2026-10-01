@@ -1,6 +1,8 @@
 ---
 type: Note
-status: Evergreen
+status: Developing
+review_status: Partial
+last_reviewed: 2026-09-28
 language: bilingual
 aliases:
   - "Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?"
@@ -9,6 +11,8 @@ belongs_to: "[[Statistics, Bioinformatics, and Pathology]]"
 ---
 
 # Histopatoloji çalışmalarında istatistik için nasıl veri hazırlanır?
+
+**Gözden geçirme kapsamı (28 Eylül 2026):** Bu kısmi güncellemede test seçiminde örneklem büyüklüğü, eksik veri ve şüpheli gözlemlerin kaydı ele alındı. Aşağıdaki örneklem büyüklüğü soruları bir hesaplama kuralı değildir; çalışmanın amacı ve tasarımına göre ayrıca değerlendirilmelidir. Diğer klinik öneriler, CAP protokolleri ve sayısal örneklerin tamamı bu incelemede doğrulanmadı.
 
 ### Histopatoloji çalışmalarında istatistik analizi için nasıl veri hazırlanır?
 
@@ -82,7 +86,7 @@ Lenfovasküler invazyon çoğu tümör raporlarında belirtilmesi gereken bir ö
 
 Lenfatik ve vasküler invazyon ayrı ayrı da kodlanabilir. Mesela kolon tümörlerinde ekstramural venöz invazyonun belirtilmesi gibi.
 
-CAP protokollerinde "equivocal" olarak belirtilen şüpheli durumlardan mümkün oldukça kaçınmak analizlerin daha rahat yapılabilmesi için gereklidir.
+"Equivocal" olarak belirtilen şüpheli gözlemleri, analizi kolaylaştırmak için zorla pozitif ya da negatif yapmamak gerekir. İlk gözlemi ve şüphenin nedenini koruyun; "şüpheli", "değerlendirilemedi" ve "veri yok" durumlarını veri sözlüğünde ayrı tanımlayın. Yeniden değerlendirme veya uzlaşı uygulanacaksa yöntemini önceden belirleyin ve hem ilk hem son değerlendirmeyi kaydedin. Şüpheli olguların ana analizde nasıl ele alınacağı ve alternatif sınıflamalarla duyarlılık analizi yapılıp yapılmayacağı analiz planında belirtilmelidir.
 
 "Extensive retraction artefact" gibi özellikli durumlar çalışmıyorsa immünohistokimyasal çalışmalara gerek olmadan rutin H&E değerlendirme yeterlidir.
 
@@ -132,7 +136,9 @@ Tarih girerken neye dikkat edelim \(İngilizce ve Türkçe farklı tarih formatl
 * **Vertikal tarama**
 * **Bilinmeyen veriler, Eksik veriler, Missing values**
 
-Her eksik hücre, çok değişkenli analizden o vakanın düşmesine neden olacaktır.
+Her eksik hücre, vakanın bütün analizlerden çıkması anlamına gelmez. Tam olgu analizi \(complete-case analysis\) seçilirse yalnızca o modelin gerektirdiği değişkenlerden biri eksik olan olgular o analizden dışlanır. Bu nedenle her analizde kullanılan olgu sayısını ve dışlanma nedenlerini ayrıca belirtin.
+
+Eksikliği 0 ya da "negatif" olarak kodlamayın; biliniyorsa nedenini kaydedin. Eksik verinin miktarı, örüntüsü ve hangi süreçle oluştuğu değerlendirilerek tam olgu analizi, çoklu atama \(multiple imputation\) veya başka uygun yöntemler planlanabilir. Çoklu atama da varsayımlara dayanır ve her durumda daha doğru değildir. White ve Carlin'in kuramsal ve simülasyon çalışması, eksik kovaryatların oluşma mekanizmasına göre yöntemlerin yanlılığının değişebildiğini gösterir. Seçimi otomatik silme ya da otomatik atama şeklinde yapmamak gerekir. [White ve Carlin, 2010](https://doi.org/10.1002/sim.3944).
 
 Eksik camlar
 
@@ -150,13 +156,13 @@ Tıp fakültesinin ilk yıllarında öğrenilen istatistikle ilgili kavramlar y�
 
 * ANOVA testi
 
-30 vaka sayılı, tercihen verilerin normal dağıldığı durumlarda ve veriler ölçülebilir ve sürekli nitelikte ise kullanılır. Mesela yaş, özefagus lümeninin, özefagus duvarına oranı gibi durumlarda kullanılabilir.
+Tek yönlü ANOVA, bağımsız grupların sürekli bir ölçüm bakımından ortalamalarını karşılaştırmak için kullanılabilir. Mesela yaş veya özefagus lümeninin özefagus duvarına oranı gibi ölçümler düşünülebilir. Uygunluk yalnızca vaka sayısına bakılarak belirlenmez: araştırma sorusu, gözlemlerin bağımsızlığı, grup içi dağılımlar, aykırı değerler ve varyanslar değerlendirilmelidir. Klasik ANOVA'nın eşit varyans varsayımı uygun değilse Welch ANOVA gibi seçenekler değerlendirilir; tekrarlı ya da kümelenmiş gözlemler için tasarıma uygun yöntem gerekir.
 
-Ancak histopatolojik dercelendirme ya da evreleme gibi kesikli değişkenlerin olduğu durumlarda parametrik test olan ANOVA önerilmez. Grade 1 ila grade 2 arasındaki fark ile grade 2 ila grade 3 arasındaki fark matematiksel olarak eşit değildir. Grade 2, grade 1 den 2 kat kötü, grade 3 ise grade 1'den 3 kat kötüdür gibi bir yorum yapılmaz.
+Ancak histopatolojik derecelendirme ya da evreleme gibi sıralı kategorileri, eşit aralıklı sürekli bir ölçüm gibi ele almamak gerekir. Grade 1 ila grade 2 arasındaki fark ile grade 2 ila grade 3 arasındaki farkın matematiksel olarak eşit olduğu varsayılmaz. Grade 2, grade 1'den 2 kat kötü, grade 3 ise grade 1'den 3 kat kötüdür gibi bir yorum yapılmaz.
 
-Hastaların kanser evresinin ortalama 2,5 , ya da tümör grade'inin ortalama 1,2 olarak verilmesi önerilmez. Bunun yerine ortanca ve çeyrekler arası fark \(median, interquartile range\) kullanılması daha uygun olur. Bu nedenle yapılacak test de ANOVA'nın nonparametrik karşılığı olan Kruskal Wallis testidir.
+Hastaların kanser evresinin ortalama 2,5 ya da tümör grade'inin ortalama 1,2 olarak verilmesi, kategoriler arasındaki uzaklıklar eşit kabul edilemediği için yanıltıcı olabilir. Kategorilerin sayı ve yüzdelerini verin; soruya göre ortanca ve çeyrekler arası aralık da kullanılabilir. Üç veya daha fazla bağımsız grubun sıralı sonuçlarını karşılaştırırken Kruskal–Wallis bir seçenek olabilir, ancak otomatik olarak seçilmez. Sıralara dayalı bu testin sonucunu yalnızca ortanca farkı olarak yorumlamak, grupların dağılım şekilleri bakımından ek varsayımlar gerektirir; kovaryatların etkisi araştırılıyorsa uygun bir sıralı sonuç modeli gerekebilir.
 
-Ölçüm şeklinde olan, sürekli değişkenlerde bile vaka sayısının 30'dan az ise ya da veriler normal dağılmıyorsa birden fazla grubun karşılaştırmasında da Kruskal Wallis testi kullanılır.
+"30'dan az vaka varsa Kruskal–Wallis kullanılır" şeklinde evrensel bir kural yoktur. Blanca ve arkadaşları, üç grubun varyanslarının eşit olduğu simülasyonlarda, grup başına beş gözlemi de içeren koşullarda ANOVA'nın Tip I hata bakımından dayanıklı olduğunu bulmuştur. Bu sonuç, küçük örneklemde yeterli güç bulunduğunu veya ANOVA'nın bütün dağılım ve varyans koşullarında uygun olduğunu göstermez. Testi örneklem büyüklüğü ya da bir normallik testinin p değerine tek başına bağlamayın; ölçmek istediğiniz farkı ve yöntemin varsayımlarını birlikte değerlendirin. [Blanca ve ark., 2017](https://doi.org/10.7334/psicothema2016.383).
 
 İstatistik dışı bakış açısı ile; Kanser evreleme çalışmalarında \(lenf nodu sayısında\) logaritmik dönüşüm çok kullanılıyor. Ve hemen tüm çalışmalarda işe yarıyor. Örnek [https://www.ncbi.nlm.nih.gov/pubmed/28094085](https://www.ncbi.nlm.nih.gov/pubmed/28094085) Ama klinikte bilgisayar destekli bir karar sistemi kullanılmadığı zaman bu logaritmik değerler çok afaki kalabiliyor. Model anlamlı olsa da pratikte anlaması zor oluyor. Normallik yoksa nonparametrik testleri bir kademe daha rahat anlayabiliyorum.
 
