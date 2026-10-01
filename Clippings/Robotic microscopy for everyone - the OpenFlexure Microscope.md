@@ -38,12 +38,14 @@ related_to:
   - "[[Considerations for digital pathology displays]]"
   - "[[The pathology report as a boundary object: From clinical communication to computational representation]]"
 ---
-
 # Robotic microscopy for everyone: the OpenFlexure Microscope
 
-**The OpenFlexure Project** (University of Bath, University of Cambridge, STICLab Tanzania, Bongo Tech & Research Labs)  
-Platform: [openflexure.org](https://openflexure.org) | GitLab: [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope) | GitHub: [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope)  
-Foundational Publications:
+**The OpenFlexure Project** (University of Bath, University of Cambridge, STICLab Tanzania, Bongo Tech & Research Labs)
+
+Platform: [openflexure.org](https://openflexure.org) | GitLab: [openflexure/openflexure-microscope](https://gitlab.com/openflexure/openflexure-microscope) | GitHub: [rwb27/openflexure_microscope
+
+](https://github.com/rwb27/openflexure_microscope)Foundational Publications:
+
 - *Robotic microscopy for everyone: the OpenFlexure Microscope.* Collins JT, Knapper J, Stirling J, MD-Ahmad J, Chagas AM, Beale A, Bowman RW. **Biomedical Optics Express** 11(5), 2447–2460 (24 April 2020). [DOI: 10.1364/BOE.385729](https://doi.org/10.1364/BOE.385729); PMCID: [PMC7249964](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7249964/)
 - *A one-piece 3D printed flexure translation stage for open-source microscopy.* Sharkey JP, Foo DCW, Kabla A, Baumberg JJ, Bowman RW. **Review of Scientific Instruments** 87, 025104 (2016). [DOI: 10.1063/1.4941068](https://doi.org/10.1063/1.4941068)
 - *Sangaboard v0.4: low-cost automated microscope motor controller.* Stirling J, Collins JT, Bowman RW. **HardwareX** 8, e00110 (2020). [DOI: 10.1016/j.hardware.2020.e00110](https://doi.org/10.1016/j.hardware.2020.e00110)
@@ -88,12 +90,11 @@ The **OpenFlexure Microscope** provides a radical, peer-reviewed engineering sol
 ```
 
 ### The Mathematics of Flexure Motion
+
 In classical mechanics, sliding bearings require clearance tolerances that inevitably allow unwanted tilt, yaw, and play. OpenFlexure implements a **four-bar parallelogram flexure mechanism** for each Cartesian axis:
-- The effective spring constant $k$ and restoring force are governed by beam theory:
-  $$k \approx \frac{E \cdot w \cdot t^3}{L^3}$$
-  where $E$ is the Young's modulus of standard PLA filament ($\approx 3.5\ \text{GPa}$), $w$ is the hinge width, $t$ is the hinge thickness ($0.4\text{--}0.8\ \text{mm}$, corresponding to 1–2 nozzle perimeters), and $L$ is the flexible hinge length.
-- **Sub-100 nm Positioning:** The stage is driven by 28BYJ-48 unipolar stepper motors featuring an internal 1:64 reduction gearbox. Driving a standard metric M3 screw (thread pitch $p = 0.5\ \text{mm/rev}$) through captive brass nuts yields:
-  $$\Delta z = \frac{0.5\ \text{mm}}{2048\ \text{steps/rev}} \approx 0.244\ \mu\text{m/step} \quad (\approx 50\text{--}100\ \text{nm with half-stepping / microstepping})$$
+
+- The effective spring constant $k$ and restoring force are governed by beam theory: @@TOLARIA_MATH_BLOCK:6b-20-5c-61-70-70-72-6f-78-20-5c-66-72-61-63-7b-45-20-5c-63-64-6f-74-20-77-20-5c-63-64-6f-74-20-74-5e-33-7d-7b-4c-5e-33-7d@@ where $E$ is the Young's modulus of standard PLA filament ($\approx 3.5\ \text{GPa}$), $w$ is the hinge width, $t$ is the hinge thickness ($0.4\text{--}0.8\ \text{mm}$, corresponding to 1–2 nozzle perimeters), and $L$ is the flexible hinge length.
+- **Sub-100 nm Positioning:** The stage is driven by 28BYJ-48 unipolar stepper motors featuring an internal 1:64 reduction gearbox. Driving a standard metric M3 screw (thread pitch $p = 0.5\ \text{mm/rev}$) through captive brass nuts yields: @@TOLARIA_MATH_BLOCK:5c-44-65-6c-74-61-20-7a-20-3d-20-5c-66-72-61-63-7b-30-2e-35-5c-20-5c-74-65-78-74-7b-6d-6d-7d-7d-7b-32-30-34-38-5c-20-5c-74-65-78-74-7b-73-74-65-70-73-2f-72-65-76-7d-7d-20-5c-61-70-70-72-6f-78-20-30-2e-32-34-34-5c-20-5c-6d-75-5c-74-65-78-74-7b-6d-2f-73-74-65-70-7d-20-5c-71-75-61-64-20-28-5c-61-70-70-72-6f-78-20-35-30-5c-74-65-78-74-7b-2d-2d-7d-31-30-30-5c-20-5c-74-65-78-74-7b-6e-6d-20-77-69-74-68-20-68-61-6c-66-2d-73-74-65-70-70-69-6e-67-20-2f-20-6d-69-63-72-6f-73-74-65-70-70-69-6e-67-7d-29@@
 - **Absence of Stick-Slip:** Because no surfaces slide against each other, the stage exhibits zero static friction threshold ($F_s = 0$), allowing tiny single-step micro-movements without the "jump" typical of low-cost mechanical stages.
 
 ---
@@ -103,15 +104,15 @@ In classical mechanics, sliding bearings require clearance tolerances that inevi
 OpenFlexure decouples the mechanical stage from the optical train, supporting two primary configurations:
 
 ### 1. High-Resolution RMS Finite/Infinity Optics
+
 - **Objective Compatibility:** Standard Royal Microscopical Society (RMS) thread allows mounting of any standard DIN or JIS objective (4× scanning, 10× low power, 40× dry, 100× oil immersion).
-- **Tube Length Configuration:** 
+- **Tube Length Configuration:**
   - *Finite conjugate:* Uses standard 160 mm mechanical tube length, focusing directly onto the bare sensor of the Raspberry Pi Camera.
   - *Infinity-corrected:* Incorporates a miniature 50 mm focal length achromatic doublet tube lens inside the optics tube, eliminating spherical aberration and chromatic fringing.
-- **Sensor Pairing:** Coupled to the 12.3-megapixel **Raspberry Pi High Quality (HQ) Camera** (Sony IMX477, $1.55\ \mu\text{m} \times 1.55\ \mu\text{m}$ pixel pitch, 1/2.3" format). At 40× ($NA = 0.65$), the effective pixel size in sample space is:
-  $$p_{\text{sample}} = \frac{1.55\ \mu\text{m}}{40} \approx 0.0388\ \mu\text{m/pixel}$$
-  This easily satisfies the Nyquist-Shannon sampling theorem for the diffraction limit ($\lambda / 2NA \approx 0.5\ \mu\text{m} / 1.30 \approx 0.38\ \mu\text{m}$), ensuring pristine digital resolution of fine nuclear chromatin details, bacteria, and intracellular malaria merozoites.
+- **Sensor Pairing:** Coupled to the 12.3-megapixel **Raspberry Pi High Quality (HQ) Camera** (Sony IMX477, $1.55\ \mu\text{m} \times 1.55\ \mu\text{m}$ pixel pitch, 1/2.3" format). At 40× ($NA = 0.65$), the effective pixel size in sample space is: @@TOLARIA_MATH_BLOCK:70-5f-7b-5c-74-65-78-74-7b-73-61-6d-70-6c-65-7d-7d-20-3d-20-5c-66-72-61-63-7b-31-2e-35-35-5c-20-5c-6d-75-5c-74-65-78-74-7b-6d-7d-7d-7b-34-30-7d-20-5c-61-70-70-72-6f-78-20-30-2e-30-33-38-38-5c-20-5c-6d-75-5c-74-65-78-74-7b-6d-2f-70-69-78-65-6c-7d@@ This easily satisfies the Nyquist-Shannon sampling theorem for the diffraction limit ($\lambda / 2NA \approx 0.5\ \mu\text{m} / 1.30 \approx 0.38\ \mu\text{m}$), ensuring pristine digital resolution of fine nuclear chromatin details, bacteria, and intracellular malaria merozoites.
 
 ### 2. Epifluorescence Module
+
 - A modular drop-in filter block positions an excitation LED (e.g., 450 nm Royal Blue for GFP/Auramine O, or 365 nm UV for DAPI), a dichroic beam-splitter mirror, and an emission barrier filter directly below the objective.
 - Validated for fluorescence diagnosis of **tuberculosis** (*Mycobacterium tuberculosis* sputum smears stained with Auramine O), offering high diagnostic sensitivity compared to conventional brightfield Ziehl-Neelsen staining.
 
@@ -120,16 +121,17 @@ OpenFlexure decouples the mechanical stage from the optical train, supporting tw
 ## Electronics & Software Architecture
 
 ### The Sangaboard Motor Driver
+
 - Custom open-source hardware board (Stirling et al., *HardwareX* 2020) equipped with an ATmega32U4 / RP2040 microcontroller and ULN2003 Darlington array drivers or Trinamic TMC2209 silent stepper drivers.
 - Interfaces via USB or direct GPIO header to the Raspberry Pi.
 - Entire system draws $<15\text{ W}$, allowing continuous field operation from a standard $10,000\text{ mAh}$ USB battery bank.
 
 ### Embedded Server & Python REST API
+
 The Raspberry Pi runs `openflexure-microscope-server`:
+
 - **Hardware Abstraction Layer (HAL):** Translates physical motor step counts into real-world Cartesian coordinates ($\mu\text{m}$), accounting for motor orientation and calibration matrices.
-- **Contrast-Based Real-Time Autofocus:** Evaluates the variance of the Laplacian or Sobel gradient operator across rapid z-axis focal sweeps:
-  $$S(z) = \frac{1}{N} \sum_{x, y} (\nabla^2 I_z(x, y) - \bar{I}_z)^2$$
-  Performs quadratic peak fitting around the maximum variance point to lock focus in $<2$ seconds.
+- **Contrast-Based Real-Time Autofocus:** Evaluates the variance of the Laplacian or Sobel gradient operator across rapid z-axis focal sweeps: @@TOLARIA_MATH_BLOCK:53-28-7a-29-20-3d-20-5c-66-72-61-63-7b-31-7d-7b-4e-7d-20-5c-73-75-6d-5f-7b-78-2c-20-79-7d-20-28-5c-6e-61-62-6c-61-5e-32-20-49-5f-7a-28-78-2c-20-79-29-20-2d-20-5c-62-61-72-7b-49-7d-5f-7a-29-5e-32@@ Performs quadratic peak fitting around the maximum variance point to lock focus in $<2$ seconds.
 - **Fast 2D Grid Scanning:** Exposes automated tiling routines with programmable overlap (10% to 20%), automating the acquisition of contiguous fields of view across whole glass slides.
 
 ---
@@ -137,20 +139,26 @@ The Raspberry Pi runs `openflexure-microscope-server`:
 ## Field Validation & Clinical Applications
 
 ### 1. In-Field Automated Malaria Diagnostics (Tanzania)
+
 In clinical trials conducted with the **Ifakara Health Institute (IHI)** and **STICLab** in Bagamoyo and Dar es Salaam, Tanzania:
+
 - OpenFlexure microscopes were manufactured locally on Prusa 3D printers using locally sourced PLA.
 - Deployed to capture 100× oil immersion tile sets from Giemsa-stained blood smears.
 - Automated stage scanning and autofocus eliminated technician fatigue, with edge AI classification models successfully detecting *Plasmodium falciparum* parasites at densities matching expert human reference microscopy.
 
 ### 2. Low-Cost Whole-Slide Imaging (DIY WSI) & QuPath Pipeline
+
 Commercial WSI scanners cost hundreds of thousands of dollars. OpenFlexure provides a practical, open-source pipeline for digital pathology scanning:
 
-$$\text{OpenFlexure Automated Grid Scan} \longrightarrow \text{Raw Tiles (.tif)} \longrightarrow \text{Stitching via Ashlar / BigStitcher} \longrightarrow \text{Pyramidal OME-TIFF} \longrightarrow \text{QuPath / Cytomine}$$
+$$
+\text{OpenFlexure Automated Grid Scan} \longrightarrow \text{Raw Tiles (.tif)} \longrightarrow \text{Stitching via Ashlar / BigStitcher} \longrightarrow \text{Pyramidal OME-TIFF} \longrightarrow \text{QuPath / Cytomine}
+$$
 
 - **Tile Stitching:** Raw acquired tiles are registered using phase correlation and stitched into gigapixel pyramidal OME-TIFF images.
 - **Downstream Analysis:** Stitched slides can be analyzed directly in **QuPath** for tumor grading, or processed by advanced computational models such as [[CellQuant-Net]], [[NuClick]], or [[HoVer-NeXt]] for cellular segmentation.
 
 ### 3. Remote Telepathology & Consultation
+
 - In rural clinics where no pathologist is physically present, local staff prepare specimens and mount the glass slide.
 - Remote pathologists log in via **OpenFlexure Connect** over a local network or encrypted WebRTC/VPN tunnel.
 - The pathologist controls magnification, stage position, and fine focus in real time, viewing live uncompressed video streams to render immediate intraoperative or diagnostic second opinions.
