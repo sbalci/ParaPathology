@@ -5,6 +5,11 @@ language: en
 title: "Towards robust foundation models for digital pathology"
 source: "https://www.nature.com/articles/s41467-026-73923-2"
 source_type: article
+doi: "10.1038/s41467-026-73923-2"
+pmid: "42277006"
+review_status: Partial
+last_reviewed: 2026-09-28
+study_design: "Multicentre computational benchmark of pathology foundation-model robustness"
 author:
   - "[[Jonah Kömen]]"
   - "[[Edwin D. de Jong]]"
@@ -28,10 +33,16 @@ belongs_to: "[[Clippings]]"
 related_to:
   - "[[A distributional robustness margin for pathology foundation models]]"
   - "[[Digital Pathology]]"
+  - "[[digital-pathology-evidence]]"
   - "[[Hugging Face Digital Pathology]]"
   - "[[Machine Learning]]"
   - "[[Image Analysis]]"
 ---
+
+# Towards robust foundation models for digital pathology
+
+**Review scope (28 September 2026): partial.** The [primary article](https://doi.org/10.1038/s41467-026-73923-2) was checked for the 20-model benchmark, technical/institutional confounding, and the limits of the tested mitigations. The detailed metrics, derived interpretations, model rankings and supplementary analyses below still require complete re-extraction and appraisal. These results do not establish local clinical validity for any model. See [digital-pathology-evidence](../computational-digital-and-mathematical-pathology/digital-pathology-evidence.md).
+
 ## Summary
 
 A pathology foundation model is supposed to encode what is *in* the tissue. This paper measures how much of what it actually encodes is the hospital that produced the slide — staining protocol, section thickness, fixation, scanner — and then demonstrates, with clinical tasks and real slides, what goes wrong when a downstream model reads that signature instead of the morphology.
@@ -138,6 +149,7 @@ One caution when comparing the two: **both evaluate 20 tile encoders, but not th
 
 * [A distributional robustness margin for pathology foundation models](A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md)
 * [Digital Pathology](../computational-digital-and-mathematical-pathology/digital-pathology.md)
+* [Digital pathology evidence](../computational-digital-and-mathematical-pathology/digital-pathology-evidence.md)
 * [Hugging Face Digital Pathology](../computational-digital-and-mathematical-pathology/hugging-face-digital-pathology.md)
 * [Image Analysis](../computational-digital-and-mathematical-pathology/image-analysis.md)
 * [Machine Learning](../statistics-and-bioinformatics/machine-learning/README.md)

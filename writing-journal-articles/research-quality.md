@@ -1,6 +1,6 @@
 ---
 type: Note
-status: Stub
+status: Developing
 language: en
 aliases:
   - "Research Quality"
@@ -9,6 +9,8 @@ belongs_to: "[[Writing Journal Articles]]"
 ---
 
 # Research Quality
+
+For pathology prediction models, diagnostic-accuracy studies, and AI reader studies, see [ai-study-appraisal](ai-study-appraisal.md) for reporting resources, risk-of-bias appraisal, and a worksheet for recording evidence. [digital-pathology-evidence](../computational-digital-and-mathematical-pathology/digital-pathology-evidence.md) connects these methods to selected studies.
 
 * Research Quality Plus
 

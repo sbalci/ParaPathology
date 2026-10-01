@@ -166,6 +166,7 @@
 ## Computational, Digital & Mathematical Pathology
 
 * [Digital Pathology](computational-digital-and-mathematical-pathology/digital-pathology.md)
+* [Digital pathology evidence](computational-digital-and-mathematical-pathology/digital-pathology-evidence.md)
 * [Dijital Patoloji'ye Dair](computational-digital-and-mathematical-pathology/dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
 * [Digital Pathology Software](computational-digital-and-mathematical-pathology/digital-pathology-software.md)
@@ -363,6 +364,7 @@
   * [EndNote](writing-journal-articles/bibliography/endnote.md)
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Research Quality](writing-journal-articles/research-quality.md)
+* [Appraising AI studies in pathology](writing-journal-articles/ai-study-appraisal.md)
 * [Citation](writing-journal-articles/citation.md)
 * [Visual Abstracts](writing-journal-articles/visual-abstracts.md)
 

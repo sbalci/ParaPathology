@@ -10,6 +10,8 @@ order: 10
 
 Whole-slide imaging and everything it enables: scanners and viewers, image analysis, AI-assisted diagnosis, and telepathology. This hub collects the vendors, platforms, talks, and articles that map the field; the software itself is catalogued in [Digital Pathology Software](digital-pathology-software.md) and analysis methods in [Image Analysis](image-analysis.md), with the machine-learning foundations in [Machine Learning](../statistics-and-bioinformatics/machine-learning/README.md).
 
+For a focused reading set on robustness, reader effects, quantitative histology, and validation, start with [digital-pathology-evidence](digital-pathology-evidence.md). Use [ai-study-appraisal](../writing-journal-articles/ai-study-appraisal.md) to distinguish what a paper reports from what its design supports.
+
 {% embed url="[https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s](https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s)" %}
 
 #### [5 Ways to Make Histopathology Image Models More Robust to Domain Shifts: Exploring a variety of approaches: stain normalization, color augmentation, adversarial domain adaptation, model adaptation, and finetuning](https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html)
@@ -186,6 +188,7 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 
 ## In this section
 
+* [Digital pathology evidence](digital-pathology-evidence.md)
 * [Dijital Patoloji'ye Dair](dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](about-the-usage-of-digital-pathology.md)
 * [Digital Pathology Software](digital-pathology-software.md)
