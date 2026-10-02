@@ -1,0 +1,24 @@
+name: Evidence to Review
+icon: null
+color: null
+sort: "modified:desc"
+filters:
+  any:
+    - all:
+        - field: type
+          op: equals
+          value: Clipping
+        - field: review_status
+          op: is_empty
+    - field: review_status
+      op: any_of
+      value:
+        - Pending
+        - Partial
+        - Needs update
+    - all:
+        - field: review_status
+          op: equals
+          value: Reviewed
+        - field: last_reviewed
+          op: is_empty

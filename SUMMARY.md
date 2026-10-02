@@ -166,6 +166,7 @@
 ## Computational, Digital & Mathematical Pathology
 
 * [Digital Pathology](computational-digital-and-mathematical-pathology/digital-pathology.md)
+* [Digital pathology evidence](computational-digital-and-mathematical-pathology/digital-pathology-evidence.md)
 * [Dijital Patoloji'ye Dair](computational-digital-and-mathematical-pathology/dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
 * [Digital Pathology Software](computational-digital-and-mathematical-pathology/digital-pathology-software.md)
@@ -173,6 +174,8 @@
   * [CellQuant-Net](computational-digital-and-mathematical-pathology/cellquant-net.md)
   * [RepLKNet](computational-digital-and-mathematical-pathology/replknet.md)
   * [OpenFlexure Microscope](computational-digital-and-mathematical-pathology/openflexure-microscope.md)
+  * [Celldega](computational-digital-and-mathematical-pathology/celldega.md)
+  * [HistoCAM](computational-digital-and-mathematical-pathology/histocam.md)
 * [Analysis](computational-digital-and-mathematical-pathology/analysis.md)
 * [Telepathology](computational-digital-and-mathematical-pathology/telepathology.md)
 * [Cytomine](computational-digital-and-mathematical-pathology/cytomine.md)
@@ -361,6 +364,7 @@
   * [EndNote](writing-journal-articles/bibliography/endnote.md)
 * [Research Planning](writing-journal-articles/research-planning.md)
 * [Research Quality](writing-journal-articles/research-quality.md)
+* [Appraising AI studies in pathology](writing-journal-articles/ai-study-appraisal.md)
 * [Citation](writing-journal-articles/citation.md)
 * [Visual Abstracts](writing-journal-articles/visual-abstracts.md)
 
@@ -488,4 +492,5 @@
   * [A deep-learning-based model for assessment of autoimmune hepatitis from histology: AI(H)](Clippings/A%20deep-learning-based%20model%20for%20assessment%20of%20autoimmune%20hepatitis%20from%20histology%20-%20AI%28H%29.md)
   * [Stroma and lymphocytes identified by deep learning are independent predictors for survival in pancreatic cancer](Clippings/Stroma%20and%20lymphocytes%20identified%20by%20deep%20learning%20are%20independent%20predictors%20for%20survival%20in%20pancreatic%20cancer.md)
   * [Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology](Clippings/Beyond%20root%20cause%20analysis%20-%20a%20practical%20systems%20engineering%20approach%20to%20incident%20investigation%20in%20histopathology.md)
+  * [Ambient, real-time digitization and datafication of glass slide microscopy towards AI-at-the-microscope](Clippings/Ambient%2C%20real-time%20digitization%20and%20datafication%20of%20glass%20slide%20microscopy%20towards%20AI-at-the-microscope.md)
 * [miscellaneous](appendix/miscellaneous.md)

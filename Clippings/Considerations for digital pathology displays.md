@@ -5,6 +5,10 @@ language: en
 title: "Considerations for digital pathology displays"
 source: "https://doi.org/10.1016/j.jpi.2026.100707"
 source_type: article
+doi: "10.1016/j.jpi.2026.100707"
+pmid: "42750855"
+review_status: Partial
+last_reviewed: 2026-09-28
 author:
   - "[[David S. Brettle]]"
   - "[[G. A. Matthews]]"
@@ -12,7 +16,7 @@ author:
   - "[[Darren Treanor]]"
 published: 2026-08-07
 created: 2026-09-17
-description: "A comprehensive examination of the digital pathology display landscape from the National Pathology Imaging Co-operative (NPIC) and Leeds/Linköping teams. Reviews 56 international professional and regulatory guidance documents, evaluates medical vs consumer vs gaming displays, proposes an empirical minimum specification recommendation based on commercial availability (27-inch, 4MP/8MP, 350-500 cd/m², 1000:1 contrast, 120 Hz, ≥100% sRGB), introduces a timeless 3-step procurement methodology (banding, risk assessment, local evaluation), and defines a multi-tiered quality assurance (QA/QC) framework including point-of-use ambient light testing (POUQA) and screen maintenance."
+description: "A review of digital pathology displays and guidance from the National Pathology Imaging Co-operative (NPIC) and Leeds/Linköping teams. Proposes procurement specifications informed by the commercial product distribution, evidence and experience; these are not universal diagnostic thresholds. Table 2 lists 4 MP with a trend toward 8 MP, and recommends 120 Hz for subjectively smoother viewing while explicitly considering 60 Hz adequate. Also discusses display selection, local evaluation and quality assurance."
 tags:
   - "clippings"
   - "digital-pathology"
@@ -26,6 +30,7 @@ order: 150
 belongs_to: "[[Clippings]]"
 related_to:
   - "[[Digital Pathology]]"
+  - "[[digital-pathology-evidence]]"
   - "[[Telepathology]]"
   - "[[Image Analysis]]"
   - "[[Digital Pathology Software]]"
@@ -36,6 +41,8 @@ related_to:
 ---
 
 # Considerations for digital pathology displays
+
+**Review scope (28 September 2026): partial.** The [PMC full text, especially Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13578409/) was checked for resolution, refresh rate, luminance, contrast, color gamut and the basis of the authors' procurement proposals. The claims that 8 MP significantly improves diagnostic throughput or that 120 Hz eliminates motion blur are not established by that table. The detailed band assignments, regulatory interpretation, equipment percentages, QA intervals and other numerical claims below still need claim-level verification; this review does not validate the entire clipping. See [[digital-pathology-evidence]] for the shared appraisal approach.
 
 **Brettle DS, Matthews GA, Pye H, Treanor D.** *Considerations for digital pathology displays.* Journal of Pathology Informatics 23 (2026) 100707. Published online: 7 August 2026. DOI: [10.1016/j.jpi.2026.100707](https://doi.org/10.1016/j.jpi.2026.100707). Open Access (CC BY-NC-ND 4.0).
 
@@ -58,7 +65,7 @@ In this landmark review, David Brettle, Darren Treanor, and colleagues from the 
 1. **Analyze 56 Professional & Regulatory Guidance Documents:** Revealing that 39% provide zero display specifications, and only 37% of quality assurance (QA) guidance provides concrete implementation protocols.
 2. **Benchmark the Equipment Landscape:** Comparing medical pathology displays (£5,000–£25,000), radiology displays, and high-end gaming monitors (£500–£2,000) across luminance, warranty, price, and automated sensor suites.
 3. **Expose Clinical Market Obsolescence:** Demonstrating that of 7 monitor models documented in published real-world clinical pathology deployments, only 1 remains commercially available.
-4. **Establish Minimum Recommended Specifications (Table 2):** Providing an evidence-grounded baseline derived from the lower quartile of active pathology displays (27-inch, 4 MP [emerging standard 8 MP], 350 cd/m² [with 500 cd/m² headroom], 1000:1 contrast, 120 Hz refresh rate, ≥100% sRGB).
+4. **Propose Procurement Specifications (Table 2):** Drawing on the lower quartile of available pathology displays, with adjustments informed by evidence and experience: 27 inches, 4 MP with a trend toward 8 MP, 350 cd/m² recommended minimum maximum luminance (500 cd/m² at the first quartile), 1000:1 contrast and ≥100% sRGB. The table recommends 120 Hz for a subjectively smoother experience but explicitly considers 60 Hz adequate. These are the authors' proposals, not universal diagnostic requirements. [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13578409/).
 5. **Formulate a Timeless Three-Step Selection Methodology (Table 3):** Employing equipment banding (A+, A1–A3, B1–B3, C1–C3), departmental risk assessment strategies, and structured local pathologist evaluation with cost-weighting.
 6. **Deliver an Actionable QA/QC Protocol (Table 4):** Standardizing pre-purchase verification, routine user checks (screen cleaning, ambient light contrast checks via POUQA, setting audits), and periodic technical photometric calibration.
 
@@ -120,18 +127,18 @@ The authors evaluated commercial displays categorized into three functional grou
 
 ---
 
-## Minimum Recommended Display Specifications
+## Authors' Proposed Display Specifications
 
-To replace arbitrary rules of thumb, the authors analyzed active commercial displays recommended or cleared for digital pathology, setting the baseline at the **first quartile (Q1)** of currently available hardware, with adjustments based on clinical psychophysics (Table 2, Figure 6):
+The authors used the **first quartile (Q1)** of commercial displays recommended or cleared for digital pathology, as available in June 2025, with adjustments based on evidence, experience and qualitative feedback. These proposals must be considered alongside the application, viewing distance, pixel pitch and local evaluation; market availability does not by itself establish a diagnostic threshold. [Table 2 and Figure 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC13578409/).
 
 | Component | Recommended Minimum | Market 1st Quartile | Clinical Rationale & Considerations |
 |---|---|---|---|
 | **Screen Size** | **≥ 27 inches** | 27 in | Accommodates the WSI viewport alongside navigation thumbnails, clinical case metadata, and annotation toolbars without compromising tissue viewable area. |
-| **Spatial Resolution** | **≥ 4 MP** | 4 MP | Minimum 4 MP (e.g., 2560×1440 or 3840×2160). **Emerging consensus:** **8 MP (4K UHD)** is rapidly becoming the new clinical standard to resolve chromatin texture and nucleoli without excessive zoom operations. |
-| **Maximum Luminance** | **350 cd/m²** | 500 cd/m² | 350 cd/m² is sufficient for human visual comfort. A 500 cd/m² rated maximum provides necessary headroom so automated circuits can maintain 350 cd/m² over 5 years as LEDs degrade. |
-| **Static Contrast Ratio**| **≥ 1000:1** | 1000:1 | Ensures adequate dynamic range between deep hematoxylin nuclear borders and clear slide background. Emerging OLED / Mini-LED panels exceed this substantially. |
-| **Refresh Rate** | **≥ 120 Hz** | 60 Hz | While 60 Hz does not compromise diagnostic sensitivity, **120 Hz provides noticeably smoother panning and zooming**, reducing motion judder, visual blur, and operator fatigue during high-volume screening. |
-| **Color Gamut** | **≥ 100% sRGB** | 99% sRGB | sRGB is the universal digital pathology standard. Wider gamuts (Display P3, Adobe RGB, Rec. 2020) must have proper OS color profiles (ICC); unmanaged wide gamuts can over-saturate eosin and distort perceived staining. |
+| **Spatial Resolution** | **4 MP** | 4 MP | The authors describe a trend toward 8 MP and suggest it may become the new minimum. Screen size, viewing distance and pixel pitch also affect visible detail. This does not establish a quantified throughput benefit from 8 MP. |
+| **Maximum Luminance** | **350 cd/m²** | 500 cd/m² | The authors state that earlier work found 350 cd/m² adequate for most pathologists, while 500 cd/m² would accommodate all. Maximum available luminance is distinct from the level selected during use. |
+| **Static Contrast Ratio**| **1000:1** | 1000:1 | The authors note that newer display technologies can offer substantially higher contrast than traditional IPS displays, and software adaptations can alter available contrast. The table does not establish a diagnostic-performance threshold. |
+| **Refresh Rate** | **120 Hz recommended** | 60 Hz | The authors explicitly consider **60 Hz adequate** and report no effect on clinical utility in their experience. They recommend 120 Hz for a **subjectively smoother viewing experience**; this is not proof of improved diagnostic sensitivity, reduced fatigue or elimination of motion blur. |
+| **Color Gamut** | **≥ 100% sRGB** | 99% sRGB | The authors describe sRGB as the current minimum and advise considering coverage of other spaces, including Display P3 and Rec. 2020, as displays evolve. Equal sRGB coverage does not ensure identical color representation across manufacturers. |
 
 ---
 
@@ -154,7 +161,7 @@ Because absolute technical specs become obsolete within 3–5 years, NPIC propos
 - **Band A+ (Highest End / Aspirational):** Cutting-edge technology (e.g., 8MP–12MP, Mini-LED/OLED, full integrated QA sensor suite). Assigned to research-focused environments and early adopters.
 - **Band A (A1, A2, A3 - High End):** Fully certified medical-grade pathology displays with integrated calibration. Assigned to **primary diagnostic reporting**, high-volume sign-out, and difficult/subtle subspecialty biopsies.
 - **Band B (B1, B2, B3 - Mid End):** High-specification commercial or entry-level medical displays. Assigned to routine secondary review, gross room stations, or telepathology home reporting (provided recourse to Band A is available).
-- **Band C (C1, C2, C3 - Low End):** Standard office displays. **Reference only, educational browsing, or administrative tasks. Explicitly NOT recommended for primary diagnostic sign-out.**
+- **Band C (C1, C2, C3 - Low End):** **Verification needed.** This clipping previously described these as standard office displays restricted to reference, educational or administrative use. The targeted Table 2 check did not establish that restriction; confirm the definitions and permitted uses against Table 3 before using this summary for procurement or reporting policy.
 
 ### Step 2: Departmental Risk Assessment Strategies
 1. **Strategy 1: Glass Slides Always Available for Verification:** Pathologists sign out digitally but have the physical glass slide on hand. Safe for initial onboarding, but time-consuming, expensive, and eliminates efficiency gains.
@@ -221,7 +228,7 @@ Dirty screens obscure fine chromatin details and mimic micro-organisms. Commerci
 ## Practical Recommendations for Digital Pathology Deployments
 
 1. **Do Not Rely on Unmonitored Consumer Monitors:** Standard consumer displays lack backlight stabilization circuits and drift significantly in brightness and chromaticity within 12–18 months.
-2. **Prioritize 8 MP and 120 Hz in New Procurements:** While 4 MP and 60 Hz represent the historical lower quartile, 8 MP (4K) significantly enhances diagnostic throughput by reducing digital magnification steps, and 120 Hz eliminates motion blur during panning.
+2. **Evaluate Resolution and Refresh Rate in Context:** Table 2 proposes 4 MP, notes a trend toward 8 MP, and recommends 120 Hz for subjectively smoother viewing while considering 60 Hz adequate. Compare candidate displays in the intended workflow; these specifications alone do not demonstrate faster diagnosis or eliminate motion blur. [Authors' recommendations](https://pmc.ncbi.nlm.nih.gov/articles/PMC13578409/).
 3. **Mandate Ambient Light Controls:** Position workstations away from direct window glare; ensure ambient illuminance does not wash out deep hematoxylin contrast.
 4. **Implement Formal Remote Reporting Audits:** Home workstations used for telepathology are at highest risk of neglected maintenance and variable room lighting; enforce routine POUQA verification.
 5. **Establish Guaranteed High-End Recourse:** Departments utilizing cost-effective Band B displays must provide immediate physical access to a calibrated Band A1 diagnostic workstation for difficult consensus consultations.

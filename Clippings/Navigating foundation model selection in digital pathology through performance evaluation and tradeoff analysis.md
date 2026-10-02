@@ -5,6 +5,7 @@ language: en
 title: "Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis"
 source: "https://www.nature.com/articles/s41598-026-69731-9"
 source_type: article
+review_status: Pending
 author:
   - "[[Danial Maleki]]"
   - "[[Nazim Shaikh]]"
@@ -28,6 +29,8 @@ related_to:
 ---
 
 # Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis
+
+**Source verification pending (28 September 2026).** A targeted PubMed lookup of the DOI in `source` returned no record during the project assessment; the bibliographic details and numerical claims below were not independently verified. This does not show that the paper does not exist. Resolve the publisher record and check the reported comparisons before using this note as evidence for model selection. No completed appraisal date is assigned. See [[digital-pathology-evidence]].
 
 ## Summary
 

@@ -10,6 +10,8 @@ order: 10
 
 Whole-slide imaging (WSI) connects the glass slide to viewing, annotation, quantitative analysis, remote consultation, and computational pathology. This section brings together practical starting points, research tools, and collected reading. The original English and Turkish notes remain below.
 
+For a focused reading set on robustness, reader effects, quantitative histology, and validation, start with [[digital-pathology-evidence]]. Use [[ai-study-appraisal]] to distinguish what a paper reports from what its design supports.
+
 ## Start with the task
 
 | I want to… | Start here | What to take away |

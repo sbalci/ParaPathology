@@ -9,6 +9,7 @@ belongs_to: "[[Laboratory Management]]"
 related_to:
   - "[[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]"
   - "[[Considerations for digital pathology displays]]"
+  - "[[digital-pathology-evidence]]"
   - "[[Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology]]"
   - "[[Theories and Frameworks for Understanding Pathology Practice]]"
   - "[[Pathology AI Integration: A Systems View]]"
@@ -37,6 +38,6 @@ Modern quality assurance is transitioning away from retrospective, punitive "Roo
 As clinical workflows transition to whole-slide imaging (WSI) and artificial intelligence, quality control must expand from tissue blocks to the digital imaging chain (pre-analytics, optics, displays, and algorithms):
 
 - [[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]: Full-lifecycle QA framework and measurement science developed by the UK National Pathology Imaging Co-operative (NPIC) and Leeds Teaching Hospitals NHS Trust. Covers objective chemical stain uptake using biopolymer Tango slides (National Staining Survey), WSI scanner variation benchmarking, display luminance science, and the web-based Point-of-Use Quality Assurance (POUQA) tool.
-- [[Considerations for digital pathology displays]]: Comprehensive review of 56 international display guidelines, empirical minimum specifications (27", 4MP/8MP, 350–500 cd/m², 1000:1, 120 Hz, sRGB), the 3-step procurement model, and routine workstation/ambient lux auditing.
+- [[Considerations for digital pathology displays]]: Reviews display guidance and proposes procurement specifications informed by available commercial products, evidence and experience. Table 2 lists 4 MP with a trend toward 8 MP, and recommends 120 Hz for subjectively smoother viewing while explicitly considering 60 Hz adequate. These are the authors' proposals, not universal diagnostic requirements. The paper also covers display selection, local evaluation and quality assurance. [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13578409/).
+- [[digital-pathology-evidence]]: Connects display and WSI-system validation with separate appraisal of AI performance, human–AI interaction and quantitative histology evidence.
 - [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]]: FDA CDRH/DIDSR regulatory tools for digital pathology assessment, including generative stress-testing (HistoGen), multi-reader agreement (HTT), threshold goals (DxGoals), and segmentation evaluation (SegVal-WSI).
-

@@ -19,6 +19,11 @@ them in place until a capture becomes your own synthesis. Verbatim full-text cap
 `publish: false` so they stay out of the public book — drop that flag once a clipping has been
 rewritten in your own words with a citation.
 
+Topic linkage and evidence appraisal are separate steps. **Clippings to Process** finds missing
+`related_to` links; **Evidence to Review** also includes linked Clippings without an appraisal
+status and notes with unfinished reviews. [[ai-study-appraisal]] explains `review_status`,
+`last_reviewed`, source identifiers and how to record the scope of a partial check.
+
 <!-- tolaria:children:start -->
 
 ## In this section
