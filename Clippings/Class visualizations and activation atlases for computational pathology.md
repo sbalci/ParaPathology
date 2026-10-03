@@ -41,6 +41,7 @@ related_to:
   - "[[Towards robust foundation models for digital pathology]]"
   - "[[A distributional robustness margin for pathology foundation models]]"
   - "[[What AI Can and Cannot Do in Pathology]]"
+  - "[[PathoActivationAtlas]]"
 ---
 
 # Class visualizations and activation atlases for computational pathology
@@ -54,7 +55,7 @@ Modern pathology foundation models can classify tissue and cancer with high accu
 
 Four pathologists independently annotated real H&E patches, CVs, and atlas cells while blinded to the target labels. The central result is deliberately nuanced: feature visualization can make a pathology foundation model inspectable, but **visual separability follows morphological separability**. Coarse, distinctive categories such as adipose tissue, lymphocytes, and colorectal tumor epithelium produced recognizable concepts. Closely overlapping cancer subclasses became dispersed and ambiguous, mirroring disagreement among pathologists on the real images. The visualizations therefore reveal where the model's taxonomy aligns with morphology and where the requested labels exceed what morphology reliably supports.
 
-The published article appeared online in *Cell Reports Medicine* on 18 September 2026 and is assigned to volume 7, article 103054 (issue date 20 October 2026): [DOI](https://doi.org/10.1016/j.xcrm.2026.103054), [Cell full text](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4), [PubMed 42759505](https://pubmed.ncbi.nlm.nih.gov/42759505/), and [arXiv:2603.07170](https://arxiv.org/abs/2603.07170). The supplied [local PDF](file:///K:/DownloadsK/mmc2.pdf) contains both the corrected proof (pages 1–22) and supplemental figures and tables (pages 23–60). The article is open access under CC BY 4.0.
+The published article appeared online in *Cell Reports Medicine* on 18 September 2026 and is assigned to volume 7, article 103054 (issue date 20 October 2026): [DOI](https://doi.org/10.1016/j.xcrm.2026.103054), [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666379126004714), [Cell full text](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4), [PubMed 42759505](https://pubmed.ncbi.nlm.nih.gov/42759505/), and [arXiv:2603.07170](https://arxiv.org/abs/2603.07170). The supplied [local PDF](file:///K:/DownloadsK/mmc2.pdf) contains both the corrected proof (pages 1–22) and supplemental figures and tables (pages 23–60). The article is open access under CC BY 4.0.
 
 ## What the framework adds to pathology XAI
 
@@ -156,7 +157,7 @@ The method does **not** establish causal mechanisms, certify clinical correctnes
 
 ## Open-source implementation
 
-The authors released the reproducible framework at [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) under the MIT license, with Captum-derived components under BSD-3-Clause. It includes model training, activation extraction, CV and AA creation, a pathologist annotation interface, and an interactive viewer.
+The authors released the reproducible framework as [PathoActivationAtlas](../computational-digital-and-mathematical-pathology/pathoactivationatlas.md) at [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) under the MIT license, with Captum-derived components under BSD-3-Clause. It includes model training, activation extraction, CV and AA creation, a pathologist annotation interface, and an interactive viewer (see dedicated tool note: [PathoActivationAtlas](../computational-digital-and-mathematical-pathology/pathoactivationatlas.md)).
 
 ```bash
 conda env create -f conda_env.yml
@@ -198,6 +199,7 @@ The viewer permits layer/class selection, zooming and panning, overlays for grou
 * [Image Analysis](../computational-digital-and-mathematical-pathology/image-analysis.md)
 * [Machine Learning](../statistics-and-bioinformatics/machine-learning/README.md)
 * [Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis](Navigating%20foundation%20model%20selection%20in%20digital%20pathology%20through%20performance%20evaluation%20and%20tradeoff%20analysis.md)
+* [PathoActivationAtlas](../computational-digital-and-mathematical-pathology/pathoactivationatlas.md)
 * [Towards robust foundation models for digital pathology](Towards%20robust%20foundation%20models%20for%20digital%20pathology.md)
 
 <!-- tolaria:related:end -->

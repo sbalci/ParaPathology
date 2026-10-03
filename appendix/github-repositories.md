@@ -173,7 +173,7 @@ related_to:
 
 {% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
 
-* [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) — MIT-licensed framework for transformer-based pathology feature visualization, including class-visualization synthesis, layer-wise activation-atlas generation, pathologist annotation software, quantitative attribution/similarity overlays, and an interactive atlas viewer. Reproduces Gustav et al., *Cell Reports Medicine* 2026. See [Class visualizations and activation atlases for computational pathology](../Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md).
+* [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) — MIT-licensed framework for transformer-based pathology feature visualization, including class-visualization synthesis, layer-wise activation-atlas generation, pathologist annotation software, quantitative attribution/similarity overlays, and an interactive atlas viewer. Reproduces Gustav et al., *Cell Reports Medicine* 2026. See dedicated tool note [PathoActivationAtlas](../computational-digital-and-mathematical-pathology/pathoactivationatlas.md) and literature review [Class visualizations and activation atlases for computational pathology](../Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md).
 
 {% embed url="https://github.com/pangramlabs/pangram-sdk" %}
 
