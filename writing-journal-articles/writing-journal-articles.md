@@ -42,6 +42,7 @@ order: 10
 * [Bibliography](bibliography/README.md)
 * [Research Planning](research-planning.md)
 * [Research Quality](research-quality.md)
+* [Appraising AI studies in pathology](ai-study-appraisal.md)
 * [Citation](citation.md)
 * [Visual Abstracts](visual-abstracts.md)
 

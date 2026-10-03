@@ -13,6 +13,13 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[Standardization in digital pathology: Supplement 145 of the DICOM standards]]
+Standardization in digital pathology: Supplement 145 of the DICOM standards [https://pubmed.ncbi.nlm.nih.gov/21633489/](https://pubmed.ncbi.nlm.nih.gov/21633489/) [https://www.sciencedirect.com/science/article/pii/S2153353922001997](https://www.sciencedirect.com/science/article/pii/S2153353922001997) [https://doi.org/10.4103/2153-3539.80719](https://doi.org/10.4103/2153-3539.80719) [https://pmc.ncbi.nlm.nih.gov/articles/PMC3097525/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3097525/)
+
+[[M-Optimus]]
+[[From Model to Patient: M-Optimus-1 for Spatial Biomarker Discovery in Ovarian Cancer]]
+M-Optimus-1 for Spatial Biomarker Discovery in Ovarian Cancer [https://www.bioptimus.com/m-optimus-1-for-spatial-biomarker-discovery-in-ovarian-cancer](https://www.bioptimus.com/m-optimus-1-for-spatial-biomarker-discovery-in-ovarian-cancer) [https://www.bioptimus.com/m-optimus](https://www.bioptimus.com/m-optimus)
+
 [[OpenFlexure Microscope]]
 [[Robotic microscopy for everyone: the OpenFlexure Microscope]]
 OpenFlexure Microscope: Robotic microscopy for everyone [https://openflexure.org/projects/microscope/](https://openflexure.org/projects/microscope/) [https://github.com/rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) [https://doi.org/10.1364/BOE.385729](https://doi.org/10.1364/BOE.385729)
@@ -27,7 +34,7 @@ The pathology report as a boundary object: From clinical communication to comput
 NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology [https://npic.ac.uk/quality/](https://npic.ac.uk/quality/) [https://npic.ac.uk/quality/qcc-tools-and-resources/](https://npic.ac.uk/quality/qcc-tools-and-resources/)
 
 [[Class visualizations and activation atlases for computational pathology]]
-Class visualizations and activation atlases for computational pathology [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
+Class visualizations and activation atlases for computational pathology [https://www.sciencedirect.com/science/article/pii/S2666379126004714](https://www.sciencedirect.com/science/article/pii/S2666379126004714) [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
 [[RepLKNet]]
 [[Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs]]
 Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs [https://github.com/DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) [https://arxiv.org/abs/2203.06717](https://arxiv.org/abs/2203.06717) [https://doi.org/10.1109/CVPR52688.2022.01167](https://doi.org/10.1109/CVPR52688.2022.01167)

@@ -98,6 +98,25 @@ Open-source, 3D-printable robotic digital microscope featuring sub-100 nm positi
 
 {% embed url="https://github.com/rwb27/openflexure_microscope" %}
 
+### [M-Optimus](https://www.bioptimus.com/m-optimus)
+
+Multimodal biological world model and digital pathology foundation platform developed by Bioptimus (Paris, France). Connects routine Hematoxylin and Eosin (H&E) whole-slide histology with molecular genetics (bulk RNA-seq and spatial transcriptomics) to perform in silico spatial transcriptomics—reconstructing spatial expression maps for 6,000+ genes directly from H&E whole-slide images alone or paired with bulk RNA-seq. Validated against 10x Genomics Xenium Prime ($r = 0.81$) and deployed on archival clinical cohorts (TCIA) to identify spatial microenvironmental biomarkers of targeted therapy resistance — see dedicated tool note: [M-Optimus](m-optimus.md) and literature review [[From Model to Patient: M-Optimus-1 for Spatial Biomarker Discovery in Ovarian Cancer]].
+
+- **Website:** [bioptimus.com/m-optimus](https://www.bioptimus.com/m-optimus)
+- **Technical Launch:** [bioptimus.com/introducing-m-optimus](https://www.bioptimus.com/introducing-m-optimus)
+- **STELA Data Consortium:** [bioptimus.com/stela](https://www.bioptimus.com/stela)
+
+{% embed url="https://www.bioptimus.com/m-optimus" %}
+
+### [PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
+
+Open-source PyTorch and Captum-based interpretability framework developed by the Kather Lab (Else Kröner Fresenius Center for Digital Health, TU Dresden) to audit what morphological concepts are organized inside pathology foundation models (Gustav et al., *Cell Reports Medicine* 2026). Generates Fourier-parameterized class visualizations (CVs) and layer-wise activation atlases (AAs) with t-SNE grid aggregation, and includes an interactive desktop GUI viewer and blinded pathologist annotation software — see dedicated tool note: [PathoActivationAtlas](pathoactivationatlas.md) and literature review [[Class visualizations and activation atlases for computational pathology]].
+
+- **GitHub:** [KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas) — MIT License (Captum components under BSD-3-Clause)
+- **Paper:** Gustav et al., *Cell Reports Medicine* 2026 ([DOI: 10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054))
+
+{% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
+
 ### [Celldega](https://github.com/broadinstitute/celldega)
 
 Open-source Python + JavaScript library from the Broad Institute (Platform Innovation Lab / Spatial Technology Platform) for scalable, interactive visualization and analysis of spatial-omics and single-cell data.
@@ -228,9 +247,13 @@ Ambient, real-time digitization and datafication platform for glass-slide micros
 
 ## In this section
 
+* [PathoActivationAtlas](pathoactivationatlas.md)
 * [NuClick](nuclick.md)
 * [CellQuant-Net](cellquant-net.md)
 * [RepLKNet](replknet.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
+* [M-Optimus](m-optimus.md)
+* [Celldega](celldega.md)
+* [HistoCAM](histocam.md)
 
 <!-- tolaria:children:end -->

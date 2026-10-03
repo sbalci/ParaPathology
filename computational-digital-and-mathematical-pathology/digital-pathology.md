@@ -188,6 +188,7 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 
 ## In this section
 
+* [Digital pathology evidence](digital-pathology-evidence.md)
 * [Dijital Patoloji'ye Dair](dijital-patolojiye-dair.md)
 * [About the Usage of Digital Pathology](about-the-usage-of-digital-pathology.md)
 * [Digital Pathology Software](digital-pathology-software.md)
