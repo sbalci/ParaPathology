@@ -18,6 +18,8 @@ This booklet will contain my notes on pathology and the tools I use for my resea
 
 The notes may be used by medical school students, pathology residents or pathologists who have similar interests with me.
 
+Start with [recent vault changes](recent-vault-changes.md), [vault categories](vault-categories.md), or [clippings](Clippings/README.md).
+
 I plan to write many of the notes in English (but some may be Turkish or German as well.)
 
 You may also comment on paragraphs on this page or make edit suggestions (fork) via GitHub.

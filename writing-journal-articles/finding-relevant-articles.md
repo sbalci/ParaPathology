@@ -10,6 +10,14 @@ belongs_to: "[[Writing Journal Articles]]"
 
 # Finding Relevant Articles
 
+* **NCBI Linked Discoveries**
+
+[[NCBI Linked Discoveries: Literature Exploration and Research Neighborhood Mapping]]
+
+[https://linkeddiscoveries.ncbi.nlm.nih.gov/](https://linkeddiscoveries.ncbi.nlm.nih.gov/) | [User Guide](https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/)
+
+An experimental National Library of Medicine (NLM/NIH) resource built into PubMed that maps semantic "neighborhoods" (50–200 articles) around a seed abstract using BiomedBERT embeddings. Overlays cross-database entity links to MedGen (conditions), NCBI Gene (genes), and PubChem (chemicals/drugs) with boolean filtering (Any/All), flags review and retracted articles, and visualizes directional citation networks in interactive Graph and Timeline views.
+
 * PubMed Journals
 
 [https://www.ncbi.nlm.nih.gov/labs/journals/](https://www.ncbi.nlm.nih.gov/labs/journals/)
