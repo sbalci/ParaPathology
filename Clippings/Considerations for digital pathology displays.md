@@ -38,6 +38,7 @@ related_to:
   - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
   - "[[Screening efficiency over experience: Rapid target detection in low-power field as a modifiable cognitive biomarker for diagnostic accuracy in digital cytology]]"
   - "[[Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis]]"
+hidden: true
 ---
 
 # Considerations for digital pathology displays

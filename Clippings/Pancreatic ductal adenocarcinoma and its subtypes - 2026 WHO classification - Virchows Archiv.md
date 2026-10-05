@@ -17,6 +17,7 @@ related_to:
   - "[[Pancreas]]"
   - "[[Tumor Classification]]"
   - "[[Carcinogenesis]]"
+hidden: true
 ---
 ## Summary
 

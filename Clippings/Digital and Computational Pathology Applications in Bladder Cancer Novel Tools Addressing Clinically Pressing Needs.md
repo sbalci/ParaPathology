@@ -14,6 +14,7 @@ tags:
   - Pathology
 order: 20
 belongs_to: "[[Clippings]]"
+hidden: true
 ---
 ## Summary
 

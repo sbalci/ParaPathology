@@ -28,6 +28,7 @@ related_to:
   - "[[Immunohistochemistry Quantification]]"
   - "[[The Gold Standard Paradox in Digital Image Analysis Manual Versus Automated Scoring as Ground Truth]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

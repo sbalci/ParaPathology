@@ -18,6 +18,14 @@ belongs_to: "[[Writing Journal Articles]]"
 
 [http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm\_source=feedburner&utm\_medium=twitter&utm\_campaign=Feed%3A+EmoryHealthNowBlog+\(Lab+Land\)](http://www.emoryhealthsciblog.com/a-push-for-reproducibility-in-biomedical-research/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EmoryHealthNowBlog+%28Lab+Land%29)
 
+### NCBI Linked Discoveries: Discovering Replication, Null Findings, and Scientific Context
+
+[NCBI Linked Discoveries: Literature Exploration and Research Neighborhood Mapping](../Clippings/NCBI%20Linked%20Discoveries%20-%20Literature%20Exploration%20and%20Research%20Neighborhood%20Mapping.md)
+
+[https://linkeddiscoveries.ncbi.nlm.nih.gov/](https://linkeddiscoveries.ncbi.nlm.nih.gov/)
+
+Developed by the National Library of Medicine (NLM/NIH) as a direct contribution to NIH replication and reproducibility initiatives. Confidence in science depends on how individual findings relate to the broader body of evidence; however, prominent or highly cited findings receive disproportionate attention while contradictory, null, or less-prominent replication studies remain obscured. Linked Discoveries builds a 50-to-200 article semantic neighborhood around a seed PubMed citation using BiomedBERT embeddings, highlighting shared conditions (MedGen), genes (NCBI Gene), and chemicals (PubChem) while explicitly flagging retracted articles (red nodes) and secondary reviews/guidelines (gold nodes) to reveal the true evidential landscape.
+
 ## Statcheck
 
 * Controversial software is proving surprisingly accurate at spotting errors in psychology papers

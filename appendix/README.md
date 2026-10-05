@@ -8,7 +8,7 @@ aliases:
 
 # Appendix
 
-General reference collections that support the whole vault rather than a single topic: courses and MOOCs, books, videos, software, web pages, GitHub repositories, and captured clippings awaiting synthesis into topic notes.
+General reference collections that support the whole vault rather than a single topic: courses and MOOCs, books, videos, software, web pages, and GitHub repositories. Captured articles and their digests have a separate [Clippings](../Clippings/README.md) chapter.
 
 <!-- tolaria:children:start -->
 
@@ -22,7 +22,6 @@ General reference collections that support the whole vault rather than a single 
 * [GitHub Repositories](github-repositories.md)
 * [Yazmayıp da beslese miydik](yazmayip-da-beslese-miydik.md)
 * [Deutsche Artikel](deutsche-artikel.md)
-* [Clippings](../Clippings/README.md)
 * [miscellaneous](miscellaneous.md)
 
 <!-- tolaria:children:end -->

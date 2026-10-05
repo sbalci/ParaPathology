@@ -41,6 +41,7 @@ related_to:
   - "[[Machine Learning]]"
   - "[[Image Analysis]]"
   - "[[Articles on computational, digital, and mathematical pathology]]"
+hidden: true
 ---
 # CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification
 

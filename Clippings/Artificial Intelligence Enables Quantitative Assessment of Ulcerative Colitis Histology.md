@@ -31,6 +31,7 @@ related_to:
   - "[[Gastrointestinal Pathology]]"
   - "[[A feasibility study using quantitative and interpretable histological analyses of celiac disease for automated cell type and tissue area classification]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

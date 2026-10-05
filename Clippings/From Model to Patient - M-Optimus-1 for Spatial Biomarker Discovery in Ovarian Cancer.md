@@ -36,6 +36,7 @@ related_to:
   - "[[Towards robust foundation models for digital pathology]]"
   - "[[The pathology report as a boundary object: From clinical communication to computational representation]]"
   - "[[Articles on computational, digital, and mathematical pathology]]"
+hidden: true
 ---
 
 # From Model to Patient: M-Optimus-1 for Spatial Biomarker Discovery in Ovarian Cancer

@@ -54,6 +54,7 @@ related_to:
   - "[[Image Analysis]]"
   - "[[Digital Pathology]]"
   - "[[digital-pathology-evidence]]"
+hidden: true
 ---
 
 # Clinical validation of an AI-based pathology tool for scoring of metabolic dysfunction-associated steatohepatitis

@@ -34,6 +34,7 @@ related_to:
   - "[[What AI Can and Cannot Do in Pathology]]"
   - "[[Digital Pathology]]"
   - "[[Quality And Standardisation]]"
+hidden: true
 ---
 
 # The pathology report as a boundary object: From clinical communication to computational representation

@@ -38,6 +38,7 @@ related_to:
   - "[[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]]"
   - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
   - "[[Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology]]"
+hidden: true
 ---
 
 # NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology

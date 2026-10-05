@@ -33,6 +33,7 @@ related_to:
   - "[[Diagnosis, accuracy, interobserver and intraobserver reliability]]"
   - "[[Artificial Intelligence Enables Quantitative Assessment of Ulcerative Colitis Histology]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

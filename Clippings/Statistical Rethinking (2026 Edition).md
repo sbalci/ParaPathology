@@ -27,6 +27,7 @@ related_to:
   - "[[Statistics and Bioinformatics Education]]"
   - "[[Statistics General]]"
   - "[[R-project]]"
+hidden: true
 ---
 # Statistical Rethinking (2026 Edition)
 

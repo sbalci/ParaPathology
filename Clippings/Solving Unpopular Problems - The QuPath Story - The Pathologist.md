@@ -17,6 +17,7 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

@@ -15,6 +15,7 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Celldega]]"
   - "[[HistoCAM]]"
+  - "[[TRIDENT]]"
 ---
 
 # Digital Pathology Software
@@ -116,6 +117,26 @@ Open-source PyTorch and Captum-based interpretability framework developed by the
 - **Paper:** Gustav et al., *Cell Reports Medicine* 2026 ([DOI: 10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054))
 
 {% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
+
+### [TRIDENT](https://github.com/mahmoodlab/trident)
+
+Industrial-grade, open-source Python toolkit developed by the Mahmood Lab (Harvard Medical School / Brigham and Women's Hospital) for large-scale whole-slide image processing, tissue segmentation, and feature extraction across 33+ patch encoders (UNI, CONCH, Virchow, GigaPath, H-Optimus) and 8+ slide encoders (TITAN, PRISM, GigaPath, CHIEF). Features deep neural segmentation (HEST, GrandQC), multi-GPU sharding, QuPath GeoJSON contour exports, asynchronous SSD caching, crash-resilient deadlock recovery, and integration with the 42-task Patho-Bench suite — see dedicated tool note: [TRIDENT](trident.md) and literature review [Accelerating Data Processing and Benchmarking of AI Models for Pathology](../Clippings/Accelerating%20Data%20Processing%20and%20Benchmarking%20of%20AI%20Models%20for%20Pathology.md).
+
+- **GitHub:** [mahmoodlab/TRIDENT](https://github.com/mahmoodlab/trident)
+- **Documentation:** [trident-docs.readthedocs.io](https://trident-docs.readthedocs.io/en/latest/)
+- **Paper:** Zhang et al., arXiv 2025 ([DOI: 10.48550/arXiv.2502.06750](https://doi.org/10.48550/arXiv.2502.06750))
+
+{% embed url="https://github.com/mahmoodlab/trident" %}
+
+### [STAMP](https://github.com/KatherLab/STAMP)
+
+Solid Tumor Associative Modeling in Pathology, an end-to-end weakly supervised deep learning pipeline developed by the Kather Lab (Else Kröner Fresenius Center for Digital Health, TU Dresden; RWTH Aachen; University Medical Center Mainz) for clinical biomarker prediction, multi-target classification, continuous regression, and survival analysis directly from whole-slide images. Features standardized preprocessing across 18+ foundation model extractors (UNI2, Virchow2, CONCH1.5, H-Optimus, CTransPath), patient-level virtual slide concatenation, slide contextualizers (TITAN, PRISM, GigaPath, COBRA2, EAGLE, MADELEINE, CHIEF), multiple MIL architectures (ViT, TransMIL, Barspoon), attention heatmaps, class maps, top/bottom predictive tile extraction, and native Model Context Protocol (FastMCP) server orchestration (`mcp/server.py`) paired with the [STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench) web UI — see dedicated tool note: [STAMP](stamp.md) and published protocol review [From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology](../Clippings/From%20whole-slide%20image%20to%20biomarker%20prediction%20-%20end-to-end%20weakly%20supervised%20deep%20learning%20in%20computational%20pathology.md).
+
+- **GitHub:** [KatherLab/STAMP](https://github.com/KatherLab/STAMP) — MIT License
+- **Workbench UI:** [KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench)
+- **Paper:** El Nahhas et al., *Nature Protocols* 20, 293–316 (2025) ([DOI: 10.1038/s41596-024-01047-2](https://doi.org/10.1038/s41596-024-01047-2), [PMID: 39285224](https://pubmed.ncbi.nlm.nih.gov/39285224/))
+
+{% embed url="https://github.com/KatherLab/STAMP" %}
 
 ### [Celldega](https://github.com/broadinstitute/celldega)
 
@@ -251,7 +272,9 @@ Ambient, real-time digitization and datafication platform for glass-slide micros
 * [NuClick](nuclick.md)
 * [CellQuant-Net](cellquant-net.md)
 * [RepLKNet](replknet.md)
+* [TRIDENT](trident.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
+* [STAMP](stamp.md)
 * [M-Optimus](m-optimus.md)
 * [Celldega](celldega.md)
 * [HistoCAM](histocam.md)
@@ -270,5 +293,6 @@ Ambient, real-time digitization and datafication platform for glass-slide micros
 * [HoVer-NeXt](hover-next.md)
 * [NuClick](nuclick.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
+* [TRIDENT](trident.md)
 
 <!-- tolaria:related:end -->

@@ -37,6 +37,7 @@ related_to:
   - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
   - "[[Considerations for digital pathology displays]]"
   - "[[HoVer-NeXt]]"
+hidden: true
 ---
 
 # HistoGen: Histopathology Cell Nuclei Image Generation Tool

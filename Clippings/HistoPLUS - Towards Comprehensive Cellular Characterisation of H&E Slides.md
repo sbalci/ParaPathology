@@ -53,6 +53,7 @@ related_to:
   - "[[Machine Learning]]"
   - "[[Image Analysis]]"
   - "[[Articles on computational, digital, and mathematical pathology]]"
+hidden: true
 ---
 
 # HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides

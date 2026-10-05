@@ -26,6 +26,7 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[Machine Learning]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 
 # Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis

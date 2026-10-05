@@ -38,6 +38,7 @@ related_to:
   - "[[Considerations for digital pathology displays]]"
   - "[[Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis]]"
   - "[[Towards robust foundation models for digital pathology]]"
+hidden: true
 ---
 
 # Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)

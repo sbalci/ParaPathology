@@ -34,6 +34,7 @@ related_to:
   - "[[Cognitive biases in AI-assisted medical decision making - A structured review as a primer for veterinary and human pathology]]"
   - "[[When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology]]"
   - "[[Pathology AI Integration_ A Systems View]]"
+hidden: true
 ---
 
 # Screening efficiency over experience: Rapid target detection in low-power field as a modifiable cognitive biomarker for diagnostic accuracy in digital cytology

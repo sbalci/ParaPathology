@@ -48,6 +48,7 @@ related_to:
   - "[[Tumor budding T-cell graphs for pT1 colorectal cancer]]"
   - "[[Digital Pathology]]"
   - "[[digital-pathology-evidence]]"
+hidden: true
 ---
 
 # Distance-based evaluation of tumor budding in colorectal cancer

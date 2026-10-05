@@ -32,6 +32,7 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour]]"
   - "[[What AI Can and Cannot Do in Pathology]]"
+hidden: true
 ---
 
 ## Summary

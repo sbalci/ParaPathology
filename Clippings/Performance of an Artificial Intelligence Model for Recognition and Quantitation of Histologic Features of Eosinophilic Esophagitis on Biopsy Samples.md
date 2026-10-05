@@ -38,6 +38,7 @@ related_to:
   - "[[Gastrointestinal Pathology]]"
   - "[[A Deep Learning Model of Histologic Tumor Differentiation as a Prognostic Tool in Hepatocellular Carcinoma]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

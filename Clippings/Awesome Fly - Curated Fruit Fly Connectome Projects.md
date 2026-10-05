@@ -28,6 +28,7 @@ related_to:
   - "[[GitHub Repositories]]"
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 
 # Awesome Fly: Curated Fruit Fly Connectome Projects

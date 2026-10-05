@@ -24,6 +24,7 @@ related_to:
   - "[[Distance-based evaluation of tumor budding in colorectal cancer]]"
   - "[[Digital Pathology]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 
 # Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016

@@ -22,6 +22,7 @@ related_to:
   - "[[Machine Learning]]"
   - "[[Image Analysis]]"
   - "[[Articles on computational, digital, and mathematical pathology]]"
+hidden: true
 ---
 # A Hybrid MIL Approach Leveraging Convolution and State-Space Model for Whole-Slide Image Cancer Subtyping
 

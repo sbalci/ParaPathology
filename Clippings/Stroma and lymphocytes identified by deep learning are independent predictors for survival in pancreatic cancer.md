@@ -38,6 +38,7 @@ related_to:
   - "[[Pancreas]]"
   - "[[Pancreatic ductal adenocarcinoma and its subtypes - 2026 WHO classification - Virchows Archiv]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

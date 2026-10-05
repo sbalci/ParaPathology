@@ -29,6 +29,7 @@ related_to:
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
   - "[[GitHub Repositories]]"
+hidden: true
 ---
 
 # Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images

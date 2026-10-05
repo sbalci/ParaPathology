@@ -33,6 +33,7 @@ related_to:
   - "[[Performance of an Artificial Intelligence Model for Recognition and Quantitation of Histologic Features of Eosinophilic Esophagitis on Biopsy Samples]]"
   - "[[Immunohistochemistry Quantification]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

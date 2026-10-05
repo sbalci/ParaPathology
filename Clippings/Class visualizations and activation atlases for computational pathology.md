@@ -42,6 +42,7 @@ related_to:
   - "[[A distributional robustness margin for pathology foundation models]]"
   - "[[What AI Can and Cannot Do in Pathology]]"
   - "[[PathoActivationAtlas]]"
+hidden: true
 ---
 
 # Class visualizations and activation atlases for computational pathology

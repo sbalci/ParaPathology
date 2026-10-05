@@ -39,6 +39,7 @@ related_to:
   - "[[The pathology report as a boundary object: From clinical communication to computational representation]]"
   - "[[What AI Can and Cannot Do in Pathology]]"
   - "[[Quality And Standardisation]]"
+hidden: true
 ---
 # Standardization in digital pathology: Supplement 145 of the DICOM standards
 

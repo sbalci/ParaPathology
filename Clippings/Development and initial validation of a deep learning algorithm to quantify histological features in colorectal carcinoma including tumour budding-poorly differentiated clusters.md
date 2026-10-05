@@ -25,6 +25,7 @@ related_to:
   - "[[Colon and Rectum]]"
   - "[[Tumor budding T-cell graphs for pT1 colorectal cancer]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

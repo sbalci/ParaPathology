@@ -39,6 +39,7 @@ related_to:
   - "[[When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology]]"
   - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
   - "[[The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth]]"
+hidden: true
 ---
 # Pangram: AI Content Detection Platform and Pangram 4 Classifier
 

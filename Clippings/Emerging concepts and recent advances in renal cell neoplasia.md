@@ -18,6 +18,7 @@ belongs_to: "[[Clippings]]"
 related_to:
   - "[[Uropathology]]"
   - "[[Renal Cell Neoplasia]]"
+hidden: true
 ---
 
 ## Summary

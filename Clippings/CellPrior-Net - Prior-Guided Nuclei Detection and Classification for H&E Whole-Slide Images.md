@@ -50,6 +50,7 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[Image Analysis]]"
   - "[[Machine Learning]]"
+hidden: true
 ---
 
 # CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images

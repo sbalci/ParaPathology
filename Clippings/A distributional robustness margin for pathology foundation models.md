@@ -23,6 +23,7 @@ related_to:
   - "[[Hugging Face Digital Pathology]]"
   - "[[Machine Learning]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 

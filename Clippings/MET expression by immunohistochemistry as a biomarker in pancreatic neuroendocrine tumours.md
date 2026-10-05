@@ -27,6 +27,7 @@ related_to:
   - "[[Pancreas]]"
   - "[[Endocrine Pathology]]"
   - "[[Comprehensive IHC Antibody Menu for a National Reference Pathology Laboratory]]"
+hidden: true
 ---
 ## Summary
 

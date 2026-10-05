@@ -36,6 +36,7 @@ related_to:
   - "[[HoVer-NeXt]]"
   - "[[HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides]]"
   - "[[Digital Pathology Software]]"
+hidden: true
 ---
 
 # Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs

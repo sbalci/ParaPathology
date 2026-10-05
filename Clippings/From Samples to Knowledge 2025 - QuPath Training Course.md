@@ -27,6 +27,7 @@ related_to:
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
   - "[[GitHub Repositories]]"
+hidden: true
 ---
 
 # From Samples to Knowledge 2025: QuPath Training Course

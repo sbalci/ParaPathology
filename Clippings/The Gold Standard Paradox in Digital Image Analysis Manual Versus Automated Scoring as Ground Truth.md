@@ -31,6 +31,7 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[About the Usage of Digital Pathology]]"
   - "[[What AI Can and Cannot Do in Pathology]]"
+hidden: true
 ---
 ## Summary
 

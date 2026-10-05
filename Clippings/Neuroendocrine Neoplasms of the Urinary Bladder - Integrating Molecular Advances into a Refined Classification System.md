@@ -19,6 +19,7 @@ related_to:
   - "[[Uropathology]]"
   - "[[Endocrine Pathology]]"
   - "[[Tumor Classification]]"
+hidden: true
 ---
 
 ## Summary

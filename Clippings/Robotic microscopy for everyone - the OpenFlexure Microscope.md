@@ -37,6 +37,7 @@ related_to:
   - "[[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]"
   - "[[Considerations for digital pathology displays]]"
   - "[[The pathology report as a boundary object: From clinical communication to computational representation]]"
+hidden: true
 ---
 # Robotic microscopy for everyone: the OpenFlexure Microscope
 

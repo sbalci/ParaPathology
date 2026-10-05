@@ -29,6 +29,7 @@ related_to:
   - "[[Cognitive Bias In AI Assisted Diagnosis]]"
   - "[[The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth]]"
   - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
+hidden: true
 ---
 
 # Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology

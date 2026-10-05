@@ -29,6 +29,7 @@ belongs_to: "[[Clippings]]"
 related_to:
   - "[[Digital Pathology]]"
   - "[[Artificial Neural Networks]]"
+hidden: true
 ---
 ## Summary
 

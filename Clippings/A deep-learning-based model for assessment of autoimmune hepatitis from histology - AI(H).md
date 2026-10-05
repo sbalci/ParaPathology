@@ -28,6 +28,7 @@ related_to:
   - "[[Liver Pathology]]"
   - "[[Approach to Liver Biopsies]]"
   - "[[Image Analysis]]"
+hidden: true
 ---
 ## Summary
 
