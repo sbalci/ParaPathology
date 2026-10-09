@@ -4,8 +4,6 @@ status: Developing
 language: en
 aliases:
   - "Clippings"
-order: 90
-belongs_to: "[[Appendix]]"
 ---
 
 # Clippings
@@ -24,6 +22,26 @@ Topic linkage and evidence appraisal are separate steps. **Clippings to Process*
 status and notes with unfinished reviews. [[ai-study-appraisal]] explains `review_status`,
 `last_reviewed`, source identifiers and how to record the scope of a partial check.
 
+## Featured digests
+
+### Methods
+
+- [[Clippings/hover-net-simultaneous-segmentation-and-classification-of-nuclei-in-multi-tissue-histology-images|HoVer-Net: nuclei segmentation and classification]]
+- [[Clippings/HERO - Histology Encoder for Robust Representation in Oncology|HERO: a histology foundation model]]
+- [[Clippings/From whole-slide image to biomarker prediction - end-to-end weakly supervised deep learning in computational pathology|Whole-slide biomarker prediction]]
+
+### Clinical evidence
+
+- [[Clippings/MET expression by immunohistochemistry as a biomarker in pancreatic neuroendocrine tumours|MET in pancreatic neuroendocrine tumours]]
+- [[Clippings/Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016|Reporting tumor budding (ITBCC)]]
+- [[Clippings/Clinical validation of an AI-based pathology tool for scoring of metabolic dysfunction-associated steatohepatitis|AI validation in steatohepatitis]]
+
+### Practice and quality
+
+- [[Clippings/reproducibility-of-the-methods-in-medical-imaging-with-deep-learning|Reproducibility in medical imaging AI]]
+- [[Clippings/Considerations for digital pathology displays|Digital pathology displays]]
+- [[Clippings/Solving Unpopular Problems - The QuPath Story - The Pathologist|The QuPath story]]
+
 <!-- tolaria:children:start -->
 
 ## In this section
@@ -37,8 +55,14 @@ status and notes with unfinished reviews. [[ai-study-appraisal]] explains `revie
 * [Neuroendocrine Neoplasms of the Urinary Bladder: Integrating Molecular Advances into a Refined Classification System](Neuroendocrine%20Neoplasms%20of%20the%20Urinary%20Bladder%20-%20Integrating%20Molecular%20Advances%20into%20a%20Refined%20Classification%20System.md)
 * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
 * [Seeds or Parasites Clinical and Histopathological](Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
+* [HoVer-Net: Simultaneous segmentation and classification of nuclei in multi-tissue histology images](hover-net-simultaneous-segmentation-and-classification-of-nuclei-in-multi-tissue-histology-images.md)
+* [Reproducibility of the Methods in Medical Imaging with Deep Learning](reproducibility-of-the-methods-in-medical-imaging-with-deep-learning.md)
 * [Solving Unpopular Problems: The QuPath Story](Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
+* [HERO: Histology Encoder for Robust Representation in Oncology](HERO%20-%20Histology%20Encoder%20for%20Robust%20Representation%20in%20Oncology.md)
+* [Accelerating Data Processing and Benchmarking of AI Models for Pathology](Accelerating%20Data%20Processing%20and%20Benchmarking%20of%20AI%20Models%20for%20Pathology.md)
 * [Distance-based evaluation of tumor budding in colorectal cancer](Distance-based%20evaluation%20of%20tumor%20budding%20in%20colorectal%20cancer.md)
+* [From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology](From%20whole-slide%20image%20to%20biomarker%20prediction%20-%20end-to-end%20weakly%20supervised%20deep%20learning%20in%20computational%20pathology.md)
+* [NCBI Linked Discoveries: Literature Exploration and Research Neighborhood Mapping](NCBI%20Linked%20Discoveries%20-%20Literature%20Exploration%20and%20Research%20Neighborhood%20Mapping.md)
 * [Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor Budding Consensus Conference (ITBCC) 2016](Recommendations%20for%20reporting%20tumor%20budding%20in%20colorectal%20cancer%20based%20on%20the%20International%20Tumor%20Budding%20Consensus%20Conference%20%28ITBCC%29%202016.md)
 * [Towards robust foundation models for digital pathology](Towards%20robust%20foundation%20models%20for%20digital%20pathology.md)
 * [A distributional robustness margin for pathology foundation models](A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md)

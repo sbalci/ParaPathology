@@ -20,6 +20,23 @@
       ]
     },
     {
+      "title": "Recent Vault Changes",
+      "lead": "recent-vault-changes.md",
+      "externals": []
+    },
+    {
+      "title": "Vault Categories",
+      "lead": "vault-categories.md",
+      "nest_children": true,
+      "externals": []
+    },
+    {
+      "title": "Clippings",
+      "lead": "Clippings/README.md",
+      "index_only": true,
+      "externals": []
+    },
+    {
       "title": "Medical School Lectures",
       "lead": "medical-school-lectures/README.md",
       "externals": []

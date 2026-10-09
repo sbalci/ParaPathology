@@ -15,9 +15,38 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Celldega]]"
   - "[[HistoCAM]]"
+  - "[[TRIDENT]]"
 ---
 
 # Digital Pathology Software
+
+## Choose by the job
+
+This is a research and learning shortlist, based on the tools' documented roles. Start by testing representative local files and a small pilot; the right choice depends on image formats, annotations, output, deployment, and support needs.
+
+| Task | Starting point | Check before adopting |
+| --- | --- | --- |
+| View, annotate, and quantify whole slides on a desktop | [QuPath](https://qupath.readthedocs.io/en/stable/docs/intro/about.html) | Actual scanner-file support, pixel calibration, extension compatibility, and export needs; QuPath's documentation says it is not intended for clinical, diagnostic, or therapeutic purposes |
+| Process scientific images or extracted slide regions with plugins and macros | [Fiji / ImageJ](https://imagej.net/software/fiji/) | Memory and image-size limits depend on the reader and plugins; test regions or downsampled images before attempting a full WSI |
+| Read image regions and pyramid levels from code | [OpenSlide](https://openslide.org/) | A reading library, not a complete annotation or analysis platform; check the supported format and representative files |
+| Manage a shared web-based slide collection with viewing and annotation | [Digital Slide Archive](https://digitalslidearchive.github.io/digital_slide_archive/) | Server deployment, access controls, storage, maintenance, and the HistomicsUI/HistomicsTK workflow |
+| Organise collaborative annotations and image-analysis projects in a browser | [Cytomine](https://doc.uliege.cytomine.org/) | An administered instance, project permissions, labels, and algorithm integration; see the [local tool note](cytomine.md) |
+
+For QuPath, begin with its [first steps](https://qupath.readthedocs.io/en/stable/docs/starting/first_steps.html) and [file-format guidance](https://qupath.readthedocs.io/en/stable/docs/intro/formats.html). Fiji's [image-size FAQ](https://imagej.net/learn/faq) and QuPath's [ImageJ exchange guide](https://qupath.readthedocs.io/en/stable/docs/advanced/imagej.html) explain why opening an extracted region can be more practical than loading a whole slide. For infrastructure work, use the [DSA deployment documentation](https://github.com/DigitalSlideArchive/digital_slide_archive/blob/master/devops/dsa/README.rst) or [Cytomine installation guide](https://doc.uliege.cytomine.org/admin-guide/docker/installation).
+
+### A small adoption checklist
+
+- **Input:** Test your scanner, file variant, stain/channels, resolution levels, and calibration metadata. A supported extension does not guarantee every file variant works.
+- **Output:** Decide whether you need an image, annotation geometry, per-cell measurements, a slide-level table, or a model prediction. Check coordinate systems and units when moving results between tools.
+- **Reproducibility:** Record the application, extensions, model/checkpoint, settings, and export format; reopen the saved project and repeat a small analysis.
+- **Operations:** Identify who maintains a shared service, manages access and backups, and handles failures. Use approved storage and sharing routes for patient-derived images.
+- **License and intended use:** Check the exact release's code license, plus separate model-weight, dataset, and dependency terms. A code license does not establish diagnostic authorization or permission to redistribute images.
+
+These selection questions are editorial guidance, not a product certification or comparative benchmark. Continue with the [image-analysis pilot](image-analysis.md) for measurements, or the [usage and validation guide](about-the-usage-of-digital-pathology.md) for a diagnostic service.
+
+**Source check:** 1 October 2026, for this chooser and its official documentation. The specialist catalog below retains earlier research summaries; versions, performance claims, and availability need checking in their original context before adoption.
+
+## Specialist tools and collected notes
 
 ### [Cytario](https://www.cytario.com)
 
@@ -117,9 +146,31 @@ Open-source PyTorch and Captum-based interpretability framework developed by the
 
 {% embed url="https://github.com/KatherLab/PathoActivationAtlas" %}
 
+### [TRIDENT](https://github.com/mahmoodlab/trident)
+
+Industrial-grade, open-source Python toolkit developed by the Mahmood Lab (Harvard Medical School / Brigham and Women's Hospital) for large-scale whole-slide image processing, tissue segmentation, and feature extraction across 33+ patch encoders (UNI, CONCH, Virchow, GigaPath, H-Optimus) and 8+ slide encoders (TITAN, PRISM, GigaPath, CHIEF). Features deep neural segmentation (HEST, GrandQC), multi-GPU sharding, QuPath GeoJSON contour exports, asynchronous SSD caching, crash-resilient deadlock recovery, and integration with the 42-task Patho-Bench suite — see dedicated tool note: [TRIDENT](trident.md) and literature review [[Accelerating Data Processing and Benchmarking of AI Models for Pathology]].
+
+- **GitHub:** [mahmoodlab/TRIDENT](https://github.com/mahmoodlab/trident)
+- **Documentation:** [trident-docs.readthedocs.io](https://trident-docs.readthedocs.io/en/latest/)
+- **Paper:** Zhang et al., arXiv 2025 ([DOI: 10.48550/arXiv.2502.06750](https://doi.org/10.48550/arXiv.2502.06750))
+
+{% embed url="https://github.com/mahmoodlab/trident" %}
+
+### [STAMP](https://github.com/KatherLab/STAMP)
+
+Solid Tumor Associative Modeling in Pathology, an end-to-end weakly supervised deep learning pipeline developed by the Kather Lab (Else Kröner Fresenius Center for Digital Health, TU Dresden; RWTH Aachen; University Medical Center Mainz) for clinical biomarker prediction, multi-target classification, continuous regression, and survival analysis directly from whole-slide images. Features standardized preprocessing across 18+ foundation model extractors (UNI2, Virchow2, CONCH1.5, H-Optimus, CTransPath), patient-level virtual slide concatenation, slide contextualizers (TITAN, PRISM, GigaPath, COBRA2, EAGLE, MADELEINE, CHIEF), multiple MIL architectures (ViT, TransMIL, Barspoon), attention heatmaps, class maps, top/bottom predictive tile extraction, and native Model Context Protocol (FastMCP) server orchestration (`mcp/server.py`) paired with the [STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench) web UI — see dedicated tool note: [STAMP](stamp.md) and published protocol review [[From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology]].
+
+- **GitHub:** [KatherLab/STAMP](https://github.com/KatherLab/STAMP) — MIT License
+- **Workbench UI:** [KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench)
+- **Paper:** El Nahhas et al., *Nature Protocols* 20, 293–316 (2025) ([DOI: 10.1038/s41596-024-01047-2](https://doi.org/10.1038/s41596-024-01047-2), [PMID: 39285224](https://pubmed.ncbi.nlm.nih.gov/39285224/))
+
+{% embed url="https://github.com/KatherLab/STAMP" %}
+
 ### [Celldega](https://github.com/broadinstitute/celldega)
 
-Open-source Python + JavaScript library from the Broad Institute (Platform Innovation Lab / Spatial Technology Platform) for scalable, interactive visualization and analysis of spatial-omics and single-cell data.
+Source-available Python + JavaScript toolkit from the Broad Institute for interactive exploration of spatial-omics and single-cell data in notebooks and web browsers. See the dedicated [Celldega note](celldega.md).
+
+**License checked 1 October 2026:** [Broad Institute Academic Software License](https://github.com/broadinstitute/celldega/blob/726b57cfeff1a0e70b06b91b079bd592b91daeca/LICENSE.txt), at upstream commit `726b57c`. The grant is for specified educational and academic-research uses by academic/nonprofit researchers; commercial entities are directed to Broad for licensing. Do not infer permissive reuse from the availability of the source code.
 
 **Paper:** Fernandez N, Ishar J, Wang H, Ben Saad A, Lipinski M, Farhi SL. *Celldega: Integrated Toolkit for Visualization and Analysis of Spatial Data.* bioRxiv preprint, posted 2026-08-21 (DOI: 10.64898/2026.08.13.744672).
 
@@ -218,18 +269,6 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 
 {% embed url="https://github.com/saramcardle/FS2K" %}
 
-### [Celldega](https://broadinstitute.github.io/celldega/)
-
-High-throughput client-side spatial omics and multiplexed digital pathology visualization platform developed by the Broad Institute (Fernandez et al., *bioRxiv* 2026). Streams billion-transcript datasets directly in the browser via `parquet-wasm` and Apache Arrow using **DegaFiles** (GeoParquet indexed by spatial row groups) with GPU-accelerated deck.gl multi-layer rendering — see dedicated tool note: [Celldega](celldega.md).
-
-- **Documentation & Viewer:** [broadinstitute.github.io/celldega](https://broadinstitute.github.io/celldega/)
-- **GitHub:** [broadinstitute/celldega](https://github.com/broadinstitute/celldega) — BSD-3-Clause
-- **Preprint:** [bioRxiv (DOI: 10.64898/2026.08.13.744672v2)](https://doi.org/10.64898/2026.08.13.744672v2)
-- **Interactive Notebook Demo:** [marimo interactive notebook on molab](https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18)
-
-{% embed url="https://github.com/broadinstitute/celldega" %}
-
-{% embed url="https://broadinstitute.github.io/celldega/" %}
 
 ### [HistoCAM](https://github.com/cooopermaira/HistoCAM_Nature_Communications)
 
@@ -251,7 +290,9 @@ Ambient, real-time digitization and datafication platform for glass-slide micros
 * [NuClick](nuclick.md)
 * [CellQuant-Net](cellquant-net.md)
 * [RepLKNet](replknet.md)
+* [TRIDENT](trident.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
+* [STAMP](stamp.md)
 * [M-Optimus](m-optimus.md)
 * [Celldega](celldega.md)
 * [HistoCAM](histocam.md)

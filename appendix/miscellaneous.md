@@ -13,6 +13,20 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[NCBI Linked Discoveries: Literature Exploration and Research Neighborhood Mapping]]
+NCBI Linked Discoveries [https://linkeddiscoveries.ncbi.nlm.nih.gov/](https://linkeddiscoveries.ncbi.nlm.nih.gov/) [https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/](https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/)
+
+[[STAMP]]
+[[From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology]]
+STAMP: Solid Tumor Associative Modeling in Pathology [https://pubmed.ncbi.nlm.nih.gov/39285224/](https://pubmed.ncbi.nlm.nih.gov/39285224/) [https://github.com/KatherLab/STAMP](https://github.com/KatherLab/STAMP) [https://doi.org/10.1038/s41596-024-01047-2](https://doi.org/10.1038/s41596-024-01047-2) [https://github.com/KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench)
+
+[[TRIDENT]]
+[[Accelerating Data Processing and Benchmarking of AI Models for Pathology]]
+TRIDENT: Toolkit for Large-Scale Whole-Slide Image Processing [https://github.com/mahmoodlab/trident](https://github.com/mahmoodlab/trident) [https://arxiv.org/abs/2502.06750](https://arxiv.org/abs/2502.06750) [https://github.com/mahmoodlab/patho-bench](https://github.com/mahmoodlab/patho-bench) [https://trident-docs.readthedocs.io/en/latest/](https://trident-docs.readthedocs.io/en/latest/)
+
+[[HERO: Histology Encoder for Robust Representation in Oncology]]
+HERO: Histology Encoder for Robust Representation in Oncology [https://arxiv.org/abs/2609.35943](https://arxiv.org/abs/2609.35943) [https://doi.org/10.48550/arXiv.2609.35943](https://doi.org/10.48550/arXiv.2609.35943)
+
 [[Standardization in digital pathology: Supplement 145 of the DICOM standards]]
 Standardization in digital pathology: Supplement 145 of the DICOM standards [https://pubmed.ncbi.nlm.nih.gov/21633489/](https://pubmed.ncbi.nlm.nih.gov/21633489/) [https://www.sciencedirect.com/science/article/pii/S2153353922001997](https://www.sciencedirect.com/science/article/pii/S2153353922001997) [https://doi.org/10.4103/2153-3539.80719](https://doi.org/10.4103/2153-3539.80719) [https://pmc.ncbi.nlm.nih.gov/articles/PMC3097525/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3097525/)
 
@@ -811,6 +825,7 @@ A deep-learning framework to predict cancer treatment response from histopatholo
 
 [https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)
 
+[[TRIDENT]]
 [https://github.com/mahmoodlab/trident](https://github.com/mahmoodlab/trident)
 
 [https://github.com/mahmoodlab/patho-bench](https://github.com/mahmoodlab/patho-bench)
@@ -821,6 +836,7 @@ A deep-learning framework to predict cancer treatment response from histopatholo
 
 [https://github.com/mahmoodlab/TITAN](https://github.com/mahmoodlab/TITAN)
 
+[[Accelerating Data Processing and Benchmarking of AI Models for Pathology]]
 Accelerating Data Processing and Benchmarking of AI Models for Pathology [https://arxiv.org/abs/2502.06750](https://arxiv.org/abs/2502.06750)
 
 [https://agentlaboratory.github.io/](https://agentlaboratory.github.io/)

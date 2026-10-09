@@ -8,7 +8,9 @@ The navigation contract:
   - Top-level book parts and their lead notes live in tools/summary-parts.json,
     together with the preface and any external links.
   - Children of a part's lead note render flat at level 1 (the classic look);
-    children of any other note nest beneath it.
+    `nest_children` puts a part's children beneath its lead instead.
+  - `index_only` keeps a part's children in SUMMARY.md and in the book, but
+    hides their GitBook sidebar entries and suppresses the lead's full child list.
 
 The link contract: notes link to each other only with [[wikilinks]] whose
 target is the note's vault-relative path without `.md` ([[folder/file]]), the
@@ -32,7 +34,7 @@ Modes:
                                                       from CI; close Tolaria)
   python tools/generate_summary.py publish --out DIR  build the GitBook copy
                                                       into an empty DIR outside
-                                                      the vault
+                                                      the vault or under build/
   python tools/generate_summary.py graph --out FILE.json [--llms URL|FILE]
                                                       export nodes and typed
                                                       edges for visualisation
@@ -42,6 +44,7 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -69,6 +72,9 @@ CHILD_START = "<!-- tolaria:children:start -->"
 CHILD_END = "<!-- tolaria:children:end -->"
 RELATED_START = "<!-- tolaria:related:start -->"
 RELATED_END = "<!-- tolaria:related:end -->"
+UPDATES_START = "<!-- tolaria:updates:start -->"
+UPDATES_END = "<!-- tolaria:updates:end -->"
+UPDATES_PAGE = "recent-vault-changes.md"
 
 
 class Note(object):
@@ -768,7 +774,7 @@ def build_summary(notes, idx, warn=True):
             out.append("* [%s](%s)" % (ex["text"], ex["url"]))
         for c in kids.get(lead, []):
             if published(notes[c]):
-                emit(c, 1)
+                emit(c, 2 if p.get("nest_children") else 1)
     if warn:
         stray = [r for r, n in notes.items() if published(n) and r not in placed]
         for r in sorted(stray):
@@ -1023,7 +1029,7 @@ def _render_mdlinks(src_rel, text, notes, live, stats):
     return "".join(out)
 
 
-def render_for_gitbook(src_rel, n, notes, idx, live, kids, stats):
+def render_for_gitbook(src_rel, n, notes, idx, live, kids, stats, index_only_leads=()):
     """GitBook-safe text for one note: links resolved, generated blocks fresh."""
     eol = n.eol
 
@@ -1034,7 +1040,10 @@ def render_for_gitbook(src_rel, n, notes, idx, live, kids, stats):
     text = n.head + body
 
     clist = [c for c in kids.get(src_rel, []) if c in live]
-    if clist:
+    if src_rel in index_only_leads:
+        if has_block(text, CHILD_START):
+            text = remove_block(text, CHILD_START, CHILD_END)
+    elif clist:
         new, status = apply_block(text, CHILD_START, CHILD_END,
                                   children_block(notes, src_rel, clist, "markdown"), eol)
         if status == "broken":
@@ -1074,28 +1083,121 @@ def _write(path, text):
         fh.write(text.encode("utf-8"))
 
 
+def _git(repo, *args):
+    try:
+        result = subprocess.run(["git", "-C", repo, "-c", "safe.directory=" + repo,
+                                 "-c", "core.quotepath=false", *args],
+                                capture_output=True, text=True, encoding="utf-8", errors="replace")
+    except OSError:
+        return None
+    return result.stdout if result.returncode == 0 else None
+
+
+def _meaningful_body(n):
+    body = n.body
+    for start, end in ((CHILD_START, CHILD_END), (RELATED_START, RELATED_END)):
+        body = remove_block(body, start, end)
+    return body.replace("\r\n", "\n").strip()
+
+
+def recent_changes(notes, live, repo=VAULT, limit=20):
+    """Latest substantive Git changes to notes in the current public book."""
+    history = _git(repo, "log", "--no-merges", "--format=@@%H%x09%cs",
+                   "--name-only", "--diff-filter=AMR")
+    if history is None:
+        return None
+    changes, seen, commit, date = [], set(), None, None
+    for line in history.splitlines():
+        if line.startswith("@@"):
+            commit, date = line[2:].split("\t", 1)
+            continue
+        rel = line.strip().replace("\\", "/")
+        if not rel.endswith(".md") or rel not in live or rel == UPDATES_PAGE or rel in seen:
+            continue
+        current_text = _git(repo, "show", "%s:%s" % (commit, rel))
+        if current_text is None:
+            continue
+        current = Note(rel, current_text)
+        if not published(current):
+            continue
+        previous_text = _git(repo, "show", "%s^:%s" % (commit, rel))
+        previous = Note(rel, previous_text) if previous_text is not None else None
+        if previous is None or not published(previous):
+            kind = "Added"
+        elif current.h1 != previous.h1 or _meaningful_body(current) != _meaningful_body(previous):
+            kind = "Updated"
+        else:
+            continue
+        seen.add(rel)
+        changes.append((date, kind, rel))
+        if len(changes) == limit:
+            break
+    return changes
+
+
+def updates_block(changes, notes):
+    if changes is None:
+        message = "Recent change history is unavailable in this build."
+        return [UPDATES_START, "", message, "", UPDATES_END]
+    if not changes:
+        message = "No published note changes are available yet."
+        return [UPDATES_START, "", message, "", UPDATES_END]
+    items = ["- **%s · %s** — [%s](%s)" %
+             (date, kind, md_text(notes[rel].h1), link_href(UPDATES_PAGE, rel))
+             for date, kind, rel in changes]
+    return [UPDATES_START, "", "## Latest additions and revisions", ""] + items + ["", UPDATES_END]
+
+
+def gitbook_hidden(text):
+    """Set GitBook's sidebar visibility in the disposable published copy."""
+    n = Note("", text)
+    if n.fm_close is None:
+        return "---\nhidden: true\n---\n\n" + text
+    n.replace_keys({"hidden"}, ["hidden: true"])
+    return n.text
+
+
 def cmd_publish(notes, idx, out):
     if not out:
         print("publish: --out DIR is required"); return 2
-    if _inside(out, VAULT):
+    preview_root = os.path.join(VAULT, "build")
+    if _inside(out, VAULT) and (not _inside(out, preview_root) or
+                                os.path.realpath(out) == os.path.realpath(preview_root)):
         print("publish: refusing to write inside the vault:", out); return 2
     if os.path.exists(out) and (not os.path.isdir(out) or os.listdir(out)):
         print("publish: output directory must be empty or absent:", out); return 2
     os.makedirs(out, exist_ok=True)
     lines, live = build_summary(notes, idx)
     kids = children_map(notes, idx)
+    cfg = json.load(open(CONFIG, encoding="utf-8"))
+    index_only_leads = {p["lead"] for p in cfg["parts"] if p.get("index_only")}
+    hidden_pages = set()
+    pending = list(index_only_leads)
+    while pending:
+        children = [c for c in kids.get(pending.pop(), []) if c in live]
+        hidden_pages.update(children)
+        pending.extend(children)
+    changes = recent_changes(notes, live) if UPDATES_PAGE in live else []
     stats = Stats()
     _write(os.path.join(out, "SUMMARY.md"), "\n".join(lines) + "\n")
 
     assets = set()
     for rel in sorted(live):
         n = notes[rel]
-        page = render_for_gitbook(rel, n, notes, idx, live, kids, stats)
+        page = render_for_gitbook(rel, n, notes, idx, live, kids, stats, index_only_leads)
+        if rel == UPDATES_PAGE:
+            page, status = apply_block(page, UPDATES_START, UPDATES_END,
+                                       updates_block(changes, notes), n.eol)
+            if status == "broken":
+                print("WARN publish: unbalanced updates markers:", rel)
+        if rel in hidden_pages:
+            page = gitbook_hidden(page)
         _write(os.path.join(out, rel), page)
         assets |= _local_files(rel, page)
     with open(os.path.join(VAULT, "README.md"), "rb") as fh:
         readme = Note("README.md", fh.read().decode("utf-8"))
-    page = render_for_gitbook("README.md", readme, notes, idx, live, kids, stats)
+    page = render_for_gitbook("README.md", readme, notes, idx, live, kids, stats,
+                              index_only_leads)
     _write(os.path.join(out, "README.md"), page)
     assets |= _local_files("README.md", page)
 

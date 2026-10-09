@@ -8,21 +8,50 @@ order: 10
 ---
 # Digital Pathology
 
-Whole-slide imaging and everything it enables: scanners and viewers, image analysis, AI-assisted diagnosis, and telepathology. This hub collects the vendors, platforms, talks, and articles that map the field; the software itself is catalogued in [Digital Pathology Software](digital-pathology-software.md) and analysis methods in [Image Analysis](image-analysis.md), with the machine-learning foundations in [Machine Learning](../statistics-and-bioinformatics/machine-learning/README.md).
+Whole-slide imaging (WSI) connects the glass slide to viewing, annotation, quantitative analysis, remote consultation, and computational pathology. This section brings together practical starting points, research tools, and collected reading. The original English and Turkish notes remain below.
 
 For a focused reading set on robustness, reader effects, quantitative histology, and validation, start with [[digital-pathology-evidence]]. Use [[ai-study-appraisal]] to distinguish what a paper reports from what its design supports.
 
-{% embed url="[https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s](https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s)" %}
+## Start with the task
+
+| I want to… | Start here | What to take away |
+| --- | --- | --- |
+| Plan a diagnostic WSI service | [About the Usage of Digital Pathology](about-the-usage-of-digital-pathology.md) | Intended use, local validation, quality checks, and a fallback plan |
+| Choose a viewer or analysis tool | [Digital Pathology Software](digital-pathology-software.md) | A task-based shortlist and questions to test with local images |
+| Measure cells, staining, or tissue regions | [Image Analysis](image-analysis.md) | A reproducible pilot from image QC to an auditable results table |
+| Review slides remotely | [Telepathology](telepathology.md) | Remote-review approaches; also read the diagnostic workflow checklist |
+| Evaluate an AI method | [Hugging Face Digital Pathology](hugging-face-digital-pathology.md), [CRoMa](croma.md), and [Machine Learning](../statistics-and-bioinformatics/machine-learning/README.md) | Model resources and evaluation context, followed by task-specific testing |
+| Browse papers or Turkish notes | [Articles](articles-on-computational-digital-and-mathematical-pathology.md) and [Dijital Patoloji'ye Dair](dijital-patolojiye-dair.md) | The wider reading collection |
+
+## Follow the image through the workflow
+
+1. **Define the use.** Teaching, research measurement, consultation, and primary diagnosis have different users, outputs, and evidence needs.
+2. **Prepare and identify the slide.** Keep the connection between case, specimen, glass slide, and image unambiguous.
+3. **Scan and inspect.** Check tissue coverage and focus before treating an image as suitable for its intended task.
+4. **View or analyse.** Preserve the original image, record settings and annotations, and inspect failures as well as successful examples.
+5. **Review, store, and retrieve.** Plan access, traceability, backups, and what happens when the digital route fails.
+
+These are planning prompts, not a laboratory standard operating procedure. The [usage guide](about-the-usage-of-digital-pathology.md) separates published validation recommendations from the local decisions needed to put a service into use.
+
+## Read the evidence in context
+
+A viewer opening a file, an algorithm producing a score, and a system being suitable for a diagnostic task are different questions. When reading a tool or paper note, record the tissue and stain, intended users, test population, comparator, software/model version, and limitations. A research benchmark alone does not establish performance in a new laboratory or clinical workflow; the [CAP validation guidance](https://www.cap.org/cap-guidelines/validating-whole-slide-imaging-for-diagnostic-purposes-in-pathology/) is a useful starting point for diagnostic WSI.
+
+The practical guides linked above contain source-check dates with a stated scope. The collected resources below include older personal notes, talks, and vendor links; their presence is not a claim of current availability or clinical suitability.
+
+## Collected resources and earlier notes
+
+{% embed url="https://www.youtube.com/watch?v=mD3FkPwp2Y4&t=2312s" %}
 
 #### [5 Ways to Make Histopathology Image Models More Robust to Domain Shifts: Exploring a variety of approaches: stain normalization, color augmentation, adversarial domain adaptation, model adaptation, and finetuning](https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html)
 
-{% embed url="[https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html](https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html)" %}
+{% embed url="https://pixelscientia.com/article-5-ways-to-make-histopathology-image-models-more-robust-to-domain-shifts.html" %}
 
 #### [CRoMa: an interactive robustness leaderboard for pathology foundation models](https://clemsgrs.github.io/croma/)
 
 Per-sample robustness distributions, Pareto frontiers and shortcut-susceptibility results for 25 pathology encoders across four multi-centre cohorts. Evaluated in [CRoMa](croma.md).
 
-{% embed url="[https://clemsgrs.github.io/croma/](https://clemsgrs.github.io/croma/)" %}
+{% embed url="https://clemsgrs.github.io/croma/" %}
 
 #### **Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis**
 
@@ -30,21 +59,19 @@ Per-sample robustness distributions, Pareto frontiers and shortcut-susceptibilit
 
 #### [Microvisioneer](http://www.microvisioneer.com/)
 
-{% embed url="[http://www.microvisioneer.com/](http://www.microvisioneer.com/)" %}
+{% embed url="http://www.microvisioneer.com/" %}
 
-{% embed url="[https://www.facebook.com/serdarbalcimd/posts/10154699447595679](https://www.facebook.com/serdarbalcimd/posts/10154699447595679)" %}
+{% embed url="https://www.facebook.com/serdarbalcimd/posts/10154699447595679" %}
 
 #### [Argenit](https://argenit.com.tr/)
 
-{% embed url="[https://argenit.com.tr/](https://argenit.com.tr/)" %}
+{% embed url="https://argenit.com.tr/" %}
 
-{% embed url="[https://twitter.com/argenitt/status/814824189345624064](https://twitter.com/argenitt/status/814824189345624064)" %}
+{% embed url="https://twitter.com/argenitt/status/814824189345624064" %}
 
 #### [X-WOW](https://www.x-wow.com/product-page/wsi)
 
-{% embed url="[https://www.x-wow.com/product-page/wsi](https://www.x-wow.com/product-page/wsi)" %}
-
-###
+{% embed url="https://www.x-wow.com/product-page/wsi" %}
 
 #### QuPath
 
@@ -58,9 +85,11 @@ QuPath'ın validasyonu kolon tümörlerinde CD3, CD8, p53 ve PD-L1 skorlaması y
 > 
 > doi:10.1038/s41598-017-17204-5](https://www.nature.com/articles/s41598-017-17204-5)
 
-QuPath'ın oldukça iyi eğitim dökümanları var:
+2017 makalesi araştırma uygulamalarını gösterir; QuPath'ın sonraki her sürümünü, her testi veya tanısal iş akışını valide etmez.
 
-[https://github.com/qupath/qupath/wiki](https://github.com/qupath/qupath/wiki)
+QuPath'ın güncel eğitim dokümanları:
+
+[QuPath documentation](https://qupath.readthedocs.io/en/stable/)
 
 Makaledeki videolar şunlar:
 
@@ -165,24 +194,8 @@ Arch Pathol Lab Med. 2017 May 30. PMID: 28557614 DOI: [10.5858/arpa.2016-0386-RA
 
 ---
 
-{% embed url="[https://www.youtube.com/watch?v=zNRxF-TqUnI](https://www.youtube.com/watch?v=zNRxF-TqUnI)" %}
+{% embed url="https://www.youtube.com/watch?v=zNRxF-TqUnI" %}
 
-## In this section
-
-- [Dijital Patoloji'ye Dair](dijital-patolojiye-dair.md)
-- [About the Usage of Digital Pathology](about-the-usage-of-digital-pathology.md)
-- [Digital Pathology Software](digital-pathology-software.md)
-- [Analysis](analysis.md)
-- [Telepathology](telepathology.md)
-- [Cytomine](cytomine.md)
-- [Openmicroscopy](openmicroscopy.md)
-- [Articles on computational, digital, and mathematical pathology](articles-on-computational-digital-and-mathematical-pathology.md)
-- [Mathematical Pathology](mathematical-pathology.md)
-- [Image Analysis](image-analysis.md)
-- [Hugging Face Digital Pathology](hugging-face-digital-pathology.md)
-- [WSInfer](wsinfer.md)
-- [CRoMa](croma.md)
-- [HoVer-NeXt](hover-next.md)
 
 <!-- tolaria:children:start -->
 
