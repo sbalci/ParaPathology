@@ -85,7 +85,7 @@ QuPath'ın validasyonu kolon tümörlerinde CD3, CD8, p53 ve PD-L1 skorlaması y
 > 
 > doi:10.1038/s41598-017-17204-5](https://www.nature.com/articles/s41598-017-17204-5)
 
-The 2017 paper demonstrates research applications; it does not validate every later QuPath version, assay, or diagnostic workflow.
+2017 makalesi araştırma uygulamalarını gösterir; QuPath'ın sonraki her sürümünü, her testi veya tanısal iş akışını valide etmez.
 
 QuPath'ın güncel eğitim dokümanları:
 

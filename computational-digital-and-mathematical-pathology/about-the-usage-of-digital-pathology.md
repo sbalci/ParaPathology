@@ -57,7 +57,7 @@ Before sharing research or teaching images, inspect metadata, filenames, associa
 
 ## Foundational reading
 
-- **Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases (Pivotal Study).** [Publication](https://pubmed.ncbi.nlm.nih.gov/28961557/). Read its study population, exclusions, system, comparator, and endpoints before applying its findings to another setting.
+- **Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases (Pivotal Study).** *American Journal of Surgical Pathology* (2018). [DOI: 10.1097/PAS.0000000000000948](https://doi.org/10.1097/PAS.0000000000000948). Read its study population, exclusions, system, comparator, and endpoints before applying its findings to another setting.
 - **The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth.** *Archives of Pathology & Laboratory Medicine* (2017). [DOI: 10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA). Background for evaluating the reference used to judge an automated measurement.
 
 **Source check:** 1 October 2026, for the guidance and official documents linked on this page. This is a source-based content update, not clinical review or validation of any laboratory, product, or analysis pipeline.
