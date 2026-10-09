@@ -29,6 +29,7 @@ related_to:
   - "[[Cognitive Bias In AI Assisted Diagnosis]]"
   - "[[The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth]]"
   - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
+  - "[[Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology]]"
 hidden: true
 ---
 
@@ -204,6 +205,7 @@ The principles established by Rakha & Rakha deeply intersect with key theoretica
 ## See also
 
 * [Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center](Ethical%20guidelines%20for%20deploying%20artificial%20intelligence%20applications%20in%20the%20pathology%20field%20-%20Lessons%20learned%20from%20a%20prospective%20framework%20in%20a%20large%20tertiary%20care%20academic%20medical%20center.md)
+* [Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology](Guidance%20for%20laboratory%20implementation%2C%20governance%20and%20continuous%20assurance%20of%20artificial%20intelligence%20in%20histopathology.md)
 * [Laboratory Management](../laboratory-management/laboratory-management.md)
 * [Pathology AI Integration: A Systems View](../theories/Pathology%20AI%20Integration_%20A%20Systems%20View.md)
 * [Quality And Standardisation](../laboratory-management/quality-and-standardisation.md)

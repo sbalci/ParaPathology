@@ -1,7 +1,7 @@
 ---
 type: Note
 status: Developing
-language: en
+language: bilingual
 aliases:
   - "Injury in central nervous system and cerebrovascular diseases"
 order: 10
@@ -69,5 +69,69 @@ Lecture Outlines:
   * Vasculitis
 
 References:
+
+Robbins Basic Pathology, 9th edition, pp: 811, 812-813, 814-819
+
+# Santral sinir sisteminde zedelenme ve serebrovasküler hastalıklar
+
+Dersin Adı:
+
+Santral sinir sisteminde zedelenme ve serebrovasküler hastalıklar
+
+Gerekli Ön Bilgiler:
+
+* SSS'nin temel damar anatomisi
+* Serebral hemisferlerin ve serebellumun temel makroskopik anatomisi
+* SSS'deki hücre tiplerinin temel histolojisi
+* Beyin omurilik sıvısının temel fizyolojisi
+* Kan-beyin bariyerinin temel fizyolojisi
+
+Dersin Amacı:
+
+* SSS'nin çeşitli lezyonlara verdiği temel zedelenme yanıtını öğretmek
+* SSS'deki sıvı akımlarının patolojisini ve vasküler lezyonlarla ilişkili patolojileri öğretmek
+
+Dersin Hedefleri:
+
+Öğrenciler şunları öğrenecektir:
+
+* SSS'de zedelenmeye karşı temel reaksiyon paternlerini ve bunların diğer organ sistemlerindekilerden nasıl farklı olduğunu
+* SSS'deki sıvı dengesizliklerini
+* Beyin omurilik sıvısı akımının patolojilerini
+* Serebrovasküler hastalıkları
+* Bu hastalıkların patogenetik mekanizmalarını, makroskopik ve mikroskopik özelliklerini
+
+Öğrenciler morfolojik ve patofizyolojik özellikleri klinik tablolarla karşılaştıracaktır.
+
+Ders Ana Hatları:
+
+* Sinir sisteminde zedelenme paternleri
+* * Nöronal Zedelenme, Kırmızı Nöronlar
+  * Zedelenmeye astrositik yanıt, Gliozis
+* Ödem
+* * Vazojenik Ödem
+  * Sitotoksik Ödem
+* Herniasyon
+* * Subfalksiyal \(singulat\) herniasyon
+  * Transtentoryal \(unkal\) herniasyon
+  * Tonsiller herniasyon
+* Hidrosefali
+* * Nonkomünikan hidrosefali
+  * Komünikan hidrosefali
+* Serebrovasküler Hastalıklar
+* * İnme
+  * Hipoksi
+  * Global İskemi
+  * Fokal İskemi
+  * Hemorajik Olmayan İnfarktlar
+  * Hemorajik İnfarktlar
+  * İntrakraniyal Kanama
+  * Serebral Amiloid Anjiyopati
+  * Sakküler Anevrizmalar
+  * Vasküler Malformasyonlar
+  * Hipertansif Serebrovasküler Hastalıklar
+  * Vaskülit
+
+Kaynaklar:
 
 Robbins Basic Pathology, 9th edition, pp: 811, 812-813, 814-819

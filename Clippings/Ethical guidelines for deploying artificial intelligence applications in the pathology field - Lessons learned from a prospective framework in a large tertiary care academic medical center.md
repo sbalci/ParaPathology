@@ -32,6 +32,7 @@ related_to:
   - "[[Artificial intelligence in digital pathology — time for a reality check - Nature Reviews Clinical Oncology]]"
   - "[[Towards robust foundation models for digital pathology]]"
   - "[[A distributional robustness margin for pathology foundation models]]"
+  - "[[Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology]]"
 hidden: true
 ---
 
@@ -200,6 +201,7 @@ The framework by Hosny and Vargas represents a pivotal transition in computation
 * [A distributional robustness margin for pathology foundation models](A%20distributional%20robustness%20margin%20for%20pathology%20foundation%20models.md)
 * [Cognitive biases in AI-assisted medical decision making: A structured review as a primer for veterinary and human pathology](Cognitive%20biases%20in%20AI-assisted%20medical%20decision%20making%20-%20A%20structured%20review%20as%20a%20primer%20for%20veterinary%20and%20human%20pathology.md)
 * [Digital Pathology](../computational-digital-and-mathematical-pathology/digital-pathology.md)
+* [Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology](Guidance%20for%20laboratory%20implementation%2C%20governance%20and%20continuous%20assurance%20of%20artificial%20intelligence%20in%20histopathology.md)
 * [Pathology AI Integration: A Systems View](../theories/Pathology%20AI%20Integration_%20A%20Systems%20View.md)
 * [Towards robust foundation models for digital pathology](Towards%20robust%20foundation%20models%20for%20digital%20pathology.md)
 * [When Two Wrongs Don't Make a Right: Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology](When%20Two%20Wrongs%20Don%27t%20Make%20a%20Right%20-%20Examining%20Confirmation%20Bias%20and%20the%20Role%20of%20Time%20Pressure%20During%20Human-AI%20Collaboration%20in%20Computational%20Pathology.md)

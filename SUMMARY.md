@@ -81,6 +81,8 @@
 * [Stroma and lymphocytes identified by deep learning are independent predictors for survival in pancreatic cancer](Clippings/Stroma%20and%20lymphocytes%20identified%20by%20deep%20learning%20are%20independent%20predictors%20for%20survival%20in%20pancreatic%20cancer.md)
 * [Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology](Clippings/Beyond%20root%20cause%20analysis%20-%20a%20practical%20systems%20engineering%20approach%20to%20incident%20investigation%20in%20histopathology.md)
 * [Ambient, real-time digitization and datafication of glass slide microscopy towards AI-at-the-microscope](Clippings/Ambient%2C%20real-time%20digitization%20and%20datafication%20of%20glass%20slide%20microscopy%20towards%20AI-at-the-microscope.md)
+* [From operating room to pathology report: Delphi consensus on pathological assessment of peritoneal cytology and biopsies in staging laparoscopy for gastric cancer](Clippings/From%20operating%20room%20to%20pathology%20report%20-%20Delphi%20consensus%20on%20pathological%20assessment%20of%20peritoneal%20cytology%20and%20biopsies%20in%20staging%20laparoscopy%20for%20gastric%20cancer.md)
+* [Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology](Clippings/Guidance%20for%20laboratory%20implementation%2C%20governance%20and%20continuous%20assurance%20of%20artificial%20intelligence%20in%20histopathology.md)
 
 ## Medical School Lectures
 
