@@ -22,18 +22,20 @@ source_type: repository
 external: true
 adopted: false
 engagement: active
-license: BSD-3-Clause
+license: Broad Institute Academic Software License
 last_reviewed: 2026-09-27
 ---
 
 # Celldega
 
-An open-source visualization toolkit and spatial biology exploration engine developed by the Broad Institute of MIT and Harvard (Fernandez, Ishar, Wang, Ben Saad, Lipinski & Farhi, *bioRxiv* 2026). Celldega is engineered to address the scalability bottleneck of client-side spatial omics and multiplexed digital pathology datasets (>1 billion transcripts, millions of segmented cells) by leveraging browser-native streaming, GPU-accelerated rendering, and specialized columnar storage formats.
+A source-available visualization toolkit and spatial biology exploration engine developed by the Broad Institute of MIT and Harvard (Fernandez, Ishar, Wang, Ben Saad, Lipinski & Farhi, *bioRxiv* 2026). Celldega is engineered to address the scalability bottleneck of client-side spatial omics and multiplexed digital pathology datasets (>1 billion transcripts, millions of segmented cells) by leveraging browser-native streaming, GPU-accelerated rendering, and specialized columnar storage formats.
 
 - **Documentation & Web Viewer:** [broadinstitute.github.io/celldega](https://broadinstitute.github.io/celldega/)
-- **GitHub Repository:** [broadinstitute/celldega](https://github.com/broadinstitute/celldega) — BSD-3-Clause
+- **GitHub Repository:** [broadinstitute/celldega](https://github.com/broadinstitute/celldega)
 - **Preprint:** Fernandez et al. *Celldega: Integrated Toolkit for Visualization and Analysis of Spatial Data.* bioRxiv (2026). [DOI: 10.64898/2026.08.13.744672v2](https://doi.org/10.64898/2026.08.13.744672v2)
 - **Interactive Notebook Demo:** [marimo interactive notebook on molab](https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18)
+
+**License checked 1 October 2026:** The upstream [LICENSE.txt at commit `726b57c`](https://github.com/broadinstitute/celldega/blob/726b57cfeff1a0e70b06b91b079bd592b91daeca/LICENSE.txt) is the Broad Institute Academic Software License. It grants specified educational and academic-research uses to academic/nonprofit researchers and directs commercial entities to Broad for licensing. Read the full terms before use or redistribution. This check concerns the license only; the research and performance summary below was not re-evaluated.
 
 ---
 

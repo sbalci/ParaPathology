@@ -12,6 +12,8 @@ New and substantially revised public notes appear here after their changes are c
 
 ## Latest additions and revisions
 
+- **2026-10-09 · Updated** — [About the Usage of Digital Pathology](computational-digital-and-mathematical-pathology/about-the-usage-of-digital-pathology.md)
+- **2026-10-09 · Updated** — [Digital Pathology](computational-digital-and-mathematical-pathology/digital-pathology.md)
 - **2026-10-05 · Added** — [Accelerating Data Processing and Benchmarking of AI Models for Pathology](Clippings/Accelerating%20Data%20Processing%20and%20Benchmarking%20of%20AI%20Models%20for%20Pathology.md)
 - **2026-10-05 · Added** — [From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology](Clippings/From%20whole-slide%20image%20to%20biomarker%20prediction%20-%20end-to-end%20weakly%20supervised%20deep%20learning%20in%20computational%20pathology.md)
 - **2026-10-05 · Added** — [HERO: Histology Encoder for Robust Representation in Oncology](Clippings/HERO%20-%20Histology%20Encoder%20for%20Robust%20Representation%20in%20Oncology.md)
@@ -30,7 +32,5 @@ New and substantially revised public notes appear here after their changes are c
 - **2026-10-05 · Added** — [TRIDENT](computational-digital-and-mathematical-pathology/trident.md)
 - **2026-10-05 · Added** — [Vault Categories](vault-categories.md)
 - **2026-10-05 · Updated** — [Finding Relevant Articles](writing-journal-articles/finding-relevant-articles.md)
-- **2026-10-05 · Updated** — [Reproducibility](writing-journal-articles/reproducibility.md)
-- **2026-10-03 · Updated** — [Class visualizations and activation atlases for computational pathology](Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md)
 
 <!-- tolaria:updates:end -->
