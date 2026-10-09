@@ -6,7 +6,9 @@ aliases:
   - "Pathology Reports"
 order: 80
 belongs_to: "[[Pathology Residents and Pathologists]]"
-related_to: "[[Pathologist]]"
+related_to:
+  - "[[Pathologist]]"
+  - "[[From operating room to pathology report - Delphi consensus on pathological assessment of peritoneal cytology and biopsies in staging laparoscopy for gastric cancer]]"
 ---
 
 # Pathology Reports
@@ -26,6 +28,7 @@ related_to: "[[Pathologist]]"
 * Free Text
 * Structured
 * Synoptic
+  * E.g., [[From operating room to pathology report - Delphi consensus on pathological assessment of peritoneal cytology and biopsies in staging laparoscopy for gastric cancer]] establishes standardized 4-tier structured synoptic reporting templates for peritoneal cytology and staging laparoscopy biopsies.
 
 ## CAP what is not synoptic report
 

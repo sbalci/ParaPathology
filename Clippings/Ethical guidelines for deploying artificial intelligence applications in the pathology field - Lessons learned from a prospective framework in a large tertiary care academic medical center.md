@@ -32,6 +32,7 @@ related_to:
   - "[[Artificial intelligence in digital pathology — time for a reality check - Nature Reviews Clinical Oncology]]"
   - "[[Towards robust foundation models for digital pathology]]"
   - "[[A distributional robustness margin for pathology foundation models]]"
+  - "[[Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology]]"
 ---
 
 # Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center

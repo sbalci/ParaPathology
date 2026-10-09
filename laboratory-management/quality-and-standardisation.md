@@ -11,6 +11,8 @@ related_to:
   - "[[Considerations for digital pathology displays]]"
   - "[[digital-pathology-evidence]]"
   - "[[Beyond root cause analysis: a practical systems engineering approach to incident investigation in histopathology]]"
+  - "[[Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology]]"
+  - "[[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]"
   - "[[Theories and Frameworks for Understanding Pathology Practice]]"
   - "[[Pathology AI Integration: A Systems View]]"
 ---
@@ -42,3 +44,9 @@ As clinical workflows transition to whole-slide imaging (WSI) and artificial int
 - [[Considerations for digital pathology displays]]: Reviews display guidance and proposes procurement specifications informed by available commercial products, evidence and experience. Table 2 lists 4 MP with a trend toward 8 MP, and recommends 120 Hz for subjectively smoother viewing while explicitly considering 60 Hz adequate. These are the authors' proposals, not universal diagnostic requirements. The paper also covers display selection, local evaluation and quality assurance. [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13578409/).
 - [[digital-pathology-evidence]]: Connects display and WSI-system validation with separate appraisal of AI performance, human–AI interaction and quantitative histology evidence.
 - [[Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)]]: FDA CDRH/DIDSR regulatory tools for digital pathology assessment, including generative stress-testing (HistoGen), multi-reader agreement (HTT), threshold goals (DxGoals), and segmentation evaluation (SegVal-WSI).
+
+## AI Clinical Implementation, Governance & Continuous Assurance
+
+- [[Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology]]: Landmark guidance from the European Working Group for Breast Screening Pathology (EWGBSP; *Virchows Archiv* 2026). Grounded in ISO 15189:2022, it addresses the core operational reality that pathology departments procure commercial, regulatory-cleared AI rather than developing algorithms. Distinguishes developer-level algorithm validation (Stage 1) from mandatory local laboratory verification (Stage 2) and post-deployment continuous assurance (Stage 3). Provides function-based risk-proportionate verification matrices, 6 clinical implementation pathways (clinical, off-label, silent, research, locally developed LDT, expanded autonomy), quality indicators (including longitudinal biomarker distribution tracking), incident taxonomies, and a 14-domain pre-implementation governance checklist.
+- [[Ethical guidelines for deploying artificial intelligence applications in the pathology field: Lessons learned from a prospective framework in a large tertiary care academic medical center]]: 5-phase prospective clinical governance framework from the University of Washington Medical Center (UWMC), emphasizing real-world demographic benchmarking, daily 8-slide shift controls, human-in-the-loop kill-switches, and institutional oversight.
+
