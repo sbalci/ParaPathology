@@ -13,6 +13,18 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[LFABP: Liver Fatty Acid Binding Protein](../Clippings/LFABP%20-%20Liver%20Fatty%20Acid%20Binding%20Protein.md)
+PathologyOutlines: LFABP [https://www.pathologyoutlines.com/topic/stainsLFABP.html](https://www.pathologyoutlines.com/topic/stainsLFABP.html)
+
+[ETV4: ETS Variant Transcription Factor 4](../Clippings/ETV4%20-%20ETS%20Variant%20Transcription%20Factor%204.md)
+PathologyOutlines: ETV4 [https://www.pathologyoutlines.com/topic/stainsetv4.html](https://www.pathologyoutlines.com/topic/stainsetv4.html)
+
+[PROX1: Prospero Homeobox 1](../Clippings/PROX1%20-%20Prospero%20Homeobox%201.md)
+PathologyOutlines: PROX1 [https://www.pathologyoutlines.com/topic/stainsprox1.html](https://www.pathologyoutlines.com/topic/stainsprox1.html)
+
+[DCTD Workshop on Foundation Models for Cancer: Advancing Diagnosis, Prognosis, and Treatment Response](../Clippings/DCTD%20Workshop%20on%20Foundation%20Models%20for%20Cancer%20-%20Advancing%20Diagnosis%2C%20Prognosis%2C%20and%20Treatment%20Response.md)
+DCTD Workshop on Foundation Models for Cancer: Advancing Diagnosis, Prognosis, and Treatment Response [https://dctd.cancer.gov/about/news-events/events/foundation-models](https://dctd.cancer.gov/about/news-events/events/foundation-models)
+
 [NCBI Linked Discoveries: Literature Exploration and Research Neighborhood Mapping](../Clippings/NCBI%20Linked%20Discoveries%20-%20Literature%20Exploration%20and%20Research%20Neighborhood%20Mapping.md)
 NCBI Linked Discoveries [https://linkeddiscoveries.ncbi.nlm.nih.gov/](https://linkeddiscoveries.ncbi.nlm.nih.gov/) [https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/](https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/)
 
