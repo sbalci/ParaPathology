@@ -36,6 +36,7 @@ Operational rules specific to this layer:
 | **BSEP (ABCB11)** | rabbit polyclonal | Canalicular loss → PFIC2; orphan pediatric cholestasis service | T2 |
 | **MDR3 (ABCB4)** | P3II-26 | Canalicular loss/reduction → PFIC3 | T2 |
 | **Alpha-1-antitrypsin** | polyclonal (Dako) | PiZZ globules (PAS-D+ correlate); A1ATD liver | T2 |
+| **LFABP (FABP1)** | C-4 / EP224 / EPR2189 | [[LFABP: Liver Fatty Acid Binding Protein]]: **Hepatocellular adenoma subtyping:** Complete loss = **HNF1A-inactivated HCA (H-HCA)** (~30–40% of HCAs, steatotic, minimal malignant risk); retained in normal parenchyma (mandatory internal control), I-HCA, and B-HCA. *Caveat: Downregulated in ~20% of HCCs — never use LFABP loss alone to rule out malignancy* | T2 |
 | Pitfall note | — | GATA6 also stains many upper-GI/pancreatobiliary lineages — subtype use requires quantitative scoring, not binary read | — |
 
 ## S7-bis. Thoracic (extends base §7)
@@ -94,7 +95,8 @@ Operational rules specific to this layer:
 | **SS18-SSX (fusion junction)** | **E9X9V** | Synovial sarcoma: ~100% specific, ~95% sensitive; diffuse strong nuclear | T2 |
 | **SSX (C-terminus)** | **E5A2C** | ~100% sensitive, ~96% specific; run as a pair — concordant staining can **replace FISH/NGS in most cases**; false negatives in decalcified/poorly fixed small biopsies | T2 |
 | **CCNB3** | rabbit polyclonal | BCOR::CCNB3 sarcoma (with BCOR C-10) | LDT |
-| **ETV4** | mAb/polyclonal (per Hung et al.) | CIC-rearranged sarcoma (diffuse nuclear; with strong WT1); DUX4 C-terminal Abs remain RUO | LDT |
+| **ETV4** | mAb/polyclonal (per Hung et al.) | [[ETV4: ETS Variant Transcription Factor 4]]: CIC-rearranged sarcoma surrogate (>90–95% diffuse nuclear; with WT1 nuclear); resolves DUX4 subtelomeric FISH false negatives | LDT |
+| **PROX1** | 5G10 / EPR4068 / polyclonal | [[PROX1: Prospero Homeobox 1]]: **Lymphatic endothelial lineage & vascular neoplasms:** Strong nuclear positivity in **Kaposi sarcoma** (with HHV-8), **lymphangioma**, **kaposiform hemangioendothelioma**, **tufted angioma**, retiform HE, and cutaneous angiosarcoma; distinguishes lymphatic channels (PROX1+, D2-40+, CD31+) from blood vascular endothelium (PROX1−, CD34+) | T2 |
 | **FOSB** | 5G4 | Pseudomyogenic hemangioendothelioma; epithelioid hemangioma | LDT |
 | **FOS (c-FOS)** | rabbit mAb | FOS-rearranged osteoblastoma/osteoid osteoma vs osteosarcoma | LDT |
 | **DDIT3 (CHOP)** | e.g., 9C8 | Nuclear DDIT3 = FUS/EWSR1::DDIT3 myxoid liposarcoma surrogate | LDT |

@@ -13,6 +13,18 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[[LFABP: Liver Fatty Acid Binding Protein]]
+PathologyOutlines: LFABP [https://www.pathologyoutlines.com/topic/stainsLFABP.html](https://www.pathologyoutlines.com/topic/stainsLFABP.html)
+
+[[ETV4: ETS Variant Transcription Factor 4]]
+PathologyOutlines: ETV4 [https://www.pathologyoutlines.com/topic/stainsetv4.html](https://www.pathologyoutlines.com/topic/stainsetv4.html)
+
+[[PROX1: Prospero Homeobox 1]]
+PathologyOutlines: PROX1 [https://www.pathologyoutlines.com/topic/stainsprox1.html](https://www.pathologyoutlines.com/topic/stainsprox1.html)
+
+[[DCTD Workshop on Foundation Models for Cancer: Advancing Diagnosis, Prognosis, and Treatment Response]]
+DCTD Workshop on Foundation Models for Cancer: Advancing Diagnosis, Prognosis, and Treatment Response [https://dctd.cancer.gov/about/news-events/events/foundation-models](https://dctd.cancer.gov/about/news-events/events/foundation-models)
+
 [[NCBI Linked Discoveries: Literature Exploration and Research Neighborhood Mapping]]
 NCBI Linked Discoveries [https://linkeddiscoveries.ncbi.nlm.nih.gov/](https://linkeddiscoveries.ncbi.nlm.nih.gov/) [https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/](https://linkeddiscoveries.ncbi.nlm.nih.gov/userguide/)
 
