@@ -13,6 +13,9 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+[Study on the Performance of Different Cover Glasses in Microscopy](../Clippings/Study%20on%20the%20Performance%20of%20Different%20Cover%20Glasses%20in%20Microscopy.md)
+Study on the Performance of Different Cover Glasses in Microscopy [https://www.leicabiosystems.com/clinical-solutions/case-studies/cover-glass-performance-comparison/](https://www.leicabiosystems.com/clinical-solutions/case-studies/cover-glass-performance-comparison/)
+
 [LFABP: Liver Fatty Acid Binding Protein](../Clippings/LFABP%20-%20Liver%20Fatty%20Acid%20Binding%20Protein.md)
 PathologyOutlines: LFABP [https://www.pathologyoutlines.com/topic/stainsLFABP.html](https://www.pathologyoutlines.com/topic/stainsLFABP.html)
 
