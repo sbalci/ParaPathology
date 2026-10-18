@@ -1,0 +1,37 @@
+import type { C4Attr, C4Boundary, C4Model, C4Rel, C4Shape } from './types.js';
+export declare class C4Db implements C4Model {
+    type: 'c4';
+    c4Type: string | undefined;
+    title: string | undefined;
+    accTitle: string | undefined;
+    accDescr: string | undefined;
+    shapes: C4Shape[];
+    boundaries: C4Boundary[];
+    rels: C4Rel[];
+    shapeInRow: number;
+    boundaryInRow: number;
+    private shapeIndex;
+    private boundaryIndex;
+    private relIndex;
+    private current;
+    private stack;
+    setC4Type(type: string): void;
+    setTitle(title: string): void;
+    setAccDescription(descr: string): void;
+    private element;
+    addPersonOrSystem(kind: string, attrs: C4Attr[]): void;
+    addContainer(kind: string, attrs: C4Attr[]): void;
+    addComponent(kind: string, attrs: C4Attr[]): void;
+    private finishShape;
+    private boundary;
+    private open;
+    addPersonOrSystemBoundary(attrs: C4Attr[], fallback?: string): void;
+    addContainerBoundary(attrs: C4Attr[]): void;
+    addDeploymentNode(nodeType: string, attrs: C4Attr[]): void;
+    popBoundaryParseStack(): void;
+    addRel(type: string, attrs: C4Attr[]): void;
+    getC4Shape(alias: string): C4Shape | C4Boundary | undefined;
+    updateElStyle(_type: string, attrs: C4Attr[]): void;
+    updateRelStyle(_type: string, attrs: C4Attr[]): void;
+    updateLayoutConfig(_type: string, attrs: C4Attr[]): void;
+}

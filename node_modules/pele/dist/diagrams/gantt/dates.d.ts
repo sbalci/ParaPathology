@@ -1,0 +1,10 @@
+export declare const MONTHS: string[];
+export declare const WEEKDAYS: string[];
+export type Unit = 'ms' | 's' | 'm' | 'h' | 'd' | 'w' | 'M' | 'y';
+export declare function isValid(date: Date): boolean;
+export declare function isoWeekday(date: Date): number;
+export declare function addDays(date: Date, days: number): Date;
+export declare function add(date: Date, amount: number, unit: Unit): Date;
+export declare function format(date: Date, template: string): string | undefined;
+export declare function isoDate(date: Date): string;
+export declare function parseStrict(input: string, template: string, now: Date): Date | undefined;
