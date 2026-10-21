@@ -15,8 +15,9 @@ related_to:
 
 ## Cover Glass Optics & Metrology: Glass vs. Polymer Film
 
-The cover glass and mounting media constitute the **front optical element** of the microscope imaging path. Diffraction-limited objectives are engineered specifically for standard #1.5 cover glass ($0.170 \pm 0.010\ \text{mm}$, refractive index $n_e = 1.5255$, Abbe number $V_e \ge 56$):
-- [[Study on the Performance of Different Cover Glasses in Microscopy]]: Rigorous optical metrology (Jena, Germany; Leica Biosystems 2025/2026) comparing conventional glass coverslips (Leica HistoCore SPECTRA CV) with polymer tape (Sakura Tissue-Tek). Shows that polymer tape exhibits nodular micro-roughness (5–15 nm RMS), high-frequency corrugations (~200 µm periods) that replicate underlying tissue topology, refractive index mismatch ($\Delta n > 0.03$), biaxial birefringence ($\Delta \approx \pi/2$ phase retardation at high NA disrupting polarization microscopy), and causes **5–20% MTF contrast loss** and local resolution degradation ($> 2.0\ \mu\text{m}$) in Zemax whole-slide scanner ray-tracing simulations.
+Cover and mounting media form part of the microscope optical path; thickness, refractive index and surface geometry should be compatible with the intended objective and application.
+
+- [[Study on the Performance of Different Cover Glasses in Microscopy]]: Leica Biosystems-commissioned, single-site optical study (September 2025; source page updated October 17, 2026) of specific glass and Sakura tape preparations. Measured surface roughness, deformation, refractive-index differences and birefringence; the **5–20% local MTF contrast reduction at mid-range spatial frequencies** and local test-chart resolution degradation were **Zemax predictions using simplified scanner optics**, not clinical WSI results. The report expects no birefringence-related image effect at moderate-NA brightfield; high-NA/polarization effects may occur. Small samples and optical-model limitations constrain interpretation. Diagnostic accuracy, patient outcomes, rescan rates and AI performance were not assessed.
 
 ## OpenFlexure Microscope: 3D-Printable Robotic Microscopy
 
