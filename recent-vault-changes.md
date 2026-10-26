@@ -12,10 +12,10 @@ New and substantially revised public notes appear here after their changes are c
 
 ## Latest additions and revisions
 
-- **2026-10-11 · Added** — [Study on the Performance of Different Cover Glasses in Microscopy](Clippings/Study%20on%20the%20Performance%20of%20Different%20Cover%20Glasses%20in%20Microscopy.md)
+- **2026-10-21 · Updated** — [Study on the Performance of Different Cover Glasses in Microscopy](Clippings/Study%20on%20the%20Performance%20of%20Different%20Cover%20Glasses%20in%20Microscopy.md)
+- **2026-10-21 · Updated** — [Microscopy](laboratory-management/microscopy.md)
+- **2026-10-21 · Updated** — [Quality And Standardisation](laboratory-management/quality-and-standardisation.md)
 - **2026-10-11 · Updated** — [miscellaneous](appendix/miscellaneous.md)
-- **2026-10-11 · Updated** — [Microscopy](laboratory-management/microscopy.md)
-- **2026-10-11 · Updated** — [Quality And Standardisation](laboratory-management/quality-and-standardisation.md)
 - **2026-10-10 · Added** — [DCTD Workshop on Foundation Models for Cancer: Advancing Diagnosis, Prognosis, and Treatment Response](Clippings/DCTD%20Workshop%20on%20Foundation%20Models%20for%20Cancer%20-%20Advancing%20Diagnosis%2C%20Prognosis%2C%20and%20Treatment%20Response.md)
 - **2026-10-10 · Added** — [ETV4: ETS Variant Transcription Factor 4](Clippings/ETV4%20-%20ETS%20Variant%20Transcription%20Factor%204.md)
 - **2026-10-10 · Added** — [LFABP: Liver Fatty Acid Binding Protein](Clippings/LFABP%20-%20Liver%20Fatty%20Acid%20Binding%20Protein.md)
