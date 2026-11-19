@@ -1,7 +1,7 @@
 ---
 type: Topic
 status: Active
-language: en
+language: bilingual
 order: 20
 belongs_to: "[[Vault Categories]]"
 ---
@@ -24,3 +24,22 @@ Tolaria uses note types to describe a page's role. A type helps distinguish a su
 | Framework | A theory, classification system, or analytical lens. |
 
 Notes may also link across subjects. Browse the [[Browse by Subject]] index when the topic matters more than the note type.
+
+# Not Türleri Hakkında
+
+Tolaria, bir sayfanın rolünü tanımlamak için not türlerini kullanır. Tür, bir konuya genel bakış sayfasını belirli bir hastalıktan, yöntemden, araçtan ya da kaynaktan ayırt etmeye yardımcı olur.
+
+| Tür | Anlamı |
+| --- | --- |
+| Topic | İlgili notları bir araya getiren konuya genel bakış. |
+| Reference | Kitaplar, web siteleri, depolar (repository) veya diğer kaynaklardan oluşan, özenle seçilmiş bir liste. |
+| Tool | Adı belli tek bir program ya da uygulama hakkında bir sayfa. |
+| Clipping | Dışarıdan alınmış bir kaynak; herkese açık özetler Clippings bölümünde toplanır. |
+| Lecture | Çoğunlukla tıp fakültesi için hazırlanmış eğitim materyali. |
+| Note | Daha özgül bir türe uymayan, özgün açıklayıcı yazı. |
+| Disease | Belirli bir tanısal antite ya da reaksiyon paterni. |
+| Concept | Tek bir mekanizma, ilke ya da fikir. |
+| Technique | Bir yöntem, test (assay), boya ya da hesaplamalı prosedür. |
+| Framework | Bir kuram, sınıflama sistemi ya da analitik bakış açısı. |
+
+Notlar konular arasında da bağlantı kurabilir. Konu, not türünden daha önemli olduğunda Browse by Subject dizinine göz atın.

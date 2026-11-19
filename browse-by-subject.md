@@ -1,7 +1,7 @@
 ---
 type: Topic
 status: Active
-language: en
+language: bilingual
 order: 10
 belongs_to: "[[Vault Categories]]"
 ---
@@ -50,3 +50,48 @@ The same notes can connect to several subjects in Tolaria. These links lead to t
 - [[social-topics/README|Social Topics]]
 - [[games/games|Games]]
 - [[appendix/README|Appendix]]
+
+# Konulara Göre Göz Atın
+
+Aynı notlar Tolaria'da birden fazla konuyla ilişkilendirilebilir. Bu bağlantılar, herkese açık kitabın ana bölümlerine yönlendirir.
+
+## Öğrenme ve tanısal uygulama
+
+- Tıp Fakültesi Dersleri
+- Sistemik Patoloji
+- Patoloji Asistanları ve Patologlar
+- Kılavuzlar
+- Makroskopi
+- Otopsi
+- Laboratuvar Yönetimi
+- Boyalar
+- Tedavi ve Patoloji
+
+## Patoloji kavramları ve bağlamı
+
+- Hastalıkların Taksonomisi ve Sınıflandırılması
+- Patofizyoloji
+- Karsinogenez ve Kanserin Ayırt Edici Özellikleri
+- Patoloji ve Diğer Bölümler
+- Hastalar ve Patoloji
+- Kuramlar ve Çerçeveler
+
+## Araştırma, teknoloji ve yazım
+
+- Hesaplamalı, Dijital ve Matematiksel Patoloji
+- İstatistik, Biyoinformatik ve Patoloji
+- İstatistik ve Biyoinformatik
+- Bilimsel Makale Yazımı
+- Bibliyometri
+- Veri Tabanları ve Patoloji
+- Bilim
+- Bilgisayarlar
+
+## Topluluk ve başvuru koleksiyonları
+
+- Patoloji ve Sosyal Medya
+- Patoloji Tweetleri
+- Patoloji Toplantıları
+- Toplumsal Konular
+- Oyunlar
+- Ek

@@ -1,7 +1,7 @@
 ---
 type: Tool
 status: Evergreen
-language: en
+language: bilingual
 title: "TRIDENT"
 aliases:
   - "TRIDENT"
@@ -253,3 +253,229 @@ TRIDENT is among the first digital pathology toolkits to ship native **AI Coding
 - [[Towards robust foundation models for digital pathology]] — PathoROB benchmark evaluating encoder vulnerability to multi-center acquisition confounders.
 - [[PathoActivationAtlas]] — Visual representation auditing framework for encoders extracted via TRIDENT.
 - [[CellQuant-Net]], [[NuClick]], & [[HoVer-NeXt]] — Cellular instance segmentation frameworks downstream or complementary to whole-slide patch extraction.
+
+# TRIDENT
+
+Mahmood Lab (Harvard Medical School, Brigham and Women's Hospital, Broad Institute of MIT and Harvard) tarafından geliştirilen; 33'ten fazla yama kodlayıcısı (patch encoder) ve 8'den fazla preparat düzeyi temel model (slide foundation model) üzerinden ölçeklenebilir ve dayanıklı tüm preparat görüntüsü (whole-slide image, WSI) işleme ve gömme (embedding) çıkarımı sağlayan, endüstriyel düzeyde, açık kaynaklı bir Python araç takımı. Andrew Zhang ve ark., *Accelerating Data Processing and Benchmarking of AI Models for Pathology* (arXiv:2502.06750) yayınıyla birlikte duyurulmuş olup **Patho-Bench** temel model değerlendirme çerçevesiyle eşleştirilmiştir.
+
+- **GitHub Deposu:** [mahmoodlab/TRIDENT](https://github.com/mahmoodlab/trident)
+- **Dokümantasyon:** [trident-docs.readthedocs.io](https://trident-docs.readthedocs.io/en/latest/)
+- **Temel Makale:** Zhang A, Jaume G, Vaidya A, Ding T, Mahmood F. *Accelerating Data Processing and Benchmarking of AI Models for Pathology.* arXiv:2502.06750 [cs.CV] (2025). [DOI: 10.48550/arXiv.2502.06750](https://doi.org/10.48550/arXiv.2502.06750)
+- **Eşlik Eden Literatür İncelemesi:** Accelerating Data Processing and Benchmarking of AI Models for Pathology
+- **Karşılaştırmalı Değerlendirme (Benchmarking) Takımı:** [mahmoodlab/patho-bench](https://github.com/mahmoodlab/patho-bench)
+
+---
+
+## TRIDENT Neden Önemli
+
+Hesaplamalı patoloji alanı, sıfırdan özel olarak eğitilen evrişimli sinir ağlarından (Convolutional Neural Networks, CNN) devasa, öz-denetimli (self-supervised) vision transformer temel modellerinin (UNI, Virchow, Prov-GigaPath, H-Optimus ve CONCH gibi) kullanımına geçmiştir. Ancak yüz binlerce çok gigabaytlık, çok çözünürlüklü tüm preparat görüntüsünü modele hazır gömmelere dönüştürmek, başlıca mühendislik darboğazı olmayı sürdürmüştür.
+
+Geçmişte laboratuvarlar geçici (ad-hoc) betiklere ya da CLAM gibi eski iş akışlarına (`create_patches_fp.py` ve `extract_features_fp.py`) dayanıyordu. Öncü olmakla birlikte, eski araçlar önemli işletimsel zaaflardan muzdaripti:
+1. **Model Parçalanması:** Her araştırma grubu, birbiriyle uyumsuz girdi yama boyutlarına, optik büyütmelere (10×, 20×, 40×), normalizasyon sabitlerine ve özel model sarmalayıcılarına (wrapper) sahip temel modeller yayımlamaktadır.
+2. **Çökmeye Karşı Kırılganlık ve Kaldığı Yerden Devam Edememe:** Binlerce gigapiksel WSI'ın işlenmesi günler ile haftalar sürer. Ele alınmamış bozuk preparat dosyaları, bellek yetersizliği (out-of-memory, OOM) hataları ya da sonlandırılan küme (cluster) işleri, sıklıkla tüm kohortların baştan işlenmesini gerektiriyordu.
+3. **Ağ Depolamada G/Ç Açlığı (I/O Starvation):** Yavaş ağa bağlı depolama (Network-Attached Storage, NAS) gigapiksel görüntü karolarını gerçek zamanlı aktarmakta zorlanırken üst düzey GPU'lar (ör. NVIDIA A100/H100) boşta bekler.
+4. **Kaba Sezgisel Doku Segmentasyonu:** Klasik eşikleme (Otsu/HSV), soluk yağlı ya da müsinöz dokuyu dışarıda bırakırken sıklıkla cam kırıntılarını, doku katlantılarını, tarayıcı aydınlatma gradyanlarını ve patolog mürekkep işaretlerini yakalar.
+
+TRIDENT, tüm patoloji temel modeli ekosistemi genelinde birleşik bir fabrika (factory) arayüzü sunan uçtan uca, dayanıklı bir iş akışı olarak bu darboğazları çözer.
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                       TRIDENT 3-STAGE PIPELINE                                         │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  1. TISSUE SEGMENTATION (--task seg)
+     [ Whole-Slide Image (.svs, .ndpi, .tiff, .mrxs, .zarr, .czi, .dcm) ]
+                     │
+                     ▼
+     [ Segmenter: HEST / GrandQC / Otsu ] ──> Optional: --remove_artifacts / --remove_penmarks
+                     │
+                     ├──> Thumbnails (./trident_processed/thumbnails/)
+                     ├──> Contours (./trident_processed/contours/)
+                     └──> GeoJSON Polygons (./trident_processed/contours_geojson/ -> QuPath QC)
+
+  2. PATCH COORDINATE EXTRACTION (--task coords)
+     [ Segmented Tissue Polygons ] ──> --mag (e.g. 20×) + --patch_size (e.g. 256 / 512 px)
+                     │
+                     ├──> Absolute Pixel Coordinates (h5 / csv)
+                     ├──> Filter: --min_tissue_proportion (drop non-tissue tiles)
+                     └──> Optional: --dump_patches (save PNG/JPG crops for visual audits)
+
+  3. FEATURE / EMBEDDING EXTRACTION (--task feat)
+     [ High-Throughput Batch Dataloader ] <── Async SSD Staging Cache (--wsi_cache /local/ssd)
+                     │
+                     ├──> PATCH ENCODER (33+ backbones)
+                     │    └── Shape: (N_patches, Embedding_Dim) -> ./features_<encoder>/<slide>.h5
+                     │
+                     └──> SLIDE ENCODER (TITAN, PRISM, GigaPath, CHIEF, Madeleine, Feather)
+                          └── Auto-chains required patch encoder -> Shape: (Dim,) -> ./slide_features_<model>/
+```
+
+---
+
+## Temel Mimari ve Mühendislik Yenilikleri
+
+### 1. Birleşik 3 Aşamalı Modüler Yürütme
+TRIDENT işlemeyi birbirinden bağımsız, idempotent üç aşamaya ayırır:
+- `--task seg`: Doku maskeleri, genel bakış küçük resimleri (thumbnail) ve GeoJSON konturları üretir.
+- `--task coords`: Geçerli dokuyu düzenli yama koordinatlarına karolar.
+- `--task feat`: Yama koordinatlarını diskten okur ve yüksek verimli GPU ileri geçişlerini (forward pass) çalıştırır.
+- `--task all`: Üç aşamanın tamamını tek bir çağrıda kesintisiz biçimde zincirler.
+
+Görevler yalnızca istenen aşamayı çalıştırır ve açık talimat olmadan ön koşul aşamaları kendiliğinden tetiklemez; bu sayede kullanıcılar, yama çıkarımına pahalı hesaplama gücü ayırmadan önce ara segmentasyon poligonlarını inceleyip düzenleyebilir.
+
+### 2. Artefakt Baskılamalı Çoklu Segmentasyon Motoru
+Otsu eşiklemesiyle sınırlı klasik araçların aksine:
+- **HEST Segmenter (`--segmenter hest`):** Uzamsal transkriptomik kohortları üzerinde eğitilmiş ([MahmoodLab/hest-tissue-seg](https://huggingface.co/MahmoodLab/hest-tissue-seg)), farklı boyamalara ve soluk stromaya karşı dayanıklı varsayılan derin öğrenme segmentasyon modeli.
+- **GrandQC Segmenter (`--segmenter grandqc`):** İnce sınır hassasiyetine sahip hızlı sinir ağı segmentasyonu ([cpath-ukk/grandqc](https://github.com/cpath-ukk/grandqc)).
+- **Otsu Temel Yöntemi (`--segmenter otsu`):** Hiç GPU kaynağı ya da önceden indirilmiş ağırlık gerektirmeyen, yalnızca CPU ile çalışan görüntü işleme yedeği.
+- **Patoloji Artefaktlarının Giderilmesi:** `--remove_artifacts`, doku katlantılarını, odak dışı bulanıklığı, hava kabarcıklarını ve kenar yırtıklarını agresif biçimde ayıklamak için ikinci bir GrandQC geçişi uygular; `--remove_penmarks` ise patoloğun işaretleme kalemi mürekkebini ayırt edip filtreler.
+- **QuPath ile Görsel Kalite Kontrol:** Doğrudan QuPath içinde sürükle-bırak doğrulama ve elle sınır düzenleme için yerel GeoJSON poligon dosyaları (`./contours_geojson/`) dışa aktarır.
+
+### 3. Kapsamlı Temel Model Fabrikası
+TRIDENT, model yüklemeyi `trident.patch_encoder_models.encoder_factory(name)` aracılığıyla standartlaştırır. Kritik olarak, **seçilen kodlayıcı gerekli `--patch_size` ve `--mag` değerlerini kesin olarak belirler** (böylece araştırmacıların uyumsuz uzamsal girdiler vermesi gibi yaygın hatalar giderilir):
+
+| Kodlayıcı Kategorisi | Model Bayrağı (`--patch_encoder`) | Gömme Boyutu | Gerekli Çözünürlük ve Büyütme | Kaynak Kurum / Referans |
+|---|---|---:|---|---|
+| **Mahmood Lab** | `uni_v1` | 1,024 | `--patch_size 256 --mag 20` | Harvard / *Nature Medicine* 2024 |
+| | `uni_v2` | 1,536 | `--patch_size 256 --mag 20` | Harvard / Ön baskı (pre-print) 2024 |
+| | `conch_v1` | 512 | `--patch_size 512 --mag 20` | Harvard / *Nature Medicine* 2024 |
+| | `conch_v15` *(Varsayılan)* | 768 | `--patch_size 512 --mag 20` | Harvard / Hugging Face 2024 |
+| **Paige AI** | `virchow` / `virchow2` | 2,560 | `--patch_size 224 --mag 20` | Paige / *Nature Medicine* 2024 |
+| | `virchow2-cls` | 1,280 | `--patch_size 224 --mag 20` | Paige (CLS-token temsili) |
+| **Providence / MSFT** | `gigapath` | 1,536 | `--patch_size 256 --mag 20` | Providence / *Nature* 2024 |
+| | `gigapath-flash` | 384 | `--patch_size 256 --mag 20` | Providence (damıtılmış küçük ViT) |
+| **Bioptimus** | `hoptimus0` / `hoptimus1` | 1,536 | `--patch_size 224 --mag 20` | Bioptimus / arXiv 2024 |
+| | `h0-mini` | 768 / 1,536 | `--patch_size 224 --mag 20` | Bioptimus / HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides |
+| **Owkin** | `phikon` | 768 | `--patch_size 224 --mag 20` | Owkin / iBOT ön eğitimi |
+| | `phikon_v2` | 1,024 | `--patch_size 224 --mag 20` | Owkin / *Nature Communications* 2024 |
+| **Broad / Harvard** | `musk` | 1,024 | `--patch_size 384 --mag 20` | Görüntü-dil çok kipli (multimodal) model |
+| **Caris Life Sciences** | `midnight12k` / `openmidnight` | 3,072 / 1,536 | `--patch_size 224 --mag 20` | Caris / HERO: Histology Encoder for Robust Representation in Oncology |
+| **Akademik ve Eski Modeller** | `ctranspath` | 768 | `--patch_size 256 --mag 10` | Wang ve ark. / Swin-Transformer (10×) |
+| | `resnet50` | 1,024 | `--patch_size 256 --mag 20` | ImageNet temel modeli / klasik CLAM |
+
+### 4. Otomatik Preparat Kodlayıcı Zincirleme
+Preparat düzeyi temel modeller, binlerce yama tokenini tek bir birleşik preparat vektöründe ya da tanısal bir öngörüde toplar. TRIDENT'te `--slide_encoder <name>` belirtilmesi, **gerekli üst akış yama kodlayıcısını otomatik olarak çıkarsar, yükler ve çalıştırır**:
+- **`titan`:** Çok kipli preparat kodlayıcısı (Mahmood Lab); `conch_v15` özniteliklerini (20×'te 512 px) otomatik olarak çıkarır, ara yama özniteliklerini `features_conch_v15/` dizinine kaydeder ve tüm preparat gömmelerini `slide_features_titan/` dizinine yazar.
+- **`prism` / `prism2`:** Preparat üretme/sınıflandırma modeli (Paige); `virchow` ya da `virchow2-cls` özniteliklerini (20×'te 224 px) otomatik olarak çıkarır.
+- **`gigapath`:** Tüm preparat LongNet transformer'ı; 256 px'lik `gigapath` yama tokenlerini kullanır.
+- **`chief`:** Clinical Histopathology Imaging Evaluation Foundation (HMS-DBMI); 10×'te `ctranspath` kullanır.
+- **`madeleine` ve `feather`:** Çoklu boya ve dikkat-havuzlama (attention-pooling) temelli toplama için geliştirilmiş ileri düzey Mahmood Lab preparat kodlayıcıları.
+
+### 5. Üretim Güvenilirliği ve Kaldığı Yerden Devam Edebilme
+- **Akıllı Devam Ettirme:** Çıktılar preparat bazında izlenir. Toplu iş betiğinin aynı `--job_dir` üzerinde yeniden çalıştırılması, tamamlanmış preparatları yeniden işlemeden anında atlar.
+- **Kilit Mimarisi (`.lock`):** Çok süreçli işler, paralel GPU işçileri arasında yarış koşullarını önlemek için yürütme sırasında geçici kilit dosyaları yerleştirir. Ölü kilit sona erdirme (`--clear_dead_locks --dead_lock_max_age_hours 24`), küme zamanlayıcıları (SLURM/PBS) tarafından sonlandırılan işleri güvenle kurtarır.
+- **Asenkron Üretici-Tüketici Önbelleği (`--wsi_cache`):** Yavaş ağ dosya sistemlerinde bulunan veri kümeleri için `--wsi_cache /local/ssd --cache_batch_size 32`, çıkarım öncesinde WSI'ları önceden getirip yerel NVMe SSD'lere aktaran arka plan iş parçacıkları başlatarak GPU G/Ç açlığını ortadan kaldırır.
+- **Çok Formatlı WSI Motoru:** OpenSlide, CuCIM, düz raster dosyalar (`.png`, `.jpeg`), SDPC, OME-Zarr (`.zarr`) ve Zeiss CZI (`.czi`) genelinde yerel, birleşik kod çözme. Yerleşik `trident convert` komutu, piramidal olmayan ya da bozuk dosyaları standart piramidal TIFF'lere dönüştürür.
+- **Standartlaştırılmış Yürütme Raporları:** Yapılandırılmış `summary.md` günlükleri, JSON çalıştırma manifestoları (`runs/<id>.json`) ve ayrıntılı, preparat bazında durum kayıtları (`wsi_states/<slide>.json`) yazar.
+
+---
+
+## Komut Satırı (CLI) Hızlı Başlangıç ve İş Akışları
+
+### 1. Ortam Kurulumu
+
+```bash
+# Recommended Python 3.10 environment
+conda create -n "trident" python=3.10 -y
+conda activate trident
+
+git clone https://github.com/mahmoodlab/trident.git
+cd trident
+pip install -e ".[full]"
+
+# Preflight verification and gated model access check
+trident-doctor --profile full --check-gated
+```
+
+### 2. Uçtan Uca İşleme (Birincil Üretim Komutu)
+
+Birden fazla GPU kullanarak bir preparat dizini genelinde doku segmentasyonu, yama koordinatı üretimi ve UNI öznitelik çıkarımını çalıştırın:
+
+```bash
+python run_batch_of_slides.py \
+  --task all \
+  --wsi_dir /path/to/wsis \
+  --job_dir /path/to/trident_processed \
+  --patch_encoder uni_v1 \
+  --mag 20 \
+  --patch_size 256 \
+  --gpus 0 1 2 3 \
+  --skip_errors \
+  --wsi_cache /local/nvme/cache \
+  --cache_batch_size 32
+```
+
+### 3. Adım Adım Aşamalı Yürütme
+
+#### Adım A: Artefakt Temizlemeli Sinir Ağı Tabanlı Doku Segmentasyonu
+```bash
+python run_batch_of_slides.py \
+  --task seg \
+  --wsi_dir /path/to/wsis \
+  --job_dir /path/to/trident_processed \
+  --segmenter hest \
+  --remove_artifacts \
+  --remove_penmarks \
+  --gpus 0
+```
+*Çıktılar: Küçük resimler (`/thumbnails/`), kontur kaplamaları (`/contours/`) ve QuPath GeoJSON dosyaları (`/contours_geojson/`).*
+
+#### Adım B: Yama Koordinatı Çıkarımı
+```bash
+python run_batch_of_slides.py \
+  --task coords \
+  --wsi_dir /path/to/wsis \
+  --job_dir /path/to/trident_processed \
+  --mag 20 \
+  --patch_size 256 \
+  --overlap 0 \
+  --min_tissue_proportion 0.1
+```
+*Çıktılar: HDF5 yama koordinatları (`/patches/`).*
+
+#### Adım C: Yama Özniteliği Çıkarımı
+```bash
+python run_batch_of_slides.py \
+  --task feat \
+  --wsi_dir /path/to/wsis \
+  --job_dir /path/to/trident_processed \
+  --patch_encoder conch_v15 \
+  --mag 20 \
+  --patch_size 512 \
+  --feat_batch_size 64 \
+  --gpus 0 1
+```
+*Çıktılar: Gömme matrisleri (`/features_conch_v15/<slide>.h5`).*
+
+### 4. Preparat Düzeyi Temel Model Çıkarımı (ör. TITAN)
+
+```bash
+python run_batch_of_slides.py \
+  --task all \
+  --wsi_dir /path/to/wsis \
+  --job_dir /path/to/trident_processed \
+  --slide_encoder titan \
+  --mag 20 \
+  --patch_size 512 \
+  --gpus 0
+```
+*TITAN preparat düzeyi toplamasını yürütmeden önce `conch_v15` yama özniteliği çıkarımını otomatik olarak çalıştırır ve preparat vektörlerini `/slide_features_titan/<slide>.pt` konumunda saklar.*
+
+---
+
+## Yapay Zekâ Ajanı Entegrasyonu
+
+TRIDENT, yerel **AI Coding Agent Skills** ([`.claude/skills/trident/`](https://github.com/mahmoodlab/TRIDENT/tree/main/.claude/skills/trident)) ile birlikte sunulan ilk dijital patoloji araç takımları arasındadır:
+- Otonom kodlama ajanlarına (Claude Code, Antigravity vb.) açık işletimsel kısıtlamalar, kodlayıcı-çözünürlük eşleştirme tabloları ve hata kurtarma protokolleri sağlar.
+- Yaygın LLM hatalarını önler (ör. önceden segmentasyon yapılmadan boş bir dizin üzerinde `--task coords` çalıştırmaya çalışmak ya da UNI için 224 px gibi uyumsuz çözünürlükler belirtmek).
+
+---
+
+## Kasa (Vault) Araştırmaları ve Literatürle Bağlantı
+
+- Accelerating Data Processing and Benchmarking of AI Models for Pathology — TRIDENT ve Patho-Bench'i ayrıntılı olarak tanıtan temel yayın (Zhang ve ark. 2025).
+- HERO: Histology Encoder for Robust Representation in Oncology — Mahmood Lab'in **Patho-Bench** takımı kullanılarak 39 preparat düzeyi görev üzerinde değerlendirilmiştir.
+- Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis — TRIDENT'in desteklediği kodlayıcılar (Lunit, Kaiko, Phikon-v2, UNI2, Virchow2) arasındaki karşılaştırmalı ödünleşimler.
+- Towards robust foundation models for digital pathology — Kodlayıcıların çok merkezli görüntü edinimi karıştırıcılarına karşı kırılganlığını değerlendiren PathoROB karşılaştırmalı değerlendirme ölçütü.
+- PathoActivationAtlas — TRIDENT aracılığıyla çıkarılan kodlayıcılar için görsel temsil denetimi çerçevesi.
+- CellQuant-Net, NuClick ve HoVer-NeXt — Tüm preparat yama çıkarımının akış aşağısında yer alan ya da onu tamamlayan hücresel örnek segmentasyonu (instance segmentation) çerçeveleri.

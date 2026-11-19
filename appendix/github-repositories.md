@@ -21,6 +21,8 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Celldega]]"
   - "[[HistoCAM]]"
+  - "[[SlidePrep]]"
+  - "[[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]]"
 ---
 
 # GitHub Repositories
@@ -202,6 +204,11 @@ related_to:
 {% embed url="https://github.com/KatherLab/STAMP" %}
 
 * [KatherLab/STAMP](https://github.com/KatherLab/STAMP) — Solid Tumor Associative Modeling in Pathology, an end-to-end weakly supervised deep learning pipeline developed by the Kather Lab (TU Dresden / RWTH Aachen) for biomarker prediction, multi-target classification, regression, and survival analysis directly from whole-slide images (El Nahhas et al., *Nature Protocols* 2025). Features unified preprocessing across 18+ foundation model extractors, slide/patient-level virtual slide concatenation, Vision Transformer / TransMIL / Barspoon architectures, spatial attention heatmaps, class maps, top/bottom predictive tile extraction, and native FastMCP server integration (`mcp/server.py`). Paired web GUI: [KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench). See dedicated tool note [[STAMP]] and literature review [[From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology]].
+
+{% embed url="https://github.com/INOU-2025/SlidePrep" %}
+
+* [INOU-2025/SlidePrep](https://github.com/INOU-2025/SlidePrep) — Modular Python 3.12 and TypeScript/Angular 21 pipeline for microscopy tile preprocessing, counting-chamber reticle artifact removal, and physically calibrated OME-TIFF whole-slide image stitching (Rodriguez-Conde, Campos & Fdez-Riverola, *SoftwareX* 2026; MIT License). Combines 3-class multi-level Otsu thresholding (`Combined Differential`), directional template matching, Random Forest border contour filtering, LaMa Fourier-convolution inpainting, and ASHLAR phase-correlation registration with a Dockerized FastAPI + Celery + Redis + libvips + OpenSeadragon web viewer and full-mosaic inpaint provenance mask export (`_inpaint_mask.tif`). See dedicated tool note [[SlidePrep]] and literature review [[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]].
+
 
 
 

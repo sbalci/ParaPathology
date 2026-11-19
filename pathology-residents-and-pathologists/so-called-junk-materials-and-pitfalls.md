@@ -1,7 +1,7 @@
 ---
 type: Note
 status: Evergreen
-language: en
+language: bilingual
 aliases:
   - "So Called Junk Materials & Pitfalls"
 order: 20
@@ -77,3 +77,72 @@ Keloid
 Pyogenic granuloma
 
 Amputations
+
+# "Çöp Materyal" Denilen Örnekler ve Tuzaklar
+
+"Çöp materyal" denilen örnekler önemlidir
+
+* özel muayenehane/laboratuvar pratiğinde iş yükünün büyük bölümünü oluşturur
+* normal histoloji ve embriyoloji iyi bilinmiyorsa sorun yaratabilir \(normal yapılar neoplazi sanılabilir\)
+* immünohistokimya kontrolleri için önemli bir kaynaktır
+* insidental neoplaziler nadir değildir
+* amiloidoz veya vaskülit gibi sistemik hastalıklar bu örneklerde bulgu verebilir
+* adli tıbbi olgularda ve faturalandırma amacıyla cerrahinin kanıtıdır
+* Normal histolojik özellikler neoplazileri adlandırmak veya tanımlamak için kullanılır
+* Otopsi pratiği azalmaktadır; bu örnekler otopsi patolojisini öğrenmek için iyi bir fırsattır
+
+Pilonidal Sinüs
+
+Abortus
+
+Tonsillektomi ve Adenoidektomi
+
+Paratubal kistler
+
+Over kistleri
+
+Hemoroidektomi
+
+Sünnet
+
+Kolesistektomi
+
+Keratinöz kistler
+
+Nasır (Kallus)
+
+Fibroepitelyal Polipler
+
+Pterjiyum
+
+Nazal polipler
+
+Fıtık Kesesi
+
+Piyojenik Granülom
+
+Apendektomi
+
+Lipom
+
+Elastofibrom
+
+Ganglion Kisti
+
+Dupuytren
+
+Kolesteatom
+
+Mamoplasti
+
+Sleeve Gastrektomi (tüp mide)
+
+Liposuction (liposaksiyon)
+
+Travma Nedeniyle Splenektomi
+
+Keloid
+
+Piyojenik granülom
+
+Amputasyonlar
