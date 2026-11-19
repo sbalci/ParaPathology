@@ -21,6 +21,8 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Celldega]]"
   - "[[HistoCAM]]"
+  - "[[SlidePrep]]"
+  - "[[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]]"
 ---
 
 # GitHub Repositories
@@ -203,6 +205,10 @@ related_to:
 
 * [KatherLab/STAMP](https://github.com/KatherLab/STAMP) — Solid Tumor Associative Modeling in Pathology, an end-to-end weakly supervised deep learning pipeline developed by the Kather Lab (TU Dresden / RWTH Aachen) for biomarker prediction, multi-target classification, regression, and survival analysis directly from whole-slide images (El Nahhas et al., *Nature Protocols* 2025). Features unified preprocessing across 18+ foundation model extractors, slide/patient-level virtual slide concatenation, Vision Transformer / TransMIL / Barspoon architectures, spatial attention heatmaps, class maps, top/bottom predictive tile extraction, and native FastMCP server integration (`mcp/server.py`). Paired web GUI: [KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench). See dedicated tool note [STAMP](../computational-digital-and-mathematical-pathology/stamp.md) and literature review [From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology](../Clippings/From%20whole-slide%20image%20to%20biomarker%20prediction%20-%20end-to-end%20weakly%20supervised%20deep%20learning%20in%20computational%20pathology.md).
 
+{% embed url="https://github.com/INOU-2025/SlidePrep" %}
+
+* [INOU-2025/SlidePrep](https://github.com/INOU-2025/SlidePrep) — Modular Python 3.12 and TypeScript/Angular 21 pipeline for microscopy tile preprocessing, counting-chamber reticle artifact removal, and physically calibrated OME-TIFF whole-slide image stitching (Rodriguez-Conde, Campos & Fdez-Riverola, *SoftwareX* 2026; MIT License). Combines 3-class multi-level Otsu thresholding (`Combined Differential`), directional template matching, Random Forest border contour filtering, LaMa Fourier-convolution inpainting, and ASHLAR phase-correlation registration with a Dockerized FastAPI + Celery + Redis + libvips + OpenSeadragon web viewer and full-mosaic inpaint provenance mask export (`_inpaint_mask.tif`). See dedicated tool note [SlidePrep](../computational-digital-and-mathematical-pathology/slideprep.md) and literature review [SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions](../Clippings/SlidePrep%20-%20artifact%20removal%2C%20reconstruction%2C%20and%20visualization%20of%20whole-slide%20images%20from%20tiled%20microscopy%20acquisitions.md).
+
 <!-- tolaria:related:start -->
 
 ## See also
@@ -220,6 +226,8 @@ related_to:
 * [meddecide](../statistics-and-bioinformatics/meddecide.md)
 * [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md)
 * [Pangram: AI Content Detection Platform and Pangram 4 Classifier](../Clippings/Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md)
+* [SlidePrep](../computational-digital-and-mathematical-pathology/slideprep.md)
+* [SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions](../Clippings/SlidePrep%20-%20artifact%20removal%2C%20reconstruction%2C%20and%20visualization%20of%20whole-slide%20images%20from%20tiled%20microscopy%20acquisitions.md)
 * [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)
 
 <!-- tolaria:related:end -->

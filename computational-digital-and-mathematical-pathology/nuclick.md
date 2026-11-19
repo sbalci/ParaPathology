@@ -1,7 +1,7 @@
 ---
 type: Tool
 status: Evergreen
-language: en
+language: bilingual
 title: "NuClick"
 aliases:
   - "NuClick"
@@ -214,6 +214,192 @@ with torch.no_grad():
 - **Cell Instance Segmentation:** [HoVer-NeXt](hover-next.md), [HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides](../Clippings/HistoPLUS%20-%20Towards%20Comprehensive%20Cellular%20Characterisation%20of%20H%26E%20Slides.md), [CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification](../Clippings/CytoFormer%20-%20A%20Molecularly%20Supervised%20Cell%20Foundation%20Model%20for%20Histopathology%20Cell%20Classification.md), [HistoGen: Histopathology Cell Nuclei Image Generation Tool](../Clippings/HistoGen%20-%20Histopathology%20Cell%20Nuclei%20Image%20Generation%20Tool.md)
 - **Annotation & Infrastructure:** [Cytomine](cytomine.md), [Digital Pathology Software](digital-pathology-software.md), [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md), [Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images](../Clippings/Multiplex%20Immunofluorescence%20Image%20Analysis%20with%20QuPath%20-%20Part%201.md)
 - **Standards & Catalogs:** [Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH)](../Clippings/Regulatory%20Science%20Tools%20Catalog%20-%20Digital%20Pathology.md), [Articles on computational, digital, and mathematical pathology](articles-on-computational-digital-and-mathematical-pathology.md)
+
+# NuClick
+
+Mikroskobik nesnelerin (nükleuslar, hücreler ve bezler) kullanıcının nokta tıklamalarından yönlendirmeli (prompted) segmentasyonu için geliştirilmiş etkileşimli bir derin öğrenme çerçevesi. Tissue Image Analytics (TIA) Centre'da (University of Warwick) Mostafa Jahanifar, Navid Alemi Koohbanani, Neda Zamani Tajeddin ve Nasir Rajpoot tarafından geliştirilen NuClick, zahmetli el ile poligon çizimini anlık nokta tıklamalarına dönüştürür ve dijital patolojide temel bir küratörlük ve işaretleme (annotation) motoru işlevi görür.
+
+- **PyTorch Deposu:** [mostafajahanifar/nuclick_torch](https://github.com/mostafajahanifar/nuclick_torch/) — CC BY-NC-SA 4.0
+- **Temel Makale:** Koohbanani NA, Jahanifar M, Tajadin NZ, Rajpoot N. *NuClick: A deep learning framework for interactive segmentation of microscopic images.* Medical Image Analysis 65 (2020): 101771. [DOI: 10.1016/j.media.2020.101771](https://doi.org/10.1016/j.media.2020.101771); [arXiv:2005.14511](https://arxiv.org/abs/2005.14511)
+- **Önceden Eğitilmiş Ağırlıklar:** [NuClick mimarisi checkpoint'i](https://drive.google.com/file/d/1JBK3vWsVC4DxbcStukwnKNZm-vCSLdOb/view?usp=sharing) | [UNet mimarisi checkpoint'i](https://drive.google.com/file/d/1d_ypVYTsXoMrTVJaEfVRGS5CfLkxyViK/view?usp=sharing)
+- **Cytomine Entegrasyonu:** [TissueImageAnalytics/cytomine-app (`cytomine-interactive-segmentation-nuclick`)](https://github.com/TissueImageAnalytics/cytomine-app)
+
+---
+
+## Sorun: Hesaplamalı Patolojide İşaretleme Darboğazı
+
+Nükleer örnek (instance) segmentasyonu ve sınıflandırma algoritmalarının (HoVer-NeXt, CellViT ve Mask R-CNN gibi) denetimli eğitimi, kapsamlı referans standart (ground-truth) maskeler gerektirir. Ancak hematoksilen-eozin (H&E) preparatlarında piksel düzeyinde doğru, kapalı poligonal sınırlar oluşturmak bilindiği üzere son derece maliyetlidir:
+1. **El ile İşaretlemenin Zorluğu:** Tek bir nükleus sınırını el ile çizmek uzman bir patoloğun **30 ila 60 saniyesini** alır. 40× tek bir tam slayt görüntüsü (whole-slide image) yüz binlerce ile milyonlarca nükleus içerir; bu da kapsamlı el ile segmentasyonu maliyet açısından olanaksız kılar.
+2. **İşaretleyiciler Arası Sınır Uyumsuzluğu:** El ile sınır çizimi, nükleer zarfın nerede sona erdiği konusunda, özellikle üst üste binen, hiperkromatik veya veziküler nükleuslarda ciddi öznel farklılıklar gösterir.
+3. **Sınırlayıcı Kutunun Yetersizliği:** Kaba sınırlayıcı kutu (bounding box) işaretlemeleri, sonraki aşamalardaki şekil özellikleri (eksantrisite, dairesellik, çevre/alan oranı) veya uzaklık haritası eğitimi için gereken kesin morfolojik konturları sağlayamaz.
+
+NuClick bu ikilemi, el ile kontur çizimini hedef nesne başına **tek bir iç tıklama (sentroid)** ile değiştirerek çözer; işaretleme süresini **nükleus başına <1 saniyeye** indirirken standart ve nesnel sınır belirleme sağlar.
+
+---
+
+## Teknik Mimari ve Yönlendirme Mekanizması
+
+```typescript
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                NUCLICK PROMPTED INFERENCE PIPELINE                                     │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  [ Microscopic Image Patch (RGB) ]       [ User Click on Target ]       [ Neighbouring Cell Clicks ]
+                 │                                   │                                 │
+                 │ (3 channels)                      │ (1 channel)                     │ (1 channel)
+                 ▼                                   ▼                                 ▼
+      ┌───────────────────────┐           ┌──────────────────────┐          ┌──────────────────────┐
+      │  RGB Histology Tile   │           │    Inclusion Map     │          │    Exclusion Map     │
+      │   (128 × 128 px)      │           │ (Gaussian disk / dot │          │ (Disks at nearby     │
+      │                       │           │  at target centroid) │          │  neighbour centroids)│
+      └───────────┬───────────┘           └──────────┬───────────┘          └──────────┬───────────┘
+                  │                                  │                                 │
+                  └──────────────────────────────────┼─────────────────────────────────┘
+                                                     │ Concat to 5-Channel Tensor
+                                                     ▼
+                             ┌────────────────────────────────────────────────┐
+                             │       5-CHANNEL PROMPTED INPUT TENSOR          │
+                             │       Shape: [Batch, 5, Height, Width]         │
+                             └───────────────────────┬────────────────────────┘
+                                                     │
+                                                     ▼
+                             ┌────────────────────────────────────────────────┐
+                             │       DEEP CONVOLUTIONAL BACKBONE              │
+                             │   • Option A: Original NuClick CNN             │
+                             │   • Option B: Modified Skip-Connected U-Net    │
+                             └───────────────────────┬────────────────────────┘
+                                                     │
+                                                     ▼
+                             ┌────────────────────────────────────────────────┐
+                             │  Single-Channel Binary Segmentation Logits     │
+                             │  Loss: Weighted Binary Cross-Entropy + Dice    │
+                             └───────────────────────┬────────────────────────┘
+                                                     │ Threshold (p > 0.5)
+                                                     ▼
+                             ┌────────────────────────────────────────────────┐
+                             │    Output: Precise Target Nuclear Boundary     │
+                             │    (Exclusion map strictly prevents bleeding   │
+                             │     into adjacent neighboring nuclei)          │
+                             └────────────────────────────────────────────────┘
+```
+
+### Çift Dahil Etme/Dışlama Yönlendirme Haritası Mekanizması
+
+NuClick'in tanımlayıcı matematiksel yeniliği, **birbirini tamamlayan iki uzamsal yönlendirme kanalının** kullanılmasıdır:
+
+1. **Dahil Etme Haritası (Inclusion Map, $I_{\text{inc}}$):** Segmente edilecek hedef nükleusun içine yerleştirilen tek bir nokta veya küçük bir Gauss diski. Bir çekici (attractor) gibi davranarak alıcı alanı (receptive field) çevreleyen nesneyi segmente etmeye yönlendirir.
+2. **Dışlama Haritası (Exclusion Map, $I_{\text{exc}}$):** Yerel yama içindeki *diğer* tüm komşu nükleusların sentroidlerine yerleştirilen noktalar.
+   - Yoğun hücresel kümelerde (ör. solid tümör adaları, lenfoid agregatlar veya hiperplastik bezler) standart segmentasyon ağları belirsiz hücre-hücre sınırlarından sıklıkla taşar.
+   - Dışlama haritası açık bir **uzamsal bariyer / itici alan** gibi davranarak komşu nükleuslara doğru genişleyen her çıktı maskesini cezalandırır. Bu, nükleer membranlar doğrudan birbirine temas ettiğinde bile temiz örnek ayrımını garanti eder.
+
+### `nuclick_torch` İçindeki Ağ Varyantları
+
+- **NuClick Mimarisi:** Rezidüel birimler içeren, hızlı gerçek zamanlı etkileşimli çıkarım (inference) için özel olarak tasarlanmış, düşük parametre yüküne sahip hafif, çok ölçekli bir evrişimli sinir ağı.
+- **Geliştirilmiş NuClick U-Net:** Kodlayıcı-kod çözücü atlama bağlantıları (skip connections), özellik birleştirme ve dropout düzenlileştirmesi içeren modernize edilmiş simetrik bir U-Net mimarisi. Çok sayıda kanser türünü içeren veri derlemleri (14 endikasyonu kapsayan ConSEP ve PCNS) üzerinde eğitildiğinde U-Net varyantı doğrulamada **0.874+ Dice skorlarına** ulaşır ve karmaşık nükleer fenotipler için üstün sınır keskinliği sağlar.
+
+---
+
+## Konsorsiyum Kıyaslamaları ve Temel Modellerdeki Rolü
+
+NuClick yalnızca etkileşimli bir işaretleme GUI aracı değildir; öncü hesaplamalı patoloji çalışmalarında **temel sınır genişletme motoru** olarak görev yapar:
+
+### 1. HistoPLUS Aktif Öğrenme ve Uzlaşı Motoru
+
+HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides çalışmasında (Adjadj ve ark., *Journal of Pathology Informatics* 2026, [DOI: 10.1016/j.jpi.2026.100696](https://doi.org/10.1016/j.jpi.2026.100696)), Owkin, Bioptimus ve MOSAIC konsorsiyumu `nuclick_torch`'u standart sınır üreticisi olarak kullanmıştır:
+- **HistoTRAIN Küratörlüğü (108,722 Nükleus):** Patologlar Cytomine platformunda nokta sentroidleri ve fenotipik sınıf etiketleri yerleştirmiştir. `nuclick_torch` bu 108k noktayı otomatik olarak örnek segmentasyon maskelerine genişletmiş, insan küratörlük süresini $>90\%$ oranında azaltırken 6 kanser endikasyonunda sınır tanımlarını standartlaştırmıştır.
+- **HistoVAL Çok Okuyuculu Uzlaşı (69,108 Nükleus):** 3 bağımsız, board sertifikalı patolog karoları birbirinden bağımsız olarak işaretlemiştir (toplam 212,992 ham nokta işaretlemesi). NuClick tüm noktaları maskelere genişletmiş; Macar (Hungarian) örnek eşleştirmesi ($\text{IoU} > 0.4$) uyumsuzlukları filtreleyerek $\ge 2$ değerlendiricinin uzlaştığı nükleusları ayırmış; sentroidlerin ortalaması alınmış ve fenotipler oylamayla belirlenmiş; son bir NuClick çıkarım geçişiyle altın standart uzlaşı sınırları oluşturulmuştur.
+
+### 2. Cytomine ve Digital Pathology Software ile Entegrasyon
+
+University of Warwick TIA Centre'ın Docker tabanlı ekosistemi ([`cytomine-interactive-segmentation-nuclick`](https://github.com/TissueImageAnalytics/cytomine-app)) aracılığıyla NuClick, Cytomine web görüntüleyicileri içinde etkileşimli bir arka uç (backend) olarak çalışır. Patologlar tarayıcıda hücrelere tıklayabilir; sunucu saniyenin altındaki yanıt sürelerinde SVG/GeoJSON poligonal sınırlar döndürür.
+
+---
+
+## Kurulum ve Pratik Kullanım
+
+### 1. Kurulum
+
+```bash
+git clone https://github.com/mostafajahanifar/nuclick_torch.git
+cd nuclick_torch
+pip install -r requirements.txt
+```
+
+### 2. Komut Satırı Arayüzü (CLI)
+
+Tek bir görüntü için bir CSV nokta listesiyle (`x, y` koordinatları) sınır tahmini çalıştırın:
+
+```bash
+python predict.py \
+    --model unet \
+    --weights checkpoints/NuClick_Unet_40xAll.pth \
+    --input_image sample_he_patch.png \
+    --input_points nuclei_centroids.csv \
+    --output_dir ./predicted_masks/
+```
+
+Tüm bir yama dizini üzerinde toplu çıkarım çalıştırın:
+
+```bash
+python predict.py \
+    --model unet \
+    --weights checkpoints/NuClick_Unet_40xAll.pth \
+    --imgdir ./data/patches/ \
+    --pntdir ./data/points/ \
+    --output_dir ./data/segmented_masks/
+```
+
+### 3. Python API Entegrasyonu
+
+```python
+import torch
+import numpy as np
+from PIL import Image
+
+# 1. Load image and points
+image = np.array(Image.open("patch_40x.png")) # H, W, 3
+points = [(124, 86), (210, 145), (312, 280)] # (x, y) coordinates
+
+# 2. Construct 5-channel tensor for target nucleus (e.g. index 0)
+target_pt = points[0]
+other_pts = points[1:]
+
+h, w, _ = image.shape
+inclusion_map = np.zeros((h, w), dtype=np.float32)
+inclusion_map[target_pt[1], target_pt[0]] = 1.0
+
+exclusion_map = np.zeros((h, w), dtype=np.float32)
+for opt in other_pts:
+    exclusion_map[opt[1], opt[0]] = 1.0
+
+# 3. Stack to [1, 5, H, W]
+input_tensor = np.concatenate(
+    [image / 255.0, inclusion_map[..., None], exclusion_map[..., None]], 
+    axis=-1
+).transpose(2, 0, 1)
+input_tensor = torch.tensor(input_tensor, dtype=torch.float32).unsqueeze(0).cuda()
+
+# 4. Infer with pretrained NuClick U-Net
+model = torch.load("checkpoints/NuClick_Unet_40xAll.pth").cuda().eval()
+with torch.no_grad():
+    pred_mask = (torch.sigmoid(model(input_tensor)) > 0.5).cpu().numpy().squeeze()
+```
+
+---
+
+## Kasa (Vault) Bağlamı ve Karşılaştırmalı Konumlandırma
+
+- **NuClick ve HoVer-NeXt / HoVer-Net:** HoVer-NeXt, tüm nükleusları eşzamanlı olarak segmente etmek için yatay-dikey uzaklık alanlarını tahmin eden, yönlendirmesiz (unprompted), tam otomatik bir tam slayt çıkarım motorudur. NuClick ise insan-döngüde (human-in-the-loop) etkileşimli işaretleme ve referans standart eğitim veri setleri oluşturma için optimize edilmiş, yönlendirmeli, tıklama güdümlü bir motordur.
+- **NuClick ve Segment Anything (SAM / MedSAM):** SAM genel amaçlı nokta yönlendirmesi sunsa da, sıkı kümelenmiş H&E nükleuslarındaki sınır belirlemesi, dışlama önsellerinin (priors) bulunmaması nedeniyle sıklıkla sınır bulanıklığı gösterir veya komşu kromatini birleştirir. NuClick'e özgü dışlama haritası komşu hücreleri açıkça cezalandırarak üstün çoklu örnek nükleer ayrımı sağlar.
+- **HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides için Yukarı Akış Küratörlüğü:** NuClick olmadan, 6 endikasyondaki 108k'lık HistoTRAIN veri setinin küratörlüğü ve 212k işaretleme üzerinden Macar uzlaşısının türetilmesi yıllar süren el ile çizim gerektirirdi.
+
+---
+
+## İlgili Notlar
+
+- **Hücre Örnek Segmentasyonu:** HoVer-NeXt, HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides, CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification, HistoGen: Histopathology Cell Nuclei Image Generation Tool
+- **İşaretleme ve Altyapı:** Cytomine, Digital Pathology Software, From Samples to Knowledge 2025: QuPath Training Course, Multiplex Immunofluorescence Image Analysis with QuPath — Part 1: Understanding Digital Images
+- **Standartlar ve Kataloglar:** Regulatory Science Tools Catalog: Digital Pathology (FDA CDRH), Articles on computational, digital, and mathematical pathology
 
 <!-- tolaria:related:start -->
 

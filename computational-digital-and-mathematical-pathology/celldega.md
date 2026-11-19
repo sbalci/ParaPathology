@@ -1,7 +1,7 @@
 ---
 type: Tool
 status: Evergreen
-language: en
+language: bilingual
 title: "Celldega"
 aliases:
   - "Celldega"
@@ -70,6 +70,51 @@ Celldega provides distinct visualization modalities:
 | **Backend Storage** | S3 object store (OME-Zarr, OME-TIFF, GeoTIFF) | DegaFiles (GeoParquet / Parquet with row-group indexing) | Zarr / AnnData / OME-TIFF |
 | **Streaming Mechanism** | DuckDB-WASM & Viv multi-scale tiles | Parquet-WASM byte-range streaming via deck.gl | Viv multi-resolution loaders |
 | **Target Workload** | Petabyte-scale clinical digital pathology workflows | Billion-transcript spatial exploratory analysis | Multimodal exploratory dashboards |
+
+# Celldega
+
+Broad Institute of MIT and Harvard tarafından geliştirilmiş, kaynak kodu erişilebilir (source-available) bir görselleştirme araç takımı ve uzamsal biyoloji keşif motoru (Fernandez, Ishar, Wang, Ben Saad, Lipinski & Farhi, *bioRxiv* 2026). Celldega, istemci tarafındaki uzamsal omik ve multipleks dijital patoloji veri setlerinin (>1 milyar transkript, milyonlarca segmente edilmiş hücre) ölçeklenebilirlik darboğazını, tarayıcıya özgü akış (streaming), GPU hızlandırmalı görüntüleme (rendering) ve özelleşmiş sütunsal (columnar) depolama formatlarından yararlanarak aşmak üzere tasarlanmıştır.
+
+- **Dokümantasyon ve Web Görüntüleyici:** [broadinstitute.github.io/celldega](https://broadinstitute.github.io/celldega/)
+- **GitHub Deposu:** [broadinstitute/celldega](https://github.com/broadinstitute/celldega)
+- **Ön baskı (preprint):** Fernandez et al. *Celldega: Integrated Toolkit for Visualization and Analysis of Spatial Data.* bioRxiv (2026). [DOI: 10.64898/2026.08.13.744672v2](https://doi.org/10.64898/2026.08.13.744672v2)
+- **Etkileşimli Notebook Demosu:** [molab üzerinde marimo etkileşimli notebook](https://molab.marimo.io/notebooks/nb_A6JG5XUg5EPJyMwNDcsM18)
+
+**Lisans 1 Ekim 2026'da kontrol edilmiştir:** Kaynak depodaki [`726b57c` commit'indeki LICENSE.txt](https://github.com/broadinstitute/celldega/blob/726b57cfeff1a0e70b06b91b079bd592b91daeca/LICENSE.txt) dosyası Broad Institute Academic Software License'tır. Bu lisans, akademik/kâr amacı gütmeyen araştırmacılara belirli eğitim ve akademik araştırma kullanımları için izin verir ve ticari kuruluşları lisanslama için Broad'a yönlendirir. Kullanım veya yeniden dağıtımdan önce tüm koşulları okuyun. Bu kontrol yalnızca lisansla ilgilidir; aşağıdaki araştırma ve performans özeti yeniden değerlendirilmemiştir.
+
+---
+
+## Mimari Öne Çıkan Özellikler ve Yenilikler
+
+### 1. DegaFiles ve Row Group Tabanlı Uzamsal İndeksleme
+Geleneksel uzamsal transkriptomik veri depolama, multipleks veri setlerini on binlerce parçalı dosyaya ya da tarayıcı belleğini aşırı yükleyen hacimli tek parça (monolitik) tablolara böler. Celldega, Apache Parquet ve GeoParquet üzerine kurulu açık bir depolama kuralı olan **DegaFiles**'ı sunar:
+- 50.000'den fazla ayrı koordinat/öznitelik dosyasını ~10 yapılandırılmış Parquet tablosunda birleştirir.
+- Uzamsal karo (tile) koordinatlarının doğrudan Parquet row group'larına eşlendiği uzamsal indeksleme kullanır (`row_group_index = tile_x * num_tiles_y + tile_y`).
+- WebAssembly (`parquet-wasm` ve Apache Arrow) aracılığıyla bayt aralıklı (byte-range) HTTP akışından yararlanır; sunucu tarafında Python çekirdeği (kernel) gerektirmeden yalnızca kullanıcının etkin görüş alanı (viewport) için gereken bayt parçalarını getirir.
+
+### 2. GPU Hızlandırmalı Çok Katmanlı Görüntüleme
+[deck.gl](https://deck.gl/) ve HTML5 Canvas üzerine kurulu olan Celldega, yüz milyonlarca uzamsal veri noktasını, poligonal hücre segmentasyonlarını ve çok kanallı görüntü piramitlerini eşzamanlı olarak 60 fps hızında görüntüler:
+- **Uzamsal Hizalama:** Yüksek çözünürlüklü tüm lam (whole-slide) parlak alan/floresan görüntüleri tek hücre transkriptomik anotasyonlarıyla eş-kayıtlar (co-registration).
+- **Dinamik Renklendirme ve Geçitleme (Gating):** Sunucuda yeniden hesaplama gerektirmeden, istemci tarafında gerçek zamanlı ekspresyon eşikleri ve küme yeniden renklendirmesi.
+
+### 3. Özelleşmiş Analitik Görünümler
+Celldega farklı görselleştirme modaliteleri sunar:
+- **Landscape View:** Hücre segmentasyon maskelerini ve tek tek transkript noktalarını birleştiren, doku kesitlerinin 2B çok katmanlı uzamsal incelemesi.
+- **Yearbook View:** Fenotipik kümeler boyunca izole morfolojiyi gösteren yüksek verimli tek hücre galerisi.
+- **CellCloud & NeighborhoodCloud:** Boyut indirgenmiş manifoldları (UMAP/t-SNE) doğrudan uzamsal koordinatlara geri bağlayan 3B yörüngesel gömme (embedding) görselleştiricileri.
+- **Clustergram & Composition:** Histolojik doku bölgeleri boyunca hücre tipi bileşimlerini gösteren etkileşimli ısı haritaları.
+- **Enrich:** Seçilen uzamsal bölgelerden anında yolak (pathway) ve gen seti zenginleştirme sorguları için Enrichr ile doğrudan entegrasyon.
+
+---
+
+## Mevcut Uzamsal Sistemlerle Karşılaştırma
+
+| Boyut | Cytario | Celldega | Vitessce |
+|---|---|---|---|
+| **Birincil Kapsam** | Görüntü Yönetim Sistemi (IMS) ve klinik WSI görüntüleyici | Uzamsal omik ve multipleks transkriptomik analitiği | Genel biyogörüntüleme ve uzamsal omik kontrol paneli |
+| **Arka Uç Depolama** | S3 nesne deposu (OME-Zarr, OME-TIFF, GeoTIFF) | DegaFiles (row group indeksli GeoParquet / Parquet) | Zarr / AnnData / OME-TIFF |
+| **Akış Mekanizması** | DuckDB-WASM ve Viv çok ölçekli karolar | deck.gl üzerinden Parquet-WASM bayt aralıklı akış | Viv çok çözünürlüklü yükleyiciler |
+| **Hedef İş Yükü** | Petabayt ölçekli klinik dijital patoloji iş akışları | Milyar transkriptlik uzamsal keşifsel analiz | Multimodal keşifsel kontrol panelleri |
 
 <!-- tolaria:related:start -->
 

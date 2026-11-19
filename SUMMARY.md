@@ -88,6 +88,7 @@
 * [Ambient, real-time digitization and datafication of glass slide microscopy towards AI-at-the-microscope](Clippings/Ambient%2C%20real-time%20digitization%20and%20datafication%20of%20glass%20slide%20microscopy%20towards%20AI-at-the-microscope.md)
 * [From operating room to pathology report: Delphi consensus on pathological assessment of peritoneal cytology and biopsies in staging laparoscopy for gastric cancer](Clippings/From%20operating%20room%20to%20pathology%20report%20-%20Delphi%20consensus%20on%20pathological%20assessment%20of%20peritoneal%20cytology%20and%20biopsies%20in%20staging%20laparoscopy%20for%20gastric%20cancer.md)
 * [Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology](Clippings/Guidance%20for%20laboratory%20implementation%2C%20governance%20and%20continuous%20assurance%20of%20artificial%20intelligence%20in%20histopathology.md)
+* [SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions](Clippings/SlidePrep%20-%20artifact%20removal%2C%20reconstruction%2C%20and%20visualization%20of%20whole-slide%20images%20from%20tiled%20microscopy%20acquisitions.md)
 
 ## Medical School Lectures
 
@@ -258,6 +259,7 @@
   * [M-Optimus](computational-digital-and-mathematical-pathology/m-optimus.md)
   * [Celldega](computational-digital-and-mathematical-pathology/celldega.md)
   * [HistoCAM](computational-digital-and-mathematical-pathology/histocam.md)
+  * [SlidePrep](computational-digital-and-mathematical-pathology/slideprep.md)
 * [Analysis](computational-digital-and-mathematical-pathology/analysis.md)
 * [Telepathology](computational-digital-and-mathematical-pathology/telepathology.md)
 * [Cytomine](computational-digital-and-mathematical-pathology/cytomine.md)

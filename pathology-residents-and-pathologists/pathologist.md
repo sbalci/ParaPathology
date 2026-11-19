@@ -1,6 +1,6 @@
 ---
 status: Evergreen
-language: en
+language: bilingual
 type: Topic
 order: 10
 belongs_to: "[[Pathology Residents and Pathologists]]"
@@ -177,6 +177,210 @@ References:
 2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
 
 ## Pathologist
+
+#### Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
+
+{% embed url="https://thepathologist.com/issues/0717/educating-the-digital-generation/" %}
+
+
+
+#### Pathocholesteatoma (Pathoma parody): Yale Med 2017 Second Year Show
+
+{% embed url="https://www.youtube.com/watch?v=qyQPxaqfcZI" %}
+
+
+
+#### Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
+
+[https://thepathologist.com/issues/0717/educating-the-digital-generation/](https://thepathologist.com/issues/0717/educating-the-digital-generation/)
+
+#### Pathocholesteatoma (Pathoma parody): Yale Med 2017 Second Year Show
+
+[https://www.youtube.com/watch?v=qyQPxaqfcZI](https://www.youtube.com/watch?v=qyQPxaqfcZI)
+
+
+
+#### Washington University in St. Louis Nephrology Web Series
+
+{% embed url="https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos" %}
+
+
+
+#### Washington University in St. Louis Nephrology Web Series
+
+[https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos](https://www.youtube.com/channel/UC1mJLTtBsf6PTbuiv08vcOA/videos)
+
+# Patolog
+
+#### Bir Patoloğun Nitelikleri
+
+İyi bir patoloğu ne oluşturur? Her şeyden önce, bence örüntü tanımada iyi olmanız gerekir... Düşüncenizde titiz olmanız gerekir: "Peki, bunu daha önce görmediysem, tanıyı koyabilmek için ne yapmalıyım? Ek histokimyasal boyalar mı yapmalıyım? Bunu başka birine mi göstermeliyim? Bu konuda kitaplardan okuma mı yapmalıyım?" Ve bunu öğrenmeye oldukça kararlı olmanız gerekir. **Paola Domizio** (Birleşik Krallık)
+
+
+
+#### Choosing a Pathology Subspecialty: Have You Considered Patient Contact?
+
+{% embed url="http://www.pathspective.com/pathology-subspecialty-patient-contact/" %}
+
+
+
+####
+
+#### Koleksiyonlar
+
+* Yapmamız gereken tam olarak bu. Toplamak, Kataloglamak, Sınıflandırmak ve Paylaşmak. [#**pathologists**](https://twitter.com/hashtag/pathologists?src=hash) hastalıkların kataloglarını oluşturan hırslı koleksiyonculardır. Koleksiyonlar, asistanlar ve eğitim veren bölümler için zorunlu olmalıdır.
+
+{% embed url="https://twitter.com/serdarbalci/status/948532412606230528" %}
+
+
+
+{% embed url="https://twitter.com/smlungpathguy/status/948178150969761792" %}
+
+
+
+#### Lauren V. Ackerman: a wit, a rogue, a giant: selected anecdotes
+
+[#**pathologist**](https://twitter.com/hashtag/pathologist?src=hash) için önerim, Prof. [@**juan\_rosai**](https://twitter.com/juan\_rosai) tarafından yazılmış bu [#**article**](https://twitter.com/hashtag/article?src=hash) yazının bir kopyasını çekmecenizde tutmanız ve arada bir okumanızdır
+
+{% embed url="https://www.sciencedirect.com/science/article/pii/S0740257008000531" %}
+
+
+
+
+
+#### Diğer adıyla
+
+Bilgisi şüpheli kişilerin sağladığı güvenilmez verilere dayanarak hassas tahmin yürüten kişi
+
+{% embed url="https://twitter.com/roland_jong/status/1115639058179526656" %}
+
+####
+
+#### Dersin Adı:Patoloji Laboratuvarı, Nasıl çalışır?
+
+Gerekli Ön Bilgi:Histoloji laboratuvarı derslerinde anlatılan histoloji teknikleri
+
+Dersin Amacı:Hastanelerde bir patoloji laboratuvarının nasıl işlediğine dair kısa bir giriş yapmak.
+
+Dersin hedefleri:
+
+Öğrenciler patoloji laboratuvarının hastane ortamında nasıl işlediği hakkında temel bilgi sahibi olacaktır
+
+Öğrenciler patologların hastanelerdeki işlevi hakkında temel bilgi sahibi olacaktır
+
+Ders Ana Hatları:
+
+* Materyal Tipleri - Biyopsi
+*
+  * Kor biyopsi, tru-cut biyopsi
+  * İnsizyonel biyopsi
+  * Eksizyonel Biyopsi
+  * Radikal eksizyon
+* Materyal Tipleri - Sitoloji
+*
+  * Eksfoliyatif Sitoloji
+  * Aspirasyon Sitolojisi
+* Patoloji laboratuvarında kayıt ve iş akışı
+* Makroskopi
+*
+  * Materyal fotoğrafı
+  * Materyal arşivi
+  * Kılavuzlara uygun şekilde uygun örneklerin alınması
+* Doku takibi
+* Parafine gömme (bloklama)
+* Mikrotom
+* H\&E
+* Mikroskopi
+* Otopsi
+* Frozen kesit (dondurulmuş kesit)
+* Özel teknikler
+*
+  * Histokimya
+  * Enzim Histokimyası
+  * İmmünohistokimya
+  * İmmünofloresan
+  * In-situ hibridizasyon
+* Moleküler Teknikler
+* Patoloji Arşivi
+*
+  * Parafin bloklar
+  * Preparatlar
+  * Basılı ve Elektronik Raporlar
+* Bir patoloğun ürünü rapordur
+* Klinisyenlerle ilişki ve iletişim
+* Hastalarla ilişki ve iletişim
+* Konsültasyonlar
+* Telepatoloji
+* Dijital Patoloji ve Sanal Preparatlar
+
+Kaynaklar:
+
+2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
+
+Son güncelleme:01.05.2015
+
+Dersin Adı:Patoloji Laboratuvarı, Nasıl çalışır?
+
+Gerekli Ön Bilgi:Histoloji laboratuvarı derslerinde anlatılan histoloji teknikleri
+
+Dersin Amacı:Hastanelerde bir patoloji laboratuvarının nasıl işlediğine dair kısa bir giriş yapmak.
+
+Dersin hedefleri:
+
+Öğrenciler patoloji laboratuvarının hastane ortamında nasıl işlediği hakkında temel bilgi sahibi olacaktır
+
+Öğrenciler patologların hastanelerdeki işlevi hakkında temel bilgi sahibi olacaktır
+
+Ders Ana Hatları:
+
+* Materyal Tipleri - Biyopsi
+*
+  * Kor biyopsi, tru-cut biyopsi
+  * İnsizyonel biyopsi
+  * Eksizyonel Biyopsi
+  * Radikal eksizyon
+* Materyal Tipleri - Sitoloji
+*
+  * Eksfoliyatif Sitoloji
+  * Aspirasyon Sitolojisi
+* Patoloji laboratuvarında kayıt ve iş akışı
+* Makroskopi
+*
+  * Materyal fotoğrafı
+  * Materyal arşivi
+  * Kılavuzlara uygun şekilde uygun örneklerin alınması
+* Doku takibi
+* Parafine gömme (bloklama)
+* Mikrotom
+* H\&E
+* Mikroskopi
+* Otopsi
+* Frozen kesit (dondurulmuş kesit)
+* Özel teknikler
+*
+  * Histokimya
+  * Enzim Histokimyası
+  * İmmünohistokimya
+  * İmmünofloresan
+  * In-situ hibridizasyon
+* Moleküler Teknikler
+* Patoloji Arşivi
+*
+  * Parafin bloklar
+  * Preparatlar
+  * Basılı ve Elektronik Raporlar
+* Bir patoloğun ürünü rapordur
+* Klinisyenlerle ilişki ve iletişim
+* Hastalarla ilişki ve iletişim
+* Konsültasyonlar
+* Telepatoloji
+* Dijital Patoloji ve Sanal Preparatlar
+
+Kaynaklar:
+
+2. How to Read Your Pathology Report:[http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf](http://www.cap.org/ShowProperty?nodePath=/UCMCon/Contribution%20Folders/WebContent/pdf/how-to-read-pathology-report.pdf)
+
+## Patolog
 
 #### Educating the Digital Generation: Adjusting to new technologies can be difficult – but rising to the challenges could change the face of medical training
 

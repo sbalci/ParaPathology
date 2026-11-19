@@ -1,7 +1,7 @@
 ---
 type: Topic
 status: Developing
-language: en
+language: bilingual
 belongs_to: "[[Digital Pathology]]"
 order: 15
 related_to:
@@ -41,6 +41,36 @@ The reporting and appraisal resources in [ai-study-appraisal](../writing-journal
 - Use the **Evidence to Review** saved view for unappraised Clippings and notes explicitly marked for further review. Use **Clippings to Process** to find notes still missing topic relationships.
 
 New research questions suggested by this reading set include an evidence map of GI/liver histology AI by intended use, a reader study of accuracy and incorrect-suggestion uptake, and external evaluation of the incremental value of spatial budding features. These are study ideas whose novelty and feasibility still require dedicated assessment.
+
+# Dijital patoloji kanıtları
+
+Bu merkez not, dijital patoloji araçlarını kanıtlarının yanıtlayabileceği sorularla ilişkilendirir: bir özelliği ne kadar iyi ölçtükleri, başka bir laboratuvara aktarılabilir olup olmadıkları, okuyucuyu nasıl etkiledikleri ve klinik bir kararı iyileştirip iyileştirmedikleri. Her çalışmanın amaçlanan kullanımını, validasyon tasarımını, belirsizliğini ve yanıtlanmamış sorularını kaydetmek için ai-study-appraisal notunu kullanın.
+
+Aşağıdaki girdiler, 28 Eylül 2026'da Life Sciences Literature'ın PubMed ve PMC becerileri ile birincil yayıncı kaynakları kullanılarak kontrol edilmiş hedefli bir okuma setidir. Bunlar kapsamlı bir derleme ya da tamamlanmış yanlılık riski (risk-of-bias) değerlendirmeleri değildir. Sayısal sonuçlarını kullanmadan önce bağlantılı her notun inceleme kapsamını okuyun.
+
+| Soru | Çalışma ve bağlantılı notlar | Desteklenen bulgu | Kanıtın sınırı |
+|---|---|---|---|
+| Performans teknik ve kurumlar arası varyasyona karşı korunuyor mu? | [Kömen et al., 2026](https://doi.org/10.1038/s41467-026-73923-2); Towards robust foundation models for digital pathology; croma | PathoROB, değerlendirilen 20 temel modelin (foundation model) tamamında dayanıklılık (robustness) eksiklikleri saptadı; test edilen iyileştirme yöntemleri sorunları azalttı ancak ortadan kaldırmadı. | Kıyaslama (benchmark) sonuçları görevlere, kohortlara ve karıştırıcı koşullara bağlıdır. Evrensel olarak en iyi klinik modeli belirlemezler. |
+| Yardım, okuyucunun yargısını iyileştiriyor mu? | [Frei et al., 2025](https://doi.org/10.1007/s00428-025-04163-w); diagnosis-accuracy-interobserver-and-intraobserver-reliability | 10 bölgeli bir kolorektal kanser deneyinde yardım değişkenliği azalttı; ancak bazı katılımcılar, başlangıçta referansa daha yakın olmalarına rağmen bir görüntüde hatalı bir çıktıyı izledi. | Küçük, ardışık bir ROI (ilgi alanı) deneyi rutin iş akışında yarar sağlandığını göstermez. Uyum ve doğruluk ayrı ayrı değerlendirilmelidir. |
+| Histolojik bir skor daha tekrarlanabilir hâle gelebilir mi? | [Pulaski et al., çevrimiçi 2024; sayı 2025](https://doi.org/10.1038/s41591-024-03301-2); Clinical validation of an AI-based pathology tool for scoring of metabolic dysfunction-associated steatohepatitis | AIM-MASH destekli değerlendirmeler, balonlaşma ve inflamasyon için konsensüs referansıyla uyumu artırdı; steatoz ve fibroz için daha düşük olmama (non-inferiority) ölçütünü karşıladı. | Amaçlanan kullanım klinik çalışma skorlamasıydı. Arşivlenmiş klinik çalışma örnekleri ile prospektif olarak toplanan okuyucu değerlendirmeleri ayrı ayrı tanımlanmalıdır. |
+| Yeni bir uzamsal ölçüm ek bilgi sağlıyor mu? | [Äijälä et al., 2026](https://doi.org/10.1007/s00428-026-04471-9); Distance-based evaluation of tumor budding in colorectal cancer; ilişkili [tomurcuk–T hücresi graf çalışması](https://proceedings.mlr.press/v227/studer24a.html) | İki kohortta tomurcuk mesafesi kötü sonlanımla ilişkiliydi, ancak raporlanan analizlerde konvansiyonel tomurcuklanmanın ötesinde prognostik bilgi eklemedi. | Bu, değerlendirilen mesafe ölçütüne ilişkin bir sonuçtur. Tüm uzamsal veya graf özelliklerinin değerini ya da değersizliğini göstermez. |
+| Görüntüleme zincirinde neler valide edildi? | [Evans et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34003251/); quality-and-standardisation; Considerations for digital pathology displays | CAP kılavuzu, WSI'nın (tüm lam görüntüleme) cam lam yorumuna karşı tanısal validasyonunu ele alır. | WSI sistemi validasyonu, ekran tedarik önerileri ve yapay zekâ modeli validasyonu farklı soruları yanıtlar. |
+
+## Bu kanıtlar nasıl kullanılmalı
+
+Tanımlanmış bir görev ve hedef popülasyonla başlayın. Ardından geliştirme sonuçlarını, dış validasyonu, okuyucu deneylerini ve canlı klinik değerlendirmeyi birbirinden ayırın. Hasta, örnek, lam ve görüntü sayılarını ayrı ayrı koruyun; görüntü sayısı hasta örneklem büyüklüğü değildir.
+
+Bir tahmin (prediction) modeli için, mevcut klinik temel düzeyin ötesinde bilgi ekleyip eklemediğini ve tahmin edilen risklerinin kalibre olup olmadığını sorgulayın. Bir ölçüm aracı için tekrarlanabilirliği (repeatability), yeniden üretilebilirliği (reproducibility), referans standardı ve uyumsuzlukların nasıl ele alındığını kaydedin. Bir yardımcı (asistan) için hem düzeltilen hataları hem de hatalı önerilerin yol açtığı yeni hataları inceleyin. Bunlar değerlendirme için yönlendirici sorulardır; uygulanabilir resmî bir değerlendirme aracının yerini tutmaz.
+
+ai-study-appraisal notundaki raporlama ve değerlendirme kaynakları; tahmin modeli raporlamasını (TRIPOD+AI), tanısal doğruluk raporlamasını (STARD-AI), tahmin modelinde yanlılık/uygulanabilirlik değerlendirmesini (PROBAST+AI) ve erken canlı değerlendirmeyi (DECIDE-AI) birbirinden ayırır.
+
+## İnceleme öncelikleri
+
+- Seçilen çalışmaları nicel olarak karşılaştırmadan önce alan düzeyinde değerlendirmeyi ve sayısal veri çıkarımını tamamlayın.
+- Navigating foundation model selection in digital pathology through performance evaluation and tradeoff analysis için kaynağı netleştirin. Hedefli kontrolde DOI sorgusu PubMed kaydı döndürmedi; bu aramada bulunamaması makalenin var olmadığının kanıtı değildir.
+- Değerlendirilmemiş Clipping'ler ve açıkça ileri inceleme için işaretlenmiş notlar için **Evidence to Review** kayıtlı görünümünü kullanın. Hâlâ konu ilişkileri eksik olan notları bulmak için **Clippings to Process** görünümünü kullanın.
+
+Bu okuma setinin düşündürdüğü yeni araştırma soruları arasında, GI/karaciğer histolojisi yapay zekâsının amaçlanan kullanıma göre bir kanıt haritası, doğruluk ve hatalı öneri benimsenmesine yönelik bir okuyucu çalışması ve uzamsal tomurcuklanma özelliklerinin artımsal değerinin dış değerlendirmesi yer alır. Bunlar, özgünlükleri ve uygulanabilirlikleri hâlâ ayrıca değerlendirilmesi gereken çalışma fikirleridir.
 
 <!-- tolaria:related:start -->
 

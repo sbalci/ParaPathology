@@ -1,7 +1,7 @@
 ---
 type: Note
 status: Evergreen
-language: en
+language: bilingual
 aliases:
   - "Pathology as a Career"
 order: 180
@@ -57,6 +57,55 @@ copied from: [https://www.facebook.com/ePathology/posts/10156360987684910](https
 >     I know enough people who are still living with the regret of opting for Pathology.
 >
 >     Author: Anonymous Pathologist
+
+# Bir Kariyer Olarak Patoloji
+
+* Patolog olmak ya da olmamak ...
+
+şuradan kopyalanmıştır: [https://www.facebook.com/ePathology/posts/10156360987684910](https://www.facebook.com/ePathology/posts/10156360987684910)
+
+> NEET Counselling (tercih ve yerleştirme süreci) devam ederken (artık bitti mi?) birkaç arkadaşımdan / tanıdığımdan, uzmanlık eğitimi için Patolojinin iyi bir seçenek olup olmadığını soran telefonlar aldım. Bu bana ilk kez sorulmuyor ama her seferinde yüzümü güldürüyor.\
+> Çünkü bu sorunun ardındaki neden şu -- Patolojinin nasıl bir şey olduğunu kimse hatırlamıyor! Yani, kimse pediatri ya da cerrahi ya da dermatoloji ya da göz hastalıkları vb. iyi bir seçenek mi diye sormuyor. Ama Patoloji ... hmm... Patolojide tam olarak ne öğrenmiştik? Robbins kitabının sayfa numaralarını hâlâ hatırlayan dâhilerden özür dileyerek, öğrencilerin çoğunluğu için Patolojinin oldukça belirsiz ve kafa karıştırıcı bir ders olduğunu söyleyebilirim; bu derste bütün hastalıkların patogenezi ve morfolojisi, aynı kelimelerin karmakarışık edilip birbirinden biraz farklı sıralarla yeniden dizilmesinden oluşuyor gibiydi. Ya da patolojiyle arası gerçekten hiç iyi olmayan grup için, köşesi kırık preparatın kolon adenokarsinomu, etiketi yırtık preparatın amipiyazis vb. olduğu dersti. Bugünün MBBS öğrencilerinin internete erişimleri sayesinde çok daha iyi bir kavrayışa sahip olduklarını tahmin ediyorum.\
+> Ama ASIL soruya dönelim -- Patoloji uzmanlık eğitimi için iyi bir seçenek mi? Genellikle başka bir soruyla yanıt veriyorum -- Patolojinin neden iyi bir seçenek olacağını düşünüyorsun? -- ve sık duyulan yanıtlar şunlar:
+>
+> 1. Eşimin benim kadar meşgul olmasını istemiyorum, o yüzden ona Patolojiyi seçmesini söyledim (Eşi de doktor olan erkek doktorların bir numaralı yanıtı. Bu kocalar sonunda büyük pişmanlık duyuyor). &#x20;
+> 2. Uzmanlık eğitimi için yoğun temposu olan bir dal istemiyorum, o yüzden Patolojiyi düşündüm (Hemen köşede büyük bir hayal kırıklığı bekliyor). &#x20;
+> 3. Dahiliyeyi (İç Hastalıklarını) kazanamadım, o yüzden en yakın seçenek Patoloji (Hı? Gerçekten mi?). &#x20;
+> 4.  Ne geldiyse onu aldım, o kadar.
+>
+>     Her durumda hep aynı yanıtı veriyorum -- Patolojiyi YALNIZCA bu bilimi seviyorsan seç.\
+>     Neden?
+>
+>     1.Patoloji kolay değildir.\
+>     Preparattaki doku size bayrak sallayıp 'Ben sinovyal sarkomum' ya da 'Ben marjinal zon lenfomasıyım' demeyecek. Üç boyutlu dokuların iki boyutlu kesitlerine bakıyorsunuz. Dolayısıyla baktığınız şeyin belki de hiç tümöral bir süreç olmadığını, aksine yanlış açıyla kesilmiş bir doku kesiti olduğunu fark etmek beceri ve keskin, eğitilmiş bir göz gerektirir. Ders kitaplarındaki siyah-beyaz tanılar, gri zon tanılarından oluşan uçsuz bucaksız bir okyanus için yalnızca birer referanstır. Kimi zaman bir tanıya ulaşılabilmesi için muazzam bir sabır ve hacimli ciltlerle çevrimiçi literatür arasında yorulmadan yapılan bir eleme gerekir.
+> 5. Sıfırdan başlıyorsunuz.\
+>    MBBS 2. sınıfı geçtikten sonra aklınızdaki her şey silindiyse, uzmanlık eğitiminin 1. yılında normal histolojiden başlayacaksınız. Ancak aklınızdakiler hâlâ yerinde olsa bile, şunu unutmayın: 2. sınıfta tanı koymayı öğrendiğiniz bütün preparatlar, devasa bir buzdağının minicik bir ucundan ibaretti.
+> 6. Uzun bir yol.\
+>    Patoloji büyük ölçüde ilerledi. Histomorfoloji, immünohistokimyaya karşı geri plana çekildi; immünohistokimya da moleküler patolojiye karşı geri plana çekilme yolunda. Yan dallar önem kazanıyor ve her biri için DM (yan dal uzmanlığı) programlarının ortaya çıkması çok uzun sürmeyecek. Yani normal histolojide sıfırdan başlıyorsanız, önünüzde uzun ve yorucu bir yolculuk var.
+> 7. Kokulu, pis bir iş.\
+>    Evet, öyle. Dışkıyla dolu kolonlar, dermoid kistler, ülsere skuamöz hücreli karsinomlar, formalin, asetik asit, amonyak .... burnunuz çok saldırıya uğrayacak. O yüzden alışın.\
+>    Ve sürpriz! -- Adli Tıp, Patolojinin kaçınılmaz bir parçasıdır. Adli tıp stajınızı hatırlıyor musunuz? Karın açıldığında gelen o kokuyu hatırlıyor musunuz? İşte, otopsi yapmanız gerekecek.
+> 8. Yalnız bir iş.\
+>    Çoğu zaman yalnızca Siz, Kendiniz ve Mikroskop olacaksınız. Sessizlik ve yalnızlık.
+> 9. Steteskopa veda edin.\
+>    Bunun büyüklüğü bazılarına ancak Patolojide biraz yol aldıktan sonra dank edebilir. Hastalarınız size kavanozlar içinde gelecek -- formalinde bekletilmiş organlar olarak. Hastalarla yüz yüze etkileşiminiz, ara sıra yapılan bir İİAB (ince iğne aspirasyon biyopsisi, FNAC) işleminden HİÇ'e kadar değişecek. Büyük olasılıkla bir daha asla hastalarla etkileşime girmeyeceksiniz.
+> 10. Hastalar sizi 'gerçek' bir doktor olarak görmez ... ve ne yazık ki birçok klinisyen de görmez.\
+>     Bana 'Bu ne işi?', 'Laborant kursu mu okudun?' ve 'Ha, o bir eğitim (öğretim üyeliği) kursu' gibi sorular soruldu. Cahil halk, steteskopsuz bir doktorun hiç doktor olmadığını düşündüğü için bağışlanabilir. Peki ya aynı görüşü paylaşan klinik branşlardaki (bazı) meslektaşlar? Onlara diyorum ki, Patolojinin dahiliyenin daha aşağı bir biçimi olduğunu bana bir daha söylemeden önce lütfen bölümümde benimle 2 gün geçirin.
+> 11. Sahne Işıkları.\
+>     Hastanızı muhtemelen bir uzuv kaybından ya da bir ameliyattan kurtaran bir tanısal ikilemi çözdüğünüz için teşekkür beklemeyin. El sıkışmalar ve minnet gözyaşları klinisyenlere ayrılmıştır. Hiçbir hasta, kendi klinik osteosarkom tanısının aslında bir miyozitis ossifikans olduğunu çıkaran patoloğu, ona teşekkür etmek için aramaya gelmeyecektir. Hastaların çoğu sizin öneminizi anlamaz, bazıları içinse siz hiç var bile değilsiniz.
+> 12. Sorumluluk.\
+>     Tıpkı Arthur Hailey'nin ünlü kitabında olduğu gibi, patoloğun raporu bir klinik tanıyı doğrulayabilecek ya da çürütebilecek olan The Final Diagnosis'tir (Kesin Tanı). Over germ hücreli tümörü olduğunu damdan bağırabilirsiniz ama bu bizim endometriotik over kisti tanımızı değiştirmeyecek. Biz görüyoruz, siz görmüyorsunuz.
+> 13. Para.\
+>     Listenin sonuncusu. Patologlar en düşük ücret alan doktorlardandır. Benz ya da Audi sahibi olan birini henüz görmedim (bir klinisyenle evli değilse).
+>
+>     Steteskopu mikroskop için bıraktığımda biraz mücadele etmem gerekti. Ailede bir jinekolog ya da kardiyolog olmasının gururunu yaşamayı bekleyen akrabalarınızı ikna etmek kolay değil. 'Nee enthinaa malam moothram parishodikkunna doctor aavunnathu?' (Neden idrar ve dışkı inceleyen doktor olmak istiyorsun?).\
+>     Ama insan ölüm ayırana dek kelimenin tam anlamıyla uzmanlık alanıyla evli kalacağı için, bu hayatımda verdiğim en iyi karardı.
+>
+>     Özetle -- Tembel bir iş hayallerine kanmayın. Cahil bir eşin yanlış kanılarına boyun eğmeyin.\
+>     Hastanenin sessiz ve tenha bir köşesinde, mikroskop, bilgisayar ve başvuru kitapları arasında dönüp durarak yalnız saatler geçireceğiniz, zahmetli ve yorucu bir masa başı işine hazır değilseniz, Patoloji size göre değil.\
+>     Patolojiyi seçmiş olmanın pişmanlığıyla hâlâ yaşayan yeterince insan tanıyorum.
+>
+>     Yazar: Anonim Bir Patolog
 
 <!-- tolaria:related:start -->
 

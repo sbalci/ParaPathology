@@ -1,7 +1,7 @@
 ---
 type: Tool
 status: Evergreen
-language: en
+language: bilingual
 title: "CellQuant-Net"
 aliases:
   - "CellQuant-Net"
@@ -199,6 +199,176 @@ Simply open the slide in **QuPath** and drag both `.geojson` files onto the slid
 - **Foundational Paper:** [CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](../Clippings/CellPrior-Net%20-%20Prior-Guided%20Nuclei%20Detection%20and%20Classification%20for%20H%26E%20Whole-Slide%20Images.md)
 - **Cell Instance Segmentation:** [HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides](../Clippings/HistoPLUS%20-%20Towards%20Comprehensive%20Cellular%20Characterisation%20of%20H%26E%20Slides.md), [NuClick](nuclick.md), [CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification](../Clippings/CytoFormer%20-%20A%20Molecularly%20Supervised%20Cell%20Foundation%20Model%20for%20Histopathology%20Cell%20Classification.md), [HoVer-NeXt](hover-next.md)
 - **Software Ecosystem:** [Digital Pathology Software](digital-pathology-software.md), [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md), [Cytomine](cytomine.md), Micro-Manager, [Articles on computational, digital, and mathematical pathology](articles-on-computational-digital-and-mathematical-pathology.md)
+
+# CellQuant-Net
+
+Otomatik WSI kalite değerlendirmesini (WSI-QA), önsel bilgi rehberliğinde çekirdek saptama ve 3 sınıflı sınıflandırmayı (**CellPrior-Net / CP-Net**) ve uzamsal hücre-hücre komşuluk ağı analizini bir araya getiren, uçtan uca bir hesaplamalı patoloji kantifikasyon iş akışı (pipeline). Imperial College London, University Hospital of North Norway ve UiT The Arctic University of Norway'den Falah Jabar, Pasquale Lombardi, Aria Torkpour, David J. Pinato, Mehrdad Rakaee ve meslektaşları tarafından geliştirilmiştir (*Journal of Pathology Informatics* 2026).
+
+- **GitHub Deposu:** [Falah-Jabar-Rahim/CellQuant-Net](https://github.com/Falah-Jabar-Rahim/CellQuant-Net)
+- **Temel Makale:** Jabar F, Lombardi P, Torkpour A, et al. *CellPrior-Net: Prior-guided nuclei detection and classification for H&E whole-slide images.* Journal of Pathology Informatics 22 (2026): 100716. [DOI: 10.1016/j.jpi.2026.100716](https://doi.org/10.1016/j.jpi.2026.100716); [arXiv:2607.00802](https://arxiv.org/abs/2607.00802)
+- **Yerel PDF:** [1-s2.0-S2153353926001781-main.pdf](file:///K:/DownloadsK/1-s2.0-S2153353926001781-main.pdf)
+- **Video Anlatım:** [YouTube Eğitim Videosu](https://youtu.be/RhCJnUfuYkA?is=Jc4keTUtecEcjeZd)
+- **Eşlik Eden Literatür İncelemesi:** CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images
+
+---
+
+## CellQuant-Net Neden Önemli?
+
+Hesaplamalı patolojide pek çok örnek (instance) segmentasyonu modeli bulunsa da (ör. CellViT, HoVer-Net, HoVer-NeXt, HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides), klinik tüm slayt uygulamasının önünde genellikle şu engeller vardır:
+1. **Ayıklanmamış Preparat Artefaktları:** Doku katlantıları, hava kabarcıkları, odak dışı bulanıklık, bıçak titreşim (chatter) çizgileri ve patoloğun yağlı kalem işaretleri, yönlendirilmemiş algoritmaların binlerce yanlış pozitif çekirdek saptaması üretmesine yol açar.
+2. **Hesaplama Yavaşlığı:** Transformer tabanlı ViT modelleri gigapiksel bir WSI başına 15 ila 45 dakika gerektirir ve aşırı GPU belleği tüketir.
+3. **Karmaşık Boya Değişkenliği:** Ağır modeller, kalibre edilmemiş RGB pikselleri işledikleri için dağılım dışı (out-of-distribution) tarayıcılarda ve boya serilerinde sıklıkla başarısız olur.
+
+CellQuant-Net bu sorunları **bütünleşik 4 aşamalı bir iş akışı** olarak ele alır:
+
+```typescript
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                               CELLQUANT-NET END-TO-END PIPELINE                                       │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  [ Whole-Slide Image (SVS / NDPI / TIFF) ]
+                     │
+                     ▼
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  MODULE 1: WSI Quality Assessment (WSI-QA)                          │
+  │  • Deep artifact segmentation network (DHUnet / Swin / ConvNeXt)    │
+  │  • Discards: background void, blur, tissue folds, pen markings      │
+  │  • Yields: Qualified/ tile directory, WSI_Summary.xlsx, heatmaps    │
+  └──────────────────┬──────────────────────────────────────────────────┘
+                     │ High-Quality Tissue Tiles
+                     ▼
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  MODULE 2: Prior-Guided CellPrior-Net (CP-Net)                      │
+  │  • Macenko stain deconvolution extracts pure Hematoxylin (H)        │
+  │  • Multi-scale Difference of Gaussians (DoG) nuclear prior map      │
+  │  • 4-Channel input: [RGB + DoG] fed to UniRepLKNet-N CNN            │
+  │  • Multi-task heads: binary segmentation + 3-class classification   │
+  │  • GPU-accelerated morphological watershed separation               │
+  └──────────────────┬──────────────────────────────────────────────────┘
+                     │ Classified Instance Coordinates (Tumor, Immune, Other)
+                     ▼
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  MODULE 3: Spatial Neighborhood Network Analysis                    │
+  │  • Radius-based cell graph construction                             │
+  │  • Cell-to-cell interaction matrices & connectivity edges           │
+  │  • Saves: cell_neighborhood/ & connectivity_edges.csv               │
+  └──────────────────┬──────────────────────────────────────────────────┘
+                     │
+                     ▼
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  MODULE 4: Downstream Metrics & QuPath GeoJSON Integration          │
+  │  • Tumor-Infiltrating Lymphocyte (TIL) density & class percentages  │
+  │  • qupath_cells.geojson (polygons with classification labels)       │
+  │  • qupath_cells_connectivity.geojson (network edges)                │
+  │  • Ready for zero-friction drag-and-drop pathologist audit          │
+  └─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## CellPrior-Net'in (CP-Net) Temel Yenilikleri
+
+### 1. Boya Dekonvolüsyonu ve DoG Önsel Haritası
+
+CP-Net, yalnızca veriye dayalı RGB özniteliklerine güvenmek yerine histolojinin biyokimyasal temelinden yararlanır:
+- RGB pikselleri optik yoğunluğa (OD) dönüştürür ($\text{OD} = -\log_{10}((I+1)/240)$).
+- Hematoksilen konsantrasyon kanalı $C_H$'yi ayırmak için OD kovaryans matrisinin özdeğer ayrışımını hesaplar.
+- $C_H$'yi çok ölçekli Gauss Farkı (Difference of Gaussians, DoG) çekirdekleriyle ($k=\sqrt{2}$) konvolüsyona sokar:
+  - **$40\times$:** $\sigma \in \{2.5, 3.5, 4.5\}$
+  - **$20\times$:** $\sigma \in \{1.6, 2.4, 3.2\}$
+- Elde edilen maksimum DoG yanıtı RGB ile birleştirilerek **4 kanallı bir tensör** $[B, 4, 256, 256]$ oluşturulur; bu tensör kromatin yoğunlaşmasına ilişkin açık bir uzamsal önsel bilgi sağlar ve hiperselüler alanlarda hücrelerin birbirinden ayrılmasını belirgin biçimde iyileştirir.
+
+### 2. UniRepLKNet-N Büyük Çekirdekli Omurga
+
+- Görsel transformer'ların (vision transformers) yerine, küçük çekirdeklere yeniden parametrelendirilen büyük çekirdekli derinlemesine (depthwise) konvolüsyonlar (en fazla $31\times 31$) kullanan **UniRepLKNet-N**'i koyar.
+- Transformer'larla eşdeğer, son derece geniş bir etkin alıcı alan (effective receptive field, ERF) sağlarken doğrusal konvolüsyonel hesaplama ölçeklenmesini ve çok yüksek donanım verimini korur.
+
+### 3. GPU Hızlandırmalı Watershed Son İşlemesi
+
+- Yavaş CPU tabanlı watershed algoritmalarından kaçınır.
+- Morfolojik erozyonu ($r_e$), Öklid uzaklık haritalamasını ($s_d$) ve tepe yerel maksimum saptamasını ($d_m, t_{\text{min}}$) birleştirir; bu adımlar çok iş parçacıklı watershed segmentasyonuyla birlikte doğrudan PyTorch/CuPy üzerinde yürütülür.
+- Kalibre edilmiş hiperparametreler:
+  - $20\times$: $r_e = 1, s_d = 5 \times 5, d_m = 4, t_{\text{min}} = 2, A_{\text{min}} = 10\ \text{px}$.
+  - $40\times$: $r_e = 2, s_d = 5 \times 5, d_m = 8, t_{\text{min}} = 2, A_{\text{min}} = 20\ \text{px}$.
+
+---
+
+## Kıyaslama Performansı ve Çalışma Süresi
+
+**~10.4 milyon çekirdek** içeren 8 açık ve kurum içi veri setinde (PanNuke, CoNSeP, Lizard, NuCLS, PanopTILs, SegPath, TNMI ve ILCD) 10 güncel (state-of-the-art) iş akışıyla (**CellViT**, **CellViT++**, **Cerberus**, **HoVer-Net**, **NuLite**, **PointNu-Net**, **CellDetr**, **CellSAM**, **LKCell**, **TSFD-Net**) karşılaştırılarak değerlendirilmiştir:
+- **Pareto Optimal Sınırı:** CellViT ve CellDETR ile birlikte optimal Pareto sınırını oluşturur; neredeyse aynı panoptik kaliteyi (PQ) sunarken **$2\times$ ila $3\times$ daha hızlı** çalışır.
+- **WSI Çalışma Süresi Kıyaslaması (Tablo 1):**
+  - **$20\times$ Slayt ($31.8\text{k} \times 25.2\text{k}$ px):** CellViT = 5.15 min'e karşı **CP-Net = 2.16 min**; Toplam CellQuant-Net (QA + CP-Net + Son işleme) = **5.77 min**.
+  - **$40\times$ Slayt ($44.1\text{k} \times 70.5\text{k}$ px):** CellViT = 8.30 min'e karşı **CP-Net = 2.77 min**; Toplam CellQuant-Net = **16.83 min**.
+- **Prognostik Kavram Kanıtı:** AB-real kohortundan 13 hepatoselüler karsinom (HCC) WSI'ında, CellQuant-Net ile elde edilen TIL yoğunluğu hastaların genel sağkalımını anlamlı olarak öngörmüştür ($p = 0.006$, log-rank).
+
+---
+
+## Önceden Eğitilmiş Ağırlıklar Kataloğu
+
+| Model Kontrol Noktası | Organ Kapsamı | Büyütme | Eğitim Hedefi |
+| :--- | :--- | :---: | :--- |
+| `PanNuke.pth` | Çoklu organ (19 doku) | $40\times$ | Pan-kanser temel modeli |
+| `SegPath.pth` | Çoklu organ | $40\times$ | Çok merkezli doğrulama |
+| `CoNSeP.pth` | Kolorektal | $40\times$ | Yüksek çözünürlüklü kolon |
+| `Lizard.pth` | Kolorektal | $20\times$ | Standart klinik $20\times$ kolon |
+| `ILCD.pth` | Karaciğer (HCC) | $40\times$ | Hepatoselüler karsinom |
+| `NuCLS.pth` | Meme | $20\times$ | Meme kanserinde TIL'ler ve tümör |
+| `PanopTILs.pth` | Meme | $40\times$ | Yüksek yoğunluklu stromal TIL'ler |
+| `TNMI20x.pth` | Küçük Hücreli Dışı Akciğer | $20\times$ | NSCLC tümör mikroçevresi |
+| `TNMI40x.pth` | Küçük Hücreli Dışı Akciğer | $40\times$ | NSCLC büyük büyütme alanları |
+
+---
+
+## Kurulum ve Komut Satırı (CLI) Kullanımı
+
+### 1. Kurulum
+
+```bash
+git clone https://github.com/Falah-Jabar-Rahim/CellQuant-Net.git
+cd CellQuant-Net
+chmod +x install.sh
+./install.sh
+conda activate cellquantnet
+python verify_installation.py
+```
+
+### 2. Tüm Slayt Üzerinde Çalıştırma
+
+WSI'ları `input/` klasörüne, model kontrol noktalarını `CP-Net/weights/` ve `WSI_QA/pretrained_ckpt/` klasörlerine yerleştirin, ardından şunu çalıştırın:
+
+```bash
+python run_cellquant_net.py \
+    --cpu_workers 32 \
+    --batch_size 128 \
+    --cell_connectivity \
+    --model_type PanNuke.pth
+```
+
+### 3. QuPath'te Sürükle-Bırak Görselleştirme
+
+Tüm çıktılar `output/` altında düzenlenir:
+- `output/QA/<WSI_NAME>/`: Yüksek kaliteli doku ve artefakt maskeleri, küçük önizleme görüntüleri, karo (tile) istatistikleri.
+- `output/CP_Net/<WSI_NAME>/qupath_cells.geojson`: Çekirdek örneği geometrileri ve sınıfları.
+- `output/CP_Net/<WSI_NAME>/qupath_cells_connectivity.geojson`: Uzamsal hücre bağlantısallık grafiği.
+
+Slaytı **QuPath**'te açmanız ve her iki `.geojson` dosyasını slayt görüntüleyicisine sürükleyip bırakmanız yeterlidir.
+
+---
+
+## Vault'taki Araçlarla Karşılaştırma
+
+- **CellQuant-Net ve NuClick:** NuClick, eğitim veri setlerinin insanın döngüde olduğu (human-in-the-loop) küratörlüğü için optimize edilmiş, nokta istemli (point-prompted), etkileşimli bir işaretleme (annotation) motorudur. CellQuant-Net ise istem gerektirmeyen, tam otomatik bir tüm slayt çıkarım ve tümör mikroçevresi (TME) kantifikasyon motorudur.
+- **CellQuant-Net ve HoVer-NeXt / CellViT:** HoVer-NeXt ve CellViT, hesaplama açısından yoğun olan sık yatay-dikey uzaklık haritası kod çözücülerine veya transformer kodlayıcılara dayanır. CellQuant-Net, fiziksel bir hematoksilen DoG önsel bilgisiyle birlikte büyük çekirdekli bir CNN kullanarak tüm slayt çıkarım süresini yarı yarıya veya daha fazla kısaltır ve buna yerleşik artefakt QA filtrelemesini ekler.
+- **CellQuant-Net ve HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides:** HistoPLUS, damıtılmış (distilled) ViT'ler kullanarak 13 sınıflı ayrıntılı fenotiplemeye (nadir immün hücre popülasyonları, plazma hücreleri, endotel) odaklanır. CellQuant-Net ise uzamsal bağlantısallık ağlarıyla birlikte, temel 3 sınıfa (Tümör, İmmün, Diğer) yönelik yüksek hızlı klinik WSI kantifikasyonuna odaklanır.
+
+---
+
+## İlgili Notlar
+
+- **Temel Makale:** CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images
+- **Hücre Örneği Segmentasyonu:** HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides, NuClick, CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification, HoVer-NeXt
+- **Yazılım Ekosistemi:** Digital Pathology Software, From Samples to Knowledge 2025: QuPath Training Course, Cytomine, Micro-Manager, Articles on computational, digital, and mathematical pathology
 
 <!-- tolaria:related:start -->
 

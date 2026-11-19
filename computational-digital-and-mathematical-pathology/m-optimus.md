@@ -1,7 +1,7 @@
 ---
 type: Tool
 status: Evergreen
-language: en
+language: bilingual
 title: "M-Optimus"
 aliases:
   - "M-Optimus-1"
@@ -113,6 +113,93 @@ Bioptimus maintains an integrated suite of open and proprietary AI platforms for
   - [Digital Pathology Software](digital-pathology-software.md)
   - [Articles on computational, digital, and mathematical pathology](articles-on-computational-digital-and-mathematical-pathology.md)
   - [Digital Pathology](digital-pathology.md)
+
+# M-Optimus
+
+**M-Optimus** (ve ilk sürümü **M-Optimus-1**), **Bioptimus** (Paris, Fransa) tarafından geliştirilmiş, multimodal (çok kipli), çok ölçekli bir biyolojik foundation model'dir (temel model). "Biyoloji için bir dünya modeli" olarak tasarlanan M-Optimus, eşleştirilmiş Hematoksilen-Eozin (H&E) tüm lam histolojisi, bulk transkriptomik (RNA-seq) ve yüksek pleksli uzamsal transkriptomik (10x Genomics Visium ve Xenium) verileri üzerinde çapraz eğitim yaparak fenotipik morfolojiyi moleküler genetikle bütünleştirir.
+
+M-Optimus-1'in çığır açan bir yeteneği **in silico uzamsal transkriptomik** gerçekleştirebilmesidir: **rutin H&E tüm lam görüntülerinden doğrudan 6.000'den fazla gen** için yüksek boyutlu uzamsal gen ekspresyonu profillerini, ya yalnızca H&E kipinde ya da eşleştirilmiş bulk RNA-seq rehberliğinde yeniden oluşturur.
+
+- **Platforma Genel Bakış:** [bioptimus.com/m-optimus](https://www.bioptimus.com/m-optimus)
+- **Teknik Tanıtım:** [bioptimus.com/introducing-m-optimus](https://www.bioptimus.com/introducing-m-optimus)
+- **Klinik Biyobelirteç Gösterimi:** From Model to Patient: M-Optimus-1 for Spatial Biomarker Discovery in Ovarian Cancer ([bioptimus.com Blog](https://www.bioptimus.com/m-optimus-1-for-spatial-biomarker-discovery-in-ovarian-cancer))
+- **Konsorsiyum Veri Motoru (STELA):** [bioptimus.com/stela](https://www.bioptimus.com/stela) (çok kipli uzamsal keşifleri 100.000 hastaya ölçeklendirme)
+- **Kullanıma Sunum (Deployment):** Amazon Web Services (AWS SageMaker JumpStart / Bedrock) üzerinden özel kurumsal çıkarım (inference)
+
+---
+
+## Mimari İlkeler ve Kip Füzyonu
+
+Geleneksel dijital patoloji temel modellerinin çoğu (ör. UNI, Virchow, Phikon, Prov-GigaPath) tamamen tek kiplidir: $256 \times 256$ px RGB görüntü yamalarını (patch) latent temsil vektörlerine eşleyen görüntü kodlayıcıları (vision encoder) olarak çalışırlar. Morfolojik özellik çıkarımında güçlü olsalar da ölçülmemiş moleküler transkriptleri veya uzamsal multi-omik verileri doğrudan çıkarsayamazlar.
+
+M-Optimus, biyolojik soyutlamanın üç katmanı boyunca ölçek ve kip ayrımını birleştirir:
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   M-OPTIMUS MULTIMODAL PYRAMID                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  Level 3: Tissue Architecture & Spatial Niches ──►  In Silico Spatial Transcriptomics (6,000+ Genes)
+                                                                 ▲
+                                                                 │ (Cross-Modal Attention & Decoding)
+  Level 2: Cellular Phenotypes & Morphology      ──►  Gigapixel Whole-Slide H&E (Tile Embeddings)
+                                                                 ▲
+                                                                 │ (Biological Co-Embedding Space)
+  Level 1: Molecular Profiling & Transcriptomics ──►  Bulk RNA-seq Expression Vectors
+```
+
+### Ön Eğitim Temeli ve Ölçeklendirme
+- **Histolojik Kapsam:** 50'den fazla insan dokusu ve tümör tipini kapsayan on milyonlarca H&E karosu (tile) üzerinde eğitilmiştir.
+- **Çok Kipli Hizalama:** Fiziksel histoloji lamlarının hem bulk transkriptomik hem de uzamsal transkriptomik dizileriyle hizalandığı binlerce çok kipli klinik donör veri setini içerir.
+- **Çıkarım Kipleri:**
+  1. *Çok Kipli Çıkarım (H&E + Bulk RNA-seq):* Tüm lam H&E görüntüsünü hasta düzeyindeki bulk transkriptomik verilerle (veya psödo-bulk hâline getirilmiş scRNA-seq ile) birlikte alır ve bulk moleküler bolluğu lam boyunca yüksek çözünürlüklü uzamsal koordinatlara yansıtır.
+  2. *Tek Kipli, Yalnızca Görüntüye Dayalı Çıkarım (yalnızca H&E):* 6.000'den fazla genin uzamsal ekspresyon haritalarını yalnızca morfolojik özelliklerden doğrudan çıkarsar; böylece doku bloklarının veya taze RNA'nın bulunmadığı arşiv cam lamlarını kullanılabilir kılar.
+
+---
+
+## Temel Yetenekler ve Klinik Uygulamalar
+
+### 1. In Silico Uzamsal Transkriptomik (SpT)
+Islak laboratuvarda uzamsal dizileme özel donanım ve pahalı sarf malzemeleri (lam başına $1,500–$5,000) gerektirir ve klinik dokuyu tüketir. M-Optimus-1, sanal uzamsal ekspresyon haritalarını yalnızca hesaplama maliyetiyle (lam başına ~$1–$10) üretir.
+- Görülmemiş evre III-B over papiller seröz karsinomunda fiziksel **10x Genomics Xenium Prime** referans standardına (ground truth) karşı doğrulanmış; tümör alt popülasyonlarında ortalama **$r = 0.81$** Pearson korelasyonuna, kanserle ilişkili fibroblastlar (CAF) ve VEGFA+ tümör hücreleri için ise **$r = 0.78$** değerine ulaşmıştır.
+
+### 2. Denetimsiz Uzamsal Niş Keşfi
+M-Optimus, çok genli uzamsal koekspresyonu denetimsiz (unsupervised) bir kümeleme çerçevesine gömer:
+- Tüm lamları biyolojik olarak tutarlı mikroçevresel işlevsel birimlere (tümör merkezi, hipoksik invaziv sınır, fibrotik stroma, tersiyer lenfoid yapılar) ayrıştırır.
+- Öngörülen niş hücre bileşimleri, Xenium referans standardındaki hücresel yoğunluklarla **Pearson $r = 0.899$** düzeyinde uyum göstermiştir.
+
+### 3. Arşiv Kohortlarında Uzamsal Biyobelirteç Keşfi
+Geçmiş klinik çalışma arşivlerini yüksek boyutlu keşif arama uzaylarına dönüştürür:
+- 288 over kanseri WSI'ından (TCIA) oluşan retrospektif bir kohortta M-Optimus-1, VEGFA+ tümör hücreleri ile CAF'ler arasındaki uzamsal kolokalizasyonun bevasizumab anti-anjiyogenik tedavisine refrakter hastalarda anlamlı olarak zenginleştiğini saptamıştır (**$p = 0.003$**).
+- Uzamsal etkileşimlerin hiyerarşik kümelenmesi, yanıt vermeyenler arasında farklı TME (tümör mikroçevresi) alt fenotiplerini ortaya koymuş ve kombinasyon rejimleri (ör. anti-VEGF + PARP inhibitörleri + CAF deplesyonu) için rasyonel bir temel sağlamıştır.
+
+---
+
+## Bioptimus Temel Model Ekosistemi
+
+Bioptimus, yaşam bilimleri için açık ve tescilli yapay zekâ platformlarından oluşan bütünleşik bir paket sürdürmektedir:
+
+1. **H-Optimus-0:** 500.000 tüm lam görüntüsü üzerinde eğitilmiş, açık ağırlıklı histoloji temel modeli (ViT-Giant, 1 milyar parametre); doku temsili için açık bir kıyaslama ölçütü (benchmark) olarak yaygın biçimde kabul görmektedir.
+2. **H0-mini:** H-Optimus-0'ın düşük gecikmeli hücre segmentasyonu ve sınıflandırması için tasarlanmış, 86M parametreli kompakt damıtılmış (distilled) sürümü; Owkin'in HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides çalışmasındaki CellViT omurgasına güç verir.
+3. **M-Optimus-1:** H&E lamlarını 6.000 genlik uzamsal transkriptomik haritalara dönüştüren çok kipli dünya modeli.
+4. **STELA Girişimi:** Yeni nesil biyoloji dünya modellerini eğitmek amacıyla 100.000 hastayı kapsayan çok kipli klinik kohortlar toplamak üzere başlatılmış küresel, çok kurumlu veri koalisyonu.
+
+---
+
+## İlişkili Notlar ve Kasa (Vault) Referansları
+
+- **Literatür Kırpıntısı:** From Model to Patient: M-Optimus-1 for Spatial Biomarker Discovery in Ovarian Cancer
+- **Hücresel ve Uzamsal Modeller:**
+  - HistoPLUS: Towards Comprehensive Cellular Characterisation of H&E Slides
+  - CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification
+  - CellQuant-Net / CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images
+  - NuClick
+- **Uzamsal Görselleştirme Altyapısı:**
+  - Celldega (Broad Institute'un yüksek performanslı WebGL uzamsal-omik görselleştirme araç takımı)
+- **Kataloglar ve Sentezler:**
+  - Digital Pathology Software
+  - Articles on computational, digital, and mathematical pathology
+  - Digital Pathology
 
 <!-- tolaria:related:start -->
 
