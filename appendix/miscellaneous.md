@@ -13,6 +13,22 @@ _favorite_index: 2
 ---
 # miscellaneous
 
+
+
+---
+
+
+Resource limited setting is defined mainly as lack of advanced tests. In real life an inexperienced radiologist, a stuburn surgeon, a lazy laboratory are the limited resources. 
+
+
+---
+
+
+
+[QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md)
+[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](../Clippings/QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md)
+QuPath Python & MCP Interoperability (QuPath-MCP, QuBaLab, Py4J, PAQUO) [https://forum.image.sc/t/try-qupath-mcp-a-qupath-extension-that-lets-ai-agents-work-in-qupath/122987](https://forum.image.sc/t/try-qupath-mcp-a-qupath-extension-that-lets-ai-agents-work-in-qupath/122987) [https://github.com/00JackLu/qupath-mcp](https://github.com/00JackLu/qupath-mcp) [https://00jacklu.github.io/qupath-mcp/](https://00jacklu.github.io/qupath-mcp/) [https://github.com/qupath/qupath/issues/2159#issuecomment-6280318076](https://github.com/qupath/qupath/issues/2159#issuecomment-6280318076) [https://qupath.github.io/qubalab-docs/notebooks_files/opening_images.html](https://qupath.github.io/qubalab-docs/notebooks_files/opening_images.html) [https://paquo.readthedocs.io/en/latest/](https://paquo.readthedocs.io/en/latest/) [https://github.com/qupath/qubalab](https://github.com/qupath/qubalab) [https://github.com/qupath/qupath-extension-py4j](https://github.com/qupath/qupath-extension-py4j) [https://github.com/earthmover-support/qupath-mcp](https://github.com/earthmover-support/qupath-mcp)
+
 [Study on the Performance of Different Cover Glasses in Microscopy](../Clippings/Study%20on%20the%20Performance%20of%20Different%20Cover%20Glasses%20in%20Microscopy.md)
 Study on the Performance of Different Cover Glasses in Microscopy [https://www.leicabiosystems.com/clinical-solutions/case-studies/cover-glass-performance-comparison/](https://www.leicabiosystems.com/clinical-solutions/case-studies/cover-glass-performance-comparison/)
 
@@ -63,8 +79,8 @@ The pathology report as a boundary object: From clinical communication to comput
 NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology [https://npic.ac.uk/quality/](https://npic.ac.uk/quality/) [https://npic.ac.uk/quality/qcc-tools-and-resources/](https://npic.ac.uk/quality/qcc-tools-and-resources/)
 
 [Class visualizations and activation atlases for computational pathology](../Clippings/Class%20visualizations%20and%20activation%20atlases%20for%20computational%20pathology.md)
-Class visualizations and activation atlases for computational pathology [https://www.sciencedirect.com/science/article/pii/S2666379126004714](https://www.sciencedirect.com/science/article/pii/S2666379126004714) [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas](https://github.com/KatherLab/PathoActivationAtlas)
-[RepLKNet](../computational-digital-and-mathematical-pathology/replknet.md)
+Class visualizations and activation atlases for computational pathology [https://www.sciencedirect.com/science/article/pii/S2666379126004714](https://www.sciencedirect.com/science/article/pii/S2666379126004714) [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00471-4) "file:///K:/DownloadsK/mmc2.pdf" [https://doi.org/10.1016/j.xcrm.2026.103054](https://doi.org/10.1016/j.xcrm.2026.103054) [https://arxiv.org/abs/2603.07170](https://arxiv.org/abs/2603.07170) [https://github.com/KatherLab/PathoActivationAtlas
+](https://github.com/KatherLab/PathoActivationAtlas)[RepLKNet](../computational-digital-and-mathematical-pathology/replknet.md)
 [Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](../Clippings/Scaling%20Up%20Your%20Kernels%20to%2031x31%20-%20Revisiting%20Large%20Kernel%20Design%20in%20CNNs.md)
 Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs [https://github.com/DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) [https://arxiv.org/abs/2203.06717](https://arxiv.org/abs/2203.06717) [https://doi.org/10.1109/CVPR52688.2022.01167](https://doi.org/10.1109/CVPR52688.2022.01167)
 
@@ -513,6 +529,7 @@ Biomedical Natural Language Processing in the Era of Large Language Models
 
 [https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-103123-095406](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-103123-095406)
 
+
 ---
 
 On delusional personalities in pathology
@@ -746,6 +763,7 @@ An international study of stain variability in histopathology using qualitative 
 {% embed url="[https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)" %}
 
 [https://x.com/AI4Pathology/status/1889713583321190819](https://x.com/AI4Pathology/status/1889713583321190819)
+
 
 Artificial intelligence in digital pathology — time for a reality check [https://www.nature.com/articles/s41571-025-00991-6](https://www.nature.com/articles/s41571-025-00991-6)
 

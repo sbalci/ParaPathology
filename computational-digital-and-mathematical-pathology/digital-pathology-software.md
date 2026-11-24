@@ -16,6 +16,8 @@ related_to:
   - "[[Celldega]]"
   - "[[HistoCAM]]"
   - "[[TRIDENT]]"
+  - "[[QuPath Python and MCP Ecosystem]]"
+  - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
   - "[[SlidePrep]]"
 ---
 
@@ -259,7 +261,7 @@ Modernized, high-throughput nuclear instance segmentation and classification pip
 
 ### [From Samples to Knowledge 2025: QuPath Training Course](https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp)
 
-Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr. Zbigniew Mikulski & Dr. Sara McArdle) targeting modern QuPath v0.6.0+ bioimage workflows. Covers 18-plex multiplex immunofluorescence (RareCyte Orion), native deep-learning cell segmentation via Deep Java Library (DJL / InstanSeg), Groovy scripting pipelines for batch cohort processing, complex multi-marker composite phenotyping, multimodal image registration (Warpy / `qupath-extension-warpy`), spatial proximity/density metrics, and interactive Python/Jupyter bridging (QuBylab / Paquo) — see dedicated course note: [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md).
+Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr. Zbigniew Mikulski & Dr. Sara McArdle) targeting modern QuPath v0.6.0+ bioimage workflows. Covers 18-plex multiplex immunofluorescence (RareCyte Orion), native deep-learning cell segmentation via Deep Java Library (DJL / InstanSeg), Groovy scripting pipelines for batch cohort processing, complex multi-marker composite phenotyping, multimodal image registration (Warpy / `qupath-extension-warpy`), spatial proximity/density metrics, and interactive Python/Jupyter bridging ([QuBaLab / PAQUO](qupath-python-and-mcp.md)) — see dedicated course note: [From Samples to Knowledge 2025: QuPath Training Course](../Clippings/From%20Samples%20to%20Knowledge%202025%20-%20QuPath%20Training%20Course.md).
 
 - **Course Book:** [saramcardle.github.io/FS2K](https://saramcardle.github.io/FS2K/README.html)
 - **Repository:** [saramcardle/FS2K](https://github.com/saramcardle/FS2K)
@@ -269,6 +271,29 @@ Comprehensive hands-on curriculum from the La Jolla Institute for Immunology (Dr
 {% embed url="https://www.youtube.com/playlist?list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp" %}
 
 {% embed url="https://github.com/saramcardle/FS2K" %}
+
+### [QuPath Python and MCP Ecosystem](qupath-python-and-mcp.md)
+
+External interoperability stack connecting **QuPath** to Python scientific computing (`NumPy`, `Dask`, `Shapely`, `Scanpy`/`Squidpy`, `napari`) and large language model (LLM) agents via the **Model Context Protocol (MCP)**:
+
+1. **Python–QuPath Bridges:**
+   - **[QuBaLab](https://github.com/qupath/qubalab) & [qupath-extension-py4j](https://github.com/qupath/qupath-extension-py4j):** Official QuPath team libraries (Apache-2.0). `qupath-extension-py4j` (bundled since QuPath v0.6.0-rc3) opens a localhost Py4J socket gateway (`port 25333`, optional token) exposing `QuPathEntryPoint` (`QPEx`/`QP`), while `QuBaLab` (`pip install qubalab`) provides unified `ImageServer` readers (`OpenSlideServer`, `BioIOServer`, `IccProfileServer`, `LabeledImageServer`, `QuPathServer`) with lazy `level_to_dask()` arrays, eager `read_region()` NumPy tiles, and GeoJSON/Shapely object manipulation—functioning both standalone (without Java) and live-connected to QuPath.
+   - **[PAQUO](https://paquo.readthedocs.io/en/latest/) ([Bayer-Group/paquo](https://github.com/Bayer-Group/paquo)):** Developed by Bayer ML Research (GPL-3.0, v0.8.2). Uses `jpype1` to embed QuPath's Java libraries directly inside Python without an open QuPath GUI, providing Pythonic context managers (`QuPathProject`) and bidirectional `Shapely` <-> `PathObject` annotation/detection geometry and measurement manipulation.
+2. **Model Context Protocol (MCP) Servers for AI Agents (QuPath 0.7+):**
+   - **[00JackLu/qupath-mcp](https://github.com/00JackLu/qupath-mcp) ([Docs](https://00jacklu.github.io/qupath-mcp/), [Image.sc #122987](https://forum.image.sc/t/try-qupath-mcp-a-qupath-extension-that-lets-ai-agents-work-in-qupath/122987), [Zenodo DOI: 10.5281/zenodo.23788878](https://doi.org/10.5281/zenodo.23788878)):** State-aware in-process HTTP/STDIO MCP server (`127.0.0.1:9527/mcp`) exposing **34 typed domain tools** across 6 categories (viewer perception with opt-in `qupath_capture_view`, annotations/GeoJSON, watershed cell detection & measurement export, compile-checked Groovy scripting with swallowed-warning capture, project management, and provenance) with `read-only`/`write`/`destructive` side-effect hints, 4 capability kill-switches, and **deterministic LLM-free workflow replay (`qupath_replay_workflow`)**.
+   - **[earthmover-support/qupath-mcp](https://github.com/earthmover-support/qupath-mcp) ([Docs](https://earthmover-support.github.io/qupath-mcp/)):** Non-blocking JavaFX GUI-driving MCP extension (`127.0.0.1:51515/mcp`) exposing **13 tools** (`qupath_describe`, `qupath_menu`, `qupath_click`, `qupath_select`, `qupath_set`, `qupath_key`, `qupath_wait`, `qupath_view`, `qupath_screenshot`, `qupath_run_groovy`, `qupath_show_actions`) that never deadlock on modal dialogs, paired with on-screen visual telemetry overlays (**Mark / Paced / Off**), Origin/Host DNS-rebinding protection, and `mcp-<date>-<time>.jsonl` session action logs.
+   - **Upstream Roadmap Context:** [qupath/qupath#2159](https://github.com/qupath/qupath/issues/2159#issuecomment-6280318076) (Peter Bankhead, Alan O'Callaghan, Curtis Rueden).
+   - See dedicated tool note: [QuPath Python and MCP Ecosystem](qupath-python-and-mcp.md) and comparative review [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](../Clippings/QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md).
+
+{% embed url="https://github.com/00JackLu/qupath-mcp" %}
+
+{% embed url="https://github.com/earthmover-support/qupath-mcp" %}
+
+{% embed url="https://github.com/qupath/qubalab" %}
+
+{% embed url="https://github.com/qupath/qupath-extension-py4j" %}
+
+{% embed url="https://github.com/Bayer-Group/paquo" %}
 
 
 ### [HistoCAM](https://github.com/cooopermaira/HistoCAM_Nature_Communications)
@@ -306,6 +331,7 @@ Open-source microscopy tile preprocessing, counting-chamber grid artifact remova
 * [M-Optimus](m-optimus.md)
 * [Celldega](celldega.md)
 * [HistoCAM](histocam.md)
+* [QuPath Python and MCP Ecosystem](qupath-python-and-mcp.md)
 * [SlidePrep](slideprep.md)
 
 <!-- tolaria:children:end -->
@@ -590,6 +616,8 @@ Universidade de Vigo ve IIS Galicia Sur'da geliştirilen (Rodriguez-Conde, Campo
 * [HoVer-NeXt](hover-next.md)
 * [NuClick](nuclick.md)
 * [OpenFlexure Microscope](openflexure-microscope.md)
+* [QuPath Python and MCP Ecosystem](qupath-python-and-mcp.md)
+* [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](../Clippings/QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md)
 * [SlidePrep](slideprep.md)
 * [TRIDENT](trident.md)
 

@@ -17,6 +17,8 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
+  - "[[QuPath Python and MCP Ecosystem]]"
+  - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
 hidden: true
 ---
 ## Summary
@@ -143,5 +145,7 @@ administrative battles, rejection, and frustration."
 * [Digital Pathology](../computational-digital-and-mathematical-pathology/digital-pathology.md)
 * [Digital Pathology Software](../computational-digital-and-mathematical-pathology/digital-pathology-software.md)
 * [Image Analysis](../computational-digital-and-mathematical-pathology/image-analysis.md)
+* [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md)
+* [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md)
 
 <!-- tolaria:related:end -->

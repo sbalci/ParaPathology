@@ -21,8 +21,11 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Celldega]]"
   - "[[HistoCAM]]"
+  - "[[QuPath Python and MCP Ecosystem]]"
+  - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
   - "[[SlidePrep]]"
   - "[[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]]"
+
 ---
 
 # GitHub Repositories
@@ -209,6 +212,31 @@ related_to:
 
 * [INOU-2025/SlidePrep](https://github.com/INOU-2025/SlidePrep) — Modular Python 3.12 and TypeScript/Angular 21 pipeline for microscopy tile preprocessing, counting-chamber reticle artifact removal, and physically calibrated OME-TIFF whole-slide image stitching (Rodriguez-Conde, Campos & Fdez-Riverola, *SoftwareX* 2026; MIT License). Combines 3-class multi-level Otsu thresholding (`Combined Differential`), directional template matching, Random Forest border contour filtering, LaMa Fourier-convolution inpainting, and ASHLAR phase-correlation registration with a Dockerized FastAPI + Celery + Redis + libvips + OpenSeadragon web viewer and full-mosaic inpaint provenance mask export (`_inpaint_mask.tif`). See dedicated tool note [SlidePrep](../computational-digital-and-mathematical-pathology/slideprep.md) and literature review [SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions](../Clippings/SlidePrep%20-%20artifact%20removal%2C%20reconstruction%2C%20and%20visualization%20of%20whole-slide%20images%20from%20tiled%20microscopy%20acquisitions.md).
 
+{% embed url="https://github.com/INOU-2025/SlidePrep" %}
+
+* [INOU-2025/SlidePrep](https://github.com/INOU-2025/SlidePrep) — Modular Python 3.12 and TypeScript/Angular 21 pipeline for microscopy tile preprocessing, counting-chamber reticle artifact removal, and physically calibrated OME-TIFF whole-slide image stitching (Rodriguez-Conde, Campos & Fdez-Riverola, *SoftwareX* 2026; MIT License). Combines 3-class multi-level Otsu thresholding (`Combined Differential`), directional template matching, Random Forest border contour filtering, LaMa Fourier-convolution inpainting, and ASHLAR phase-correlation registration with a Dockerized FastAPI + Celery + Redis + libvips + OpenSeadragon web viewer and full-mosaic inpaint provenance mask export (`_inpaint_mask.tif`). See dedicated tool note [SlidePrep](../computational-digital-and-mathematical-pathology/slideprep.md) and literature review [SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions](../Clippings/SlidePrep%20-%20artifact%20removal%2C%20reconstruction%2C%20and%20visualization%20of%20whole-slide%20images%20from%20tiled%20microscopy%20acquisitions.md).
+
+
+{% embed url="https://github.com/00JackLu/qupath-mcp" %}
+
+* [00JackLu/qupath-mcp](https://github.com/00JackLu/qupath-mcp) — State-aware Model Context Protocol (MCP) server extension for QuPath 0.7+ (Apache-2.0; archived at [DOI: 10.5281/zenodo.23788878](https://doi.org/10.5281/zenodo.23788878); docs at [00jacklu.github.io/qupath-mcp](https://00jacklu.github.io/qupath-mcp/)). Embeds a zero-dependency Streamable HTTP (`127.0.0.1:9527/mcp`) and STDIO server inside QuPath's JVM exposing 34 typed tools across 6 categories (image/viewer state & opt-in screenshot capture, annotation/GeoJSON management, watershed cell detection & measurement export, compile-checked Groovy execution with swallowed-warning capture, project management, and provenance) with `read-only`/`write`/`destructive` side-effect hints, 4 capability kill-switches, a 27-task benchmark, and deterministic LLM-free workflow replay (`qupath_replay_workflow`). See [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md) and [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](../Clippings/QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md).
+
+{% embed url="https://github.com/earthmover-support/qupath-mcp" %}
+
+* [earthmover-support/qupath-mcp](https://github.com/earthmover-support/qupath-mcp) — Experimental JavaFX GUI-driving Model Context Protocol (MCP) server extension for QuPath 0.7+ (Apache-2.0; docs at [earthmover-support.github.io/qupath-mcp](https://earthmover-support.github.io/qupath-mcp/)). Listens on `127.0.0.1:51515/mcp` and exposes 13 tools (`qupath_describe`, `qupath_menu`, `qupath_click`, `qupath_select`, `qupath_set`, `qupath_key`, `qupath_wait`, `qupath_view`, `qupath_screenshot`, `qupath_run_groovy`, `qupath_show_actions`, `qupath_open`, `qupath_close`) that drive QuPath's menus, dialogs, and viewer without deadlocking on modal dialogs. Includes visual on-screen telemetry modes (**Mark / Paced / Off**), Origin/Host DNS-rebinding defense, and JSONL session action logs (`mcp-logs/`). See [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md) and [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](../Clippings/QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md).
+
+{% embed url="https://github.com/qupath/qubalab" %}
+
+* [qupath/qubalab](https://github.com/qupath/qubalab) — Quantitative Bioimage Analysis Laboratory in Python (`pip install qubalab`, Apache-2.0; docs at [qupath.github.io/qubalab-docs](https://qupath.github.io/qubalab-docs/notebooks_files/opening_images.html)). Official Python package by the QuPath team providing unified `ImageServer` implementations (`OpenSlideServer`, `BioIOServer`, `IccProfileServer`, `LabeledImageServer`, `QuPathServer`) with lazy `level_to_dask()` Dask arrays, eager `read_region()` NumPy tiles, Shapely/GeoJSON `ImageFeature` objects, and live socket communication with QuPath via `qupath-extension-py4j`. See [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md).
+
+{% embed url="https://github.com/qupath/qupath-extension-py4j" %}
+
+* [qupath/qupath-extension-py4j](https://github.com/qupath/qupath-extension-py4j) — Official QuPath extension (Apache-2.0, bundled by default since QuPath v0.6.0-rc3) linking a running QuPath GUI session to Python via a Py4J socket gateway (`port 25333`, optional authentication token) exposing `QuPathEntryPoint` (`QPEx`/`QP`). See [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md).
+
+{% embed url="https://github.com/Bayer-Group/paquo" %}
+
+* [Bayer-Group/paquo](https://github.com/Bayer-Group/paquo) — PAQUO ("PAthological QUpath Obsession", GPL-3.0; docs at [paquo.readthedocs.io](https://paquo.readthedocs.io/en/latest/)), a Python library by Santi Villalba and Andreas Poehlmann (Bayer ML Research) that embeds QuPath's Java libraries in-process via `jpype1` to create, read, and modify `.qpproj` projects, `QuPathPathClass` definitions, and `Shapely`-backed annotation/detection hierarchies headlessly from Python. See [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md).
+
 <!-- tolaria:related:start -->
 
 ## See also
@@ -226,6 +254,8 @@ related_to:
 * [meddecide](../statistics-and-bioinformatics/meddecide.md)
 * [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md)
 * [Pangram: AI Content Detection Platform and Pangram 4 Classifier](../Clippings/Pangram%20-%20AI%20Content%20Detection%20Platform%20and%20Pangram%204%20Classifier.md)
+* [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md)
+* [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](../Clippings/QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md)
 * [SlidePrep](../computational-digital-and-mathematical-pathology/slideprep.md)
 * [SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions](../Clippings/SlidePrep%20-%20artifact%20removal%2C%20reconstruction%2C%20and%20visualization%20of%20whole-slide%20images%20from%20tiled%20microscopy%20acquisitions.md)
 * [Statistical Rethinking (2026 Edition)](../Clippings/Statistical%20Rethinking%20%282026%20Edition%29.md)

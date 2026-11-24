@@ -10,7 +10,7 @@ author:
   - "[[Sara McArdle]]"
 published: 2025-02-24
 created: 2026-09-13
-description: "From Samples to Knowledge 2025 (FS2K) QuPath Training Course by Zbigniew Mikulski and Sara McArdle (La Jolla Institute for Immunology). A comprehensive hands-on workshop covering multiplex immunofluorescence (RareCyte Orion 18-plex), QuPath v0.6.0 workflows, deep learning segmentation (InstanSeg, StarDist, Cellpose, SAM), Groovy scripting automation, composite object phenotyping, multimodal image registration (Warpy), spatial interaction metrics, and Python clustering (QuBylab/Paquo)."
+description: "From Samples to Knowledge 2025 (FS2K) QuPath Training Course by Zbigniew Mikulski and Sara McArdle (La Jolla Institute for Immunology). A comprehensive hands-on workshop covering multiplex immunofluorescence (RareCyte Orion 18-plex), QuPath v0.6.0 workflows, deep learning segmentation (InstanSeg, StarDist, Cellpose, SAM), Groovy scripting automation, composite object phenotyping, multimodal image registration (Warpy), spatial interaction metrics, and Python clustering (QuBaLab/PAQUO)."
 tags:
   - clippings
   - qupath
@@ -27,6 +27,8 @@ related_to:
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
   - "[[GitHub Repositories]]"
+  - "[[QuPath Python and MCP Ecosystem]]"
+  - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
 hidden: true
 ---
 
@@ -182,7 +184,7 @@ The *From Samples to Knowledge 2025* (FS2K) workshop is a comprehensive practica
 - **Topics:**
   - Bridging QuPath with the broader Python scientific stack (Scanpy, Squidpy, AnnData).
   - Exporting unique Object IDs and centroid coordinates to maintain bi-directional mapping.
-  - **QuBylab & Paquo:** Connecting Jupyter notebooks directly to live QuPath sessions via local gateway socket ports.
+  - **QuBaLab & PAQUO:** Connecting Jupyter notebooks directly to live QuPath sessions via local Py4J gateway socket ports (`qupath-extension-py4j` + `qubalab`) or in-process JVM bindings (`paquo`) — see [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md).
   - Data preprocessing: Handling missing values, log-transforming intensities, and z-score normalization.
   - Unsupervised discovery: Dimensionality reduction via UMAP and Leiden/Louvain clustering to discover unannotated cell subsets.
   - Re-importing Python cluster assignments back into QuPath as new classification layers.
@@ -204,7 +206,7 @@ The *From Samples to Knowledge 2025* (FS2K) workshop is a comprehensive practica
 | **Phenotyping** | Random Forest / Composite Classifiers | Hierarchical multi-marker gating ($CD45 \to CD8/CD4 \to \text{PD-1}$) with Haralick texture features |
 | **Registration** | Warpy (`qupath-extension-warpy`) | Multi-modal alignment bridging multiplex IF and diagnostic H&E via pseudo-H&E transforms |
 | **Spatial Ecology** | Smoothed Features & Distance Transforms | Microenvironmental cell-to-cell proximity, tumor infiltration margins, and density maps |
-| **External Interop** | Paquo / QuBylab / GeoJSON / TSV | Seamless integration into Python single-cell and spatial transcriptomics pipelines |
+| **External Interop** | PAQUO / QuBaLab / Py4J / MCP / GeoJSON / TSV | Seamless integration into Python single-cell/spatial pipelines and AI agent workflows ([QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md)) |
 
 <!-- tolaria:related:start -->
 
@@ -215,5 +217,7 @@ The *From Samples to Knowledge 2025* (FS2K) workshop is a comprehensive practica
 * [Digital Pathology Software](../computational-digital-and-mathematical-pathology/digital-pathology-software.md)
 * [GitHub Repositories](../appendix/github-repositories.md)
 * [Image Analysis](../computational-digital-and-mathematical-pathology/image-analysis.md)
+* [QuPath Python and MCP Ecosystem](../computational-digital-and-mathematical-pathology/qupath-python-and-mcp.md)
+* [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md)
 
 <!-- tolaria:related:end -->
