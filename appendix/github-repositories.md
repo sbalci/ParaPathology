@@ -23,6 +23,9 @@ related_to:
   - "[[HistoCAM]]"
   - "[[QuPath Python and MCP Ecosystem]]"
   - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
+  - "[[SlidePrep]]"
+  - "[[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]]"
+
 ---
 
 # GitHub Repositories
@@ -205,6 +208,15 @@ related_to:
 
 * [KatherLab/STAMP](https://github.com/KatherLab/STAMP) — Solid Tumor Associative Modeling in Pathology, an end-to-end weakly supervised deep learning pipeline developed by the Kather Lab (TU Dresden / RWTH Aachen) for biomarker prediction, multi-target classification, regression, and survival analysis directly from whole-slide images (El Nahhas et al., *Nature Protocols* 2025). Features unified preprocessing across 18+ foundation model extractors, slide/patient-level virtual slide concatenation, Vision Transformer / TransMIL / Barspoon architectures, spatial attention heatmaps, class maps, top/bottom predictive tile extraction, and native FastMCP server integration (`mcp/server.py`). Paired web GUI: [KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench). See dedicated tool note [[STAMP]] and literature review [[From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology]].
 
+{% embed url="https://github.com/INOU-2025/SlidePrep" %}
+
+* [INOU-2025/SlidePrep](https://github.com/INOU-2025/SlidePrep) — Modular Python 3.12 and TypeScript/Angular 21 pipeline for microscopy tile preprocessing, counting-chamber reticle artifact removal, and physically calibrated OME-TIFF whole-slide image stitching (Rodriguez-Conde, Campos & Fdez-Riverola, *SoftwareX* 2026; MIT License). Combines 3-class multi-level Otsu thresholding (`Combined Differential`), directional template matching, Random Forest border contour filtering, LaMa Fourier-convolution inpainting, and ASHLAR phase-correlation registration with a Dockerized FastAPI + Celery + Redis + libvips + OpenSeadragon web viewer and full-mosaic inpaint provenance mask export (`_inpaint_mask.tif`). See dedicated tool note [[SlidePrep]] and literature review [[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]].
+
+{% embed url="https://github.com/INOU-2025/SlidePrep" %}
+
+* [INOU-2025/SlidePrep](https://github.com/INOU-2025/SlidePrep) — Modular Python 3.12 and TypeScript/Angular 21 pipeline for microscopy tile preprocessing, counting-chamber reticle artifact removal, and physically calibrated OME-TIFF whole-slide image stitching (Rodriguez-Conde, Campos & Fdez-Riverola, *SoftwareX* 2026; MIT License). Combines 3-class multi-level Otsu thresholding (`Combined Differential`), directional template matching, Random Forest border contour filtering, LaMa Fourier-convolution inpainting, and ASHLAR phase-correlation registration with a Dockerized FastAPI + Celery + Redis + libvips + OpenSeadragon web viewer and full-mosaic inpaint provenance mask export (`_inpaint_mask.tif`). See dedicated tool note [[SlidePrep]] and literature review [[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]].
+
+
 {% embed url="https://github.com/00JackLu/qupath-mcp" %}
 
 * [00JackLu/qupath-mcp](https://github.com/00JackLu/qupath-mcp) — State-aware Model Context Protocol (MCP) server extension for QuPath 0.7+ (Apache-2.0; archived at [DOI: 10.5281/zenodo.23788878](https://doi.org/10.5281/zenodo.23788878); docs at [00jacklu.github.io/qupath-mcp](https://00jacklu.github.io/qupath-mcp/)). Embeds a zero-dependency Streamable HTTP (`127.0.0.1:9527/mcp`) and STDIO server inside QuPath's JVM exposing 34 typed tools across 6 categories (image/viewer state & opt-in screenshot capture, annotation/GeoJSON management, watershed cell detection & measurement export, compile-checked Groovy execution with swallowed-warning capture, project management, and provenance) with `read-only`/`write`/`destructive` side-effect hints, 4 capability kill-switches, a 27-task benchmark, and deterministic LLM-free workflow replay (`qupath_replay_workflow`). See [[QuPath Python and MCP Ecosystem]] and [[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]].
@@ -224,3 +236,4 @@ related_to:
 {% embed url="https://github.com/Bayer-Group/paquo" %}
 
 * [Bayer-Group/paquo](https://github.com/Bayer-Group/paquo) — PAQUO ("PAthological QUpath Obsession", GPL-3.0; docs at [paquo.readthedocs.io](https://paquo.readthedocs.io/en/latest/)), a Python library by Santi Villalba and Andreas Poehlmann (Bayer ML Research) that embeds QuPath's Java libraries in-process via `jpype1` to create, read, and modify `.qpproj` projects, `QuPathPathClass` definitions, and `Shapely`-backed annotation/detection hierarchies headlessly from Python. See [[QuPath Python and MCP Ecosystem]].
+

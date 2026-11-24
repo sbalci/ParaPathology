@@ -9,6 +9,8 @@ related_to:
   - "[[Robotic microscopy for everyone: the OpenFlexure Microscope]]"
   - "[[NPIC Quality Coordination Centre: Digital Pathology Quality Assurance and Metrology]]"
   - "[[Study on the Performance of Different Cover Glasses in Microscopy]]"
+  - "[[SlidePrep]]"
+  - "[[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]]"
 ---
 
 # Microscopy
@@ -22,6 +24,10 @@ Cover and mounting media form part of the microscope optical path; thickness, re
 ## OpenFlexure Microscope: 3D-Printable Robotic Microscopy
 
 Open-source, 3D-printable robotic digital microscope featuring sub-100 nm positioning precision via monolithic compliant flexure mechanics, RMS DIN finite/infinity optics, Sangaboard motor control, Python REST API, automated whole-slide scanning, and validated applications in parasitology and telepathology — see [OpenFlexure Microscope](../computational-digital-and-mathematical-pathology/openflexure-microscope.md) and [[Robotic microscopy for everyone: the OpenFlexure Microscope]].
+
+## SlidePrep: Counting-Chamber Reticle Removal & Tiled WSI Stitching
+
+Open-source pipeline for digitizing counting-chamber acquisitions (Sedgwick-Rafter, Neubauer, Malassez, Bürker hemocytometers, and eyepiece micrometer reticles) into calibrated whole-slide images (Rodriguez-Conde et al., *SoftwareX* 2026). Detects etched focal-plane grid lines via 3-class multi-level Otsu thresholding and Random Forest contour filtering, reconstructs occluded specimens via LaMa Fourier-convolution inpainting, and stitches calibrated multi-channel OME-TIFF mosaics with ASHLAR alongside a global inpainting provenance mask (`_inpaint_mask.tif`) — see [[SlidePrep]] and [[SlidePrep: artifact removal, reconstruction, and visualization of whole-slide images from tiled microscopy acquisitions]].
 
 ## [http://www.olympusmicro.com](http://www.olympusmicro.com)
 

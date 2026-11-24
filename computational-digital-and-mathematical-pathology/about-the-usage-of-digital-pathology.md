@@ -1,7 +1,7 @@
 ---
 type: Note
 status: Developing
-language: en
+language: bilingual
 aliases:
   - "About the Usage of Digital Pathology"
 order: 30
@@ -61,3 +61,57 @@ Before sharing research or teaching images, inspect metadata, filenames, associa
 - **The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth.** *Archives of Pathology & Laboratory Medicine* (2017). [DOI: 10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA). Background for evaluating the reference used to judge an automated measurement.
 
 **Source check:** 1 October 2026, for the guidance and official documents linked on this page. This is a source-based content update, not clinical review or validation of any laboratory, product, or analysis pipeline.
+
+# Dijital Patolojinin Kullanımı Hakkında
+
+## Amaçlanan kullanımla başlayın
+
+Ekipman ya da görüntüleyici seçmeden önce hizmetin ne yapacağını tanımlayın: eğitim, araştırma, konsültasyon ya da primer tanı; hangi örnekleri ve boyaları kapsayacağı; kimlerin kullanacağı ve yorumlamanın nerede yapılacağı. Kapsam dışında kalanları ve cam preparata ne zaman geri dönüleceğini kayıt altına alın.
+
+Bu, eğitim amaçlı bir planlama rehberidir. Kontrol listesi pratik bir sentezdir; bir laboratuvar standart işletim prosedürü (SOP) ya da belirli bir kurulumun valide edildiğine dair bir beyan değildir. Yerel klinik, bilgi yönetişimi, düzenleyici ve akreditasyon gereklilikleri ayrıca değerlendirilmelidir.
+
+## İş akışının tamamını planlayın
+
+| Aşama | Pratik sorular | Yararlı kayıt |
+| --- | --- | --- |
+| Preparat hazırlama ve tanımlama | Preparat, laboratuvarın hazırlama kriterlerini karşılıyor mu? Olgu, örnek, preparat ve görüntü belirsizliğe yer bırakmadan eşleştirilebiliyor mu? | Kimlik kontrolleri ve ret/yeniden tarama gerekçeleri |
+| Tarama ve görüntü kalite kontrolü | İlgili dokunun tamamı yakalanmış ve odakta mı? Birleştirme (stitching) hataları, eksik alanlar ya da başka artefaktlar var mı? Beklenen görüntülerin hepsi mevcut mu? | Tarama ayarları, kalite kontrol sonucu ve düzeltici faaliyet |
+| Görüntüleme ve yorumlama | Görüntüleyici, ekran, ortam, ağ ve kullanıcı eğitimi amaçlanan iş için uygun mu? | Yapılandırma, eğitim kaydı ve bilinen sınırlılıklar |
+| Depolama ve erişim | Yetkili kullanıcılar doğru görüntüye ve ilişkili bilgilere hızla erişebiliyor mu? Kapasite planlaması, yedekleme/geri yükleme testleri, saklama ve destek kimin sorumluluğunda? | Depolama ve erişim planı, geri yükleme testi ve bakım kayıtları |
+| İstisnalar ve kesinti | Bir görüntü eksik olduğunda, bir olgu uygun olmadığında ya da bir sistem kullanılamadığında ne olur? | Üst basamağa bildirim, cam preparata geri dönüş ve olay (incident) prosedürleri |
+
+[NPIC Guide to Digital Pathology](https://npic.ac.uk/wp-content/uploads/sites/71/2023/01/Guide-to-Digital-Pathology-Vol.2.pdf), görüntü kalitesi, olgu eşleştirme, altyapı ve süregelen maliyetler konusunda uygulama rehberliği sunar. Yukarıdaki yedekleme testleri, saklama ve kesinti düzenlemeleri planlama hatırlatıcılarıdır; bu sayfa evrensel bir aralık ya da saklama süresi öngörmez.
+
+## Tanısal kullanımı yerel olarak valide edin
+
+Yürürlükteki [CAP/ASCP/API tüm slayt görüntüleme (whole slide imaging, WSI) kılavuzu](https://www.cap.org/cap-guidelines/validating-whole-slide-imaging-for-diagnostic-purposes-in-pathology/), basılı olarak 2022'de yayımlanan 2021 güncellemesidir. Kılavuzun [önerileri](https://www.cap.org/wp-content/uploads/documents/wsi-summary-recommendations.pdf) ve [iyi uygulama ifadeleri](https://www.cap.org/wp-content/uploads/documents/wsi-teaching-presentation.pdf) şunları içerir:
+
+- Tek bir amaçlanan uygulamayı ve rutin tanısal karmaşıklığı temsil eden en az **60 olgu**; ilk sette temsil edilmeyen ilgili ek uygulamalar için ilave **20 olgu**.
+- Aynı gözlemcinin dijital ve cam preparat tanılarının, iki yöntem arasında en az **iki haftalık arınma (washout) süresi** bırakılarak karşılaştırılması.
+- Gözlemci içi uyum **%95'in altında** olduğunda araştırma ve iyileştirme yapılması. Bu bir araştırma tetikleyicisidir; evrensel bir düzenleyici geçti/kaldı sınırı ya da %95 tanısal doğruluk iddiası değildir.
+- Sistemin tamamının amaçlanan ortamında değerlendirilmesi, eğitimli kullanıcılar, dokunun dijital görüntüde temsili ve çalışmanın ve onayın belgelenmesi.
+
+CAP'in SSS'sinde açıklandığı üzere kılavuzun önerileri kendi başına zorunlu değildir. Geçerli düzenleyici ve akreditasyon gerekliliklerini ayrıca kontrol edin. [CAP eğitim sunumu](https://www.cap.org/wp-content/uploads/documents/wsi-teaching-presentation.pdf) bağlam sağlar; bu kısa not kılavuzun tam metninin yerini tutmaz.
+
+### Validasyonu, rutin kalite kontrolü ve değişiklik kontrolünü birbirinden ayrı tutun
+
+İlk validasyon, iş akışının amaçlanan kullanımını ele alır. Rutin kalite kontrol, bugünkü görüntülerin ve hizmetin bu kullanıma uygun olmayı sürdürüp sürdürmediğini denetler. Değişiklik kontrolü, bir değişiklikten sonra hangi kanıtın gerektiğini belirler. Klinik sonuçları etkileyebilecek değişiklikler için prosedürleri güncel tutun; her yazılım güncellemesini ya da değişimini aynı şekilde ele almayın. CAP'in [değişiklik kontrolü örnekleri](https://www.cap.org/wp-content/uploads/documents/wsi-if-then-statements.pdf), örneğin yeni bir tarayıcı marka/modelini, aynı marka/modelle yapılan değişimden ayırır. Etki değerlendirmesini ve gereken doğrulama ya da yeniden validasyonu kayıt altına alın.
+
+## Belirli ürünü ve yapılandırmayı kontrol edin
+
+Düzenleyici statü bir cihaza, onun etiketlemesine, amaçlanan kullanımına ve uyumlu yapılandırmasına bağlıdır. FDA kayıtları, bir WSI cihazına verilen iznin neden her tarayıcıya, görüntüleyiciye ya da araştırma algoritmasına genişletilemeyeceğini gösterir: [Philips PIPS kararı](https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN160056.pdf) bir sistemi ve kullanımı tanımlarken, [Novo kararı](https://www.accessdata.fda.gov/cdrh_docs/reviews/K212361.pdf) belirtilen uyumlu ekipmanla birlikte görüntüleyici yazılımını kapsar. Bunlar örnektir; kapsamlı ve güncel bir ürün listesi değildir. Klinik kullanımdan önce gerçek ürün ve yargı alanı için güncel kaydı ve etiketlemeyi kontrol edin.
+
+Bir araştırma aracının erişilebilir olması, açık kaynak kodlu olması ya da yayımlanmış olması, tanısal bir iş akışı için uygunluğu ve izni sorusundan ayrı bir konudur. Araştırma odaklı başlangıç noktaları için [yazılım seçici](digital-pathology-software.md) sayfasına bakın.
+
+## Birlikte çalışabilirliği ve paylaşımı açıkça test edin
+
+[DICOM tüm slayt görüntüleme](https://dicom.nema.org/Dicom/DICOMWSI/), döşemeli (tiled), çok çözünürlüklü görüntüleri ve ilişkili üst verileri destekler. Uygunluk beyanlarını (conformance statements) karşılaştırın ve gereken tarayıcı–arşiv–görüntüleyici veri alışverişini test edin: [DICOM uygunluk rehberi](https://dicom.nema.org/medical/dicom/current/output/chtml/part02/sect_n.3.3.html), uygunluğun tek başına birlikte çalışabilirliği garanti etmediğini açıkça ortaya koyar.
+
+Araştırma ya da eğitim görüntülerini paylaşmadan önce üst verileri, dosya adlarını, ilişkili etiket/makro görüntüleri ve piksellere gömülü tanımlayıcıları inceleyin. Seçilmiş üst verilerin kaldırılması, kimliksizleştirmenin (de-identification) yeterli kanıtı değildir. [DICOM gizlilik profili](https://dicom.nema.org/medical/dicom/current/output/chtml/part15/sect_E.2.html), üst veri işlemeyi piksel verisinin temizlenmesinden ayırır. Kurumun onaylı paylaşım sürecini kullanın; tek başına teknik bir temizleme adımı yasal uyumu sağlamaz.
+
+## Temel okumalar
+
+- **Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases (Pivotal Study).** *American Journal of Surgical Pathology* (2018). [DOI: 10.1097/PAS.0000000000000948](https://doi.org/10.1097/PAS.0000000000000948). Bulgularını başka bir ortama uygulamadan önce çalışma popülasyonunu, dışlama kriterlerini, sistemi, karşılaştırıcıyı ve sonlanım noktalarını okuyun.
+- **The Gold Standard Paradox in Digital Image Analysis: Manual Versus Automated Scoring as Ground Truth.** *Archives of Pathology & Laboratory Medicine* (2017). [DOI: 10.5858/arpa.2016-0386-RA](https://doi.org/10.5858/arpa.2016-0386-RA). Otomatik bir ölçümü değerlendirmede kullanılan referansın sorgulanmasına yönelik arka plan bilgisi.
+
+**Kaynak kontrolü:** 1 Ekim 2026; bu sayfada bağlantısı verilen kılavuz ve resmi belgeler için. Bu, kaynağa dayalı bir içerik güncellemesidir; herhangi bir laboratuvarın, ürünün ya da analiz akışının klinik incelemesi veya validasyonu değildir.
