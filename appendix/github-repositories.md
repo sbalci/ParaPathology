@@ -21,6 +21,8 @@ related_to:
   - "[[OpenFlexure Microscope]]"
   - "[[Celldega]]"
   - "[[HistoCAM]]"
+  - "[[QuPath Python and MCP Ecosystem]]"
+  - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
 ---
 
 # GitHub Repositories
@@ -203,5 +205,22 @@ related_to:
 
 * [KatherLab/STAMP](https://github.com/KatherLab/STAMP) — Solid Tumor Associative Modeling in Pathology, an end-to-end weakly supervised deep learning pipeline developed by the Kather Lab (TU Dresden / RWTH Aachen) for biomarker prediction, multi-target classification, regression, and survival analysis directly from whole-slide images (El Nahhas et al., *Nature Protocols* 2025). Features unified preprocessing across 18+ foundation model extractors, slide/patient-level virtual slide concatenation, Vision Transformer / TransMIL / Barspoon architectures, spatial attention heatmaps, class maps, top/bottom predictive tile extraction, and native FastMCP server integration (`mcp/server.py`). Paired web GUI: [KatherLab/STAMP-Workbench](https://github.com/KatherLab/STAMP-Workbench). See dedicated tool note [[STAMP]] and literature review [[From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology]].
 
+{% embed url="https://github.com/00JackLu/qupath-mcp" %}
 
+* [00JackLu/qupath-mcp](https://github.com/00JackLu/qupath-mcp) — State-aware Model Context Protocol (MCP) server extension for QuPath 0.7+ (Apache-2.0; archived at [DOI: 10.5281/zenodo.23788878](https://doi.org/10.5281/zenodo.23788878); docs at [00jacklu.github.io/qupath-mcp](https://00jacklu.github.io/qupath-mcp/)). Embeds a zero-dependency Streamable HTTP (`127.0.0.1:9527/mcp`) and STDIO server inside QuPath's JVM exposing 34 typed tools across 6 categories (image/viewer state & opt-in screenshot capture, annotation/GeoJSON management, watershed cell detection & measurement export, compile-checked Groovy execution with swallowed-warning capture, project management, and provenance) with `read-only`/`write`/`destructive` side-effect hints, 4 capability kill-switches, a 27-task benchmark, and deterministic LLM-free workflow replay (`qupath_replay_workflow`). See [[QuPath Python and MCP Ecosystem]] and [[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]].
 
+{% embed url="https://github.com/earthmover-support/qupath-mcp" %}
+
+* [earthmover-support/qupath-mcp](https://github.com/earthmover-support/qupath-mcp) — Experimental JavaFX GUI-driving Model Context Protocol (MCP) server extension for QuPath 0.7+ (Apache-2.0; docs at [earthmover-support.github.io/qupath-mcp](https://earthmover-support.github.io/qupath-mcp/)). Listens on `127.0.0.1:51515/mcp` and exposes 13 tools (`qupath_describe`, `qupath_menu`, `qupath_click`, `qupath_select`, `qupath_set`, `qupath_key`, `qupath_wait`, `qupath_view`, `qupath_screenshot`, `qupath_run_groovy`, `qupath_show_actions`, `qupath_open`, `qupath_close`) that drive QuPath's menus, dialogs, and viewer without deadlocking on modal dialogs. Includes visual on-screen telemetry modes (**Mark / Paced / Off**), Origin/Host DNS-rebinding defense, and JSONL session action logs (`mcp-logs/`). See [[QuPath Python and MCP Ecosystem]] and [[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]].
+
+{% embed url="https://github.com/qupath/qubalab" %}
+
+* [qupath/qubalab](https://github.com/qupath/qubalab) — Quantitative Bioimage Analysis Laboratory in Python (`pip install qubalab`, Apache-2.0; docs at [qupath.github.io/qubalab-docs](https://qupath.github.io/qubalab-docs/notebooks_files/opening_images.html)). Official Python package by the QuPath team providing unified `ImageServer` implementations (`OpenSlideServer`, `BioIOServer`, `IccProfileServer`, `LabeledImageServer`, `QuPathServer`) with lazy `level_to_dask()` Dask arrays, eager `read_region()` NumPy tiles, Shapely/GeoJSON `ImageFeature` objects, and live socket communication with QuPath via `qupath-extension-py4j`. See [[QuPath Python and MCP Ecosystem]].
+
+{% embed url="https://github.com/qupath/qupath-extension-py4j" %}
+
+* [qupath/qupath-extension-py4j](https://github.com/qupath/qupath-extension-py4j) — Official QuPath extension (Apache-2.0, bundled by default since QuPath v0.6.0-rc3) linking a running QuPath GUI session to Python via a Py4J socket gateway (`port 25333`, optional authentication token) exposing `QuPathEntryPoint` (`QPEx`/`QP`). See [[QuPath Python and MCP Ecosystem]].
+
+{% embed url="https://github.com/Bayer-Group/paquo" %}
+
+* [Bayer-Group/paquo](https://github.com/Bayer-Group/paquo) — PAQUO ("PAthological QUpath Obsession", GPL-3.0; docs at [paquo.readthedocs.io](https://paquo.readthedocs.io/en/latest/)), a Python library by Santi Villalba and Andreas Poehlmann (Bayer ML Research) that embeds QuPath's Java libraries in-process via `jpype1` to create, read, and modify `.qpproj` projects, `QuPathPathClass` definitions, and `Shapely`-backed annotation/detection hierarchies headlessly from Python. See [[QuPath Python and MCP Ecosystem]].

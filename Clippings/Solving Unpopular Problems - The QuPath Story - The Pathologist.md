@@ -17,6 +17,8 @@ related_to:
   - "[[Digital Pathology]]"
   - "[[Digital Pathology Software]]"
   - "[[Image Analysis]]"
+  - "[[QuPath Python and MCP Ecosystem]]"
+  - "[[QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO]]"
 ---
 ## Summary
 

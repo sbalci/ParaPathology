@@ -55,6 +55,7 @@ status and notes with unfinished reviews. [[ai-study-appraisal]] explains `revie
 * [Neuroendocrine Neoplasms of the Urinary Bladder: Integrating Molecular Advances into a Refined Classification System](Neuroendocrine%20Neoplasms%20of%20the%20Urinary%20Bladder%20-%20Integrating%20Molecular%20Advances%20into%20a%20Refined%20Classification%20System.md)
 * [Pathology-CoT: learning visual chain-of-thought agents from expert whole-slide image diagnosis behaviour](Pathology-CoT%20-%20learning%20visual%20chain-of-thought%20agents%20from%20expert%20whole-slide%20image%20diagnosis%20behaviour%20-%20Nature%20Biomedical%20Engineering.md)
 * [Seeds or Parasites Clinical and Histopathological](Seeds%20or%20Parasites%20Clinical%20and%20Histopathological.md)
+* [QuPath-MCP and Python Interoperability: AI Agent Servers, QuBaLab, Py4J, and PAQUO](QuPath-MCP%20and%20Python%20Interoperability%20-%20AI%20Agent%20Servers%2C%20QuBaLab%2C%20Py4J%2C%20and%20PAQUO.md)
 * [HoVer-Net: Simultaneous segmentation and classification of nuclei in multi-tissue histology images](hover-net-simultaneous-segmentation-and-classification-of-nuclei-in-multi-tissue-histology-images.md)
 * [Reproducibility of the Methods in Medical Imaging with Deep Learning](reproducibility-of-the-methods-in-medical-imaging-with-deep-learning.md)
 * [Solving Unpopular Problems: The QuPath Story](Solving%20Unpopular%20Problems%20-%20The%20QuPath%20Story%20-%20The%20Pathologist.md)
